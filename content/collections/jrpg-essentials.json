@@ -1,0 +1,34 @@
+{
+  "title": "JRPG Essentials",
+  "description": "The long games — the ones that measure time in dozens of hours and emotional residue in years.",
+  "personalNote": "JRPGs are patience as art form. These are the ones that repaid every hour.",
+  "catalogued": "2026-03-10",
+  "articleSlugs": [],
+  "mediaLogSlugs": ["dragon-quest-vii-finished", "persona-4-golden-completed"],
+  "items": [
+    {
+      "title": "Final Fantasy VI",
+      "year": 1994,
+      "platform": "SNES",
+      "notes": "Opera house tears still valid."
+    },
+    {
+      "title": "Chrono Trigger",
+      "year": 1995,
+      "platform": "SNES",
+      "notes": "Perfect pacing. Still the argument for 16-bit epics."
+    },
+    {
+      "title": "Persona 4 Golden",
+      "year": 2012,
+      "platform": "PS Vita / Switch",
+      "notes": "Social link grind as life simulation."
+    },
+    {
+      "title": "Dragon Quest VII",
+      "year": 2000,
+      "platform": "PS1 / Switch",
+      "notes": "Patience as a virtue."
+    }
+  ]
+}

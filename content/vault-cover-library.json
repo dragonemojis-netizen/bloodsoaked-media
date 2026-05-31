@@ -1,0 +1,17 @@
+{
+  "description": "Wikipedia-sourced cover/poster/album art for Vault entries. Fetched into public/images/vault/ via npm run vault:covers.",
+  "entries": {
+    "saints-row-2": {
+      "wikipedia": "Saints Row 2"
+    },
+    "silent-hill-3": {
+      "wikipedia": "Silent Hill 3"
+    },
+    "inside": {
+      "wikipedia": "Inside (2007 film)"
+    },
+    "whole-lotta-red": {
+      "wikipedia": "Whole Lotta Red"
+    }
+  }
+}

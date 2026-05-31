@@ -1,0 +1,28 @@
+{
+  "title": "PlayStation Collection",
+  "description": "From PS1 black discs to PS5 — the spine of a horror and RPG obsession.",
+  "personalNote": "PlayStation hardware is where my archive began. These are the titles that built the standard.",
+  "catalogued": "2026-04-01",
+  "articleSlugs": [],
+  "mediaLogSlugs": [],
+  "items": [
+    {
+      "title": "Silent Hill 2",
+      "year": 2001,
+      "platform": "PS2",
+      "notes": "Original black label. The disc that started everything."
+    },
+    {
+      "title": "Bloodborne",
+      "year": 2015,
+      "platform": "PS4",
+      "notes": "Gothic London in a nightmare. Still the peak From title for me."
+    },
+    {
+      "title": "Returnal",
+      "year": 2021,
+      "platform": "PS5",
+      "notes": "Roguelike dread with haptics that matter."
+    }
+  ]
+}

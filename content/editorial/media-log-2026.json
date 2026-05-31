@@ -1,0 +1,17 @@
+{
+  "year": 2026,
+  "title": "2026 Gaming Archive",
+  "introduction": "Verified games completed, replayed, or platinumed in 2026 — filed by platform and status, not by hours played.",
+  "themes": [
+    "The Year of Horror",
+    "The Year of the PS3",
+    "JRPG Archaeology",
+    "Archive Preservation"
+  ],
+  "multiplayer": {
+    "label": "2026 Multiplayer Record",
+    "title": "Marathon",
+    "hours": 363,
+    "unit": "Hours"
+  }
+}

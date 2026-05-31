@@ -1,0 +1,260 @@
+{
+  "generatedAt": "2026-05-31T01:39:11.314Z",
+  "totalEntries": 53,
+  "syncedEntries": 53,
+  "platformMismatchCount": 0,
+  "platformCorrectionsApplied": 0,
+  "platformCorrections": [],
+  "coversPresent": 53,
+  "coversMissing": 0,
+  "manualReviewRequired": 0,
+  "missingMarkdown": [],
+  "platformMismatches": [],
+  "missingCoverArt": [],
+  "coversPresentList": [
+    {
+      "slug": "disgaea-6",
+      "title": "Disgaea 6"
+    },
+    {
+      "slug": "the-legend-of-heroes-beyond-the-horizon",
+      "title": "The Legend of Heroes: Beyond the Horizon"
+    },
+    {
+      "slug": "hades-ii",
+      "title": "Hades II"
+    },
+    {
+      "slug": "rule-of-rose",
+      "title": "Rule of Rose"
+    },
+    {
+      "slug": "dragon-quest-vii-reimagined",
+      "title": "Dragon Quest VII Reimagined"
+    },
+    {
+      "slug": "yakuza-kiwami-3",
+      "title": "Yakuza Kiwami 3"
+    },
+    {
+      "slug": "romeo-is-a-deadman",
+      "title": "Romeo is a Deadman"
+    },
+    {
+      "slug": "disgaea-mayhem",
+      "title": "Disgaea Mayhem"
+    },
+    {
+      "slug": "the-house-in-fata-morgana",
+      "title": "The House in Fata Morgana"
+    },
+    {
+      "slug": "neptunia-sisters-vs-sisters",
+      "title": "Neptunia: Sisters vs Sisters"
+    },
+    {
+      "slug": "resident-evil-requiem-resident-evil-9",
+      "title": "Resident Evil: Requiem (Resident Evil 9)"
+    },
+    {
+      "slug": "fantasy-tavern-sextet-vol-1",
+      "title": "Fantasy Tavern Sextet Vol. 1"
+    },
+    {
+      "slug": "fallout-4",
+      "title": "Fallout 4"
+    },
+    {
+      "slug": "resident-evil-7",
+      "title": "Resident Evil 7"
+    },
+    {
+      "slug": "fatal-frame-ii-remake",
+      "title": "Fatal Frame II Remake"
+    },
+    {
+      "slug": "classic-marathon",
+      "title": "Classic Marathon"
+    },
+    {
+      "slug": "crimson-desert",
+      "title": "Crimson Desert"
+    },
+    {
+      "slug": "mr-sleepy-man",
+      "title": "Mr Sleepy Man"
+    },
+    {
+      "slug": "marathon-2-durandal",
+      "title": "Marathon 2: Durandal"
+    },
+    {
+      "slug": "infamous-2",
+      "title": "InFAMOUS 2"
+    },
+    {
+      "slug": "destiny-2-renegades",
+      "title": "Destiny 2: Renegades"
+    },
+    {
+      "slug": "destiny-2-the-final-shape",
+      "title": "Destiny 2: The Final Shape"
+    },
+    {
+      "slug": "shin-megami-tensei-iv",
+      "title": "Shin Megami Tensei IV"
+    },
+    {
+      "slug": "shin-megami-tensei-iv-apocalypse",
+      "title": "Shin Megami Tensei IV: Apocalypse"
+    },
+    {
+      "slug": "mouse-p-i-for-hire",
+      "title": "Mouse P.I. for Hire"
+    },
+    {
+      "slug": "pragmata",
+      "title": "Pragmata"
+    },
+    {
+      "slug": "alien-isolation",
+      "title": "Alien: Isolation"
+    },
+    {
+      "slug": "diablo-iv-lord-of-hatred",
+      "title": "Diablo IV: Lord of Hatred"
+    },
+    {
+      "slug": "fallout-3",
+      "title": "Fallout 3"
+    },
+    {
+      "slug": "trinity-universe",
+      "title": "Trinity Universe"
+    },
+    {
+      "slug": "hyperdimension-neptunia-hd",
+      "title": "Hyperdimension Neptunia HD"
+    },
+    {
+      "slug": "splatterhouse",
+      "title": "Splatterhouse"
+    },
+    {
+      "slug": "sacred-2",
+      "title": "Sacred 2"
+    },
+    {
+      "slug": "mixtape",
+      "title": "Mixtape"
+    },
+    {
+      "slug": "lord-of-the-rings-war-of-the-north",
+      "title": "Lord of the Rings: War of the North"
+    },
+    {
+      "slug": "quake-ii",
+      "title": "Quake II"
+    },
+    {
+      "slug": "white-knight-chronicles-ii",
+      "title": "White Knight Chronicles II"
+    },
+    {
+      "slug": "wet",
+      "title": "WET"
+    },
+    {
+      "slug": "ragnarok-odyssey-ace",
+      "title": "Ragnarok Odyssey ACE"
+    },
+    {
+      "slug": "indiana-jones-and-the-great-circle",
+      "title": "Indiana Jones and the Great Circle"
+    },
+    {
+      "slug": "monster-monpiece",
+      "title": "Monster Monpiece"
+    },
+    {
+      "slug": "007-first-light",
+      "title": "007 First Light"
+    },
+    {
+      "slug": "lego-batman-legacy-of-the-dark-knight",
+      "title": "LEGO Batman: Legacy of the Dark Knight"
+    },
+    {
+      "slug": "serious-sam-next-encounter",
+      "title": "Serious Sam: Next Encounter"
+    },
+    {
+      "slug": "odin-sphere",
+      "title": "Odin Sphere"
+    },
+    {
+      "slug": "radiata-stories",
+      "title": "Radiata Stories"
+    },
+    {
+      "slug": "wild-arms-3",
+      "title": "Wild Arms 3"
+    },
+    {
+      "slug": "wild-arms-4",
+      "title": "Wild Arms 4"
+    },
+    {
+      "slug": "saros",
+      "title": "Saros"
+    },
+    {
+      "slug": "lost-soul-aside",
+      "title": "Lost Soul Aside"
+    },
+    {
+      "slug": "eternal-sonata",
+      "title": "Eternal Sonata"
+    },
+    {
+      "slug": "goldeneye-007-reloaded",
+      "title": "GoldenEye 007 Reloaded"
+    },
+    {
+      "slug": "afro-samurai",
+      "title": "Afro Samurai"
+    }
+  ],
+  "manualReview": [],
+  "staleMarkdownFiles": [],
+  "suspiciousCovers": [
+    {
+      "slug": "serious-sam-next-encounter",
+      "reason": "Art matched Serious Sam Advance — verify PSP Next Encounter box art"
+    },
+    {
+      "slug": "destiny-2-renegades",
+      "reason": "Shared Destiny 2 base art — expansion-specific art may differ"
+    },
+    {
+      "slug": "destiny-2-the-final-shape",
+      "reason": "Shared Destiny 2 base art — expansion-specific art may differ"
+    },
+    {
+      "slug": "diablo-iv-lord-of-hatred",
+      "reason": "Matched base Diablo IV art — Lord of Hatred expansion art may differ"
+    },
+    {
+      "slug": "fatal-frame-ii-remake",
+      "reason": "Matched Fatal Frame II: Crimson Butterfly — confirm remake vs original regional art"
+    }
+  ],
+  "coverFetchLog": [
+    {
+      "slug": "yakuza-kiwami-3",
+      "status": "saved",
+      "wikipedia": "Yakuza Kiwami 3",
+      "matchedTitle": "Yakuza Kiwami 3"
+    }
+  ]
+}

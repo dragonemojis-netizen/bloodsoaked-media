@@ -1,0 +1,25 @@
+{
+  "title": "Favorite Albums",
+  "description": "Records that earned repeat spins — metal, soundtracks, and albums filed beside the CRT.",
+  "personalNote": "Physical albums still matter here. These are the ones with worn jacket corners.",
+  "catalogued": "2026-05-28",
+  "articleSlugs": [],
+  "mediaLogSlugs": ["powerslave-listened"],
+  "items": [
+    {
+      "title": "Powerslave",
+      "year": 1984,
+      "notes": "Iron Maiden at peak mythology. Desert-metal before the genre had a name."
+    },
+    {
+      "title": "The Thing Original Soundtrack",
+      "year": 1982,
+      "notes": "Morricone's heartbeat score. Minimal and merciless."
+    },
+    {
+      "title": "Silent Hill 2 OST",
+      "year": 2001,
+      "notes": "Akira Yamaoka's grief engine. Still plays like weather."
+    }
+  ]
+}

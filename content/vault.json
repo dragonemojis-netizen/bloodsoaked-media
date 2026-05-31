@@ -1,0 +1,45 @@
+{
+  "introduction": [
+    "The Vault is where I keep the stuff that never really left.",
+    "These aren't necessarily the best games I've played, the best movies I've seen, or the greatest albums ever made. They're the things I keep coming back to. The stuff I replay, rewatch, relisten to, recommend to friends, and somehow end up thinking about years later.",
+    "Some entries have been here for years. Some might only stay for a few months before something else earns the space. That's part of the fun.",
+    "Nothing here is ranked. Nothing here is permanent.",
+    "It's just what's living on the shelf right now."
+  ],
+  "rotatingNote": "Selections rotate. The shelf is never finished.",
+  "entries": [
+    {
+      "title": "Saints Row 2",
+      "coverSlug": "saints-row-2",
+      "mediaType": "Game",
+      "year": 2008,
+      "vaultStatus": "Permanent Shelf",
+      "note": "Saints Row 2 is where everything Saints Row was trying to be finally came together. It keeps the gang warfare and street-level feel that made the original special to me, then expands it in every direction without losing its identity. Years later, it's still the standard I measure every Saints Row game against. And while most people think of the Xbox 360 version, the PlayStation 3 release is the one that lives on my shelf. It's not just one of my favorite open-world games. It's one of the best crime sandboxes ever made outside of Rockstar's shadow."
+    },
+    {
+      "title": "Silent Hill 3",
+      "coverSlug": "silent-hill-3",
+      "mediaType": "Game",
+      "year": 2003,
+      "vaultStatus": "Permanent Shelf",
+      "note": "Silent Hill 3 is my favorite Silent Hill because it feels like the culmination of everything the series got right. The horror still works, the atmosphere is still unsettling, and some of the imagery remains genuinely disturbing, but what keeps me coming back is Heather. Looking at the game through the lens of bodily autonomy completely changes the story. What starts as a horror game about cults and religion becomes a story about control, identity, and a young woman refusing to let other people decide what happens to her body. The fact that Team Silent pulled that off as well as they did still amazes me. Years later, I think Silent Hill 3 is the entry that will age the best, because the things it's talking about are still relevant long after the scares wear off."
+    },
+    {
+      "title": "Inside (À l'intérieur)",
+      "coverSlug": "inside",
+      "mediaType": "Film",
+      "year": 2007,
+      "vaultStatus": "Permanent Shelf",
+      "note": "Inside is one of the hardest movies in my collection to recommend. Not because it's bad, but because I genuinely don't know how much punishment most people want from a movie.\n\nIt's grotesque, uncomfortable, and completely unhinged in a way very few horror films are willing to be. The tension never really lets up, and even years later there are scenes I can picture immediately without needing a rewatch.\n\nIf you're going to watch it, watch the original French version. The American remake misses what makes the film special, while the original remains one of the most unsettling horror experiences I've ever had.\n\nI wouldn't recommend it to everyone. But the fact that I'm still thinking about it years after my first viewing is exactly why it ended up here."
+    },
+    {
+      "title": "Whole Lotta Red",
+      "coverSlug": "whole-lotta-red",
+      "mediaType": "Music",
+      "year": 2020,
+      "artist": "Playboi Carti",
+      "vaultStatus": "Permanent Shelf",
+      "note": "Whole Lotta Red never had to grow on me. I was defending it the night it dropped. What sounded chaotic to everyone else sounded like Carti pushing his sound somewhere genuinely new, and years later I still think it's the best thing he's ever made by a mile. A lot of artists get praised for being influential after the fact. Whole Lotta Red felt influential in real time. And while the album itself stays in rotation, \"Over\" remains my favorite Carti song and the track I keep coming back to most. Also, we need more Carti and Art Dealer collaborations. That's non-negotiable."
+    }
+  ]
+}

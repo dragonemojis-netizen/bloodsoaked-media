@@ -1,0 +1,226 @@
+{
+  "generatedAt": "2026-05-31T01:35:11.215Z",
+  "saved": 1,
+  "skipped": 48,
+  "failed": 4,
+  "entries": [
+    {
+      "slug": "disgaea-6",
+      "status": "skipped"
+    },
+    {
+      "slug": "the-legend-of-heroes-beyond-the-horizon",
+      "status": "failed",
+      "wikipedia": "The Legend of Heroes: Trails beyond the Horizon"
+    },
+    {
+      "slug": "yakuza-kiwami-3",
+      "status": "saved",
+      "wikipedia": "Yakuza Kiwami 3",
+      "matchedTitle": "Yakuza Kiwami 3"
+    },
+    {
+      "slug": "hades-ii",
+      "status": "skipped"
+    },
+    {
+      "slug": "rule-of-rose",
+      "status": "skipped"
+    },
+    {
+      "slug": "dragon-quest-vii-reimagined",
+      "status": "skipped"
+    },
+    {
+      "slug": "romeo-is-a-deadman",
+      "status": "skipped"
+    },
+    {
+      "slug": "disgaea-mayhem",
+      "status": "skipped"
+    },
+    {
+      "slug": "the-house-in-fata-morgana",
+      "status": "skipped"
+    },
+    {
+      "slug": "neptunia-sisters-vs-sisters",
+      "status": "skipped"
+    },
+    {
+      "slug": "resident-evil-requiem-resident-evil-9",
+      "status": "skipped"
+    },
+    {
+      "slug": "fantasy-tavern-sextet-vol-1",
+      "status": "failed",
+      "wikipedia": "Fantasy Tavern Sextet"
+    },
+    {
+      "slug": "mr-sleepy-man",
+      "status": "no_source"
+    },
+    {
+      "slug": "fallout-4",
+      "status": "skipped"
+    },
+    {
+      "slug": "resident-evil-7",
+      "status": "skipped"
+    },
+    {
+      "slug": "fatal-frame-ii-remake",
+      "status": "skipped"
+    },
+    {
+      "slug": "classic-marathon",
+      "status": "skipped"
+    },
+    {
+      "slug": "crimson-desert",
+      "status": "skipped"
+    },
+    {
+      "slug": "marathon-2-durandal",
+      "status": "skipped"
+    },
+    {
+      "slug": "infamous-2",
+      "status": "skipped"
+    },
+    {
+      "slug": "destiny-2-renegades",
+      "status": "skipped"
+    },
+    {
+      "slug": "destiny-2-the-final-shape",
+      "status": "skipped"
+    },
+    {
+      "slug": "shin-megami-tensei-iv",
+      "status": "skipped"
+    },
+    {
+      "slug": "shin-megami-tensei-iv-apocalypse",
+      "status": "skipped"
+    },
+    {
+      "slug": "mouse-p-i-for-hire",
+      "status": "failed",
+      "wikipedia": "Mouse P.I. For Hire"
+    },
+    {
+      "slug": "pragmata",
+      "status": "skipped"
+    },
+    {
+      "slug": "alien-isolation",
+      "status": "skipped"
+    },
+    {
+      "slug": "diablo-iv-lord-of-hatred",
+      "status": "skipped"
+    },
+    {
+      "slug": "fallout-3",
+      "status": "skipped"
+    },
+    {
+      "slug": "trinity-universe",
+      "status": "skipped"
+    },
+    {
+      "slug": "hyperdimension-neptunia-hd",
+      "status": "skipped"
+    },
+    {
+      "slug": "splatterhouse",
+      "status": "skipped"
+    },
+    {
+      "slug": "sacred-2",
+      "status": "skipped"
+    },
+    {
+      "slug": "mixtape",
+      "status": "failed",
+      "wikipedia": "Mixtape (2025 video game)"
+    },
+    {
+      "slug": "lord-of-the-rings-war-of-the-north",
+      "status": "skipped"
+    },
+    {
+      "slug": "quake-ii",
+      "status": "skipped"
+    },
+    {
+      "slug": "white-knight-chronicles-ii",
+      "status": "skipped"
+    },
+    {
+      "slug": "wet",
+      "status": "skipped"
+    },
+    {
+      "slug": "ragnarok-odyssey-ace",
+      "status": "skipped"
+    },
+    {
+      "slug": "indiana-jones-and-the-great-circle",
+      "status": "skipped"
+    },
+    {
+      "slug": "monster-monpiece",
+      "status": "skipped"
+    },
+    {
+      "slug": "007-first-light",
+      "status": "skipped"
+    },
+    {
+      "slug": "lego-batman-legacy-of-the-dark-knight",
+      "status": "skipped"
+    },
+    {
+      "slug": "serious-sam-next-encounter",
+      "status": "skipped"
+    },
+    {
+      "slug": "odin-sphere",
+      "status": "skipped"
+    },
+    {
+      "slug": "radiata-stories",
+      "status": "skipped"
+    },
+    {
+      "slug": "wild-arms-3",
+      "status": "skipped"
+    },
+    {
+      "slug": "wild-arms-4",
+      "status": "skipped"
+    },
+    {
+      "slug": "saros",
+      "status": "skipped"
+    },
+    {
+      "slug": "lost-soul-aside",
+      "status": "skipped"
+    },
+    {
+      "slug": "eternal-sonata",
+      "status": "skipped"
+    },
+    {
+      "slug": "goldeneye-007-reloaded",
+      "status": "skipped"
+    },
+    {
+      "slug": "afro-samurai",
+      "status": "skipped"
+    }
+  ]
+}

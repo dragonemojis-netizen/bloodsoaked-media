@@ -1,0 +1,44 @@
+{
+  "name": "bloodsoaked-media",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "recovery:ml:crawl": "node scripts/recovery/metal-lifestyle/crawl.mjs",
+    "recovery:ml:import": "node scripts/recovery/metal-lifestyle/import.mjs",
+    "recovery:ml:import:dry": "node scripts/recovery/metal-lifestyle/import.mjs -- --dry-run",
+    "recovery:ml:recount": "node scripts/recovery/metal-lifestyle/recount.mjs",
+    "recovery:ml:audit": "node scripts/recovery/metal-lifestyle/audit.mjs",
+    "recovery:ml:report": "node scripts/recovery/metal-lifestyle/report-from-audit.mjs",
+    "recovery:ml:gap-list": "node scripts/recovery/metal-lifestyle/gap-list.mjs",
+    "media-log:sync": "node scripts/sync-verified-media-log.mjs",
+    "media-log:covers": "node scripts/fetch-media-log-covers.mjs",
+    "media-log:covers:force": "node scripts/fetch-media-log-covers.mjs -- --force",
+    "media-log:audit": "node scripts/audit-media-log.mjs",
+    "vault:covers": "node scripts/fetch-vault-covers.mjs"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "next": "16.2.6",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "reading-time": "^1.5.0",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "cheerio": "^1.2.0",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.6",
+    "tailwindcss": "^4",
+    "turndown": "^7.2.4",
+    "typescript": "^5"
+  }
+}

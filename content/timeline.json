@@ -1,0 +1,60 @@
+{
+  "introduction": "Bloodsoaked Media in 2026 is not a beginning. It is a return. Dakota's published writing started in 2015 with Metal Lifestyle — years of reviews, editorials, and criticism filed across eras, a brief early Bloodsoaked run, quiet years while collections grew, and now a relaunch built to hold new work beside recovered archive pieces.",
+  "events": [
+    {
+      "period": "2015",
+      "title": "Metal Lifestyle Launches",
+      "description": "An independent media publication focused on games, film, music, television, and culture. This marks the beginning of Dakota's published writing archive.",
+      "status": "active",
+      "filingRef": "BM-2015-01"
+    },
+    {
+      "period": "2015 – 2019",
+      "title": "The Metal Lifestyle Years",
+      "description": "Reviews, editorials, essays, recommendations, and media criticism published across multiple years. This era forms the foundation of the archive. Future recovered articles should reference this period.",
+      "status": "archived",
+      "filingRef": "BM-2015-19",
+      "link": "/the-archives",
+      "linkLabel": "Browse recovered writing"
+    },
+    {
+      "period": "2019",
+      "title": "Bloodsoaked Media Emerges",
+      "description": "A new publication identity begins to take shape. The project shifts toward a darker aesthetic and a stronger focus on personal curation, horror influences, physical media, and collector culture.",
+      "status": "active-era",
+      "filingRef": "BM-2019-01"
+    },
+    {
+      "period": "2019",
+      "title": "Original Bloodsoaked Media Run",
+      "description": "Bloodsoaked Media operates for a brief period. Although short-lived, this establishes the publication identity that will later return.",
+      "status": "archived",
+      "filingRef": "BM-2019-02",
+      "link": "/the-archives",
+      "linkLabel": "Early Bloodsoaked pieces"
+    },
+    {
+      "period": "2020 – 2025",
+      "title": "The Quiet Years",
+      "description": "The publication is inactive. The archive remains dormant while collections grow, media accumulates, and future ideas take shape. An intermission — not a disappearance.",
+      "status": "dormant",
+      "filingRef": "BM-2020-25"
+    },
+    {
+      "period": "2026",
+      "title": "Bloodsoaked Media Returns",
+      "description": "The publication relaunches as a long-term independent archive and media journal — new writing, media logs, collections, reviews, essays, and archive restoration filed together.",
+      "status": "active",
+      "filingRef": "BM-2026-01",
+      "link": "/articles",
+      "linkLabel": "Read current writing"
+    },
+    {
+      "period": "Present Day",
+      "title": "The Shelf Stays Open",
+      "description": "Bloodsoaked Media continues to expand through new writing, archive recovery, collection documentation, and ongoing media exploration.",
+      "status": "ongoing",
+      "filingRef": "BM-PRESENT"
+    }
+  ]
+}

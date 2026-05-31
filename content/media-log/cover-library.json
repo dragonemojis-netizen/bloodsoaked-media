@@ -1,0 +1,82 @@
+{
+  "description": "Curated Wikipedia page titles for official box/key art retrieval. Do not auto-guess — add entries manually when needed.",
+  "entries": {
+    "disgaea-6": { "wikipedia": "Disgaea 6" },
+    "the-legend-of-heroes-beyond-the-horizon": {
+      "local": "/images/media-log/the-legend-of-heroes-beyond-the-horizon.png",
+      "source": "manual — official key art provided by Dakota"
+    },
+    "yakuza-kiwami-3": {
+      "wikipedia": "Yakuza Kiwami 3",
+      "searchHint": "Yakuza Kiwami 3"
+    },
+    "hades-ii": { "wikipedia": "Hades II" },
+    "rule-of-rose": { "wikipedia": "Rule of Rose" },
+    "dragon-quest-vii-reimagined": { "wikipedia": "Dragon Quest VII Reimagined" },
+    "romeo-is-a-deadman": { "wikipedia": "Romeo Is a Dead Man" },
+    "disgaea-mayhem": { "wikipedia": "Disgaea Mayhem" },
+    "the-house-in-fata-morgana": { "wikipedia": "The House in Fata Morgana" },
+    "neptunia-sisters-vs-sisters": { "wikipedia": "Neptunia: Sisters vs Sisters" },
+    "resident-evil-requiem-resident-evil-9": { "wikipedia": "Resident Evil Requiem" },
+    "fantasy-tavern-sextet-vol-1": {
+      "local": "/images/media-log/fantasy-tavern-sextet-vol-1.png",
+      "source": "manual — official Switch box art provided by Dakota"
+    },
+    "mr-sleepy-man": {
+      "local": "/images/media-log/mr-sleepy-man.png",
+      "source": "manual — official box art provided by Dakota"
+    },
+    "fallout-4": { "wikipedia": "Fallout 4" },
+    "resident-evil-7": { "wikipedia": "Resident Evil 7" },
+    "fatal-frame-ii-remake": { "wikipedia": "Fatal Frame II: Crimson Butterfly" },
+    "classic-marathon": { "wikipedia": "Marathon (1994 video game)" },
+    "crimson-desert": { "wikipedia": "Crimson Desert" },
+    "marathon-2-durandal": { "wikipedia": "Marathon 2: Durandal" },
+    "infamous-2": { "wikipedia": "inFAMOUS 2" },
+    "destiny-2-renegades": { "wikipedia": "Destiny 2" },
+    "destiny-2-the-final-shape": { "wikipedia": "Destiny 2" },
+    "shin-megami-tensei-iv": { "wikipedia": "Shin Megami Tensei IV" },
+    "shin-megami-tensei-iv-apocalypse": { "wikipedia": "Shin Megami Tensei IV: Apocalypse" },
+    "mouse-p-i-for-hire": {
+      "local": "/images/media-log/mouse-p-i-for-hire.png",
+      "source": "manual — official cover art provided by Dakota"
+    },
+    "pragmata": { "wikipedia": "Pragmata" },
+    "alien-isolation": { "wikipedia": "Alien: Isolation" },
+    "diablo-iv-lord-of-hatred": { "wikipedia": "Diablo IV" },
+    "fallout-3": { "wikipedia": "Fallout 3" },
+    "trinity-universe": { "wikipedia": "Trinity Universe" },
+    "hyperdimension-neptunia-hd": { "wikipedia": "Hyperdimension Neptunia" },
+    "splatterhouse": { "wikipedia": "Splatterhouse (2010 video game)" },
+    "sacred-2": { "wikipedia": "Sacred 2: Fallen Angel" },
+    "mixtape": {
+      "local": "/images/media-log/mixtape.png",
+      "source": "manual — official key art provided by Dakota"
+    },
+    "lord-of-the-rings-war-of-the-north": {
+      "wikipedia": "The Lord of the Rings: War in the North"
+    },
+    "quake-ii": { "wikipedia": "Quake II" },
+    "white-knight-chronicles-ii": { "wikipedia": "White Knight Chronicles II" },
+    "wet": { "wikipedia": "Wet (video game)" },
+    "ragnarok-odyssey-ace": { "wikipedia": "Ragnarok Odyssey" },
+    "indiana-jones-and-the-great-circle": {
+      "wikipedia": "Indiana Jones and the Great Circle"
+    },
+    "monster-monpiece": { "wikipedia": "Monster Monpiece" },
+    "007-first-light": { "wikipedia": "007 First Light" },
+    "lego-batman-legacy-of-the-dark-knight": {
+      "wikipedia": "Lego Batman: Legacy of the Dark Knight"
+    },
+    "serious-sam-next-encounter": { "wikipedia": "Serious Sam Advance" },
+    "odin-sphere": { "wikipedia": "Odin Sphere" },
+    "radiata-stories": { "wikipedia": "Radiata Stories" },
+    "wild-arms-3": { "wikipedia": "Wild Arms 3" },
+    "wild-arms-4": { "wikipedia": "Wild Arms 4" },
+    "saros": { "wikipedia": "Saros (video game)" },
+    "lost-soul-aside": { "wikipedia": "Lost Soul Aside" },
+    "eternal-sonata": { "wikipedia": "Eternal Sonata" },
+    "goldeneye-007-reloaded": { "wikipedia": "GoldenEye 007 (2010 video game)" },
+    "afro-samurai": { "wikipedia": "Afro Samurai (video game)" }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Nintendo Switch Collection",
+  "description": "The portable shelf — indies, RPGs, and the games that justify carrying a console in 2026.",
+  "personalNote": "The Switch is my commute cathedral. These are the carts that never leave the travel case.",
+  "catalogued": "2026-05-15",
+  "articleSlugs": [],
+  "mediaLogSlugs": ["persona-4-golden-completed", "dragon-quest-vii-finished"],
+  "items": [
+    {
+      "title": "Persona 4 Golden",
+      "year": 2020,
+      "platform": "Switch",
+      "notes": "The definitive portable murder-mystery summer."
+    },
+    {
+      "title": "Hollow Knight",
+      "year": 2018,
+      "platform": "Switch",
+      "notes": "Played entirely handheld on commutes. Still discovering secrets."
+    },
+    {
+      "title": "Metroid Dread",
+      "year": 2021,
+      "platform": "Switch",
+      "notes": "Linear for Metroid, but the E.M.M.I. hunts are genuine dread."
+    },
+    {
+      "title": "Dragon Quest VII",
+      "year": 2020,
+      "platform": "Switch",
+      "notes": "Finally finished the epic. The cartridge stays as proof."
+    }
+  ]
+}

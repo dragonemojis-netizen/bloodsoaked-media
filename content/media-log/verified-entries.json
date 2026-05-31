@@ -1,0 +1,351 @@
+{
+  "description": "Authoritative 2026 Gaming Archive from Dakota. Platforms, status, and scores must match exactly — do not infer or override.",
+  "entries": [
+    { "title": "Disgaea 6", "platform": "Switch", "status": "finished", "score": 65, "logYear": 2026 },
+    {
+      "title": "The Legend of Heroes: Beyond the Horizon",
+      "platform": "Switch 2",
+      "status": "finished",
+      "score": 91,
+      "logYear": 2026
+    },
+    { "title": "Hades II", "platform": "Switch 2", "status": "finished", "score": 88, "logYear": 2026 },
+    {
+      "title": "Rule of Rose",
+      "platform": "AYN Thor",
+      "status": "replayed",
+      "logYear": 2026
+    },
+    {
+      "title": "Dragon Quest VII Reimagined",
+      "platform": "PC",
+      "status": "finished",
+      "score": 76,
+      "logYear": 2026
+    },
+    {
+      "title": "Yakuza Kiwami 3",
+      "platform": "Switch 2",
+      "status": "finished",
+      "score": 73,
+      "logYear": 2026
+    },
+    {
+      "title": "Romeo is a Deadman",
+      "platform": "PC",
+      "status": "finished",
+      "score": 78,
+      "logYear": 2026
+    },
+    {
+      "title": "Disgaea Mayhem",
+      "platform": "Switch 2",
+      "status": "finished",
+      "score": 83,
+      "logYear": 2026
+    },
+    {
+      "title": "The House in Fata Morgana",
+      "platform": "Switch",
+      "status": "finished",
+      "score": 90,
+      "logYear": 2026
+    },
+    {
+      "title": "Neptunia: Sisters vs Sisters",
+      "platform": "Switch",
+      "status": "finished",
+      "score": 74,
+      "logYear": 2026
+    },
+    {
+      "title": "Resident Evil: Requiem (Resident Evil 9)",
+      "platform": "PC",
+      "status": "finished",
+      "score": 91,
+      "logYear": 2026
+    },
+    {
+      "title": "Fantasy Tavern Sextet Vol. 1",
+      "platform": "Switch",
+      "status": "finished",
+      "score": 81,
+      "logYear": 2026
+    },
+    { "title": "Fallout 4", "platform": "Switch 2", "status": "replayed", "logYear": 2026 },
+    {
+      "title": "Resident Evil 7",
+      "platform": "Switch 2",
+      "status": "replayed",
+      "logYear": 2026
+    },
+    {
+      "title": "Fatal Frame II Remake",
+      "platform": "PC",
+      "status": "finished",
+      "score": 82,
+      "logYear": 2026
+    },
+    {
+      "title": "Classic Marathon",
+      "platform": "PC",
+      "status": "finished",
+      "score": 70,
+      "logYear": 2026
+    },
+    {
+      "title": "Crimson Desert",
+      "platform": "PC",
+      "status": "finished",
+      "score": 77,
+      "logYear": 2026
+    },
+    {
+      "title": "Mr Sleepy Man",
+      "platform": "PC",
+      "status": "finished",
+      "score": 80,
+      "logYear": 2026
+    },
+    {
+      "title": "Marathon 2: Durandal",
+      "platform": "PC",
+      "status": "finished",
+      "score": 81,
+      "logYear": 2026
+    },
+    {
+      "title": "InFAMOUS 2",
+      "platform": "PlayStation 3",
+      "status": "replayed",
+      "logYear": 2026
+    },
+    {
+      "title": "Destiny 2: Renegades",
+      "platform": "PC",
+      "status": "finished",
+      "score": 54,
+      "logYear": 2026
+    },
+    {
+      "title": "Destiny 2: The Final Shape",
+      "platform": "PC",
+      "status": "finished",
+      "score": 66,
+      "logYear": 2026
+    },
+    {
+      "title": "Shin Megami Tensei IV",
+      "platform": "AYN Thor",
+      "status": "replayed",
+      "logYear": 2026
+    },
+    {
+      "title": "Shin Megami Tensei IV: Apocalypse",
+      "platform": "AYN Thor",
+      "status": "replayed",
+      "logYear": 2026
+    },
+    {
+      "title": "Mouse P.I. for Hire",
+      "platform": "Switch 2",
+      "status": "finished",
+      "score": 90,
+      "logYear": 2026
+    },
+    {
+      "title": "Pragmata",
+      "platform": "Switch 2",
+      "status": "finished",
+      "score": 81,
+      "logYear": 2026
+    },
+    {
+      "title": "Alien: Isolation",
+      "platform": "Switch",
+      "status": "replayed",
+      "logYear": 2026
+    },
+    {
+      "title": "Diablo IV: Lord of Hatred",
+      "platform": "PC",
+      "status": "finished",
+      "score": 88,
+      "logYear": 2026
+    },
+    {
+      "title": "Fallout 3",
+      "platform": "PlayStation 3",
+      "status": "platinum",
+      "isReplay": true,
+      "platinumNumber": 12,
+      "logYear": 2026
+    },
+    {
+      "title": "Trinity Universe",
+      "platform": "PlayStation 3",
+      "status": "platinum",
+      "platinumNumber": 13,
+      "score": 78,
+      "logYear": 2026
+    },
+    {
+      "title": "Hyperdimension Neptunia HD",
+      "platform": "PlayStation 3",
+      "status": "platinum",
+      "isReplay": true,
+      "platinumNumber": 14,
+      "logYear": 2026
+    },
+    {
+      "title": "Splatterhouse",
+      "platform": "PlayStation 3",
+      "status": "platinum",
+      "isReplay": true,
+      "platinumNumber": 15,
+      "logYear": 2026
+    },
+    {
+      "title": "Sacred 2",
+      "platform": "PlayStation 3",
+      "status": "replayed",
+      "logYear": 2026
+    },
+    {
+      "title": "Mixtape",
+      "platform": "Switch 2",
+      "status": "finished",
+      "score": 83,
+      "logYear": 2026
+    },
+    {
+      "title": "Lord of the Rings: War of the North",
+      "platform": "PlayStation 3",
+      "status": "finished",
+      "score": 71,
+      "logYear": 2026
+    },
+    { "title": "Quake II", "platform": "AYN Thor", "status": "replayed", "logYear": 2026 },
+    {
+      "title": "White Knight Chronicles II",
+      "platform": "PlayStation 3",
+      "status": "platinum",
+      "platinumNumber": 16,
+      "score": 74,
+      "logYear": 2026
+    },
+    {
+      "title": "WET",
+      "platform": "PlayStation 3",
+      "status": "platinum",
+      "isReplay": true,
+      "platinumNumber": 17,
+      "logYear": 2026
+    },
+    {
+      "title": "Ragnarok Odyssey ACE",
+      "platform": "PlayStation 3",
+      "status": "platinum",
+      "platinumNumber": 18,
+      "score": 69,
+      "logYear": 2026
+    },
+    {
+      "title": "Indiana Jones and the Great Circle",
+      "platform": "Switch 2",
+      "status": "finished",
+      "score": 81,
+      "logYear": 2026
+    },
+    {
+      "title": "Monster Monpiece",
+      "platform": "Vita",
+      "status": "finished",
+      "score": 63,
+      "logYear": 2026
+    },
+    {
+      "title": "007 First Light",
+      "platform": "PC",
+      "status": "finished",
+      "score": 88,
+      "logYear": 2026
+    },
+    {
+      "title": "LEGO Batman: Legacy of the Dark Knight",
+      "platform": "PC",
+      "status": "finished",
+      "score": 79,
+      "logYear": 2026
+    },
+    {
+      "title": "Serious Sam: Next Encounter",
+      "platform": "PlayStation 2",
+      "status": "finished",
+      "score": 66,
+      "logYear": 2026
+    },
+    {
+      "title": "Odin Sphere",
+      "platform": "PlayStation 2",
+      "status": "finished",
+      "score": 71,
+      "logYear": 2026
+    },
+    {
+      "title": "Radiata Stories",
+      "platform": "PlayStation 2",
+      "status": "finished",
+      "score": 75,
+      "logYear": 2026
+    },
+    {
+      "title": "Wild Arms 3",
+      "platform": "PlayStation 2",
+      "status": "finished",
+      "score": 74,
+      "logYear": 2026
+    },
+    {
+      "title": "Wild Arms 4",
+      "platform": "PlayStation 2",
+      "status": "finished",
+      "score": 69,
+      "logYear": 2026
+    },
+    {
+      "title": "Saros",
+      "platform": "PlayStation 5",
+      "status": "finished",
+      "score": 72,
+      "logYear": 2026
+    },
+    {
+      "title": "Lost Soul Aside",
+      "platform": "PlayStation 5",
+      "status": "finished",
+      "score": 62,
+      "logYear": 2026
+    },
+    {
+      "title": "Eternal Sonata",
+      "platform": "PlayStation 3",
+      "status": "finished",
+      "score": 77,
+      "logYear": 2026
+    },
+    {
+      "title": "GoldenEye 007 Reloaded",
+      "platform": "PlayStation 3",
+      "status": "finished",
+      "score": 52,
+      "logYear": 2026
+    },
+    {
+      "title": "Afro Samurai",
+      "platform": "PlayStation 3",
+      "status": "replayed",
+      "logYear": 2026
+    }
+  ]
+}

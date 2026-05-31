@@ -1,0 +1,30 @@
+{
+  "title": "Horror Essentials",
+  "description": "The horror wall — films that taught me how to watch, not just how to scream.",
+  "personalNote": "Not a ranked list. A wall of films I would defend if the rental store caught fire.",
+  "catalogued": "2026-05-20",
+  "articleSlugs": [],
+  "mediaLogSlugs": ["the-thing-rewatched", "invasion-body-snatchers-started"],
+  "items": [
+    {
+      "title": "The Thing",
+      "year": 1982,
+      "notes": "Practical effects as philosophy."
+    },
+    {
+      "title": "Suspiria",
+      "year": 1977,
+      "notes": "Color as violence."
+    },
+    {
+      "title": "Invasion of the Body Snatchers",
+      "year": 1978,
+      "notes": "Paranoia you can walk through."
+    },
+    {
+      "title": "Phenomena",
+      "year": 1985,
+      "notes": "Giallo logic, insect logic, no logic."
+    }
+  ]
+}
