@@ -10,7 +10,7 @@ import {
   mediumLabels,
 } from "@/config/publication";
 import { site } from "@/config/site";
-import { formatDate } from "@/lib/format";
+import { formatDate, formatPublishedAt } from "@/lib/format";
 import type { Post } from "@/types/content";
 import type { Collection } from "@/types/collection";
 
@@ -110,7 +110,7 @@ export function ArticleHero({ post, inVault, collections }: ArticleHeroProps) {
               )}
             </>
           ) : (
-            <time dateTime={post.date}>{formatDate(post.date)}</time>
+            <time dateTime={post.date}>{formatPublishedAt(post.date)}</time>
           )}
           <span aria-hidden="true">·</span>
           <span>{post.readingTime}</span>

@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { MoodBadge } from "@/components/content/MoodBadge";
 import { publication, categoryLabels } from "@/config/publication";
-import { formatDate } from "@/lib/format";
+import { formatPublishedAt } from "@/lib/format";
 import type { PostMeta } from "@/types/content";
 
 interface RelatedArticlesProps {
@@ -32,7 +32,7 @@ export function RelatedArticles({ posts }: RelatedArticlesProps) {
             >
               <p className="font-mono text-[0.55rem] uppercase tracking-[0.15em] text-foreground-muted">
                 {categoryLabels[post.category]} ·{" "}
-                <time dateTime={post.date}>{formatDate(post.date)}</time>
+                <time dateTime={post.date}>{formatPublishedAt(post.date)}</time>
               </p>
               <h3 className="mt-3 font-serif text-lg leading-snug text-foreground transition-colors group-hover:text-accent-bright">
                 {post.subtitle ? (

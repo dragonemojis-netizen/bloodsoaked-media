@@ -12,6 +12,17 @@ export function formatDate(date: string) {
   });
 }
 
+/** Date plus time when the frontmatter includes an ISO datetime (e.g. publish moment). */
+export function formatPublishedAt(date: string) {
+  if (!/T\d{2}:\d{2}/.test(date)) return formatDate(date);
+  const d = new Date(date);
+  return `${formatDate(date)} at ${d.toLocaleTimeString("en-US", {
+    hour: "numeric",
+    minute: "2-digit",
+    hour12: true,
+  })}`;
+}
+
 export function formatMediaLogDate(entry: Pick<MediaLogEntry, "date" | "logYear">) {
   if (entry.date) return formatDate(entry.date);
   if (entry.logYear) return String(entry.logYear);

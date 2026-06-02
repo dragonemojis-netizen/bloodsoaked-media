@@ -2,7 +2,7 @@ import Link from "next/link";
 import { KnifeMotif } from "@/components/brand/KnifeMotif";
 import { MediaArtifact } from "@/components/brand/MediaArtifact";
 import { MoodBadge } from "@/components/content/MoodBadge";
-import { formatDate } from "@/lib/format";
+import { formatPublishedAt } from "@/lib/format";
 import type { PostMeta } from "@/types/content";
 
 interface CoverStoryProps {
@@ -40,7 +40,7 @@ export function CoverStory({ post }: CoverStoryProps) {
         <div className="mt-6 flex flex-wrap items-center gap-4">
           <MoodBadge mood={post.mood} />
           <span className="font-mono text-[0.58rem] uppercase tracking-[0.14em] text-foreground-muted">
-            <time dateTime={post.date}>{formatDate(post.date)}</time>
+            <time dateTime={post.date}>{formatPublishedAt(post.date)}</time>
             <span aria-hidden="true"> · </span>
             {post.readingTime}
           </span>

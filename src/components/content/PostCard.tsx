@@ -3,18 +3,11 @@ import type { PostMeta } from "@/types/content";
 import { VerdictBadge } from "./VerdictBadge";
 import { TagList } from "./TagList";
 import { MoodBadge } from "./MoodBadge";
+import { formatPublishedAt } from "@/lib/format";
 
 interface PostCardProps {
   post: PostMeta;
   featured?: boolean;
-}
-
-function formatDate(date: string) {
-  return new Date(date).toLocaleDateString("en-US", {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-  });
 }
 
 function typeLabel(type: PostMeta["type"]) {
@@ -48,7 +41,7 @@ export function PostCard({ post, featured = false }: PostCardProps) {
         <span aria-hidden="true">·</span>
         <span>{post.category}</span>
         <span aria-hidden="true">·</span>
-        <time dateTime={post.date}>{formatDate(post.date)}</time>
+        <time dateTime={post.date}>{formatPublishedAt(post.date)}</time>
         <span aria-hidden="true">·</span>
         <span>{post.readingTime}</span>
       </div>

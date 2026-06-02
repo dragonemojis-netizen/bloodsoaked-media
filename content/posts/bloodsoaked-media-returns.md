@@ -1,7 +1,7 @@
 ---
 title: "Bloodsoaked Media Returns"
 subtitle: "Two rules before the wastes called me back"
-date: "2026-05-30"
+date: "2026-06-01T21:52:00"
 excerpt: "After being gone for 6+ years from the blog space, reviving something as massive to me as Bloodsoaked Media had to begin with two rules."
 category: culture
 type: editorial

@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { MoodBadge } from "@/components/content/MoodBadge";
 import { categoryLabels } from "@/config/publication";
-import { formatDate } from "@/lib/format";
+import { formatPublishedAt } from "@/lib/format";
 import type { PostMeta } from "@/types/content";
 
 interface ShelfSpineProps {
@@ -21,7 +21,7 @@ export function ShelfSpine({ post }: ShelfSpineProps) {
         />
         <div className="min-w-0 flex-1">
           <div className="flex flex-wrap items-center gap-2 font-mono text-[0.55rem] uppercase tracking-[0.15em] text-foreground-muted">
-            <time dateTime={post.date}>{formatDate(post.date)}</time>
+            <time dateTime={post.date}>{formatPublishedAt(post.date)}</time>
             <span aria-hidden="true">·</span>
             <span>{categoryLabels[post.category] ?? post.category}</span>
             <span aria-hidden="true">·</span>
