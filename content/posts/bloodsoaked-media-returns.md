@@ -12,6 +12,7 @@ tags: ["bloodsoaked media", "fallout", "fallout sonora", "relaunch", "editorial"
 featured: true
 editorPick: true
 authorNote: "First piece filed on the relaunched site. Sonora write-up coming soon."
+coverImage: "/images/articles/fallout-sonora-cover.png"
 ---
 
 After being gone for 6+ years from the blog space, reviving something as massive to me as Bloodsoaked Media had to begin with two rules.
@@ -23,6 +24,8 @@ Rule two was staying true to what made me the person I am. Not just today, not t
 Fallout is that piece of art for me in a variety of ways, and has been for as long as I can remember. Because of that, I'm currently working on a piece covering Fallout: Sonora, a 2020 total conversion project for Fallout 2 from the mod collective Nevada Band Studio. More on that below.
 
 ## Returning to the Wastes
+
+![Fallout: Sonora — in-game screenshot at the Tucson Inn](/images/articles/fallout-sonora-tucson-inn.png)
 
 Four years after the initial release of Sonora, I was coming off the incredible fantasy high of 2023's Baldur's Gate 3 from Larian Studios. I had always loved Fallout: New Vegas. For over a decade it was the RPG I returned to whenever I needed to escape from the real world. Baldur's Gate 3 left me wanting something else entirely, however, and it became apparent that another CRPG was the only thing that could fill that void.
 

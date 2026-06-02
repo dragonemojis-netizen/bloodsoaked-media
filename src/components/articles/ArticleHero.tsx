@@ -44,10 +44,10 @@ export function ArticleHero({ post, inVault, collections }: ArticleHeroProps) {
         {post.coverImage ? (
           <Image
             src={post.coverImage}
-            alt=""
+            alt={`Cover art — ${post.title}`}
             fill
             priority
-            className="object-cover"
+            className="object-contain object-center"
             sizes="100vw"
           />
         ) : (
