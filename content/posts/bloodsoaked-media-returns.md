@@ -9,9 +9,9 @@ medium: culture
 era: "2026"
 mood: Nostalgic
 tags: ["bloodsoaked media", "fallout", "fallout sonora", "relaunch", "editorial"]
-featured: true
-editorPick: true
-authorNote: "First piece filed on the relaunched site. Sonora write-up coming soon."
+featured: false
+editorPick: false
+authorNote: "First piece filed on the relaunched site. The Sonora write-up is live — start here if you want the long road south."
 coverImage: "/images/articles/fallout-sonora-cover.png"
 ---
 
@@ -21,7 +21,7 @@ Rule one was making sure I did this place justice. I wanted the page to ooze cha
 
 Rule two was staying true to what made me the person I am. Not just today, not through maturity or age, and not through the self-discovery that came with my early twenties. It needed to come from a place that could only be channeled through the media I've grown deeply attached to over the years.
 
-Fallout is that piece of art for me in a variety of ways, and has been for as long as I can remember. Because of that, I'm currently working on a piece covering Fallout: Sonora, a 2020 total conversion project for Fallout 2 from the mod collective Nevada Band Studio. More on that below.
+Fallout is that piece of art for me in a variety of ways, and has been for as long as I can remember. Because of that, I'm currently working on a piece covering [Fallout: Sonora](/articles/fallout-sonora-southbound-through-the-wastes), a 2020 total conversion project for Fallout 2 from the mod collective Nevada Band Studio. More on that below.
 
 ## Returning to the Wastes
 

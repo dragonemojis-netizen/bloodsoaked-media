@@ -15,6 +15,12 @@ featured: false
 # inVault: true
 # verdict: "Recommended"  # reviews only
 # coverImage: "/images/articles/your-cover.jpg"
+# resourceLink:
+#   label: "External project link"
+#   href: "https://example.com"
+# requiresLink:
+#   label: "Requires base game"
+#   href: "https://example.com"
 # authorNote: "A short note from the editor's desk."
 ---
 

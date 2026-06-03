@@ -609,6 +609,10 @@ a {
   max-width: 38rem;
 }
 
+.article-requires-link {
+  text-shadow: 0 0 24px color-mix(in srgb, var(--accent-bright) 45%, transparent);
+}
+
 .article-reading-column {
   margin: 0 auto;
   max-width: 42rem;
@@ -662,6 +666,15 @@ a {
   margin: 2rem 0;
   border: 1px solid var(--border);
   background: var(--background-panel);
+}
+
+.article-prose img[src$=".gif"] {
+  max-height: min(70vh, 560px);
+  width: auto;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: contain;
 }
 
 .article-filed-under {

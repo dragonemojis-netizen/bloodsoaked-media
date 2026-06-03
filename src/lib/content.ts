@@ -69,6 +69,16 @@ function sortLegacyByOriginalDate(posts: PostMeta[]): PostMeta[] {
   });
 }
 
+function parseResourceLink(
+  raw: unknown,
+): Post["resourceLink"] | undefined {
+  if (!raw || typeof raw !== "object") return undefined;
+  const { label, href } = raw as { label?: unknown; href?: unknown };
+  if (typeof label !== "string" || typeof href !== "string") return undefined;
+  if (!label.trim() || !href.trim()) return undefined;
+  return { label: label.trim(), href: href.trim() };
+}
+
 function parsePostData(data: Record<string, unknown>, slug: string) {
   const category = data.category as Post["category"];
   const medium =
@@ -103,6 +113,8 @@ function parsePostData(data: Record<string, unknown>, slug: string) {
     inVault: (data.inVault as boolean) ?? false,
     verdict: data.verdict as Post["verdict"],
     coverImage: data.coverImage as string | undefined,
+    resourceLink: parseResourceLink(data.resourceLink),
+    requiresLink: parseResourceLink(data.requiresLink),
     authorNote: data.authorNote as string | undefined,
     subtitle: data.subtitle as string | undefined,
     collections: (data.collections as string[]) ?? [],
@@ -235,7 +247,12 @@ export async function getPostsByTag(tagSlug: string): Promise<PostMeta[]> {
 
 export async function getFeaturedPosts(limit = 3): Promise<PostMeta[]> {
   const all = await getCurrentPostMeta();
-  return all.filter((post) => post.featured).slice(0, limit);
+  return all
+    .filter((post) => post.featured)
+    .sort(
+      (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime(),
+    )
+    .slice(0, limit);
 }
 
 export async function getEditorPick(): Promise<PostMeta | null> {

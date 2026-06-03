@@ -67,6 +67,10 @@ export interface PostFrontmatter {
   inVault?: boolean;
   verdict?: Verdict;
   coverImage?: string;
+  /** Optional external link shown in the article header (e.g. download / project page) */
+  resourceLink?: { label: string; href: string };
+  /** Optional companion note/link beside resourceLink (e.g. base game requirement) */
+  requiresLink?: { label: string; href: string };
   authorNote?: string;
   /** Collection slugs — also auto-detected from collection JSON */
   collections?: string[];

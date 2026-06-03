@@ -138,6 +138,29 @@ export function ArticleHero({ post, inVault, collections }: ArticleHeroProps) {
 
         <p className="article-deck mt-6 text-foreground-muted">{post.excerpt}</p>
 
+        {post.resourceLink && (
+          <div className="mt-6 flex flex-wrap items-center gap-x-5 gap-y-3">
+            <a
+              href={post.resourceLink.href}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block border border-accent bg-accent/20 px-5 py-2.5 font-mono text-[0.65rem] uppercase tracking-[0.15em] text-foreground transition-colors hover:bg-accent hover:text-white vhs-button"
+            >
+              {post.resourceLink.label} →
+            </a>
+            {post.requiresLink && (
+              <a
+                href={post.requiresLink.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="article-requires-link font-mono text-[0.72rem] font-semibold uppercase tracking-[0.14em] text-accent-bright underline decoration-accent-bright/80 underline-offset-[0.35em] transition-colors hover:text-foreground hover:decoration-foreground"
+              >
+                {post.requiresLink.label}
+              </a>
+            )}
+          </div>
+        )}
+
         <p className="article-byline mt-8 font-mono text-[0.62rem] uppercase tracking-[0.18em] text-foreground-muted">
           {publication.byline}{" "}
           <span className="text-foreground">{site.author}</span>
