@@ -5,7 +5,7 @@ interface IssueMarkProps {
 }
 
 export function IssueMark({
-  issue = "05",
+  issue = String(new Date().getMonth() + 1).padStart(2, "0"),
   year = new Date().getFullYear(),
   className = "",
 }: IssueMarkProps) {
