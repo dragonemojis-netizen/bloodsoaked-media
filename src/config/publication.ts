@@ -43,7 +43,7 @@ export const publication = {
   /** Foundational Collection identity — static; do not derive from archive data. */
   collectionArchivePrincipleEyebrow: "Archive Principle",
   collectionArchivePrinciple:
-    "One artifact, fully filed — the archive does not need volume to feel complete.",
+    "forever growing until the end of me, my labor of love.",
   collectionCuratorNoteEyebrow: "Curator Annotation",
   collectionCuratorAnnotationExpand: "Open Full Filing →",
   collectionCuratorAnnotationCollapse: "Return to Exhibit Placard ↑",
