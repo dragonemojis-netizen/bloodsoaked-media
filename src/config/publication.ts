@@ -19,7 +19,7 @@ export const publication = {
   collectionFeaturedEyebrow: "Currently on Exhibit",
   collectionJournalEyebrow: "State of the Collection",
   collectionJournalSolo:
-    "Public-use archive. Created 2026.\n\nEvery filing is intentional, personally annotated, and preserved forever.",
+    "Public personal archive. Created 2026.\n\nEvery filing is intentional, personally annotated, and preserved forever.",
   collectionJournalSmall: (count: number) =>
     `${count} specimens on permanent record. The hall is young, but each artifact is filed with care — notes, context, and significance added as the collection matures.`,
   collectionJournalEstablished: (count: number) =>
