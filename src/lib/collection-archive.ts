@@ -228,6 +228,26 @@ export function getCollectionArchive(): CollectionArchive {
   };
 }
 
+export function getCollectionSpecimenHref(id: string): string {
+  return `/collection/${encodeURIComponent(id)}`;
+}
+
+/** Published specimen for exhibit pages — null when hidden, tombstoned, or pipeline. */
+export function getCollectionArchiveEntry(
+  id: string,
+): CollectionArchiveEntry | null {
+  const record = getCollectionArchiveRecord(id);
+  if (!record || !isDisplayable(record)) return null;
+  if (record.status !== "Catalogued" && record.status !== "Preservation") {
+    return null;
+  }
+  return toDisplayEntry(record);
+}
+
+export function getPublishedCollectionSpecimenIds(): string[] {
+  return getEntrySlugs().filter((id) => getCollectionArchiveEntry(id) !== null);
+}
+
 export function formatEventType(eventType: CollectionEventType): string {
   return EVENT_TYPE_LABELS[eventType];
 }
@@ -236,10 +256,17 @@ export function getEventNarrative(eventType: CollectionEventType): string {
   return EVENT_NARRATIVES[eventType];
 }
 
-/** Display title — curator enrichment overrides sync-derived title. */
+/** Exhibit filing name — the Instagram caption title, preserved as posted. */
 export function getSpecimenTitle(entry: CollectionArchiveEntry): string {
-  const subject = entry.enrichment?.subjectTitle?.trim();
-  return subject || entry.title;
+  return entry.title;
+}
+
+/** Curator-documented media identity — e.g. franchise, collection, or work name. */
+export function getSpecimenArtifactLabel(
+  entry: CollectionArchiveEntry,
+): string | null {
+  const label = entry.enrichment?.artifactLabel?.trim();
+  return label || null;
 }
 
 /** Human descriptor from enrichment — not event-type metadata. */

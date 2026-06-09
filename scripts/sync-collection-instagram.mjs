@@ -100,6 +100,7 @@ function mergeInstagramRecord({ existing, media, config, now, clearTombstone = f
   const record = {
     id: entryId,
     origin: "instagram",
+    // Filing name: first line of the Instagram caption, frozen after first sync.
     title: existing?.title ?? deriveTitle(caption),
     eventType: existing?.eventType ?? eventType,
     status: existing?.status ?? status,

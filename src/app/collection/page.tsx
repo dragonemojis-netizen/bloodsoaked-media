@@ -23,14 +23,14 @@ export default function CollectionPage() {
   const showCuratorPreface = specimenCount > 0 && specimenCount <= 4;
 
   return (
-    <div className="collection-world archive-world relative mx-auto max-w-6xl px-6 py-12">
+    <div className="collection-world archive-world relative mx-auto max-w-6xl px-6 py-10">
       {/* Collection architecture: Hero → Archive Principle → Collection Body.
           The principle is permanent identity copy — never archive-driven or conditional. */}
       <CollectionHero />
 
       <CollectionArchivePrinciple />
 
-      <div className="collection-body mt-12 space-y-16 md:mt-14 md:space-y-20">
+      <div className="collection-body mt-10 space-y-14 md:mt-12 md:space-y-16">
         {archive.isEmpty ? (
           <CollectionEmptyArchive />
         ) : (

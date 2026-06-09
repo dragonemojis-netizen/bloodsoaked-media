@@ -5,6 +5,7 @@ import { MOODS, CATEGORIES } from "@/types/content";
 import { getAllTags } from "@/lib/content";
 import { slugifyTag } from "@/lib/slugs";
 import { isLegacyArchivePublic } from "@/lib/legacy-gate";
+import { getPublishedCollectionSpecimenIds } from "@/lib/collection-archive";
 import { site } from "@/config/site";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
@@ -12,6 +13,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const legacyPublic = isLegacyArchivePublic();
   const mediaLog = getAllMediaLogEntries();
   const tags = getAllTags(posts);
+  const collectionSpecimens = getPublishedCollectionSpecimenIds();
 
   const staticRoutes = [
     "",
@@ -55,6 +57,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
           : new Date(),
       changeFrequency: "monthly" as const,
       priority: 0.5,
+    })),
+    ...collectionSpecimens.map((id) => ({
+      url: `${site.url}/collection/${id}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
     })),
     ...[...archiveYears].map((year) => ({
       url: `${site.url}/archive/year/${year}`,

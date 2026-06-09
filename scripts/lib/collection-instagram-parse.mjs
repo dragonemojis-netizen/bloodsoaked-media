@@ -38,6 +38,7 @@ export function inferStatus(hashtags, eventType) {
   return "Catalogued";
 }
 
+/** First caption line = curator filing name (e.g. "lineage", "self ✨"). Not the media title. */
 export function deriveTitle(caption = "") {
   const firstLine = caption.split("\n")[0]?.trim() ?? "";
   const withoutTags = firstLine.replace(/#[\w-]+/g, "").replace(/\s+/g, " ").trim();

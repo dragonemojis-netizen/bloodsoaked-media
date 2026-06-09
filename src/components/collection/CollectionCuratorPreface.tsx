@@ -1,5 +1,4 @@
 import { publication } from "@/config/publication";
-import { site } from "@/config/site";
 
 interface CollectionCuratorPrefaceProps {
   specimenCount: number;
@@ -16,9 +15,9 @@ export function CollectionCuratorPreface({
   return (
     <section
       aria-labelledby="collection-curator-preface-heading"
-      className="collection-curator-preface vault-plaque border border-border bg-background-panel/50 px-6 py-8 md:px-10 md:py-10"
+      className="collection-curator-preface vault-plaque max-w-2xl border border-border bg-background-panel/50 px-5 py-5 md:px-8 md:py-7"
     >
-      <p className="font-mono text-[0.62rem] uppercase tracking-[0.28em] text-accent-bright">
+      <p className="font-mono text-[0.58rem] uppercase tracking-[0.26em] text-accent-bright/90">
         {publication.collectionCuratorPrefaceEyebrow}
       </p>
       <h2
@@ -27,13 +26,11 @@ export function CollectionCuratorPreface({
       >
         Curator introduction
       </h2>
-      <p className="collection-curator-preface-body vault-lead mt-5 max-w-3xl whitespace-pre-line leading-relaxed text-foreground-muted">
+      <p className="collection-curator-preface-body mt-3 whitespace-pre-line text-foreground-muted">
         {preface}
       </p>
-      <p className="collection-curator-signature mt-6 font-serif text-base italic text-foreground/90">
-        {specimenCount === 1
-          ? publication.collectionCuratorPrefaceSignatureSolo
-          : `— ${site.curator}, ${publication.collectionCuratorRole}`}
+      <p className="collection-curator-signature mt-4 font-serif text-sm italic text-foreground/85">
+        {publication.collectionCuratorPrefaceSignatureSolo}
       </p>
     </section>
   );

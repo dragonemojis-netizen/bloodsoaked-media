@@ -4,6 +4,7 @@ import { getCollectionImageDimensions } from "@/lib/collection-cover";
 import {
   formatEventType,
   getEventNarrative,
+  getSpecimenArtifactLabel,
   type CollectionArchiveEntry,
 } from "@/lib/collection-archive";
 import type { ReactNode } from "react";
@@ -24,6 +25,7 @@ export function CollectionSpecimenExhibitBody({
   curatorSlot,
 }: CollectionSpecimenExhibitBodyProps) {
   const dimensions = getCollectionImageDimensions(entry.coverImage);
+  const artifactLabel = getSpecimenArtifactLabel(entry);
 
   return (
     <div className="collection-specimen-layout">
@@ -57,6 +59,17 @@ export function CollectionSpecimenExhibitBody({
           >
             {title}
           </h2>
+
+          {artifactLabel && (
+            <div className="collection-placard-artifact mt-4">
+              <p className="font-mono text-[0.52rem] uppercase tracking-[0.2em] text-foreground-muted/75">
+                {publication.collectionSpecimenArtifactEyebrow}
+              </p>
+              <p className="mt-2 font-serif text-base leading-snug text-foreground-muted md:text-lg">
+                {artifactLabel}
+              </p>
+            </div>
+          )}
 
           <p className="collection-placard-story mt-4 text-sm leading-[1.72] text-foreground-muted md:text-base">
             {storyLead}

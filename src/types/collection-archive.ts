@@ -57,7 +57,8 @@ export interface CollectionSourceProvenance {
 
 /** Curator-facing metadata — separate from Instagram provenance. */
 export interface CollectionArchiveEnrichment {
-  subjectTitle?: string;
+  /** Documented media identity — separate from the Instagram filing name in `title`. */
+  artifactLabel?: string;
   medium?: string;
   year?: number;
   platform?: string;

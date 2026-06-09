@@ -9,14 +9,9 @@ interface CollectionArchiveJournalProps {
 }
 
 export function CollectionArchiveJournal({ stats }: CollectionArchiveJournalProps) {
-  const { catalogued, preservationProjects, lastCatalogued } = stats;
+  const { preservationProjects, lastCatalogued } = stats;
 
-  const scopeNarrative =
-    catalogued === 1
-      ? publication.collectionJournalSolo
-      : catalogued <= 4
-        ? publication.collectionJournalSmall(catalogued)
-        : publication.collectionJournalEstablished(catalogued);
+  const scopeNarrative = publication.collectionJournalSolo;
 
   const lastFiling = lastCatalogued
     ? formatCatalogueStamp(lastCatalogued)

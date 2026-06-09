@@ -15,26 +15,26 @@ export function CollectionHero() {
         COLL
       </span>
 
-      <div className="relative z-10 px-6 py-10 md:px-10 md:py-14">
+      <div className="relative z-10 px-6 py-7 md:px-8 md:py-10">
         <div className="flex flex-wrap items-center gap-2">
           <MediaArtifact label="Preservation" variant="accent" />
           <MediaArtifact label="Physical Media" variant="vhs" />
           <MediaArtifact label="Permanent Record" variant="default" />
         </div>
 
-        <p className="hero-kicker mt-8 font-mono text-[0.68rem] uppercase tracking-[0.42em] text-accent-bright">
+        <p className="hero-kicker mt-5 font-mono text-[0.68rem] uppercase tracking-[0.42em] text-accent-bright">
           {publication.collectionEyebrow}
         </p>
 
-        <h1 className="mt-3 max-w-3xl font-serif text-[2.35rem] leading-[1.08] text-foreground md:text-[3rem]">
+        <h1 className="mt-2 max-w-3xl font-serif text-[2.35rem] leading-[1.08] text-foreground md:text-[3rem]">
           {publication.collection}
         </h1>
 
-        <p className="section-lead mt-5 max-w-2xl whitespace-pre-line text-foreground-muted leading-relaxed">
+        <p className="collection-hero-description mt-3 max-w-2xl whitespace-pre-line text-foreground-muted">
           {publication.collectionDescription}
         </p>
 
-        <p className="collection-hero-attribution mt-7 font-serif text-sm italic text-foreground-muted/90">
+        <p className="collection-hero-attribution mt-4 font-serif text-sm italic text-foreground-muted/90">
           {publication.collectionHeroAttribution}{" "}
           <span className="text-foreground/90">{site.curator}</span>
           <span aria-hidden="true"> · </span>

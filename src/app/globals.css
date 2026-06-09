@@ -519,6 +519,12 @@ a {
   filter: grayscale(25%) contrast(1.12) sepia(0.12);
 }
 
+.collection-hero-description {
+  font-size: 1.0625rem;
+  line-height: 1.58;
+  text-wrap: pretty;
+}
+
 .collection-world .archive-ghost-mark {
   font-size: 4rem;
   letter-spacing: 0.28em;
@@ -536,11 +542,15 @@ a {
 
 .collection-curator-preface-body {
   text-wrap: pretty;
+  max-width: 36rem;
+  font-size: 1rem;
+  line-height: 1.58;
 }
 
 .collection-curator-signature {
   border-top: 1px solid var(--border-subtle);
-  padding-top: 1rem;
+  padding-top: 0.85rem;
+  max-width: 36rem;
 }
 
 .collection-grid-section {
@@ -667,8 +677,9 @@ a {
 
 .collection-archive-principle {
   max-width: 34rem;
+  margin-top: 1rem;
   border-top: 1px solid var(--border-subtle);
-  padding-top: 1.125rem;
+  padding-top: 0.875rem;
 }
 
 .collection-archive-principle-inscription {

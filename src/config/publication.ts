@@ -36,14 +36,17 @@ export const publication = {
     "The public archive is empty. Synchronized Instagram acquisitions and curated entries will appear here once filed.",
   collectionCuratorPrefaceEyebrow: "From the Curator's Desk",
   collectionCuratorPrefaceSolo:
-    "The collection hall awakens with only a single specimen. Not a placeholder, but a true unveiling.\n\nI file what crosses my brain consistently: games, movies, music, hardware. All bound by my love for preservation and physical media.\n\nInstagram captures the moment; this archive holds its notes and permanence.\n\nEnjoy.",
+    "The collection hall awakens. Not as a placeholder, but as a true unveiling.\n\nI file what crosses my brain consistently: games, movies, music, hardware. All bound by my love for preservation and physical media.\n\nInstagram captures the moment; this archive holds its notes and permanence.\n\nEnjoy.",
   collectionCuratorPrefaceSignatureSolo: "— D",
   collectionCuratorPrefaceSmall:
-    "The collection is still forming. What you see here is deliberately small — each artifact chosen, photographed at acquisition, and filed for preservation. I add curator notes, context, and significance over time. The provenance beneath each piece never changes.",
+    "The collection hall awakens. Not as a placeholder, but as a true unveiling.\n\nI file what crosses my brain consistently: games, movies, music, hardware. All bound by my love for preservation and physical media.\n\nInstagram captures the moment; this archive holds its notes and permanence.\n\nEnjoy.",
   /** Foundational Collection identity — static; do not derive from archive data. */
   collectionArchivePrincipleEyebrow: "Archive Principle",
   collectionArchivePrinciple:
     "forever growing until the end of me, my labor of love.",
+  collectionSpecimenArtifactEyebrow: "Documented Artifact",
+  collectionSpecimenBackLink: "← Collection Hall",
+  collectionSpecimenOpenAria: (title: string) => `Open full archive filing for ${title}`,
   collectionCuratorNoteEyebrow: "Curator Annotation",
   collectionCuratorAnnotationExpand: "Open Full Filing →",
   collectionCuratorAnnotationCollapse: "Return to Exhibit Placard ↑",
