@@ -14,7 +14,7 @@ export const publication = {
   collection: "Collection",
   collectionEyebrow: "Preservation Hall",
   collectionDescription:
-    "A curated museum of physical media — acquisitions, discoveries, and preservation projects kept on permanent record. Each artifact carries a story; the filing slip beneath preserves how it arrived.",
+    "An archive of my love for media: acquisitions, discoveries, and preservation.\n\nEach artifact carries a story. It's up to you to connect the pages.\n\nThe filing slip beneath shares personal insights on each piece.",
   collectionHeroAttribution: "Maintained by",
   collectionFeaturedEyebrow: "Currently on Exhibit",
   collectionJournalEyebrow: "State of the Collection",

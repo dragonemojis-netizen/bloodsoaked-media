@@ -30,7 +30,7 @@ export function CollectionHero() {
           {publication.collection}
         </h1>
 
-        <p className="section-lead mt-5 max-w-2xl text-foreground-muted leading-relaxed">
+        <p className="section-lead mt-5 max-w-2xl whitespace-pre-line text-foreground-muted leading-relaxed">
           {publication.collectionDescription}
         </p>
 
