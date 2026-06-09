@@ -38,22 +38,24 @@ export async function CollectionLinked({
           <ul className="mt-6 space-y-4">
             {articles.map((article) => (
               <li key={article.slug}>
-                <Link
-                  href={`/articles/${article.slug}`}
-                  className="group vhs-card block border border-border bg-background-panel/50 p-5"
-                >
+                <div className="group vhs-card relative block border border-border bg-background-panel/50 p-5">
                   <p className="font-mono text-[0.55rem] uppercase tracking-[0.15em] text-foreground-muted">
                     <time dateTime={article.date}>{formatDate(article.date)}</time>
                     <span aria-hidden="true"> · </span>
                     {article.type}
                   </p>
-                  <h3 className="mt-2 font-serif text-lg text-foreground group-hover:text-accent-bright">
-                    {article.title}
+                  <h3 className="mt-2 font-serif text-lg text-foreground">
+                    <Link
+                      href={`/articles/${article.slug}`}
+                      className="transition-colors after:absolute after:inset-0 group-hover:text-accent-bright"
+                    >
+                      {article.title}
+                    </Link>
                   </h3>
-                  <div className="mt-3">
+                  <div className="relative z-10 mt-3">
                     <MoodBadge mood={article.mood} />
                   </div>
-                </Link>
+                </div>
               </li>
             ))}
           </ul>

@@ -11,10 +11,7 @@ interface CoverStoryProps {
 
 export function CoverStory({ post }: CoverStoryProps) {
   return (
-    <Link
-      href={`/articles/${post.slug}`}
-      className="cover-story group relative block"
-    >
+    <div className="cover-story group relative block">
       <KnifeMotif corner="br" className="!h-8 !w-5 !opacity-[0.18]" />
 
       <div className="relative z-10">
@@ -23,8 +20,13 @@ export function CoverStory({ post }: CoverStoryProps) {
           <MediaArtifact label="Now Reading" variant="vhs" />
         </div>
 
-        <h2 className="mt-5 font-serif text-2xl leading-[1.15] text-foreground transition-colors group-hover:text-accent-bright md:text-[2.125rem]">
-          {post.title}
+        <h2 className="mt-5 font-serif text-2xl leading-[1.15] text-foreground md:text-[2.125rem]">
+          <Link
+            href={`/articles/${post.slug}`}
+            className="transition-colors after:absolute after:inset-0 group-hover:text-accent-bright"
+          >
+            {post.title}
+          </Link>
         </h2>
 
         {post.subtitle && (
@@ -38,7 +40,9 @@ export function CoverStory({ post }: CoverStoryProps) {
         </p>
 
         <div className="mt-6 flex flex-wrap items-center gap-4">
-          <MoodBadge mood={post.mood} />
+          <span className="relative z-10 inline-block">
+            <MoodBadge mood={post.mood} />
+          </span>
           <span className="font-mono text-[0.58rem] uppercase tracking-[0.14em] text-foreground-muted">
             <time dateTime={post.date}>{formatPublishedAt(post.date)}</time>
             <span aria-hidden="true"> · </span>
@@ -50,6 +54,6 @@ export function CoverStory({ post }: CoverStoryProps) {
           Read the feature →
         </p>
       </div>
-    </Link>
+    </div>
   );
 }

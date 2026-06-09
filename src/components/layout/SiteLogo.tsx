@@ -32,6 +32,7 @@ export function SiteLogo({
       width={width}
       height={height}
       priority={priority}
+      loading={priority ? "eager" : "lazy"}
       className={`${variantClasses[variant]} masthead-logo-image`}
     />
   );

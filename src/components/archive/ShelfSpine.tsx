@@ -11,10 +11,7 @@ interface ShelfSpineProps {
 export function ShelfSpine({ post }: ShelfSpineProps) {
   return (
     <li>
-      <Link
-        href={`/articles/${post.slug}`}
-        className="group shelf-spine vhs-card flex gap-4 border border-border bg-background-panel/40 p-4 md:gap-6 md:p-5"
-      >
+      <div className="group shelf-spine vhs-card relative flex gap-4 border border-border bg-background-panel/40 p-4 md:gap-6 md:p-5">
         <div
           className="hidden w-1 shrink-0 bg-accent/60 transition-colors group-hover:bg-accent-bright sm:block"
           aria-hidden="true"
@@ -27,17 +24,22 @@ export function ShelfSpine({ post }: ShelfSpineProps) {
             <span aria-hidden="true">·</span>
             <span>{post.type}</span>
           </div>
-          <h3 className="mt-2 font-serif text-lg leading-snug text-foreground transition-colors group-hover:text-accent-bright md:text-xl">
-            {post.title}
+          <h3 className="mt-2 font-serif text-lg leading-snug text-foreground md:text-xl">
+            <Link
+              href={`/articles/${post.slug}`}
+              className="transition-colors after:absolute after:inset-0 group-hover:text-accent-bright"
+            >
+              {post.title}
+            </Link>
           </h3>
           <p className="mt-2 line-clamp-2 text-sm text-foreground-muted">
             {post.excerpt}
           </p>
-          <div className="mt-3">
+          <div className="relative z-10 mt-3">
             <MoodBadge mood={post.mood} />
           </div>
         </div>
-      </Link>
+      </div>
     </li>
   );
 }

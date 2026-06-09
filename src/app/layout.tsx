@@ -62,6 +62,7 @@ export default function RootLayout({
     <html
       lang="en"
       className={`${display.variable} ${body.variable} ${label.variable} h-full`}
+      data-scroll-behavior="smooth"
     >
       <body className="relative min-h-full flex flex-col antialiased">
         <PageShell>{children}</PageShell>
