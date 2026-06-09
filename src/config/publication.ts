@@ -36,7 +36,8 @@ export const publication = {
     "The public archive is empty. Synchronized Instagram acquisitions and curated entries will appear here once filed.",
   collectionCuratorPrefaceEyebrow: "From the Curator's Desk",
   collectionCuratorPrefaceSolo:
-    "This hall opened with a single specimen — not a placeholder, but a beginning. I file what crosses my threshold: games, film, hardware, and the physical media I intend to keep. Instagram captures the moment of acquisition; this archive holds the story that follows.",
+    "The collection hall awakens with only a single specimen. Not a placeholder, but a true unveiling.\n\nI file what crosses my brain consistently: games, movies, music, hardware. All bound by my love for preservation and physical media.\n\nInstagram captures the moment; this archive holds its notes and permanence.\n\nEnjoy.",
+  collectionCuratorPrefaceSignatureSolo: "— D",
   collectionCuratorPrefaceSmall:
     "The collection is still forming. What you see here is deliberately small — each artifact chosen, photographed at acquisition, and filed for preservation. I add curator notes, context, and significance over time. The provenance beneath each piece never changes.",
   /** Foundational Collection identity — static; do not derive from archive data. */

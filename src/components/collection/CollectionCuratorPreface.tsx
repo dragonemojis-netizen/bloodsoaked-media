@@ -27,11 +27,13 @@ export function CollectionCuratorPreface({
       >
         Curator introduction
       </h2>
-      <p className="collection-curator-preface-body vault-lead mt-5 max-w-3xl leading-relaxed text-foreground-muted">
+      <p className="collection-curator-preface-body vault-lead mt-5 max-w-3xl whitespace-pre-line leading-relaxed text-foreground-muted">
         {preface}
       </p>
       <p className="collection-curator-signature mt-6 font-serif text-base italic text-foreground/90">
-        — {site.curator}, {publication.collectionCuratorRole}
+        {specimenCount === 1
+          ? publication.collectionCuratorPrefaceSignatureSolo
+          : `— ${site.curator}, ${publication.collectionCuratorRole}`}
       </p>
     </section>
   );
