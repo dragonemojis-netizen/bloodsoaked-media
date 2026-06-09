@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "lastSyncedAt": "2026-06-09T02:18:17.682Z",
+  "lastSyncStatus": "ok",
+  "instagramUserId": "17841448905715892",
+  "instagramUsername": "bloodsoakedmedia",
+  "apiVersion": "v25.0",
+  "ingestAll": true,
+  "mediaFetched": 1,
+  "mediaIngested": 1,
+  "recordsCreated": 1,
+  "recordsUpdated": 0,
+  "imagesDownloaded": 1,
+  "imageFailures": 0,
+  "tombstonesSet": 0,
+  "archiveDisplayCount": 1,
+  "dryRun": false
+}

@@ -26,7 +26,7 @@ const allNavLinks = [
   { href: "/", label: "Home" },
   { href: "/articles", label: "Articles" },
   { href: "/media-log", label: "Media Log" },
-  { href: "/collections", label: "Collections" },
+  { href: "/collection", label: "Collection" },
   { href: "/vault", label: "The Vault" },
   { href: "/the-archives", label: "The Archives" },
   { href: "/about", label: "About" },

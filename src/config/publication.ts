@@ -11,6 +11,67 @@ export const publication = {
   viewCatalog: "View Catalog",
   mediaLog: "Media Log",
   mediaLogEyebrow: "Personal Archive",
+  collection: "Collection",
+  collectionEyebrow: "Preservation Hall",
+  collectionDescription:
+    "A curated museum of physical media — acquisitions, discoveries, and preservation projects kept on permanent record. Each artifact carries a story; the filing slip beneath preserves how it arrived.",
+  collectionHeroAttribution: "Maintained by",
+  collectionFeaturedEyebrow: "Currently on Exhibit",
+  collectionJournalEyebrow: "State of the Collection",
+  collectionJournalSolo:
+    "The public archive holds its first specimen. Small by design — every filing is intentional, annotated over time, and kept for the long term.",
+  collectionJournalSmall: (count: number) =>
+    `${count} specimens on permanent record. The hall is young, but each artifact is filed with care — notes, context, and significance added as the collection matures.`,
+  collectionJournalEstablished: (count: number) =>
+    `${count} artifacts catalogued across acquisitions, discoveries, and preservation projects. The collection grows through deliberate filing — never as a feed, always as an archive.`,
+  collectionJournalPreservation: (count: number) =>
+    count > 0
+      ? `${count} active preservation ${count === 1 ? "project" : "projects"} underway alongside catalogued specimens.`
+      : "No active preservation projects at present.",
+  collectionJournalLastFiling: "Most recent filing",
+  collectionGridEyebrow: "Further Specimens",
+  collectionGridDescription:
+    "Additional artifacts on permanent display — each with its own acquisition story and curator annotation.",
+  collectionEmptyArchive:
+    "The public archive is empty. Synchronized Instagram acquisitions and curated entries will appear here once filed.",
+  collectionCuratorPrefaceEyebrow: "From the Curator's Desk",
+  collectionCuratorPrefaceSolo:
+    "This hall opened with a single specimen — not a placeholder, but a beginning. I file what crosses my threshold: games, film, hardware, and the physical media I intend to keep. Instagram captures the moment of acquisition; this archive holds the story that follows.",
+  collectionCuratorPrefaceSmall:
+    "The collection is still forming. What you see here is deliberately small — each artifact chosen, photographed at acquisition, and filed for preservation. I add curator notes, context, and significance over time. The provenance beneath each piece never changes.",
+  /** Foundational Collection identity — static; do not derive from archive data. */
+  collectionArchivePrincipleEyebrow: "Archive Principle",
+  collectionArchivePrinciple:
+    "One artifact, fully filed — the archive does not need volume to feel complete.",
+  collectionCuratorNoteEyebrow: "Curator Annotation",
+  collectionCuratorAnnotationExpand: "Open Full Filing →",
+  collectionCuratorAnnotationCollapse: "Return to Exhibit Placard ↑",
+  collectionCuratorFilingClose: "Close Filing Drawer ↑",
+  collectionCuratorFilingDrawerLabel: "Filing drawer open",
+  collectionCuratorFilingEyebrow: "Curator Record",
+  collectionCuratorFilingLead:
+    "Complete curator annotation — filed separately from the exhibit placard and preserved for the permanent record.",
+  collectionCuratorAnnotationExpandAria: (title: string) =>
+    `Open full curator filing for ${title}`,
+  collectionCuratorAnnotationCollapseAria:
+    "Close curator filing and return to exhibit placard",
+  collectionCuratorNotePending:
+    "Annotation in progress. I return to each filing to add context, significance, and collection history as the archive matures.",
+  collectionEnrichmentEyebrow: "Catalog Enrichment",
+  collectionRelatedReading: "Related reading",
+  collectionProvenanceEyebrow: "Original Filing Record",
+  collectionProvenanceLead:
+    "Preserved exactly as captured at acquisition. Curator notes and enrichment live separately and may evolve.",
+  collectionProvenanceFoldLabel: "View original filing record",
+  collectionFieldNoteEyebrow: "Recorded at acquisition",
+  collectionCatalogueStamp: "Catalogued",
+  collectionAcquiredStamp: "Acquired",
+  collectionSourceInstagram: "Instagram acquisition",
+  collectionSourceCurated: "Curated filing",
+  collectionViewSource: "Source reference — original Instagram post",
+  collectionArchiveRef: "Ref.",
+  collectionCuratorRole: "Curator",
+  /** @deprecated Plural label — retained for article metadata until Phase 3 */
   collections: "Collections",
   collectionsEyebrow: "Curated Shelves",
   fromTheEditor: "From the Editor",

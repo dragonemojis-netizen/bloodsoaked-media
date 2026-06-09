@@ -18,7 +18,14 @@
     "media-log:covers": "node scripts/fetch-media-log-covers.mjs",
     "media-log:covers:force": "node scripts/fetch-media-log-covers.mjs -- --force",
     "media-log:audit": "node scripts/audit-media-log.mjs",
-    "vault:covers": "node scripts/fetch-vault-covers.mjs"
+    "vault:covers": "node scripts/fetch-vault-covers.mjs",
+    "collection:audit": "node scripts/audit-collection-archive.mjs",
+    "collection:sync": "node scripts/sync-collection-instagram.mjs",
+    "collection:sync:dry": "node scripts/sync-collection-instagram.mjs -- --dry-run",
+    "collection:instagram:setup": "node scripts/collection-instagram-setup.mjs",
+    "collection:reindex": "node scripts/rebuild-collection-archive-index.mjs",
+    "collection:purge-development": "node scripts/purge-collection-development.mjs",
+    "collection:purge-development:dry": "node scripts/purge-collection-development.mjs -- --dry-run"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

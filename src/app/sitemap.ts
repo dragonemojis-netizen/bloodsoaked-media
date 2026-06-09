@@ -1,6 +1,5 @@
 import type { MetadataRoute } from "next";
 import { getAllPostMeta } from "@/lib/content";
-import { getAllCollections } from "@/lib/collections";
 import { getAllMediaLogEntries } from "@/lib/media-log";
 import { MOODS, CATEGORIES } from "@/types/content";
 import { getAllTags } from "@/lib/content";
@@ -10,7 +9,6 @@ import { site } from "@/config/site";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const posts = await getAllPostMeta();
-  const collections = getAllCollections();
   const legacyPublic = isLegacyArchivePublic();
   const mediaLog = getAllMediaLogEntries();
   const tags = getAllTags(posts);
@@ -21,7 +19,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     "/media-log",
     "/reviews",
     "/essays",
-    "/collections",
+    "/collection",
     "/archive",
     "/archive/mood",
     "/timeline",
@@ -47,12 +45,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: new Date(post.date),
       changeFrequency: "monthly" as const,
       priority: 0.6,
-    })),
-    ...collections.map((c) => ({
-      url: `${site.url}/collections/${c.slug}`,
-      lastModified: c.catalogued ? new Date(c.catalogued) : new Date(),
-      changeFrequency: "monthly" as const,
-      priority: 0.7,
     })),
     ...mediaLog.map((entry) => ({
       url: `${site.url}/media-log/${entry.slug}`,
