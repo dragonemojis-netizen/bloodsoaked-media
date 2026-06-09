@@ -35,7 +35,7 @@ export function CollectionArchiveJournal({ stats }: CollectionArchiveJournalProp
       </h2>
 
       <div className="collection-journal-body vault-plaque mt-6 border border-border bg-background-panel/45 px-6 py-8 md:px-10 md:py-9">
-        <p className="vault-lead max-w-3xl leading-relaxed text-foreground-muted">
+        <p className="vault-lead max-w-3xl whitespace-pre-line leading-relaxed text-foreground-muted">
           {scopeNarrative}
         </p>
 
