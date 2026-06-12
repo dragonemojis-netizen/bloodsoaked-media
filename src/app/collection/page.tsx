@@ -17,28 +17,22 @@ export const metadata: Metadata = {
 
 export default function CollectionPage() {
   const archive = getCollectionArchive();
-  const specimenCount = archive.isEmpty
-    ? 0
-    : archive.stats.catalogued;
-  const showCuratorPreface = specimenCount > 0 && specimenCount <= 4;
 
   return (
     <div className="collection-world archive-world relative mx-auto max-w-6xl px-6 py-10">
-      {/* Collection architecture: Hero → Archive Principle → Collection Body.
-          The principle is permanent identity copy — never archive-driven or conditional. */}
+      {/* Collection architecture: Hero → Archive Principle → Curator Preface → Collection Body.
+          Identity copy above is permanent — never archive-driven or conditional. */}
       <CollectionHero />
 
       <CollectionArchivePrinciple />
+
+      <CollectionCuratorPreface />
 
       <div className="collection-body mt-10 space-y-14 md:mt-12 md:space-y-16">
         {archive.isEmpty ? (
           <CollectionEmptyArchive />
         ) : (
           <>
-            {showCuratorPreface && (
-              <CollectionCuratorPreface specimenCount={specimenCount} />
-            )}
-
             <CollectionFeaturedArtifact
               entry={archive.featured!}
               solo={archive.entries.length === 0}
@@ -51,14 +45,10 @@ export default function CollectionPage() {
                 <CollectionArchiveGrid entries={archive.entries} />
               </>
             )}
-          </>
-        )}
 
-        {!archive.isEmpty && (
-          <>
             <SectionKnifeDivider />
 
-            <CollectionArchiveJournal stats={archive.stats} />
+            <CollectionArchiveJournal />
           </>
         )}
       </div>

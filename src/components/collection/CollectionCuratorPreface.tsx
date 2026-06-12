@@ -1,17 +1,7 @@
 import { publication } from "@/config/publication";
 
-interface CollectionCuratorPrefaceProps {
-  specimenCount: number;
-}
-
-export function CollectionCuratorPreface({
-  specimenCount,
-}: CollectionCuratorPrefaceProps) {
-  const preface =
-    specimenCount === 1
-      ? publication.collectionCuratorPrefaceSolo
-      : publication.collectionCuratorPrefaceSmall;
-
+/** Permanent curator introduction — fixed copy, not tied to archive size or entries. */
+export function CollectionCuratorPreface() {
   return (
     <section
       aria-labelledby="collection-curator-preface-heading"
@@ -27,10 +17,10 @@ export function CollectionCuratorPreface({
         Curator introduction
       </h2>
       <p className="collection-curator-preface-body mt-3 whitespace-pre-line text-foreground-muted">
-        {preface}
+        {publication.collectionCuratorPreface}
       </p>
       <p className="collection-curator-signature mt-4 font-serif text-sm italic text-foreground/85">
-        {publication.collectionCuratorPrefaceSignatureSolo}
+        {publication.collectionCuratorPrefaceSignature}
       </p>
     </section>
   );

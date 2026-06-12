@@ -18,6 +18,7 @@ export const publication = {
   collectionHeroAttribution: "Maintained by",
   collectionFeaturedEyebrow: "Currently on Exhibit",
   collectionJournalEyebrow: "State of the Collection",
+  /** Permanent journal inscription — never archive-driven or conditional. */
   collectionJournalSolo:
     "Public personal archive. Created 2026.\n\nEvery filing is intentional, personally annotated, and preserved forever.",
   collectionJournalSmall: (count: number) =>
@@ -35,11 +36,10 @@ export const publication = {
   collectionEmptyArchive:
     "The public archive is empty. Synchronized Instagram acquisitions and curated entries will appear here once filed.",
   collectionCuratorPrefaceEyebrow: "From the Curator's Desk",
-  collectionCuratorPrefaceSolo:
+  /** Permanent curator introduction — never archive-driven or conditional. */
+  collectionCuratorPreface:
     "The collection hall awakens. Not as a placeholder, but as a true unveiling.\n\nI file what crosses my brain consistently: games, movies, music, hardware. All bound by my love for preservation and physical media.\n\nInstagram captures the moment; this archive holds its notes and permanence.\n\nEnjoy.",
-  collectionCuratorPrefaceSignatureSolo: "— D",
-  collectionCuratorPrefaceSmall:
-    "The collection hall awakens. Not as a placeholder, but as a true unveiling.\n\nI file what crosses my brain consistently: games, movies, music, hardware. All bound by my love for preservation and physical media.\n\nInstagram captures the moment; this archive holds its notes and permanence.\n\nEnjoy.",
+  collectionCuratorPrefaceSignature: "— D",
   /** Foundational Collection identity — static; do not derive from archive data. */
   collectionArchivePrincipleEyebrow: "Archive Principle",
   collectionArchivePrinciple:

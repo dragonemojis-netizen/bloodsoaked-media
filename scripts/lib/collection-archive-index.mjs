@@ -18,16 +18,9 @@ function isPublishedRecord(record) {
 
 /**
  * Rebuilds archive.json from all published catalogued/preservation entries.
- * Newest catalogued first. Preserves featuredId when still valid.
+ * Newest catalogued first; featured specimen is always the newest filing.
  */
 export function rebuildArchiveIndex({ dryRun = false, now = new Date().toISOString() } = {}) {
-  const current = readJson(ARCHIVE_PATH, {
-    schemaVersion: 1,
-    featuredId: null,
-    entryIds: [],
-    updatedAt: null,
-  });
-
   const published = listEntryIds()
     .map((id) => readEntry(id))
     .filter((record) => record && isPublishedRecord(record))
@@ -37,11 +30,7 @@ export function rebuildArchiveIndex({ dryRun = false, now = new Date().toISOStri
     );
 
   const entryIds = published.map((record) => record.id);
-
-  let featuredId = current.featuredId;
-  if (!featuredId || !entryIds.includes(featuredId)) {
-    featuredId = published.find((record) => record.featured)?.id ?? entryIds[0] ?? null;
-  }
+  const featuredId = entryIds[0] ?? null;
 
   const next = {
     schemaVersion: 1,
