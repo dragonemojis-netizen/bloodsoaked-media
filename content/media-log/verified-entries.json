@@ -346,6 +346,20 @@
       "platform": "PlayStation 3",
       "status": "replayed",
       "logYear": 2026
+    },
+    {
+      "title": "Baroque",
+      "platform": "PlayStation 2",
+      "status": "finished",
+      "score": 72,
+      "logYear": 2026
+    },
+    {
+      "title": "Wild Arms",
+      "platform": "PlayStation 1",
+      "status": "finished",
+      "score": 81,
+      "logYear": 2026
     }
   ]
 }

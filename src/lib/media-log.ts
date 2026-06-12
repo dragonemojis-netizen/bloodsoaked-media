@@ -35,9 +35,10 @@ function sortEntries(entries: MediaLogEntry[]): MediaLogEntry[] {
     const yearB = b.logYear ?? 0;
     if (yearB !== yearA) return yearB - yearA;
 
-    const orderA = a.archiveOrder ?? Number.MAX_SAFE_INTEGER;
-    const orderB = b.archiveOrder ?? Number.MAX_SAFE_INTEGER;
-    if (orderA !== orderB) return orderA - orderB;
+    // Higher archiveOrder = later in verified-entries.json = most recently filed.
+    const orderA = a.archiveOrder ?? 0;
+    const orderB = b.archiveOrder ?? 0;
+    if (orderB !== orderA) return orderB - orderA;
 
     if (a.date && b.date) {
       return new Date(b.date).getTime() - new Date(a.date).getTime();
@@ -90,6 +91,11 @@ export function getAllMediaLogEntries(): MediaLogEntry[] {
 
 export function getRecentMediaLogEntries(limit = 5): MediaLogEntry[] {
   return getAllMediaLogEntries().slice(0, limit);
+}
+
+/** Most recently filed log entry — follows verified-entries manifest order. */
+export function getLatestMediaLogEntry(): MediaLogEntry | null {
+  return getRecentMediaLogEntries(1)[0] ?? null;
 }
 
 export function getMediaLogYearArchive(year: number): MediaLogYearArchive | null {

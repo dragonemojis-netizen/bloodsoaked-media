@@ -2,19 +2,18 @@ import Link from "next/link";
 import { publication } from "@/config/publication";
 import { site } from "@/config/site";
 import { getCurrentlyExperiencing } from "@/lib/editorial";
-import { getRecentMediaLogEntries } from "@/lib/media-log";
+import { getLatestMediaLogEntry } from "@/lib/media-log";
 import { getRecentlyCataloguedCollection } from "@/lib/collections";
 import { getEditorPick } from "@/lib/content";
 
 export async function EditorPresence() {
-  const [experiencing, log, collection, pick] = await Promise.all([
+  const [experiencing, latestLog, collection, pick] = await Promise.all([
     Promise.resolve(getCurrentlyExperiencing()),
-    Promise.resolve(getRecentMediaLogEntries(1)),
+    Promise.resolve(getLatestMediaLogEntry()),
     Promise.resolve(getRecentlyCataloguedCollection()),
     getEditorPick(),
   ]);
 
-  const latestLog = log[0];
   const items = [
     experiencing.playing && {
       label: publication.currentlyPlaying,

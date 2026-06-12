@@ -1,16 +1,16 @@
 # Media Log Validation Report
 
-Generated: 2026-05-31T01:39:11.314Z
+Generated: 2026-06-12T22:06:33.780Z
 
 ## Summary
 
 | Metric | Count |
 |--------|------:|
-| Total entries (authoritative) | 53 |
-| Markdown files present | 53 |
+| Total entries (authoritative) | 55 |
+| Markdown files present | 55 |
 | Platform mismatches (after sync) | 0 |
 | Platform corrections (last sync) | 0 |
-| Cover art on disk | 53 |
+| Cover art on disk | 55 |
 | Missing cover art | 0 |
 | Manual review required | 0 |
 | Stale markdown files | 0 |
@@ -27,7 +27,7 @@ All entries match authoritative platform data.
 
 None
 
-## Covers present (53)
+## Covers present (55)
 
 - Disgaea 6
 - The Legend of Heroes: Beyond the Horizon
@@ -82,6 +82,8 @@ None
 - Eternal Sonata
 - GoldenEye 007 Reloaded
 - Afro Samurai
+- Baroque
+- Wild Arms
 
 ## Manual review (0)
 

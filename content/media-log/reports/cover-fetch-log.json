@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-31T01:35:11.215Z",
-  "saved": 1,
-  "skipped": 48,
-  "failed": 4,
+  "generatedAt": "2026-06-12T22:06:33.552Z",
+  "saved": 2,
+  "skipped": 53,
+  "failed": 0,
   "entries": [
     {
       "slug": "disgaea-6",
@@ -10,14 +10,11 @@
     },
     {
       "slug": "the-legend-of-heroes-beyond-the-horizon",
-      "status": "failed",
-      "wikipedia": "The Legend of Heroes: Trails beyond the Horizon"
+      "status": "no_source"
     },
     {
       "slug": "yakuza-kiwami-3",
-      "status": "saved",
-      "wikipedia": "Yakuza Kiwami 3",
-      "matchedTitle": "Yakuza Kiwami 3"
+      "status": "skipped"
     },
     {
       "slug": "hades-ii",
@@ -53,8 +50,7 @@
     },
     {
       "slug": "fantasy-tavern-sextet-vol-1",
-      "status": "failed",
-      "wikipedia": "Fantasy Tavern Sextet"
+      "status": "no_source"
     },
     {
       "slug": "mr-sleepy-man",
@@ -106,8 +102,7 @@
     },
     {
       "slug": "mouse-p-i-for-hire",
-      "status": "failed",
-      "wikipedia": "Mouse P.I. For Hire"
+      "status": "no_source"
     },
     {
       "slug": "pragmata",
@@ -143,8 +138,7 @@
     },
     {
       "slug": "mixtape",
-      "status": "failed",
-      "wikipedia": "Mixtape (2025 video game)"
+      "status": "no_source"
     },
     {
       "slug": "lord-of-the-rings-war-of-the-north",
@@ -221,6 +215,18 @@
     {
       "slug": "afro-samurai",
       "status": "skipped"
+    },
+    {
+      "slug": "baroque",
+      "status": "saved",
+      "wikipedia": "Baroque (video game)",
+      "matchedTitle": "Baroque (video game)"
+    },
+    {
+      "slug": "wild-arms",
+      "status": "saved",
+      "wikipedia": "Wild Arms (video game)",
+      "matchedTitle": "Wild Arms (video game)"
     }
   ]
 }

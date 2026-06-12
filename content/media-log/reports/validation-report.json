@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-31T01:39:11.314Z",
-  "totalEntries": 53,
-  "syncedEntries": 53,
+  "generatedAt": "2026-06-12T22:06:33.780Z",
+  "totalEntries": 55,
+  "syncedEntries": 55,
   "platformMismatchCount": 0,
   "platformCorrectionsApplied": 0,
   "platformCorrections": [],
-  "coversPresent": 53,
+  "coversPresent": 55,
   "coversMissing": 0,
   "manualReviewRequired": 0,
   "missingMarkdown": [],
@@ -223,6 +223,14 @@
     {
       "slug": "afro-samurai",
       "title": "Afro Samurai"
+    },
+    {
+      "slug": "baroque",
+      "title": "Baroque"
+    },
+    {
+      "slug": "wild-arms",
+      "title": "Wild Arms"
     }
   ],
   "manualReview": [],
@@ -251,10 +259,16 @@
   ],
   "coverFetchLog": [
     {
-      "slug": "yakuza-kiwami-3",
+      "slug": "baroque",
       "status": "saved",
-      "wikipedia": "Yakuza Kiwami 3",
-      "matchedTitle": "Yakuza Kiwami 3"
+      "wikipedia": "Baroque (video game)",
+      "matchedTitle": "Baroque (video game)"
+    },
+    {
+      "slug": "wild-arms",
+      "status": "saved",
+      "wikipedia": "Wild Arms (video game)",
+      "matchedTitle": "Wild Arms (video game)"
     }
   ]
 }
