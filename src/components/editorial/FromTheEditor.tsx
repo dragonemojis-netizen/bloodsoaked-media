@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { publication } from "@/config/publication";
 import type { FromTheEditor as FromTheEditorData } from "@/types/editorial";
@@ -8,6 +9,8 @@ interface FromTheEditorProps {
 }
 
 export function FromTheEditor({ data }: FromTheEditorProps) {
+  const images = data.images ?? [];
+
   return (
     <section
       className="relative mb-16 overflow-hidden border-l-2 border-accent bg-background-panel/40 px-6 py-8 md:px-8"
@@ -29,6 +32,30 @@ export function FromTheEditor({ data }: FromTheEditorProps) {
           {data.body.map((paragraph) => (
             <p key={paragraph}>{paragraph}</p>
           ))}
+        </div>
+      )}
+
+      {images.length > 0 && (
+        <div className="mt-8 border-t border-border-subtle pt-6">
+          <p className="font-mono text-[0.6rem] uppercase tracking-[0.2em] text-foreground-muted">
+            Screenshots
+          </p>
+          <ul className="mt-4 grid gap-4">
+            {images.map((image) => (
+              <li
+                key={image.src}
+                className="relative aspect-[21/9] overflow-hidden border border-border bg-background-panel"
+              >
+                <Image
+                  src={image.src}
+                  alt={image.alt}
+                  fill
+                  sizes="(max-width: 1024px) 100vw, 720px"
+                  className="object-cover vhs-hover-image"
+                />
+              </li>
+            ))}
+          </ul>
         </div>
       )}
 
