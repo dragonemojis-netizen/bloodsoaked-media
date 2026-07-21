@@ -96,7 +96,7 @@ export const publication = {
   latestLogEntry: "Latest Log Entry",
   recentlyCatalogued: "Recently Added to the Collection",
   inTheVault: "In the Vault",
-  vaultRotatingNote: "Selections rotate. The shelf is never finished.",
+  vaultRotatingNote: "Selections rotate. The shelf never closes.",
   partOfCollection: (name: string) => `Part of the ${name}`,
   earlierInCatalog: "Earlier in the Catalog",
   laterInCatalog: "Later in the Catalog",
