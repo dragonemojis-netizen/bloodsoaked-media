@@ -1,17 +1,18 @@
 {
   "description": "Wikipedia-sourced cover/poster/album art for Vault entries. Fetched into public/images/vault/ via npm run vault:covers.",
   "entries": {
-    "saints-row-2": {
-      "wikipedia": "Saints Row 2"
+    "manhunt": {
+      "wikipedia": "Manhunt (video game)"
     },
-    "silent-hill-3": {
-      "wikipedia": "Silent Hill 3"
+    "clock-tower-3": {
+      "wikipedia": "Clock Tower 3"
     },
-    "inside": {
-      "wikipedia": "Inside (2007 film)"
+    "sorority-babes-in-the-slimeball-bowl-o-rama": {
+      "wikipedia": "Sorority Babes in the Slimeball Bowl-O-Rama"
     },
-    "whole-lotta-red": {
-      "wikipedia": "Whole Lotta Red"
+    "oakland": {
+      "local": "/images/vault/oakland.png",
+      "source": "manual — album art provided by Dakota"
     }
   }
 }
