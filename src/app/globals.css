@@ -254,6 +254,12 @@ a {
   opacity: 0.85;
 }
 
+.masthead-logo-image {
+  height: auto;
+  width: 100%;
+  background: transparent;
+}
+
 .masthead-logo-link:hover .masthead-logo-image {
   filter: brightness(1.08) drop-shadow(0 0 12px rgba(196, 43, 43, 0.25));
   transition: filter var(--transition-vhs);
