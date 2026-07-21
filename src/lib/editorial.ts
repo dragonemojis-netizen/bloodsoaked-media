@@ -5,6 +5,7 @@ import type {
   CurrentlyExperiencing,
   FromTheEditor,
   FromTheEditorImage,
+  RecentPhysicalAcquisition,
 } from "@/types/editorial";
 
 const EDITORIAL_DIR = path.join(process.cwd(), "content", "editorial");
@@ -14,6 +15,26 @@ export function getCurrentlyExperiencing(): CurrentlyExperiencing {
   if (!fs.existsSync(filePath)) return {};
 
   return JSON.parse(fs.readFileSync(filePath, "utf8")) as CurrentlyExperiencing;
+}
+
+export function getRecentPhysicalAcquisition(): RecentPhysicalAcquisition | null {
+  const filePath = path.join(
+    EDITORIAL_DIR,
+    "recent-physical-acquisition.json",
+  );
+  if (!fs.existsSync(filePath)) return null;
+
+  const raw = JSON.parse(
+    fs.readFileSync(filePath, "utf8"),
+  ) as Partial<RecentPhysicalAcquisition>;
+
+  if (typeof raw.title !== "string" || raw.title.length === 0) return null;
+
+  return {
+    title: raw.title,
+    href: typeof raw.href === "string" && raw.href.length > 0 ? raw.href : undefined,
+    updated: raw.updated,
+  };
 }
 
 function parseFromTheEditorImages(raw: unknown): FromTheEditorImage[] {

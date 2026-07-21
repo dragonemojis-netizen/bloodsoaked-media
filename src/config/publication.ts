@@ -94,7 +94,7 @@ export const publication = {
   filedUnder: "Filed Under",
   editorsPick: "Editor's Pick",
   latestLogEntry: "Latest Log Entry",
-  recentlyCatalogued: "Recently Added to the Collection",
+  recentlyCatalogued: "Latest Physical Acquisition",
   inTheVault: "In the Vault",
   vaultRotatingNote: "Selections rotate. The shelf never closes.",
   partOfCollection: (name: string) => `Part of the ${name}`,

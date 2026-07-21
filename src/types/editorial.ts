@@ -6,6 +6,12 @@ export interface CurrentlyExperiencing {
   updated?: string;
 }
 
+export interface RecentPhysicalAcquisition {
+  title: string;
+  href?: string;
+  updated?: string;
+}
+
 export interface FromTheEditorImage {
   src: string;
   alt: string;

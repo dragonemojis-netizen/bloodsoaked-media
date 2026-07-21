@@ -1,16 +1,18 @@
 import Link from "next/link";
 import { publication } from "@/config/publication";
 import { site } from "@/config/site";
-import { getCurrentlyExperiencing } from "@/lib/editorial";
+import {
+  getCurrentlyExperiencing,
+  getRecentPhysicalAcquisition,
+} from "@/lib/editorial";
 import { getLatestMediaLogEntry } from "@/lib/media-log";
-import { getRecentlyCataloguedCollection } from "@/lib/collections";
 import { getEditorPick } from "@/lib/content";
 
 export async function EditorPresence() {
-  const [experiencing, latestLog, collection, pick] = await Promise.all([
+  const [experiencing, latestLog, acquisition, pick] = await Promise.all([
     Promise.resolve(getCurrentlyExperiencing()),
     Promise.resolve(getLatestMediaLogEntry()),
-    Promise.resolve(getRecentlyCataloguedCollection()),
+    Promise.resolve(getRecentPhysicalAcquisition()),
     getEditorPick(),
   ]);
 
@@ -25,17 +27,21 @@ export async function EditorPresence() {
       href: `/media-log/${latestLog.slug}`,
       value: latestLog.title,
     },
-    collection && {
+    acquisition && {
       label: publication.recentlyCatalogued,
-      href: `/collections/${collection.slug}`,
-      value: collection.title,
+      href: acquisition.href,
+      value: acquisition.title,
     },
     pick && {
       label: publication.editorsPick,
       href: `/articles/${pick.slug}`,
       value: pick.title,
     },
-  ].filter(Boolean) as { label: string; href: string; value: string }[];
+  ].filter(Boolean) as {
+    label: string;
+    href?: string;
+    value: string;
+  }[];
 
   if (items.length === 0) return null;
 
@@ -54,12 +60,16 @@ export async function EditorPresence() {
             className="font-mono text-[0.55rem] uppercase tracking-[0.1em] text-foreground-muted"
           >
             <span className="text-accent-bright/90">{item.label}:</span>{" "}
-            <Link
-              href={item.href}
-              className="text-foreground-muted transition-colors hover:text-foreground"
-            >
-              {item.value}
-            </Link>
+            {item.href ? (
+              <Link
+                href={item.href}
+                className="text-foreground-muted transition-colors hover:text-foreground"
+              >
+                {item.value}
+              </Link>
+            ) : (
+              <span className="text-foreground-muted">{item.value}</span>
+            )}
           </p>
         ))}
       </div>
