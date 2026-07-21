@@ -79,6 +79,13 @@
     "goldeneye-007-reloaded": { "wikipedia": "GoldenEye 007 (2010 video game)" },
     "afro-samurai": { "wikipedia": "Afro Samurai (video game)" },
     "baroque": { "wikipedia": "Baroque (video game)" },
-    "wild-arms": { "wikipedia": "Wild Arms (video game)" }
+    "wild-arms": { "wikipedia": "Wild Arms (video game)" },
+    "assassin-s-creed-iv-black-flag-resynced": {
+      "wikipedia": "Assassin's Creed Black Flag Resynced"
+    },
+    "echoes-of-aincrad": {
+      "local": "/images/media-log/echoes-of-aincrad.jpg",
+      "source": "manual — Steam capsule (no Wikipedia page)"
+    }
   }
 }

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-12T22:06:33.552Z",
-  "saved": 2,
-  "skipped": 53,
-  "failed": 0,
+  "generatedAt": "2026-07-21T22:50:23.585Z",
+  "saved": 1,
+  "skipped": 55,
+  "failed": 1,
   "entries": [
     {
       "slug": "disgaea-6",
@@ -218,15 +218,22 @@
     },
     {
       "slug": "baroque",
-      "status": "saved",
-      "wikipedia": "Baroque (video game)",
-      "matchedTitle": "Baroque (video game)"
+      "status": "skipped"
     },
     {
       "slug": "wild-arms",
+      "status": "skipped"
+    },
+    {
+      "slug": "assassins-creed-iv-black-flag-resynced",
       "status": "saved",
-      "wikipedia": "Wild Arms (video game)",
-      "matchedTitle": "Wild Arms (video game)"
+      "wikipedia": "Assassin's Creed Black Flag Resynced",
+      "matchedTitle": "Assassin's Creed Black Flag Resynced"
+    },
+    {
+      "slug": "echoes-of-aincrad",
+      "status": "failed",
+      "wikipedia": "Echoes of Aincrad"
     }
   ]
 }
