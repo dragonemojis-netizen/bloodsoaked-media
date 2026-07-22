@@ -102,7 +102,7 @@ export const publication = {
   laterInCatalog: "Later in the Catalog",
   byline: "Words by",
   theArchives: "The Archives",
-  theArchivesEyebrow: "Recovered Artifacts",
+  theArchivesEyebrow: "Special Collections",
   publicationTimeline: "Publication Timeline",
   timelineEyebrow: "Publication Record",
   legacyArchivedFrom: (source: string) => `Archived from ${source}`,

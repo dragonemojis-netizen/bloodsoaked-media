@@ -1,0 +1,614 @@
+{
+  "generatedAt": "2026-07-22T01:53:40.614Z",
+  "dryRun": false,
+  "recovered": {
+    "staffProfiles": 6,
+    "authorBiographies": 5,
+    "missingImages": 0,
+    "missingParagraphsPages": 1,
+    "unavailableArticlesFilled": 0,
+    "galleries": 0,
+    "navigationItems": 0
+  },
+  "stillUnavailable": [
+    {
+      "slug": "2018-q2-brians-top-10",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/2018-q2-brians-top-10",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "2018-q2-brians-top-ten-releases",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/2018-q2-brians-top-ten-releases",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "2018-q2-brians-top-ten",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/2018-q2-brians-top-ten",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "2018-q2-brians-top-ten2851174",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/2018-q2-brians-top-ten2851174",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "2018-q2-brians-top-ten9546547",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/2018-q2-brians-top-ten9546547",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "2018-q2-brians-top-ten9567236",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/2018-q2-brians-top-ten9567236",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "alexs-top-10-release-of-2017",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/alexs-top-10-release-of-2017",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "asking-alexandria-release-new-single-the-black",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/asking-alexandria-release-new-single-the-black",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "february-07th-2016",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/february-07th-2016",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "february-21st-2016",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/february-21st-2016",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "january-22nd-2016",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/january-22nd-2016",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "joy-release-hope-less",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/joy-release-hope-less",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "june-18th-2016",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/june-18th-2016",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "martro-transmutation-of-wounds",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/martro-transmutation-of-wounds",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "may-20th-2016",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/may-20th-2016",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "polyphia-announce-new-album-and-release-first-single-euphoria",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/polyphia-announce-new-album-and-release-first-single-euphoria",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "prison-interview-transition-and-the-debut-ep",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/prison-interview-transition-and-the-debut-ep",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "review-aborted-retrogore",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/review-aborted-retrogore",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "review-aborted-termination-redux-ep",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/review-aborted-termination-redux-ep",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "review-black-anvil-as-was",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/review-black-anvil-as-was",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "review-cane-hill-smile",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/review-cane-hill-smile",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "review-giles-corey-giles-corey",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/review-giles-corey-giles-corey",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "review-hundred-suns-the-prestaliis",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/review-hundred-suns-the-prestaliis",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "review-loathe-the-cold-sun",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/review-loathe-the-cold-sun",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "review-nails-you-will-never-be-one-of-us",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/review-nails-you-will-never-be-one-of-us",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "review-perturbator-new-model",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/review-perturbator-new-model",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "review-prison-ngri",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/review-prison-ngri",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "review-sectioned-annihilated",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/review-sectioned-annihilated",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "review-sumac-what-one-becomes",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/review-sumac-what-one-becomes",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "review-sworn-in-all-smiles",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/review-sworn-in-all-smiles",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "review-the-white-noise-arent-you-glad",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/review-the-white-noise-arent-you-glad",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "review-tripper-ancestral-wounds",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/review-tripper-ancestral-wounds",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "review-wreck-and-reference-indifferent-rivers-romance-end",
+      "url": "https://metallifestyle.weebly.com/metal-lifestyle/review-wreck-and-reference-indifferent-rivers-romance-end",
+      "kind": "post",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--hacksaw-ridge-review",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/hacksaw-ridge-review",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--november-25th-2016",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/november-25th-2016",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--oscar-predictions",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/oscar-predictions",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-10-cloverfield-lane",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-10-cloverfield-lane",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-alien-covenant",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-alien-covenant",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-and-analysis-mother",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-and-analysis-mother",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-baby-driver",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-baby-driver",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-bloodline-season-3",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-bloodline-season-3",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-castlevania",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-castlevania",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-dunkirk",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-dunkirk",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-get-out",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-get-out",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-green-room",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-green-room",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-independence-day-resurgence",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-independence-day-resurgence",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-jason-bourne",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-jason-bourne",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-life",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-life",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-mindhunter",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-mindhunter",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-nerve",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-nerve",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-ratchet-clank",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-ratchet-clank",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-shot-caller",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-shot-caller",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-snowden",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-snowden",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-song-to-song",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-song-to-song",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-star-trek-beyond",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-star-trek-beyond",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-stranger-thing-season-1",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-stranger-thing-season-1",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-stranger-thing-season-2",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-stranger-thing-season-2",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-the-accountant",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-the-accountant",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-the-mummy",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-the-mummy",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-the-nice-guys",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-the-nice-guys",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-the-night-of",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-the-night-of",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-the-post",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-the-post",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--review-xxx-the-return-of-xander-cage",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/review-xxx-the-return-of-xander-cage",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--rogue-one-a-star-wars-story-review",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/rogue-one-a-star-wars-story-review",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--the-second-golden-age-of-action",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/the-second-golden-age-of-action",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "curtains-movie--tv-reviews--what-the-hell-is-oats-studio-review-of-rakka",
+      "url": "https://metallifestyle.weebly.com/curtains-movie--tv-reviews/what-the-hell-is-oats-studio-review-of-rakka",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "fear-short-horror-tales-from-the-team--fear-a-snowy-place-in-the-mountains",
+      "url": "https://metallifestyle.weebly.com/fear-short-horror-tales-from-the-team/fear-a-snowy-place-in-the-mountains",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "fear-short-horror-tales-from-the-team--fear-it-trembles",
+      "url": "https://metallifestyle.weebly.com/fear-short-horror-tales-from-the-team/fear-it-trembles",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "fear-short-horror-tales-from-the-team--fear-pumpkin-fuzz",
+      "url": "https://metallifestyle.weebly.com/fear-short-horror-tales-from-the-team/fear-pumpkin-fuzz",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "fear-short-horror-tales-from-the-team--fear-the-wrongful-death-of-oliver-kerrigan",
+      "url": "https://metallifestyle.weebly.com/fear-short-horror-tales-from-the-team/fear-the-wrongful-death-of-oliver-kerrigan",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "fear-short-horror-tales-from-the-team--in-the-home",
+      "url": "https://metallifestyle.weebly.com/fear-short-horror-tales-from-the-team/in-the-home",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "fear-short-horror-tales-from-the-team--no-ones-friend",
+      "url": "https://metallifestyle.weebly.com/fear-short-horror-tales-from-the-team/no-ones-friend",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "gaming-corner--review-hyper-light-drifter",
+      "url": "https://metallifestyle.weebly.com/gaming-corner/review-hyper-light-drifter",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "gaming-corner--review-overwatch",
+      "url": "https://metallifestyle.weebly.com/gaming-corner/review-overwatch",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "gaming-corner--should-you-wait-dead-cells",
+      "url": "https://metallifestyle.weebly.com/gaming-corner/should-you-wait-dead-cells",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "prisms-local-show-recap--prisms-darke-complex-510",
+      "url": "https://metallifestyle.weebly.com/prisms-local-show-recap/prisms-darke-complex-510",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    },
+    {
+      "slug": "prisms-local-show-recap--yuth-forever-forever-and-ever-tour",
+      "url": "https://metallifestyle.weebly.com/prisms-local-show-recap/yuth-forever-forever-and-ever-tour",
+      "kind": "page",
+      "confidence": "high",
+      "note": "Still unreachable: HTTP 404 (Wayback skipped)"
+    }
+  ],
+  "skippedFalseGaps": [
+    {
+      "slug": "--part-23-when-acting-as-a-wave-second-wave-metalcore-2000-20081340119",
+      "reason": "malformed-duplicate-url"
+    },
+    {
+      "slug": "--part-23-when-acting-as-a-wave-second-wave-metalcore-2000-20081636663",
+      "reason": "malformed-duplicate-url"
+    },
+    {
+      "slug": "--part-23-when-acting-as-a-wave-second-wave-metalcore-2000-20082836180",
+      "reason": "malformed-duplicate-url"
+    },
+    {
+      "slug": "--part-23-when-acting-as-a-wave-second-wave-metalcore-2000-20083119867",
+      "reason": "malformed-duplicate-url"
+    },
+    {
+      "slug": "--part-23-when-acting-as-a-wave-second-wave-metalcore-2000-20084444097",
+      "reason": "malformed-duplicate-url"
+    },
+    {
+      "slug": "--part-23-when-acting-as-a-wave-second-wave-metalcore-2000-20085491634",
+      "reason": "malformed-duplicate-url"
+    },
+    {
+      "slug": "--part-23-when-acting-as-a-wave-second-wave-metalcore-2000-20085504827",
+      "reason": "malformed-duplicate-url"
+    },
+    {
+      "slug": "--part-23-when-acting-as-a-wave-second-wave-metalcore-2000-2009",
+      "reason": "malformed-duplicate-url"
+    },
+    {
+      "slug": "--part-24-when-acting-as-a-wave-second-wave-metalcore-2000-2008",
+      "reason": "malformed-duplicate-url"
+    },
+    {
+      "slug": "--the-american-metalcore-project-presents-i-unironically-think-nintendocore-was-the-best-metal-subgenre-of-the-00s",
+      "reason": "malformed-duplicate-url"
+    },
+    {
+      "slug": "american-metalcore-project--part-23-when-acting-as-a-wave-second-wave-metalcore-2000-20088721012",
+      "reason": "malformed-duplicate-url"
+    },
+    {
+      "slug": "american-metalcore-project--part-23-when-acting-as-a-wave-second-wave-metalcore-2000-20089267024",
+      "reason": "malformed-duplicate-url"
+    }
+  ],
+  "actions": [
+    {
+      "slug": "about-us-meet-the-staff",
+      "action": "merged",
+      "mode": "expand-staff-page",
+      "textLength": 2658
+    }
+  ],
+  "liveNavCount": 18,
+  "missingNavigationCandidates": []
+}

@@ -6,7 +6,18 @@ import { getAllTags } from "@/lib/content";
 import { slugifyTag } from "@/lib/slugs";
 import { isLegacyArchivePublic } from "@/lib/legacy-gate";
 import { getPublishedCollectionSpecimenIds } from "@/lib/collection-archive";
+import { ARCHIVE_SLUGS } from "@/config/archives";
+import {
+  METAL_LIFESTYLE_BASE,
+  metalLifestyleNav,
+} from "@/config/metal-lifestyle";
 import { site } from "@/config/site";
+import {
+  hasMetalLifestyleArchive,
+  listMetalLifestylePageSlugs,
+  listMetalLifestylePostSlugs,
+} from "@/lib/metal-lifestyle-archive";
+import { getMetalLifestylePosts } from "@/lib/metal-lifestyle";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const posts = await getAllPostMeta();
@@ -14,6 +25,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const mediaLog = getAllMediaLogEntries();
   const tags = getAllTags(posts);
   const collectionSpecimens = getPublishedCollectionSpecimenIds();
+  const mlArchive = legacyPublic && hasMetalLifestyleArchive();
+  const metalLifestylePosts = mlArchive
+    ? listMetalLifestylePostSlugs()
+    : legacyPublic
+      ? (await getMetalLifestylePosts()).map((p) => p.slug)
+      : [];
+  const metalLifestylePages = mlArchive ? listMetalLifestylePageSlugs() : [];
 
   const staticRoutes = [
     "",
@@ -25,7 +43,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     "/archive",
     "/archive/mood",
     "/timeline",
-    ...(legacyPublic ? ["/the-archives"] : []),
+    ...(legacyPublic
+      ? [
+          "/the-archives",
+          ...ARCHIVE_SLUGS.map((slug) => `/the-archives/${slug}`),
+          ...metalLifestyleNav
+            .filter((item) => item.hub)
+            .map((item) => item.href),
+        ]
+      : []),
     "/vault",
     "/about",
     "/search",
@@ -87,6 +113,18 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: new Date(),
       changeFrequency: "monthly" as const,
       priority: 0.55,
+    })),
+    ...metalLifestylePosts.map((slug) => ({
+      url: `${site.url}${METAL_LIFESTYLE_BASE}/post/${slug}`,
+      lastModified: new Date(),
+      changeFrequency: "yearly" as const,
+      priority: 0.4,
+    })),
+    ...metalLifestylePages.map((slug) => ({
+      url: `${site.url}${METAL_LIFESTYLE_BASE}/page/${slug}`,
+      lastModified: new Date(),
+      changeFrequency: "yearly" as const,
+      priority: 0.35,
     })),
   ];
 }

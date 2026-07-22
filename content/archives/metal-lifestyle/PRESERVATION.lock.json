@@ -1,0 +1,31 @@
+{
+  "sealed": true,
+  "sealedAt": "2026-07-22",
+  "status": "historically-complete-recoverable",
+  "principle": "Preserve over redesign. Never overwrite correct historical content without --force.",
+  "canonicalRoutes": {
+    "catalog": "/the-archives/metal-lifestyle",
+    "publication": "/the-archives/metal-lifestyle/blog",
+    "article": "/the-archives/metal-lifestyle/post/[slug]",
+    "page": "/the-archives/metal-lifestyle/page/[slug]",
+    "author": "/the-archives/metal-lifestyle/author/[slug]"
+  },
+  "redirects": {
+    "/the-archives/metal-lifestyle/authorauthor/[slug]": "/the-archives/metal-lifestyle/author/[slug]",
+    "/the-archives/metal-lifestyle/sections/[section]": "/the-archives/metal-lifestyle/page/[section]"
+  },
+  "deprecatedRoutes": {
+    "/the-archives/metal-lifestyle/[slug]": "Legacy Markdown pipeline (content/legacy). Prefer /post/[slug] for the restored publication."
+  },
+  "mutatingScripts": [
+    "recovery:ml:restore-full",
+    "recovery:ml:gap-fill",
+    "recovery:ml:steward-polish"
+  ],
+  "notes": [
+    "Runtime Next.js code is read-only against this tree.",
+    "Do not wire recovery scripts into CI build.",
+    "Exact article bylines are preserved; do not merge Dakota G. / DG / Dakota G in indexes.",
+    "See content/archives/metal-lifestyle/STEWARDSHIP.md"
+  ]
+}

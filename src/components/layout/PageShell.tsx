@@ -13,10 +13,20 @@ function isArticleReadingPath(pathname: string): boolean {
   );
 }
 
+/** Immersive restored publications — no Bloodsoaked chrome. */
+function isImmersiveArchivePath(pathname: string): boolean {
+  return pathname.startsWith("/the-archives/metal-lifestyle");
+}
+
 export async function PageShell({ children }: PageShellProps) {
   const headersList = await headers();
   const pathname = headersList.get("x-pathname") ?? "";
   const readingMode = isArticleReadingPath(pathname);
+  const immersiveArchive = isImmersiveArchivePath(pathname);
+
+  if (immersiveArchive) {
+    return <>{children}</>;
+  }
 
   return (
     <>
