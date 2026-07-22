@@ -1,7 +1,5 @@
 import { SectionHeader } from "@/components/content/SectionHeader";
 import { BrandWatermark } from "@/components/brand/BrandWatermark";
-import { MediaArtifact } from "@/components/brand/MediaArtifact";
-import { PublicationStamp } from "@/components/brand/PublicationStamp";
 import { SiteLogo } from "@/components/layout/SiteLogo";
 import { site } from "@/config/site";
 import { VERDICTS } from "@/types/content";
@@ -24,10 +22,8 @@ export default function AboutPage() {
         description="Bloodsoaked Media is where I keep track of the things that matter to me."
       />
 
-      <div className="relative z-10 mb-10 flex flex-wrap items-center gap-4">
-        <PublicationStamp detail={`Curated by ${site.curator}`} />
-        <SiteLogo variant="mark" />
-        <MediaArtifact label="Cult · Horror · Games" variant="accent" />
+      <div className="relative z-10 mb-14 flex justify-center px-2">
+        <SiteLogo variant="about" />
       </div>
 
       <div className="prose-article space-y-8 text-foreground-muted">
@@ -42,11 +38,10 @@ export default function AboutPage() {
             brain for a week.
           </p>
           <p>
-            I&apos;ve been writing about media for years. Some of that writing
-            started back at Metal Lifestyle, some of it lived under the original
-            Bloodsoaked Media banner for a short time, and some of it is being
-            written right now. This site exists to bring all of that together in
-            one place.
+            I&apos;ve been writing about media for years, and this site exists to
+            bring that work together in one place — reviews, essays, and the
+            ongoing record of what I&apos;ve been playing, watching, reading, and
+            listening to.
           </p>
           <p>
             I don&apos;t really separate media from the memories attached to it.
@@ -96,12 +91,6 @@ export default function AboutPage() {
           <p>
             An ongoing record of what I&apos;ve been playing, watching, reading,
             and listening to.
-          </p>
-
-          <h3>The Archives</h3>
-          <p>
-            Recovered writing from earlier eras of the publication, including
-            Metal Lifestyle (2015-2019) and the original Bloodsoaked Media.
           </p>
         </section>
 

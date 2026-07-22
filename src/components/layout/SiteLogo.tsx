@@ -8,7 +8,7 @@ const variantClasses: Record<LogoVariant, string> = {
   masthead: "h-auto w-full max-w-[200px] sm:max-w-[240px] md:max-w-[280px]",
   header: "h-auto w-full max-w-[168px] opacity-95 sm:max-w-[190px]",
   mark: "h-auto w-full max-w-[56px] opacity-80",
-  about: "h-auto w-full max-w-[200px] opacity-90",
+  about: "h-auto w-full max-w-[min(100%,28rem)] sm:max-w-[32rem] md:max-w-[36rem] opacity-95",
   footer: "h-auto w-full max-w-[200px] sm:max-w-[240px] opacity-95",
 };
 
