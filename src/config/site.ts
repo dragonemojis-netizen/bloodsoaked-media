@@ -14,8 +14,8 @@ export const site = {
   logo: {
     src: "/images/logo-mark.png",
     alt: "Bloodsoaked Media",
-    width: 1024,
-    height: 513,
+    width: 689,
+    height: 198,
   },
 } as const;
 
