@@ -17,6 +17,9 @@ export const site = {
     width: 1529,
     height: 699,
   },
+  social: {
+    facebook: "https://www.facebook.com/profile.php?id=61590606155212",
+  },
 } as const;
 
 /** Primary navigation — reader-facing destinations only. */

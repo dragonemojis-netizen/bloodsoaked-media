@@ -36,6 +36,16 @@ export function SiteFooter() {
                   RSS Feed
                 </Link>
               </li>
+              <li>
+                <a
+                  href={site.social.facebook}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="transition-colors hover:text-accent-bright"
+                >
+                  Facebook
+                </a>
+              </li>
             </ul>
           </nav>
         </div>
