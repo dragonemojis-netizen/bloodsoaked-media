@@ -86,6 +86,10 @@
     "echoes-of-aincrad": {
       "local": "/images/media-log/echoes-of-aincrad.png",
       "source": "manual — official key art provided by Dakota"
+    },
+    "shift-at-midnight": {
+      "local": "/images/media-log/shift-at-midnight.png",
+      "source": "manual — Steam capsule provided by Dakota"
     }
   }
 }
