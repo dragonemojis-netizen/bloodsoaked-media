@@ -90,6 +90,10 @@
     "shift-at-midnight": {
       "local": "/images/media-log/shift-at-midnight.png",
       "source": "manual — Steam capsule provided by Dakota"
+    },
+    "halo-campaign-evolved": {
+      "local": "/images/media-log/halo-campaign-evolved.png",
+      "source": "manual — official key art provided by Dakota"
     }
   }
 }
