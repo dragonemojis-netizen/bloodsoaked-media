@@ -6,11 +6,19 @@ export interface CurrentlyExperiencing {
   updated?: string;
 }
 
+export interface ListeningRoomPlaylist {
+  label: string;
+  spotifyUrl: string;
+  updated?: string;
+}
+
 export interface ListeningRoom {
   heading: string;
   description?: string;
-  spotifyUrl: string;
-  updated?: string;
+  current: ListeningRoomPlaylist;
+  archive: ListeningRoomPlaylist[];
+  showArchive: boolean;
+  archiveHeading: string;
 }
 
 export interface RecentPhysicalAcquisition {

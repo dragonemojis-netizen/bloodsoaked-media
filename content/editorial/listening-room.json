@@ -1,6 +1,12 @@
 {
   "heading": "Current Rotation",
   "description": "The playlist running on repeat at the desk right now.",
-  "spotifyUrl": "https://open.spotify.com/playlist/7zhTp7111BWznmr1UC6uPo?si=fbff3bfc07244ace",
-  "updated": "2026-07-25"
+  "current": {
+    "label": "July 2026",
+    "spotifyUrl": "https://open.spotify.com/playlist/7zhTp7111BWznmr1UC6uPo?si=fbff3bfc07244ace",
+    "updated": "2026-07-25"
+  },
+  "archiveHeading": "Playlist Archive",
+  "showArchive": false,
+  "archive": []
 }

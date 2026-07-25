@@ -5,7 +5,16 @@ import {
 } from "@/lib/media-log-display";
 
 export function formatDate(date: string) {
-  return new Date(date).toLocaleDateString("en-US", {
+  const dateOnly = /^(\d{4})-(\d{2})-(\d{2})$/.exec(date);
+  const value = dateOnly
+    ? new Date(
+        Number(dateOnly[1]),
+        Number(dateOnly[2]) - 1,
+        Number(dateOnly[3]),
+      )
+    : new Date(date);
+
+  return value.toLocaleDateString("en-US", {
     year: "numeric",
     month: "long",
     day: "numeric",

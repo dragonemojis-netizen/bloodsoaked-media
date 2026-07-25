@@ -6,6 +6,7 @@ import type {
   FromTheEditor,
   FromTheEditorImage,
   ListeningRoom,
+  ListeningRoomPlaylist,
   RecentPhysicalAcquisition,
 } from "@/types/editorial";
 
@@ -42,11 +43,52 @@ export function getListeningRoom(): ListeningRoom | null {
   const filePath = path.join(EDITORIAL_DIR, "listening-room.json");
   if (!fs.existsSync(filePath)) return null;
 
-  const raw = JSON.parse(fs.readFileSync(filePath, "utf8")) as Partial<ListeningRoom>;
+  const raw = JSON.parse(fs.readFileSync(filePath, "utf8")) as {
+    heading?: unknown;
+    description?: unknown;
+    current?: unknown;
+    archive?: unknown;
+    showArchive?: unknown;
+    archiveHeading?: unknown;
+  };
+  const fallbackUpdated = fs.statSync(filePath).mtime.toISOString().slice(0, 10);
 
-  if (typeof raw.spotifyUrl !== "string" || raw.spotifyUrl.length === 0) {
-    return null;
-  }
+  const parsePlaylist = (
+    value: unknown,
+    fallbackLabel?: string,
+  ): ListeningRoomPlaylist | null => {
+    if (!value || typeof value !== "object") return null;
+
+    const playlist = value as Record<string, unknown>;
+    if (
+      typeof playlist.spotifyUrl !== "string" ||
+      playlist.spotifyUrl.length === 0
+    ) {
+      return null;
+    }
+
+    return {
+      label:
+        typeof playlist.label === "string" && playlist.label.length > 0
+          ? playlist.label
+          : fallbackLabel ?? "Current playlist",
+      spotifyUrl: playlist.spotifyUrl,
+      updated:
+        typeof playlist.updated === "string"
+          ? playlist.updated
+          : fallbackUpdated,
+    };
+  };
+
+  const current = parsePlaylist(raw.current);
+  if (!current) return null;
+
+  const archive = Array.isArray(raw.archive)
+    ? raw.archive.flatMap((playlist) => {
+        const parsed = parsePlaylist(playlist);
+        return parsed ? [parsed] : [];
+      })
+    : [];
 
   return {
     heading:
@@ -57,8 +99,13 @@ export function getListeningRoom(): ListeningRoom | null {
       typeof raw.description === "string" && raw.description.length > 0
         ? raw.description
         : undefined,
-    spotifyUrl: raw.spotifyUrl,
-    updated: typeof raw.updated === "string" ? raw.updated : undefined,
+    current,
+    archive,
+    showArchive: raw.showArchive === true,
+    archiveHeading:
+      typeof raw.archiveHeading === "string" && raw.archiveHeading.length > 0
+        ? raw.archiveHeading
+        : "Playlist Archive",
   };
 }
 
