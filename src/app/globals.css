@@ -321,6 +321,21 @@ a {
     0 8px 40px rgba(139, 26, 26, 0.12);
 }
 
+.listening-room-embed {
+  transition:
+    border-color var(--transition-vhs),
+    box-shadow var(--transition-vhs),
+    background-color var(--transition-vhs);
+}
+
+.listening-room-embed:hover {
+  border-color: color-mix(in srgb, var(--accent) 35%, var(--border));
+  background-color: color-mix(in srgb, var(--background-elevated) 88%, #120808);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.03),
+    0 6px 20px rgba(0, 0, 0, 0.22);
+}
+
 .issue-mark {
   transform: rotate(-1deg);
 }

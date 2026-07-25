@@ -7,26 +7,26 @@ const SPOTIFY_EMBED_TYPES = new Set([
   "episode",
 ]);
 
+const SPOTIFY_ID_PATTERN = /^[A-Za-z0-9]+$/;
+
 /**
- * Convert a Spotify share URL or URI into an official embed URL.
- * Accepts formats like:
- *   https://open.spotify.com/playlist/{id}?si=...
- *   spotify:playlist:{id}
- * Returns null when the input is not a recognized Spotify link.
+ * Extract a Spotify resource ID from a share URL, URI, or bare ID.
+ * Returns null when the input cannot be resolved.
  */
-export function toSpotifyEmbedUrl(input: string | undefined): string | null {
+export function extractSpotifyId(
+  input: string | undefined,
+  expectedType = "playlist",
+): string | null {
   if (typeof input !== "string" || input.length === 0) return null;
 
   const value = input.trim();
 
-  // spotify:playlist:{id}
+  if (SPOTIFY_ID_PATTERN.test(value)) return value;
+
   const uriMatch = value.match(/^spotify:([a-z]+):([A-Za-z0-9]+)$/);
   if (uriMatch) {
     const [, type, id] = uriMatch;
-    if (SPOTIFY_EMBED_TYPES.has(type)) {
-      return `https://open.spotify.com/embed/${type}/${id}`;
-    }
-    return null;
+    return type === expectedType ? id : null;
   }
 
   let url: URL;
@@ -45,7 +45,22 @@ export function toSpotifyEmbedUrl(input: string | undefined): string | null {
 
   const type = segments[typeIndex];
   const id = segments[typeIndex + 1];
-  if (!id || !/^[A-Za-z0-9]+$/.test(id)) return null;
+  if (type !== expectedType || !id || !SPOTIFY_ID_PATTERN.test(id)) {
+    return null;
+  }
 
-  return `https://open.spotify.com/embed/${type}/${id}`;
+  return id;
+}
+
+/**
+ * Build an official Spotify embed URL from a playlist ID, share URL, or URI.
+ */
+export function toSpotifyEmbedUrl(input: string | undefined): string | null {
+  const id = extractSpotifyId(input, "playlist");
+  if (!id) return null;
+  return `https://open.spotify.com/embed/playlist/${id}`;
+}
+
+export function toSpotifyPlaylistUrl(spotifyId: string): string {
+  return `https://open.spotify.com/playlist/${spotifyId}`;
 }

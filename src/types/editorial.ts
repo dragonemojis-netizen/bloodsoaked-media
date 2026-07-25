@@ -6,16 +6,29 @@ export interface CurrentlyExperiencing {
   updated?: string;
 }
 
+/** A single monthly (or otherwise dated) Spotify playlist in the Listening Room archive. */
 export interface ListeningRoomPlaylist {
-  label: string;
+  title: string;
+  description?: string;
+  /** Spotify playlist ID — used to build the embed URL. */
+  spotifyId: string;
+  /** Public open.spotify.com URL for the playlist (derived when omitted). */
   spotifyUrl: string;
+  created?: string;
   updated?: string;
+  coverImage?: string;
+  notes?: string;
+  archived: boolean;
 }
 
 export interface ListeningRoom {
   heading: string;
   description?: string;
+  /** Full playlist catalog — source of truth for current + archive. */
+  playlists: ListeningRoomPlaylist[];
+  /** Featured non-archived playlist. */
   current: ListeningRoomPlaylist;
+  /** Archived monthly playlists, newest first. */
   archive: ListeningRoomPlaylist[];
   showArchive: boolean;
   archiveHeading: string;

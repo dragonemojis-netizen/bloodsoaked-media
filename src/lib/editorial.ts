@@ -9,6 +9,10 @@ import type {
   ListeningRoomPlaylist,
   RecentPhysicalAcquisition,
 } from "@/types/editorial";
+import {
+  extractSpotifyId,
+  toSpotifyPlaylistUrl,
+} from "@/lib/spotify";
 
 const EDITORIAL_DIR = path.join(process.cwd(), "content", "editorial");
 
@@ -39,6 +43,51 @@ export function getRecentPhysicalAcquisition(): RecentPhysicalAcquisition | null
   };
 }
 
+function asOptionalString(value: unknown): string | undefined {
+  return typeof value === "string" && value.length > 0 ? value : undefined;
+}
+
+function parseListeningRoomPlaylist(
+  value: unknown,
+  fallbackUpdated: string,
+): ListeningRoomPlaylist | null {
+  if (!value || typeof value !== "object") return null;
+
+  const playlist = value as Record<string, unknown>;
+  const spotifyId =
+    extractSpotifyId(asOptionalString(playlist.spotifyId)) ??
+    extractSpotifyId(asOptionalString(playlist.spotifyUrl));
+
+  if (!spotifyId) return null;
+
+  const title =
+    asOptionalString(playlist.title) ??
+    asOptionalString(playlist.label) ??
+    "Untitled playlist";
+
+  return {
+    title,
+    description: asOptionalString(playlist.description),
+    spotifyId,
+    spotifyUrl:
+      asOptionalString(playlist.spotifyUrl) ?? toSpotifyPlaylistUrl(spotifyId),
+    created: asOptionalString(playlist.created),
+    updated: asOptionalString(playlist.updated) ?? fallbackUpdated,
+    coverImage: asOptionalString(playlist.coverImage),
+    notes: asOptionalString(playlist.notes),
+    archived: playlist.archived === true,
+  };
+}
+
+function comparePlaylistRecency(
+  a: ListeningRoomPlaylist,
+  b: ListeningRoomPlaylist,
+): number {
+  const aKey = a.updated ?? a.created ?? "";
+  const bKey = b.updated ?? b.created ?? "";
+  return bKey.localeCompare(aKey);
+}
+
 export function getListeningRoom(): ListeningRoom | null {
   const filePath = path.join(EDITORIAL_DIR, "listening-room.json");
   if (!fs.existsSync(filePath)) return null;
@@ -46,6 +95,7 @@ export function getListeningRoom(): ListeningRoom | null {
   const raw = JSON.parse(fs.readFileSync(filePath, "utf8")) as {
     heading?: unknown;
     description?: unknown;
+    playlists?: unknown;
     current?: unknown;
     archive?: unknown;
     showArchive?: unknown;
@@ -53,42 +103,39 @@ export function getListeningRoom(): ListeningRoom | null {
   };
   const fallbackUpdated = fs.statSync(filePath).mtime.toISOString().slice(0, 10);
 
-  const parsePlaylist = (
-    value: unknown,
-    fallbackLabel?: string,
-  ): ListeningRoomPlaylist | null => {
-    if (!value || typeof value !== "object") return null;
-
-    const playlist = value as Record<string, unknown>;
-    if (
-      typeof playlist.spotifyUrl !== "string" ||
-      playlist.spotifyUrl.length === 0
-    ) {
-      return null;
-    }
-
-    return {
-      label:
-        typeof playlist.label === "string" && playlist.label.length > 0
-          ? playlist.label
-          : fallbackLabel ?? "Current playlist",
-      spotifyUrl: playlist.spotifyUrl,
-      updated:
-        typeof playlist.updated === "string"
-          ? playlist.updated
-          : fallbackUpdated,
-    };
-  };
-
-  const current = parsePlaylist(raw.current);
-  if (!current) return null;
-
-  const archive = Array.isArray(raw.archive)
-    ? raw.archive.flatMap((playlist) => {
-        const parsed = parsePlaylist(playlist);
+  const fromCatalog = Array.isArray(raw.playlists)
+    ? raw.playlists.flatMap((playlist) => {
+        const parsed = parseListeningRoomPlaylist(playlist, fallbackUpdated);
         return parsed ? [parsed] : [];
       })
     : [];
+
+  // Legacy shape: { current, archive } — still accepted so older configs keep working.
+  const legacyCurrent = parseListeningRoomPlaylist(raw.current, fallbackUpdated);
+  const legacyArchive = Array.isArray(raw.archive)
+    ? raw.archive.flatMap((playlist) => {
+        const parsed = parseListeningRoomPlaylist(playlist, fallbackUpdated);
+        return parsed
+          ? [{ ...parsed, archived: true }]
+          : [];
+      })
+    : [];
+
+  const playlists =
+    fromCatalog.length > 0
+      ? fromCatalog
+      : [
+          ...(legacyCurrent ? [{ ...legacyCurrent, archived: false }] : []),
+          ...legacyArchive,
+        ];
+
+  if (playlists.length === 0) return null;
+
+  const current =
+    playlists.find((playlist) => !playlist.archived) ?? playlists[0];
+  const archive = playlists
+    .filter((playlist) => playlist.archived && playlist.spotifyId !== current.spotifyId)
+    .sort(comparePlaylistRecency);
 
   return {
     heading:
@@ -99,6 +146,7 @@ export function getListeningRoom(): ListeningRoom | null {
       typeof raw.description === "string" && raw.description.length > 0
         ? raw.description
         : undefined,
+    playlists,
     current,
     archive,
     showArchive: raw.showArchive === true,
