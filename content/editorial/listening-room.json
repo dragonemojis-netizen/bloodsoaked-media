@@ -1,15 +1,15 @@
 {
   "heading": "Current Rotation",
-  "description": "The playlist running on repeat at the desk right now.",
-  "archiveHeading": "Playlist Archive",
+  "description": "The soundtrack at the desk while the issue is being written — articles, reviews, and the media log included.",
+  "archiveHeading": "Previous Rotations",
   "showArchive": false,
   "playlists": [
     {
       "title": "July 2026",
       "description": "This month's desk rotation.",
-      "spotifyId": "7zhTp7111BWznmr1UC6uPo",
-      "created": "2026-07-01",
-      "updated": "2026-07-25",
+      "spotifyPlaylistId": "7zhTp7111BWznmr1UC6uPo",
+      "createdAt": "2026-07-01",
+      "updatedAt": "2026-07-25",
       "archived": false
     }
   ]

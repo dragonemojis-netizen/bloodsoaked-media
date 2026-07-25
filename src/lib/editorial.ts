@@ -54,11 +54,12 @@ function parseListeningRoomPlaylist(
   if (!value || typeof value !== "object") return null;
 
   const playlist = value as Record<string, unknown>;
-  const spotifyId =
+  const spotifyPlaylistId =
+    extractSpotifyId(asOptionalString(playlist.spotifyPlaylistId)) ??
     extractSpotifyId(asOptionalString(playlist.spotifyId)) ??
     extractSpotifyId(asOptionalString(playlist.spotifyUrl));
 
-  if (!spotifyId) return null;
+  if (!spotifyPlaylistId) return null;
 
   const title =
     asOptionalString(playlist.title) ??
@@ -68,11 +69,17 @@ function parseListeningRoomPlaylist(
   return {
     title,
     description: asOptionalString(playlist.description),
-    spotifyId,
+    spotifyPlaylistId,
     spotifyUrl:
-      asOptionalString(playlist.spotifyUrl) ?? toSpotifyPlaylistUrl(spotifyId),
-    created: asOptionalString(playlist.created),
-    updated: asOptionalString(playlist.updated) ?? fallbackUpdated,
+      asOptionalString(playlist.spotifyUrl) ??
+      toSpotifyPlaylistUrl(spotifyPlaylistId),
+    createdAt:
+      asOptionalString(playlist.createdAt) ??
+      asOptionalString(playlist.created),
+    updatedAt:
+      asOptionalString(playlist.updatedAt) ??
+      asOptionalString(playlist.updated) ??
+      fallbackUpdated,
     coverImage: asOptionalString(playlist.coverImage),
     notes: asOptionalString(playlist.notes),
     archived: playlist.archived === true,
@@ -83,8 +90,8 @@ function comparePlaylistRecency(
   a: ListeningRoomPlaylist,
   b: ListeningRoomPlaylist,
 ): number {
-  const aKey = a.updated ?? a.created ?? "";
-  const bKey = b.updated ?? b.created ?? "";
+  const aKey = a.updatedAt ?? a.createdAt ?? "";
+  const bKey = b.updatedAt ?? b.createdAt ?? "";
   return bKey.localeCompare(aKey);
 }
 
@@ -100,6 +107,7 @@ export function getListeningRoom(): ListeningRoom | null {
     archive?: unknown;
     showArchive?: unknown;
     archiveHeading?: unknown;
+    archiveHref?: unknown;
   };
   const fallbackUpdated = fs.statSync(filePath).mtime.toISOString().slice(0, 10);
 
@@ -115,9 +123,7 @@ export function getListeningRoom(): ListeningRoom | null {
   const legacyArchive = Array.isArray(raw.archive)
     ? raw.archive.flatMap((playlist) => {
         const parsed = parseListeningRoomPlaylist(playlist, fallbackUpdated);
-        return parsed
-          ? [{ ...parsed, archived: true }]
-          : [];
+        return parsed ? [{ ...parsed, archived: true }] : [];
       })
     : [];
 
@@ -134,7 +140,11 @@ export function getListeningRoom(): ListeningRoom | null {
   const current =
     playlists.find((playlist) => !playlist.archived) ?? playlists[0];
   const archive = playlists
-    .filter((playlist) => playlist.archived && playlist.spotifyId !== current.spotifyId)
+    .filter(
+      (playlist) =>
+        playlist.archived &&
+        playlist.spotifyPlaylistId !== current.spotifyPlaylistId,
+    )
     .sort(comparePlaylistRecency);
 
   return {
@@ -153,7 +163,8 @@ export function getListeningRoom(): ListeningRoom | null {
     archiveHeading:
       typeof raw.archiveHeading === "string" && raw.archiveHeading.length > 0
         ? raw.archiveHeading
-        : "Playlist Archive",
+        : "Previous Rotations",
+    archiveHref: asOptionalString(raw.archiveHref),
   };
 }
 
