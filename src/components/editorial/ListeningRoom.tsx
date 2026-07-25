@@ -116,16 +116,29 @@ export function ListeningRoom({ data }: ListeningRoomProps) {
         playlist={data.current}
       />
 
-      {data.current.updatedAt && (
-        <p className="listening-room-meta mt-6 font-mono text-[0.55rem] uppercase tracking-[0.18em] text-foreground-muted/70">
-          <span>Updated</span>
-          <span className="mx-1.5 text-accent/55" aria-hidden="true">
-            •
-          </span>
-          <time dateTime={data.current.updatedAt}>
-            {formatDate(data.current.updatedAt)}
-          </time>
-        </p>
+      {(data.metaLabel || data.current.updatedAt) && (
+        <footer className="listening-room-meta mt-6">
+          {data.metaLabel && (
+            <p className="font-mono text-[0.5rem] uppercase tracking-[0.22em] text-foreground-muted/55">
+              {data.metaLabel}
+            </p>
+          )}
+          {data.current.updatedAt && (
+            <p
+              className={`font-mono text-[0.55rem] uppercase tracking-[0.18em] text-foreground-muted/70 ${
+                data.metaLabel ? "mt-1.5" : ""
+              }`}
+            >
+              <span>Updated</span>
+              <span className="mx-1.5 text-accent/55" aria-hidden="true">
+                •
+              </span>
+              <time dateTime={data.current.updatedAt}>
+                {formatDate(data.current.updatedAt)}
+              </time>
+            </p>
+          )}
+        </footer>
       )}
 
       {data.showArchive && (

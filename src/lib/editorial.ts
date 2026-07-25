@@ -102,6 +102,7 @@ export function getListeningRoom(): ListeningRoom | null {
   const raw = JSON.parse(fs.readFileSync(filePath, "utf8")) as {
     heading?: unknown;
     description?: unknown;
+    metaLabel?: unknown;
     playlists?: unknown;
     current?: unknown;
     archive?: unknown;
@@ -156,6 +157,7 @@ export function getListeningRoom(): ListeningRoom | null {
       typeof raw.description === "string" && raw.description.length > 0
         ? raw.description
         : undefined,
+    metaLabel: asOptionalString(raw.metaLabel) ?? "Issue Playlist",
     playlists,
     current,
     archive,

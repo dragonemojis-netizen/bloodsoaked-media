@@ -27,6 +27,8 @@ export interface ListeningRoomPlaylist {
 export interface ListeningRoom {
   heading: string;
   description?: string;
+  /** Tiny archival label above the update line — e.g. "Issue Playlist". */
+  metaLabel?: string;
   /** Full catalog — source of truth for current rotation + archive. */
   playlists: ListeningRoomPlaylist[];
   /** Featured non-archived playlist. */

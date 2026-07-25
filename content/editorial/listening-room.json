@@ -1,6 +1,7 @@
 {
   "heading": "Current Rotation",
-  "description": "The soundtrack at the desk while the issue is being written — articles, reviews, and the media log included.",
+  "description": "What has been on repeat while this month's issue comes together.",
+  "metaLabel": "Issue Playlist",
   "archiveHeading": "Previous Rotations",
   "showArchive": false,
   "playlists": [
