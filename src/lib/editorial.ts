@@ -5,6 +5,7 @@ import type {
   CurrentlyExperiencing,
   FromTheEditor,
   FromTheEditorImage,
+  ListeningRoom,
   RecentPhysicalAcquisition,
 } from "@/types/editorial";
 
@@ -34,6 +35,30 @@ export function getRecentPhysicalAcquisition(): RecentPhysicalAcquisition | null
     title: raw.title,
     href: typeof raw.href === "string" && raw.href.length > 0 ? raw.href : undefined,
     updated: raw.updated,
+  };
+}
+
+export function getListeningRoom(): ListeningRoom | null {
+  const filePath = path.join(EDITORIAL_DIR, "listening-room.json");
+  if (!fs.existsSync(filePath)) return null;
+
+  const raw = JSON.parse(fs.readFileSync(filePath, "utf8")) as Partial<ListeningRoom>;
+
+  if (typeof raw.spotifyUrl !== "string" || raw.spotifyUrl.length === 0) {
+    return null;
+  }
+
+  return {
+    heading:
+      typeof raw.heading === "string" && raw.heading.length > 0
+        ? raw.heading
+        : "Current Rotation",
+    description:
+      typeof raw.description === "string" && raw.description.length > 0
+        ? raw.description
+        : undefined,
+    spotifyUrl: raw.spotifyUrl,
+    updated: typeof raw.updated === "string" ? raw.updated : undefined,
   };
 }
 

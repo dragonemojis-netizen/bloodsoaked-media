@@ -1,19 +1,30 @@
 import Link from "next/link";
 import { publication } from "@/config/publication";
 import { CurrentlyExperiencing } from "@/components/editorial/CurrentlyExperiencing";
+import { ListeningRoom } from "@/components/editorial/ListeningRoom";
 import { MediaLogCard } from "@/components/media-log/MediaLogCard";
-import type { CurrentlyExperiencing as CurrentlyExperiencingData } from "@/types/editorial";
+import type {
+  CurrentlyExperiencing as CurrentlyExperiencingData,
+  ListeningRoom as ListeningRoomData,
+} from "@/types/editorial";
 import type { MediaLogEntry } from "@/types/media-log";
 
 interface HomeSidebarProps {
   experiencing: CurrentlyExperiencingData;
+  listeningRoom: ListeningRoomData | null;
   recentLog: MediaLogEntry[];
 }
 
-export function HomeSidebar({ experiencing, recentLog }: HomeSidebarProps) {
+export function HomeSidebar({
+  experiencing,
+  listeningRoom,
+  recentLog,
+}: HomeSidebarProps) {
   return (
     <aside className="space-y-8 lg:sticky lg:top-8 lg:self-start">
       <CurrentlyExperiencing data={experiencing} />
+
+      {listeningRoom && <ListeningRoom data={listeningRoom} />}
 
       {recentLog.length > 0 && (
         <div className="border border-border bg-background-panel/50 p-5">

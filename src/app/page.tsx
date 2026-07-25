@@ -6,17 +6,22 @@ import { SectionKnifeDivider } from "@/components/brand/SectionKnifeDivider";
 import { publication } from "@/config/publication";
 import { PublicationEmptyNotice } from "@/components/content/PublicationEmptyNotice";
 import { getFeaturedPosts, getRecentPosts } from "@/lib/content";
-import { getFromTheEditor, getCurrentlyExperiencing } from "@/lib/editorial";
+import {
+  getFromTheEditor,
+  getCurrentlyExperiencing,
+  getListeningRoom,
+} from "@/lib/editorial";
 import { getRecentMediaLogEntries } from "@/lib/media-log";
 import Link from "next/link";
 
 export default async function HomePage() {
-  const [featured, recent, editor, experiencing, recentLog] =
+  const [featured, recent, editor, experiencing, listeningRoom, recentLog] =
     await Promise.all([
       getFeaturedPosts(2),
       getRecentPosts(4),
       getFromTheEditor(),
       Promise.resolve(getCurrentlyExperiencing()),
+      Promise.resolve(getListeningRoom()),
       Promise.resolve(getRecentMediaLogEntries(3)),
     ]);
 
@@ -80,7 +85,11 @@ export default async function HomePage() {
           </section>
         </div>
 
-        <HomeSidebar experiencing={experiencing} recentLog={recentLog} />
+        <HomeSidebar
+          experiencing={experiencing}
+          listeningRoom={listeningRoom}
+          recentLog={recentLog}
+        />
       </div>
     </div>
   );

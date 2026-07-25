@@ -6,6 +6,13 @@ export interface CurrentlyExperiencing {
   updated?: string;
 }
 
+export interface ListeningRoom {
+  heading: string;
+  description?: string;
+  spotifyUrl: string;
+  updated?: string;
+}
+
 export interface RecentPhysicalAcquisition {
   title: string;
   href?: string;
