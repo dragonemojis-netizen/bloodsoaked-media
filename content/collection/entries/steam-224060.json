@@ -1,0 +1,28 @@
+{
+  "id": "steam-224060",
+  "origin": "steam",
+  "title": "Deadpool",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 224060,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 224060,
+    "title": "Deadpool",
+    "owned": true,
+    "playtimeMinutes": 139,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 139,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2025-05-08T00:00:23.000Z",
+    "storeUrl": "https://store.steampowered.com/app/224060/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

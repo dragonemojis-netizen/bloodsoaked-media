@@ -1,0 +1,75 @@
+{
+  "id": "steam-70",
+  "origin": "steam",
+  "title": "Half-Life",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 70,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 70,
+    "title": "Half-Life",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/70/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Valve"
+    ],
+    "publishers": [
+      "Valve"
+    ],
+    "releaseDate": "1998-11-19",
+    "releaseDateRaw": "Nov 19, 1998",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Full controller support",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualSense Controller Support",
+      "DualSense Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "shortDescription": "Named Game of the Year by over 50 publications, Valve's debut title blends action and adventure with award-winning technology to create a frighteningly realistic world where players must think to survive. Also includes an exciting multiplayer mode that allows you to play against friends and enemies around the world.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/70/header.jpg",
+      "capsule": "/images/collection/steam/70/capsule.jpg",
+      "hero": "/images/collection/steam/70/hero.jpg"
+    }
+  }
+}

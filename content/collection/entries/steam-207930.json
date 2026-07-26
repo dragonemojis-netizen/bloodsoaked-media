@@ -1,0 +1,28 @@
+{
+  "id": "steam-207930",
+  "origin": "steam",
+  "title": "Sacred Citadel",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 207930,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 207930,
+    "title": "Sacred Citadel",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/207930/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

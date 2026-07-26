@@ -1,0 +1,57 @@
+{
+  "id": "steam-47890",
+  "origin": "steam",
+  "title": "The Sims™ 3",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 47890,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 47890,
+    "title": "The Sims™ 3",
+    "owned": true,
+    "playtimeMinutes": 138,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2018-12-22T19:22:42.000Z",
+    "storeUrl": "https://store.steampowered.com/app/47890/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "The Sims Studio",
+      "Maxis"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "releaseDate": "2011-01-27",
+    "releaseDateRaw": "Jan 27, 2011",
+    "comingSoon": false,
+    "genres": [
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "The Sims 3: Create the perfect world with full customization at your fingertips. Refine personalities and help fulfill destinies.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/47890/header.jpg",
+      "capsule": "/images/collection/steam/47890/capsule.jpg",
+      "hero": "/images/collection/steam/47890/hero.jpg"
+    }
+  }
+}

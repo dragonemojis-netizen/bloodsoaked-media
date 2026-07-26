@@ -1,0 +1,57 @@
+{
+  "id": "steam-15700",
+  "origin": "steam",
+  "title": "Oddworld: Abe's Oddysee®",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 15700,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 15700,
+    "title": "Oddworld: Abe's Oddysee®",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/15700/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Oddworld Inhabitants"
+    ],
+    "publishers": [
+      "Oddworld Inhabitants"
+    ],
+    "releaseDate": "2008-08-28",
+    "releaseDateRaw": "Aug 28, 2008",
+    "comingSoon": false,
+    "genres": [
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Selected by the fickle finger of fate, Abe™, floor-waxer first class for RuptureFarms, was catapulted into a life of adventure when he overheard plans by his boss, Molluck the Glukkon™, to turn Abe and his fellow Mudokons into Tasty Treats as part of a last-ditch effort to rescue Molluck's failing meat-packing empire.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/15700/header.jpg",
+      "capsule": "/images/collection/steam/15700/capsule.jpg",
+      "hero": "/images/collection/steam/15700/hero.jpg"
+    }
+  }
+}

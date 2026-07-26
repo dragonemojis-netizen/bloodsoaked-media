@@ -1,0 +1,181 @@
+{
+  "slug": "fallout-new-vegas",
+  "title": "Fallout: New Vegas",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2010,
+  "synopsis": "Obsidian’s Fallout: New Vegas on Steam — the Obsidian-developed chapter between Fallout 3 and the later Bethesda Game Studios releases on this shelf.",
+  "coverImage": "/images/library/fallout-new-vegas/cover-official.jpg",
+  "filedAt": "2026-07-26T03:54:45.563Z",
+  "curatorialRevisionAt": "2026-07-26T04:06:31.301Z",
+  "shelfMark": "LIB-0005",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-22380",
+    "reconciledAt": "2026-07-26T03:54:45.563Z"
+  },
+  "authorities": {
+    "developers": [
+      "obsidian-entertainment"
+    ],
+    "publishers": [
+      "bethesda-softworks"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "fallout"
+    ]
+  },
+  "catalog": {
+    "release": "October 19, 2010",
+    "developer": "Obsidian Entertainment",
+    "publisher": "Bethesda Softworks",
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "subjects": [
+      "Action",
+      "RPG",
+      "Digital Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Obsidian build published by Bethesda Softworks",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "July 26, 2026"
+  },
+  "curatorNotes": "Held open for curator writing on New Vegas as the Obsidian chapter in this Fallout issue.",
+  "collectionNotes": "This holding is a Steam license only. No boxed edition sits beside it. Supplementary scans and photography remain unfiled by design. Official cover artwork is recorded from Steam library art.",
+  "preservation": {
+    "playableOn": "Windows through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title.",
+    "concerns": "As with other account-bound Steam holdings: platform dependency, policy change, and the absence of a retained offline installer.",
+    "knownRevisions": "Steam edition of Fallout: New Vegas. The filing documents the licensed digital copy in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "series": "Fallout",
+    "collectionIds": [
+      "steam-22380"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "steam": {
+    "appId": 22380,
+    "title": "Fallout: New Vegas",
+    "owned": true,
+    "playtimeMinutes": 40466,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 10886,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 421,
+    "lastPlayedAt": "2026-05-16T20:36:10.000Z",
+    "storeUrl": "https://store.steampowered.com/app/22380/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Obsidian Entertainment"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "releaseDate": "2010-10-19",
+    "releaseDateRaw": "Oct 19, 2010",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Welcome to Vegas. New Vegas. Enjoy your stay!",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/22380/header.jpg",
+      "capsule": "/images/collection/steam/22380/capsule.jpg",
+      "hero": "/images/collection/steam/22380/hero.jpg"
+    }
+  },
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-07-26T03:54:45.563Z",
+      "at": "2026-07-26T03:54:45.563Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0005."
+    },
+    {
+      "id": "connections-2026-07-26T05:10:00.000Z",
+      "at": "2026-07-26T05:10:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Fallout series lineage and peer accessions linked."
+    },
+    {
+      "id": "collection-documentation-2026-07-26T05:10:00.000Z",
+      "at": "2026-07-26T05:10:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-07-26T05:10:00.000Z",
+      "at": "2026-07-26T05:10:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "editorial-revision-2026-07-26T05:10:00.000Z",
+      "at": "2026-07-26T05:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Curatorial pass — catalog identity, authority references, and digital-holding documentation aligned for the Fallout Editorial Batch."
+    },
+    {
+      "id": "cover-artwork-2026-07-26T06:00:00.000Z",
+      "at": "2026-07-26T06:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "connections-revised-2026-07-26T06:00:00.000Z",
+      "at": "2026-07-26T06:00:00.000Z",
+      "kind": "connections-revised",
+      "summary": "Connections revised",
+      "note": "Peer relationship mesh removed; Archival Lineage retained via series."
+    },
+    {
+      "id": "editorial-revision-2026-07-26T06:00:00.000Z",
+      "at": "2026-07-26T06:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Part A refinement — diversified archival language for Fallout Digital Holdings."
+    },
+    {
+      "id": "published-2026-07-26T04:06:31.301Z-fallout-new-vegas",
+      "at": "2026-07-26T04:06:31.301Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "as part of the editorial issue \"Fallout Digital Holdings.\""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "steam-341940",
+  "origin": "steam",
+  "title": "Hatred",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 341940,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 341940,
+    "title": "Hatred",
+    "owned": true,
+    "playtimeMinutes": 101,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 73,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 28,
+    "lastPlayedAt": "2023-07-19T21:21:59.000Z",
+    "storeUrl": "https://store.steampowered.com/app/341940/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

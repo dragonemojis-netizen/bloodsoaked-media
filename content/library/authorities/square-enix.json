@@ -1,0 +1,22 @@
+{
+  "slug": "square-enix",
+  "authorityId": "AUTH-0003",
+  "type": "publisher",
+  "preferredName": "Square Enix",
+  "alternativeNames": ["Square Enix Co., Ltd.", "スクウェア・エニックス"],
+  "establishedDate": "2003",
+  "relatedAuthoritySlugs": ["drakengard-nier-lineage", "cavia"],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-07-26T04:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-07-26T04:00:00.000Z",
+      "at": "2026-07-26T04:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0003 — controlled identity for Square Enix."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "bungie",
+  "authorityId": "AUTH-0001",
+  "type": "developer",
+  "preferredName": "Bungie",
+  "alternativeNames": ["Bungie, Inc.", "Bungie Software"],
+  "establishedDate": "1991",
+  "relatedAuthoritySlugs": ["steam", "pc"],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-07-26T04:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-07-26T04:00:00.000Z",
+      "at": "2026-07-26T04:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0001 — controlled identity for Bungie."
+    }
+  ]
+}

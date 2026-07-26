@@ -1,0 +1,60 @@
+{
+  "id": "steam-50620",
+  "origin": "steam",
+  "title": "Darksiders™",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 50620,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 50620,
+    "title": "Darksiders™",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/50620/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Vigil Games"
+    ],
+    "publishers": [
+      "THQ Nordic"
+    ],
+    "releaseDate": "2010-09-23",
+    "releaseDateRaw": "Sep 23, 2010",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Deceived by the forces of evil into prematurely bringing about the end of the world, War – the first Horseman of the Apocalypse – stands accused of breaking the sacred law by inciting a war between Heaven and Hell. In the slaughter that ensued, the demonic forces defeated the heavenly hosts and laid claim to the Earth.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/50620/header.jpg",
+      "capsule": "/images/collection/steam/50620/capsule.jpg",
+      "hero": "/images/collection/steam/50620/hero.jpg"
+    }
+  }
+}

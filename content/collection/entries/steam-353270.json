@@ -1,0 +1,28 @@
+{
+  "id": "steam-353270",
+  "origin": "steam",
+  "title": "Hyperdimension Neptunia Re;Birth3 V Generation",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 353270,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 353270,
+    "title": "Hyperdimension Neptunia Re;Birth3 V Generation",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/353270/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

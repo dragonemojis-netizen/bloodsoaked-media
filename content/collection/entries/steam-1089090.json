@@ -1,0 +1,28 @@
+{
+  "id": "steam-1089090",
+  "origin": "steam",
+  "title": "ONE PIECE: PIRATE WARRIORS 4",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1089090,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1089090,
+    "title": "ONE PIECE: PIRATE WARRIORS 4",
+    "owned": true,
+    "playtimeMinutes": 968,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 968,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2025-11-30T02:07:34.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1089090/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

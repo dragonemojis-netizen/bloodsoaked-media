@@ -1,0 +1,28 @@
+{
+  "id": "steam-1371980",
+  "origin": "steam",
+  "title": "No Rest for the Wicked",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1371980,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1371980,
+    "title": "No Rest for the Wicked",
+    "owned": true,
+    "playtimeMinutes": 67,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 42,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 25,
+    "lastPlayedAt": "2026-06-03T02:47:35.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1371980/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

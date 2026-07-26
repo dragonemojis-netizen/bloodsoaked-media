@@ -1,0 +1,28 @@
+{
+  "id": "steam-438100",
+  "origin": "steam",
+  "title": "VRChat",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 438100,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 438100,
+    "title": "VRChat",
+    "owned": true,
+    "playtimeMinutes": 290,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 96,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2025-12-30T03:17:15.000Z",
+    "storeUrl": "https://store.steampowered.com/app/438100/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

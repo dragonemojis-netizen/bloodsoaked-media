@@ -1,0 +1,28 @@
+{
+  "id": "steam-960990",
+  "origin": "steam",
+  "title": "Beyond: Two Souls",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 960990,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 960990,
+    "title": "Beyond: Two Souls",
+    "owned": true,
+    "playtimeMinutes": 71,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 71,
+    "lastPlayedAt": "2026-01-05T00:34:37.000Z",
+    "storeUrl": "https://store.steampowered.com/app/960990/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

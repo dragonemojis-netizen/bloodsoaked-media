@@ -1,0 +1,22 @@
+{
+  "slug": "playstation-2",
+  "authorityId": "AUTH-0006",
+  "type": "platform",
+  "preferredName": "PlayStation 2",
+  "alternativeNames": ["PS2", "Sony PlayStation 2"],
+  "establishedDate": "2000",
+  "relatedAuthoritySlugs": ["playstation-3"],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-07-26T04:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-07-26T04:00:00.000Z",
+      "at": "2026-07-26T04:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0006 — controlled identity for PlayStation 2."
+    }
+  ]
+}

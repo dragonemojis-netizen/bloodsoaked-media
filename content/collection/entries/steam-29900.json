@@ -1,0 +1,58 @@
+{
+  "id": "steam-29900",
+  "origin": "steam",
+  "title": "Dark Sector",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 29900,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 29900,
+    "title": "Dark Sector",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/29900/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Digital Extremes"
+    ],
+    "publishers": [
+      "Digital Extremes"
+    ],
+    "releaseDate": "2009-03-24",
+    "releaseDateRaw": "Mar 24, 2009",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "A third-person Action/Shooter that thrusts players into a sci-fi flavored nightmare scenario set in the post Cold War era.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/29900/header.jpg",
+      "capsule": "/images/collection/steam/29900/capsule.jpg",
+      "hero": "/images/collection/steam/29900/hero.jpg"
+    }
+  }
+}

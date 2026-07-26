@@ -1,0 +1,28 @@
+{
+  "id": "steam-2701660",
+  "origin": "steam",
+  "title": "DRAGON QUEST III HD-2D Remake",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 2701660,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 2701660,
+    "title": "DRAGON QUEST III HD-2D Remake",
+    "owned": true,
+    "playtimeMinutes": 1087,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 1085,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 2,
+    "lastPlayedAt": "2025-11-14T02:08:16.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2701660/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

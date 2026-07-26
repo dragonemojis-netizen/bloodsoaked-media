@@ -1,0 +1,22 @@
+{
+  "slug": "ubisoft",
+  "authorityId": "AUTH-0005",
+  "type": "publisher",
+  "preferredName": "Ubisoft",
+  "alternativeNames": ["Ubisoft Entertainment"],
+  "establishedDate": "1986",
+  "relatedAuthoritySlugs": [],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-07-26T04:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-07-26T04:00:00.000Z",
+      "at": "2026-07-26T04:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0005 — controlled identity for Ubisoft."
+    }
+  ]
+}

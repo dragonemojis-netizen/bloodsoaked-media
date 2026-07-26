@@ -1,0 +1,28 @@
+{
+  "id": "steam-686060",
+  "origin": "steam",
+  "title": "Mewgenics",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 686060,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 686060,
+    "title": "Mewgenics",
+    "owned": true,
+    "playtimeMinutes": 188,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 138,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 49,
+    "lastPlayedAt": "2026-02-18T20:56:46.000Z",
+    "storeUrl": "https://store.steampowered.com/app/686060/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

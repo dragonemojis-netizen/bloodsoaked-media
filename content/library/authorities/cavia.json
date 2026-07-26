@@ -1,0 +1,22 @@
+{
+  "slug": "cavia",
+  "authorityId": "AUTH-0002",
+  "type": "developer",
+  "preferredName": "Cavia",
+  "alternativeNames": ["Cavia Inc."],
+  "establishedDate": "2000",
+  "relatedAuthoritySlugs": ["drakengard-nier-lineage", "square-enix"],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-07-26T04:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-07-26T04:00:00.000Z",
+      "at": "2026-07-26T04:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0002 — controlled identity for Cavia."
+    }
+  ]
+}

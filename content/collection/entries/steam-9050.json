@@ -1,0 +1,58 @@
+{
+  "id": "steam-9050",
+  "origin": "steam",
+  "title": "DOOM 3",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 9050,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 9050,
+    "title": "DOOM 3",
+    "owned": true,
+    "playtimeMinutes": 15,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 15,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2024-07-08T23:07:10.000Z",
+    "storeUrl": "https://store.steampowered.com/app/9050/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "id Software"
+    ],
+    "publishers": [
+      "id Software"
+    ],
+    "releaseDate": "2007-08-03",
+    "releaseDateRaw": "Aug 3, 2007",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "A massive demonic invasion has overwhelmed the Union Aerospace Corporation's (UAC) Mars Research Facility, leaving only chaos and horror in its wake. As one of only a few survivors, you must fight your way to hell and back against a horde of evil monsters.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/9050/header.jpg",
+      "capsule": "/images/collection/steam/9050/capsule.jpg",
+      "hero": "/images/collection/steam/9050/hero.jpg"
+    }
+  }
+}

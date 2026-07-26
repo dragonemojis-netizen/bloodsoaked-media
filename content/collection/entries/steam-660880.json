@@ -1,0 +1,28 @@
+{
+  "id": "steam-660880",
+  "origin": "steam",
+  "title": "b",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 660880,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 660880,
+    "title": "b",
+    "owned": true,
+    "playtimeMinutes": 174,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 5,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2022-04-24T02:00:57.000Z",
+    "storeUrl": "https://store.steampowered.com/app/660880/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

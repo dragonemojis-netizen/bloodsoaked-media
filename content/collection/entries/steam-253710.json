@@ -1,0 +1,28 @@
+{
+  "id": "steam-253710",
+  "origin": "steam",
+  "title": "theHunter Classic",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 253710,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 253710,
+    "title": "theHunter Classic",
+    "owned": true,
+    "playtimeMinutes": 18,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2017-02-27T00:21:13.000Z",
+    "storeUrl": "https://store.steampowered.com/app/253710/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

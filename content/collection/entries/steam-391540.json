@@ -1,0 +1,28 @@
+{
+  "id": "steam-391540",
+  "origin": "steam",
+  "title": "Undertale",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 391540,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 391540,
+    "title": "Undertale",
+    "owned": true,
+    "playtimeMinutes": 119,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2017-11-22T04:29:06.000Z",
+    "storeUrl": "https://store.steampowered.com/app/391540/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

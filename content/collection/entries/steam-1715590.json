@@ -1,0 +1,28 @@
+{
+  "id": "steam-1715590",
+  "origin": "steam",
+  "title": "Wizordum",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1715590,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1715590,
+    "title": "Wizordum",
+    "owned": true,
+    "playtimeMinutes": 25,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 17,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 7,
+    "lastPlayedAt": "2026-05-05T02:55:10.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1715590/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "steam-2936120",
+  "origin": "steam",
+  "title": "Marvel Rivals Playtest",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 2936120,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 2936120,
+    "title": "Marvel Rivals Playtest",
+    "owned": true,
+    "playtimeMinutes": 228,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 228,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2024-08-04T20:54:52.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2936120/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

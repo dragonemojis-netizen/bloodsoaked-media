@@ -1,0 +1,28 @@
+{
+  "id": "steam-2191500",
+  "origin": "steam",
+  "title": "Vampires: Bloodlord Rising",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 2191500,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 2191500,
+    "title": "Vampires: Bloodlord Rising",
+    "owned": true,
+    "playtimeMinutes": 30,
+    "playtime2Weeks": 30,
+    "playtimeWindowsMinutes": 30,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-07-23T04:12:19.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2191500/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

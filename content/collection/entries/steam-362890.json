@@ -1,0 +1,28 @@
+{
+  "id": "steam-362890",
+  "origin": "steam",
+  "title": "Black Mesa",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 362890,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 362890,
+    "title": "Black Mesa",
+    "owned": true,
+    "playtimeMinutes": 1,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2017-06-28T18:44:11.000Z",
+    "storeUrl": "https://store.steampowered.com/app/362890/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

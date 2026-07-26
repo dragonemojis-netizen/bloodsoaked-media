@@ -1,0 +1,28 @@
+{
+  "id": "steam-1627720",
+  "origin": "steam",
+  "title": "Lies of P",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1627720,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1627720,
+    "title": "Lies of P",
+    "owned": true,
+    "playtimeMinutes": 244,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 244,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-04-15T02:22:58.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1627720/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

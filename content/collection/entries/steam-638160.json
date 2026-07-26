@@ -1,0 +1,28 @@
+{
+  "id": "steam-638160",
+  "origin": "steam",
+  "title": "Moero Chronicle",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 638160,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 638160,
+    "title": "Moero Chronicle",
+    "owned": true,
+    "playtimeMinutes": 144,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 131,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 13,
+    "lastPlayedAt": "2026-01-07T06:23:01.000Z",
+    "storeUrl": "https://store.steampowered.com/app/638160/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

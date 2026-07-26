@@ -1,0 +1,28 @@
+{
+  "id": "steam-209000",
+  "origin": "steam",
+  "title": "Batman™: Arkham Origins",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 209000,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 209000,
+    "title": "Batman™: Arkham Origins",
+    "owned": true,
+    "playtimeMinutes": 149,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 65,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 83,
+    "lastPlayedAt": "2023-12-28T07:27:05.000Z",
+    "storeUrl": "https://store.steampowered.com/app/209000/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

@@ -1,4 +1,4 @@
 {
-  "version": 1,
-  "description": "Collection archive schema — acquisition events with origin tracking (instagram, curated, development) and immutable Instagram provenance."
+  "version": 3,
+  "description": "Collection archive schema — acquisition events with origin tracking (instagram, curated, steam, development), immutable Instagram provenance, dedicated Steam metadata, and Filed status with a Library filing pointer when a Pipeline accession is promoted into the Archive."
 }

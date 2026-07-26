@@ -1,0 +1,55 @@
+{
+  "id": "steam-13540",
+  "origin": "steam",
+  "title": "Tom Clancy's Rainbow Six® Vegas",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 13540,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 13540,
+    "title": "Tom Clancy's Rainbow Six® Vegas",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/13540/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Ubisoft Montreal"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ],
+    "releaseDate": "2008-04-09",
+    "releaseDateRaw": "Apr 9, 2008",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Tom Clancy's Rainbow Six makes its next-generation hardware debut in the most dramatic installment of the renowned first-person shooter franchise to date. Rainbow operatives take to the chaotic streets of Las Vegas as an escalating terrorist siege in 'Sin City' threatens to take world terrorism to new, uncontrollable heights.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/13540/header.jpg"
+    }
+  }
+}

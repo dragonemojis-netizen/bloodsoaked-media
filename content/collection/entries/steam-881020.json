@@ -1,0 +1,28 @@
+{
+  "id": "steam-881020",
+  "origin": "steam",
+  "title": "Granblue Fantasy: Relink",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 881020,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 881020,
+    "title": "Granblue Fantasy: Relink",
+    "owned": true,
+    "playtimeMinutes": 653,
+    "playtime2Weeks": 598,
+    "playtimeWindowsMinutes": 607,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 45,
+    "lastPlayedAt": "2026-07-21T15:59:27.000Z",
+    "storeUrl": "https://store.steampowered.com/app/881020/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

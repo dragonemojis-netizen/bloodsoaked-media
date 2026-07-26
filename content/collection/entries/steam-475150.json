@@ -1,0 +1,28 @@
+{
+  "id": "steam-475150",
+  "origin": "steam",
+  "title": "Titan Quest Anniversary Edition",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 475150,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 475150,
+    "title": "Titan Quest Anniversary Edition",
+    "owned": true,
+    "playtimeMinutes": 369,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 369,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2025-08-05T04:05:01.000Z",
+    "storeUrl": "https://store.steampowered.com/app/475150/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "steam-3730",
+  "origin": "steam",
+  "title": "Aliens versus Predator Classic 2000",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 3730,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 3730,
+    "title": "Aliens versus Predator Classic 2000",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/3730/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Rebellion"
+    ],
+    "publishers": [
+      "Rebellion"
+    ],
+    "releaseDate": "2010-01-15",
+    "releaseDateRaw": "Jan 15, 2010",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Aliens Versus Predator Classic 2000 features the Colonial Marine, Alien and Predator Campaigns and the frenetic single-player Skirmish mode from the original title: Alien Versus Predator Gold Edition, which was released to massive acclaim in 2000.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/3730/header.jpg",
+      "capsule": "/images/collection/steam/3730/capsule.jpg",
+      "hero": "/images/collection/steam/3730/hero.jpg"
+    }
+  }
+}

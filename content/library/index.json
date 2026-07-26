@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 2,
+  "entrySlugs": [
+    "drakengard",
+    "drakengard-2",
+    "drakengard-3",
+    "fallout-3-game-of-the-year-edition",
+    "fallout-4",
+    "fallout-76",
+    "fallout-new-vegas",
+    "marathon"
+  ],
+  "publishedSlugs": [
+    "drakengard",
+    "drakengard-2",
+    "drakengard-3",
+    "fallout-3-game-of-the-year-edition",
+    "fallout-4",
+    "fallout-76",
+    "fallout-new-vegas",
+    "marathon"
+  ],
+  "shelf": {
+    "drakengard": {
+      "slug": "drakengard",
+      "title": "Drakengard",
+      "mediaType": "game",
+      "status": "catalogued",
+      "visibility": "published",
+      "year": 2003,
+      "synopsis": "The first point in the Drakengard and Nier lineage, retained as a playable reference copy and as evidence of where that history began.",
+      "coverImage": "/images/library/drakengard/cover-official.jpg",
+      "filedAt": "2026-06-09T01:36:49.000Z",
+      "shelfMark": "LIB-0001",
+      "platform": "PlayStation 2",
+      "subjects": [
+        "Action RPG",
+        "Dark Fantasy",
+        "Yoko Taro",
+        "Lineage",
+        "Preservation"
+      ],
+      "originalTitle": "Drag-on Dragoon",
+      "developer": "Cavia",
+      "publisher": "Square Enix",
+      "series": "Drakengard / Nier lineage",
+      "accessionSource": "private-acquisition"
+    },
+    "drakengard-2": {
+      "slug": "drakengard-2",
+      "title": "Drakengard 2",
+      "mediaType": "game",
+      "status": "catalogued",
+      "visibility": "published",
+      "year": 2005,
+      "synopsis": "The middle chapter of the Drakengard trilogy — a contested sequel retained so the lineage on the shelf remains whole.",
+      "coverImage": "/images/library/drakengard-2/cover-official.jpg",
+      "filedAt": "2026-06-09T01:36:49.000Z",
+      "shelfMark": "LIB-0002",
+      "platform": "PlayStation 2",
+      "subjects": [
+        "Action RPG",
+        "Sequel",
+        "Dark Fantasy",
+        "Lineage",
+        "Preservation"
+      ],
+      "originalTitle": "Drag-On Dragoon 2: Sealed Red, Immoral Black",
+      "developer": "Cavia",
+      "publisher": "Ubisoft (North America) · Square Enix (Japan)",
+      "series": "Drakengard / Nier lineage",
+      "accessionSource": "private-acquisition"
+    },
+    "drakengard-3": {
+      "slug": "drakengard-3",
+      "title": "Drakengard 3",
+      "mediaType": "game",
+      "status": "catalogued",
+      "visibility": "published",
+      "year": 2013,
+      "synopsis": "The last physical Drakengard release and the closing point of the lineage on this shelf — a PlayStation 3 disc that no longer plays without its console.",
+      "coverImage": "/images/library/drakengard-3/cover-official.jpg",
+      "filedAt": "2026-06-09T01:36:49.000Z",
+      "shelfMark": "LIB-0003",
+      "platform": "PlayStation 3",
+      "subjects": [
+        "Action RPG",
+        "Prequel",
+        "Dark Fantasy",
+        "Yoko Taro",
+        "Lineage",
+        "Preservation"
+      ],
+      "originalTitle": "Drag-On Dragoon 3",
+      "developer": "Access Games",
+      "publisher": "Square Enix",
+      "series": "Drakengard / Nier lineage",
+      "accessionSource": "private-acquisition"
+    },
+    "fallout-3-game-of-the-year-edition": {
+      "slug": "fallout-3-game-of-the-year-edition",
+      "title": "Fallout 3: Game of the Year Edition",
+      "mediaType": "game",
+      "status": "catalogued",
+      "visibility": "published",
+      "year": 2009,
+      "synopsis": "The Game of the Year digital edition of Fallout 3 — earliest title in this issue’s Fallout sequence, retained under the archive Steam account.",
+      "coverImage": "/images/library/fallout-3-game-of-the-year-edition/cover-official.jpg",
+      "filedAt": "2026-07-26T03:55:29.800Z",
+      "shelfMark": "LIB-0008",
+      "platform": "PC",
+      "subjects": [
+        "RPG",
+        "Digital Preservation"
+      ],
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda Softworks",
+      "series": "Fallout",
+      "accessionSource": "digital-library",
+      "steamAppId": 22370
+    },
+    "fallout-4": {
+      "slug": "fallout-4",
+      "title": "Fallout 4",
+      "mediaType": "game",
+      "status": "catalogued",
+      "visibility": "published",
+      "year": 2015,
+      "synopsis": "Fallout 4 as a Steam digital holding — mid-sequence on this Fallout shelf, kept for continuity of the series in account custody.",
+      "coverImage": "/images/library/fallout-4/cover-official.jpg",
+      "filedAt": "2026-07-26T03:54:55.581Z",
+      "shelfMark": "LIB-0006",
+      "platform": "PC",
+      "subjects": [
+        "Digital Preservation"
+      ],
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda Softworks",
+      "series": "Fallout",
+      "accessionSource": "digital-library",
+      "steamAppId": 377160
+    },
+    "fallout-76": {
+      "slug": "fallout-76",
+      "title": "Fallout 76",
+      "mediaType": "game",
+      "status": "catalogued",
+      "visibility": "published",
+      "year": 2018,
+      "synopsis": "Fallout 76 on Steam — the later, service-dependent title closing this issue’s Fallout sequence in digital custody.",
+      "coverImage": "/images/library/fallout-76/cover-official.jpg",
+      "filedAt": "2026-07-26T03:55:12.922Z",
+      "shelfMark": "LIB-0007",
+      "platform": "PC",
+      "subjects": [
+        "Digital Preservation"
+      ],
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda Softworks",
+      "series": "Fallout",
+      "accessionSource": "digital-library",
+      "steamAppId": 1151340
+    },
+    "fallout-new-vegas": {
+      "slug": "fallout-new-vegas",
+      "title": "Fallout: New Vegas",
+      "mediaType": "game",
+      "status": "catalogued",
+      "visibility": "published",
+      "year": 2010,
+      "synopsis": "Obsidian’s Fallout: New Vegas on Steam — the Obsidian-developed chapter between Fallout 3 and the later Bethesda Game Studios releases on this shelf.",
+      "coverImage": "/images/library/fallout-new-vegas/cover-official.jpg",
+      "filedAt": "2026-07-26T03:54:45.563Z",
+      "shelfMark": "LIB-0005",
+      "platform": "PC",
+      "subjects": [
+        "Action",
+        "RPG",
+        "Digital Preservation"
+      ],
+      "developer": "Obsidian Entertainment",
+      "publisher": "Bethesda Softworks",
+      "series": "Fallout",
+      "accessionSource": "digital-library",
+      "steamAppId": 22380
+    },
+    "marathon": {
+      "slug": "marathon",
+      "title": "Marathon",
+      "mediaType": "game",
+      "status": "catalogued",
+      "visibility": "published",
+      "year": 2026,
+      "synopsis": "Bungie’s Marathon, retained as a permanent digital holding under the archive Steam account — an account-bound edition kept for continuity of access and custody.",
+      "coverImage": "/images/library/marathon/cover-official.jpg",
+      "filedAt": "2026-07-26T03:24:14.590Z",
+      "shelfMark": "LIB-0004",
+      "platform": "PC",
+      "subjects": [
+        "First-Person Shooter",
+        "Extraction Shooter",
+        "Multiplayer",
+        "Digital Preservation"
+      ],
+      "developer": "Bungie",
+      "publisher": "Bungie",
+      "accessionSource": "digital-library",
+      "steamAppId": 3065800
+    }
+  },
+  "updatedAt": "2026-07-26T04:06:31.313Z"
+}

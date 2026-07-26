@@ -1,0 +1,62 @@
+{
+  "id": "steam-39140",
+  "origin": "steam",
+  "title": "FINAL FANTASY VII",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 39140,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 39140,
+    "title": "FINAL FANTASY VII",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/39140/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Square Enix"
+    ],
+    "publishers": [
+      "Square Enix"
+    ],
+    "releaseDate": null,
+    "releaseDateRaw": null,
+    "comingSoon": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "The RPG classic FINAL FANTASY VII returns to PC, now with brand new online features!",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/39140/header.jpg",
+      "capsule": "/images/collection/steam/39140/capsule.jpg",
+      "hero": "/images/collection/steam/39140/hero.jpg"
+    }
+  }
+}

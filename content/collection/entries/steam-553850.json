@@ -1,0 +1,28 @@
+{
+  "id": "steam-553850",
+  "origin": "steam",
+  "title": "HELLDIVERS™ 2",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 553850,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 553850,
+    "title": "HELLDIVERS™ 2",
+    "owned": true,
+    "playtimeMinutes": 7620,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 7599,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 21,
+    "lastPlayedAt": "2026-01-27T03:05:11.000Z",
+    "storeUrl": "https://store.steampowered.com/app/553850/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

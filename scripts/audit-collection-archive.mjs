@@ -24,9 +24,10 @@ const EVENT_TYPES = new Set([
   "expansion",
   "arrival",
 ]);
-const STATUSES = new Set(["Catalogued", "Preservation", "Pipeline"]);
+const STATUSES = new Set(["Catalogued", "Preservation", "Pipeline", "Filed"]);
 const VISIBILITY = new Set(["published", "hidden"]);
-const ORIGINS = new Set(["instagram", "curated", "development"]);
+const ORIGINS = new Set(["instagram", "curated", "steam", "development"]);
+const SOURCE_PLATFORMS = new Set(["instagram", "manual", "steam"]);
 
 function fileExists(publicPath) {
   const diskPath = path.join(ROOT, "public", publicPath.replace(/^\//, ""));
@@ -129,7 +130,7 @@ for (const file of entryFiles) {
   records.set(record.id, record);
 
   if (!record.origin || !ORIGINS.has(record.origin)) {
-    error(`${record.id}: missing or invalid origin (instagram | curated | development)`);
+    error(`${record.id}: missing or invalid origin (instagram | curated | steam | development)`);
   }
 
   if (record.origin === "development" && record.developmentMeta?.synthetic !== true) {
@@ -142,6 +143,32 @@ for (const file of entryFiles) {
 
   if (record.origin === "curated" && record.source?.platform !== "manual") {
     warn(`${record.id}: curated records usually use source.platform manual`);
+  }
+
+  if (record.origin === "steam") {
+    if (record.source?.platform !== "steam") {
+      error(`${record.id}: origin steam requires source.platform steam`);
+    }
+    if (!record.steam || typeof record.steam.appId !== "number") {
+      error(`${record.id}: steam records must include steam.appId (number)`);
+    }
+    if (record.steam && record.steam.owned !== true) {
+      warn(`${record.id}: steam record without owned:true`);
+    }
+  }
+
+  if (record.status === "Filed") {
+    if (!record.filing?.librarySlug || !record.filing?.shelfMark) {
+      error(
+        `${record.id}: Filed records must include filing.librarySlug and filing.shelfMark`,
+      );
+    }
+  }
+
+  if (record.filing && record.status !== "Filed") {
+    warn(
+      `${record.id}: filing pointer present but status is "${record.status}" (expected Filed)`,
+    );
   }
 
   if (!record.title || typeof record.title !== "string") {
@@ -167,8 +194,8 @@ for (const file of entryFiles) {
   if (!record.source || typeof record.source !== "object") {
     error(`${record.id}: missing source provenance block`);
   } else {
-    if (!["instagram", "manual"].includes(record.source.platform)) {
-      error(`${record.id}: source.platform must be instagram or manual`);
+    if (!SOURCE_PLATFORMS.has(record.source.platform)) {
+      error(`${record.id}: source.platform must be instagram, manual, or steam`);
     }
 
     if (
@@ -297,9 +324,11 @@ const stats = {
   total: records.size,
   instagram: 0,
   curated: 0,
+  steam: 0,
   development: 0,
   catalogued: 0,
   pipeline: 0,
+  filed: 0,
   preservation: 0,
   withCaptionSnapshot: 0,
   withImageSnapshot: 0,
@@ -308,9 +337,11 @@ const stats = {
 for (const record of records.values()) {
   if (record.origin === "instagram") stats.instagram += 1;
   if (record.origin === "curated") stats.curated += 1;
+  if (record.origin === "steam") stats.steam += 1;
   if (record.origin === "development") stats.development += 1;
   if (record.status === "Catalogued") stats.catalogued += 1;
   if (record.status === "Pipeline") stats.pipeline += 1;
+  if (record.status === "Filed") stats.filed += 1;
   if (record.status === "Preservation") stats.preservation += 1;
   if (record.source?.captionSnapshot) stats.withCaptionSnapshot += 1;
   if (record.source?.imageSnapshot) stats.withImageSnapshot += 1;
@@ -339,9 +370,11 @@ console.log("========================");
 console.log(`Entries:        ${stats.total}`);
 console.log(`Instagram:      ${stats.instagram}`);
 console.log(`Curated:        ${stats.curated}`);
+console.log(`Steam:          ${stats.steam}`);
 console.log(`Development:    ${stats.development}`);
 console.log(`Catalogued:     ${stats.catalogued}`);
 console.log(`Pipeline:       ${stats.pipeline}`);
+console.log(`Filed:          ${stats.filed}`);
 console.log(`Preservation:   ${stats.preservation}`);
 console.log(`Caption snaps:  ${stats.withCaptionSnapshot}`);
 console.log(`Image snaps:    ${stats.withImageSnapshot}`);

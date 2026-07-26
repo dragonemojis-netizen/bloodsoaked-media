@@ -1,0 +1,30 @@
+{
+  "slug": "pc",
+  "authorityId": "AUTH-0008",
+  "type": "platform",
+  "preferredName": "PC",
+  "alternativeNames": ["Personal Computer", "Windows"],
+  "description": "PC — the archive’s preferred name for personal-computer platform holdings, including Windows editions retained through digital storefronts.",
+  "relatedAuthoritySlugs": ["steam"],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-07-26T04:00:00.000Z",
+  "curatorialRevisionAt": "2026-07-26T06:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-07-26T04:00:00.000Z",
+      "at": "2026-07-26T04:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0008 — controlled identity for PC."
+    },
+    {
+      "id": "editorial-revision-2026-07-26T06:00:00.000Z",
+      "at": "2026-07-26T06:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ]
+}

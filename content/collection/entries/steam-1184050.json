@@ -1,0 +1,28 @@
+{
+  "id": "steam-1184050",
+  "origin": "steam",
+  "title": "Gears Tactics",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1184050,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1184050,
+    "title": "Gears Tactics",
+    "owned": true,
+    "playtimeMinutes": 18,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 18,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-01-27T03:29:39.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1184050/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

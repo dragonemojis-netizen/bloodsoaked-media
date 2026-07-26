@@ -1,0 +1,28 @@
+{
+  "id": "steam-3768760",
+  "origin": "steam",
+  "title": "007 First Light",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 3768760,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 3768760,
+    "title": "007 First Light",
+    "owned": true,
+    "playtimeMinutes": 665,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 665,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-05-29T22:26:23.000Z",
+    "storeUrl": "https://store.steampowered.com/app/3768760/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

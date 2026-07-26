@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "authoritySlugs": [
+    "access-games",
+    "bethesda-game-studios",
+    "bethesda-softworks",
+    "bungie",
+    "cavia",
+    "drakengard-nier-lineage",
+    "fallout",
+    "obsidian-entertainment",
+    "pc",
+    "playstation-2",
+    "playstation-3",
+    "square-enix",
+    "steam",
+    "ubisoft",
+    "yoko-taro"
+  ],
+  "publishedSlugs": [
+    "access-games",
+    "bethesda-game-studios",
+    "bethesda-softworks",
+    "bungie",
+    "cavia",
+    "drakengard-nier-lineage",
+    "fallout",
+    "obsidian-entertainment",
+    "pc",
+    "playstation-2",
+    "playstation-3",
+    "square-enix",
+    "steam",
+    "ubisoft",
+    "yoko-taro"
+  ],
+  "shelf": {
+    "access-games": {
+      "slug": "access-games",
+      "authorityId": "AUTH-0004",
+      "type": "developer",
+      "preferredName": "Access Games",
+      "visibility": "published",
+      "alternativeNames": [
+        "Access Games Inc."
+      ]
+    },
+    "bethesda-game-studios": {
+      "slug": "bethesda-game-studios",
+      "authorityId": "AUTH-0013",
+      "type": "studio",
+      "preferredName": "Bethesda Game Studios",
+      "visibility": "published",
+      "alternativeNames": [
+        "BGS"
+      ]
+    },
+    "bethesda-softworks": {
+      "slug": "bethesda-softworks",
+      "authorityId": "AUTH-0014",
+      "type": "publisher",
+      "preferredName": "Bethesda Softworks",
+      "visibility": "published",
+      "alternativeNames": [
+        "Bethesda"
+      ]
+    },
+    "bungie": {
+      "slug": "bungie",
+      "authorityId": "AUTH-0001",
+      "type": "developer",
+      "preferredName": "Bungie",
+      "visibility": "published",
+      "alternativeNames": [
+        "Bungie, Inc.",
+        "Bungie Software"
+      ]
+    },
+    "cavia": {
+      "slug": "cavia",
+      "authorityId": "AUTH-0002",
+      "type": "developer",
+      "preferredName": "Cavia",
+      "visibility": "published",
+      "alternativeNames": [
+        "Cavia Inc."
+      ]
+    },
+    "drakengard-nier-lineage": {
+      "slug": "drakengard-nier-lineage",
+      "authorityId": "AUTH-0010",
+      "type": "series",
+      "preferredName": "Drakengard / Nier lineage",
+      "visibility": "published",
+      "alternativeNames": [
+        "Drakengard",
+        "Drag-on Dragoon",
+        "Nier",
+        "Drakengard series"
+      ]
+    },
+    "fallout": {
+      "slug": "fallout",
+      "authorityId": "AUTH-0012",
+      "type": "series",
+      "preferredName": "Fallout",
+      "visibility": "published",
+      "alternativeNames": [
+        "Fallout series"
+      ]
+    },
+    "obsidian-entertainment": {
+      "slug": "obsidian-entertainment",
+      "authorityId": "AUTH-0015",
+      "type": "developer",
+      "preferredName": "Obsidian Entertainment",
+      "visibility": "published",
+      "alternativeNames": [
+        "Obsidian"
+      ]
+    },
+    "pc": {
+      "slug": "pc",
+      "authorityId": "AUTH-0008",
+      "type": "platform",
+      "preferredName": "PC",
+      "visibility": "published",
+      "alternativeNames": [
+        "Personal Computer",
+        "Windows"
+      ]
+    },
+    "playstation-2": {
+      "slug": "playstation-2",
+      "authorityId": "AUTH-0006",
+      "type": "platform",
+      "preferredName": "PlayStation 2",
+      "visibility": "published",
+      "alternativeNames": [
+        "PS2",
+        "Sony PlayStation 2"
+      ]
+    },
+    "playstation-3": {
+      "slug": "playstation-3",
+      "authorityId": "AUTH-0007",
+      "type": "platform",
+      "preferredName": "PlayStation 3",
+      "visibility": "published",
+      "alternativeNames": [
+        "PS3",
+        "Sony PlayStation 3"
+      ]
+    },
+    "square-enix": {
+      "slug": "square-enix",
+      "authorityId": "AUTH-0003",
+      "type": "publisher",
+      "preferredName": "Square Enix",
+      "visibility": "published",
+      "alternativeNames": [
+        "Square Enix Co., Ltd.",
+        "スクウェア・エニックス"
+      ]
+    },
+    "steam": {
+      "slug": "steam",
+      "authorityId": "AUTH-0009",
+      "type": "platform",
+      "preferredName": "Steam",
+      "visibility": "published",
+      "alternativeNames": [
+        "Valve Steam",
+        "Steam Store"
+      ]
+    },
+    "ubisoft": {
+      "slug": "ubisoft",
+      "authorityId": "AUTH-0005",
+      "type": "publisher",
+      "preferredName": "Ubisoft",
+      "visibility": "published",
+      "alternativeNames": [
+        "Ubisoft Entertainment"
+      ]
+    },
+    "yoko-taro": {
+      "slug": "yoko-taro",
+      "authorityId": "AUTH-0011",
+      "type": "person",
+      "preferredName": "Yoko Taro",
+      "visibility": "published",
+      "alternativeNames": [
+        "横尾太郎",
+        "Taro Yoko"
+      ]
+    }
+  },
+  "updatedAt": "2026-07-26T04:06:31.315Z"
+}

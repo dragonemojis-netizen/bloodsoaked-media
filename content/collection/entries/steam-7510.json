@@ -1,0 +1,62 @@
+{
+  "id": "steam-7510",
+  "origin": "steam",
+  "title": "X-Blades",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 7510,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 7510,
+    "title": "X-Blades",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/7510/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Gaijin Entertainment"
+    ],
+    "publishers": [
+      "Topware Interactive"
+    ],
+    "releaseDate": "2009-04-30",
+    "releaseDateRaw": "Apr 30, 2009",
+    "comingSoon": false,
+    "genres": [
+      "Nudity",
+      "Violent",
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "shortDescription": "In X-Blades, the player takes on the role of the enchanting heroine Ayumi, who survives a breathtaking dance of blades through the Hordes of Darkness. The long-haired beautiful anime, with her pistol blades and mind-blowing leaps, whirls and swirls from one fantastic level to the next.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/7510/header.jpg",
+      "capsule": "/images/collection/steam/7510/capsule.jpg",
+      "hero": "/images/collection/steam/7510/hero.jpg"
+    }
+  }
+}

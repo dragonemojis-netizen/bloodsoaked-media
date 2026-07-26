@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "batches": [
+    {
+      "id": "33c1a43a-fa40-4d2d-9eac-9e4219166e84",
+      "name": "Fallout Digital Holdings",
+      "editorialTitle": "Fallout Digital Holdings",
+      "editorialNote": "Four Steam-origin Fallout accessions filed for common stewardship before publication — Fallout 3: Game of the Year Edition, Fallout: New Vegas, Fallout 4, and Fallout 76.",
+      "accessionSlugs": [],
+      "createdAt": "2026-07-26T03:58:41.105Z",
+      "revisedAt": "2026-07-26T04:06:31.301Z"
+    }
+  ],
+  "updatedAt": "2026-07-26T04:06:31.305Z"
+}

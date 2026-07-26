@@ -1,0 +1,70 @@
+{
+  "id": "steam-49520",
+  "origin": "steam",
+  "title": "Borderlands 2",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 49520,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 49520,
+    "title": "Borderlands 2",
+    "owned": true,
+    "playtimeMinutes": 282,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 1,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2024-04-21T02:53:05.000Z",
+    "storeUrl": "https://store.steampowered.com/app/49520/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Gearbox Software",
+      "Aspyr (Mac)",
+      "Aspyr (Linux)"
+    ],
+    "publishers": [
+      "2K",
+      "Aspyr (Mac)",
+      "Aspyr (Linux)"
+    ],
+    "releaseDate": "2012-09-17",
+    "releaseDateRaw": "Sep 17, 2012",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "shortDescription": "The Ultimate Vault Hunter’s Upgrade lets you get the most out of the Borderlands 2 experience.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/49520/header.jpg",
+      "capsule": "/images/collection/steam/49520/capsule.jpg",
+      "hero": "/images/collection/steam/49520/hero.jpg"
+    }
+  }
+}

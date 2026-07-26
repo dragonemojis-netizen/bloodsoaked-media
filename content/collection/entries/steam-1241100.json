@@ -1,0 +1,28 @@
+{
+  "id": "steam-1241100",
+  "origin": "steam",
+  "title": "POLYGON",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1241100,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1241100,
+    "title": "POLYGON",
+    "owned": true,
+    "playtimeMinutes": 471,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 471,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2022-04-20T18:13:59.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1241100/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

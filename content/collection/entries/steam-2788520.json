@@ -1,0 +1,28 @@
+{
+  "id": "steam-2788520",
+  "origin": "steam",
+  "title": "Cozy Caravan",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 2788520,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 2788520,
+    "title": "Cozy Caravan",
+    "owned": true,
+    "playtimeMinutes": 24,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 24,
+    "lastPlayedAt": "2026-01-13T06:23:23.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2788520/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

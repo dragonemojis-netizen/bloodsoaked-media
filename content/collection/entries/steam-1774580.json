@@ -1,0 +1,28 @@
+{
+  "id": "steam-1774580",
+  "origin": "steam",
+  "title": "STAR WARS Jedi: Survivor™",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1774580,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1774580,
+    "title": "STAR WARS Jedi: Survivor™",
+    "owned": true,
+    "playtimeMinutes": 19,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 19,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2025-05-04T23:17:07.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1774580/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

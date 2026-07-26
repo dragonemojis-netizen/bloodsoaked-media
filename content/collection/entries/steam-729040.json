@@ -1,0 +1,28 @@
+{
+  "id": "steam-729040",
+  "origin": "steam",
+  "title": "Borderlands GOTY Enhanced",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 729040,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 729040,
+    "title": "Borderlands GOTY Enhanced",
+    "owned": true,
+    "playtimeMinutes": 615,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 469,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 92,
+    "lastPlayedAt": "2025-12-19T04:51:12.000Z",
+    "storeUrl": "https://store.steampowered.com/app/729040/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

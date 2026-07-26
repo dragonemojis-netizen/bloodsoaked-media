@@ -1,0 +1,110 @@
+{
+  "slug": "drakengard-3",
+  "title": "Drakengard 3",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2013,
+  "synopsis": "The last physical Drakengard release and the closing point of the lineage on this shelf — a PlayStation 3 disc that no longer plays without its console.",
+  "coverImage": "/images/library/drakengard-3/cover-official.jpg",
+  "filedAt": "2026-06-09T01:36:49.000Z",
+  "curatorialRevisionAt": "2026-07-26T02:55:00.000Z",
+  "shelfMark": "LIB-0003",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": ["access-games"],
+    "publishers": ["square-enix"],
+    "platforms": ["playstation-3"],
+    "series": ["drakengard-nier-lineage"],
+    "people": ["yoko-taro"]
+  },
+  "catalog": {
+    "originalTitle": "Drag-On Dragoon 3",
+    "release": "2013 (Japan) · 2014 (North America)",
+    "developer": "Access Games",
+    "publisher": "Square Enix",
+    "platform": "PlayStation 3",
+    "region": "NTSC-U/C · North America · BLUS-31197",
+    "mediumForm": "Blu-ray Disc · PlayStation 3 retail edition",
+    "subjects": [
+      "Action RPG",
+      "Prequel",
+      "Dark Fantasy",
+      "Yoko Taro",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Complete in box: Blu-ray keep case, disc, instruction booklet, and registration insert",
+    "condition": "Complete in box. Case and printed materials in strong condition; disc surface clean. Preserved as a playable reference copy of the North American retail edition.",
+    "acquired": "Private acquisition · June 2026",
+    "filed": "June 9, 2026"
+  },
+  "curatorNotes": "Drakengard 3 is a prequel, which makes it an awkward closing point and an honest one. It reaches back before the first game rather than forward from the second, so the shelf ends where the story begins. An archive that ordered these three by narrative rather than by release would hide how the series was actually made and received.\n\nThe filing also marks a generational boundary. This is the only Drakengard released on hardware that shipped with an account system, patches, and a storefront attached. Content that once accompanied the retail copy — the prologue chapter, the alternate voice track, the costume items — was distributed as separate downloads tied to a service rather than pressed onto the disc. What the archive holds is the complete retail object; what the archive cannot hold is everything that was sold alongside it.\n\nThat gap is the reason this copy is kept rather than treated as the least essential of three. Drakengard 3 documents the moment the series stopped being fully containable in a box, and it belongs in the record precisely because preserving it raises questions the earlier two do not.",
+  "collectionNotes": "Acquired in June 2026 alongside the earlier two releases, completing the Drakengard shelf in a single act rather than over years.\n\nThe retained copy is the North American PlayStation 3 retail edition published by Square Enix (BLUS-31197), not the limited Collector's Edition box. It is complete with its instruction booklet and registration insert, housed in the original Blu-ray keep case.\n\nThis is the only entry in the lineage held on optical media other than a pressed PlayStation 2 disc, and it sits at the end of the shelf as the newest object and the oldest point in the story. Dedicated artifact views of this copy have not yet been documented; the gallery below is held open for that photography.",
+  "preservation": {
+    "playableOn": "Sony PlayStation 3; no later console or handheld plays this disc",
+    "originalHardware": "Sony PlayStation 3 · NTSC-U/C",
+    "compatibility": "The disc requires original PlayStation 3 hardware. The title was never reissued on a later Sony console, and no backward-compatible successor reads it, so continued access depends entirely on maintaining a working PS3.",
+    "concerns": "Two risks run in parallel. The Blu-ray disc faces ordinary optical aging, while the console it depends on faces hardware failure — optical drive laser fatigue and aging internal storage in particular. Beyond the physical object, the game installs to the console's drive before play, and its downloadable additions were delivered through a storefront rather than pressed onto the disc; that material is not part of this holding and is not recoverable from it.",
+    "knownRevisions": "First issued in Japan as Drag-On Dragoon 3 in December 2013. The North American release followed in May 2014, alongside a limited Collector's Edition distributed directly by the publisher. European territories received a digital-only release.",
+    "availability": "The physical North American edition is out of print and circulates through the secondary market. The digital PlayStation 3 edition remains tied to a storefront generation now in decline. No later port or remaster exists; this disc is the archive's only route to the work."
+  },
+  "connections": {
+    "series": "Drakengard / Nier lineage",
+    "collectionIds": ["ig-18000146576770625"],
+    "instagramUrls": ["https://www.instagram.com/p/DZWM2vTMPyG/"],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-06-09T01:36:49.000Z-lib-0003",
+      "at": "2026-06-09T01:36:49.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0003."
+    },
+    {
+      "id": "curator-notes-2026-06-09T01:36:49.000Z-lib-0003",
+      "at": "2026-06-09T01:36:49.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-2026-06-09T01:36:49.000Z-lib-0003",
+      "at": "2026-06-09T01:36:49.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-06-09T01:36:49.000Z-lib-0003",
+      "at": "2026-06-09T01:36:49.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-2026-06-09T01:36:49.000Z-lib-0003",
+      "at": "2026-06-09T01:36:49.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Drakengard / Nier lineage recorded."
+    },
+    {
+      "id": "published-2026-06-09T01:36:49.000Z-lib-0003",
+      "at": "2026-06-09T01:36:49.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    },
+    {
+      "id": "editorial-revision-2026-07-26T02:55:00.000Z",
+      "at": "2026-07-26T02:55:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision"
+    }
+  ]
+}

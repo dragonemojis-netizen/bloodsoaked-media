@@ -1,0 +1,22 @@
+{
+  "slug": "access-games",
+  "authorityId": "AUTH-0004",
+  "type": "developer",
+  "preferredName": "Access Games",
+  "alternativeNames": ["Access Games Inc."],
+  "establishedDate": "2002",
+  "relatedAuthoritySlugs": ["drakengard-nier-lineage", "square-enix"],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-07-26T04:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-07-26T04:00:00.000Z",
+      "at": "2026-07-26T04:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0004 — controlled identity for Access Games."
+    }
+  ]
+}

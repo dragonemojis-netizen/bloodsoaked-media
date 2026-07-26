@@ -1,0 +1,67 @@
+{
+  "id": "steam-22380",
+  "origin": "steam",
+  "title": "Fallout: New Vegas",
+  "eventType": "acquisition",
+  "status": "Filed",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 22380,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 22380,
+    "title": "Fallout: New Vegas",
+    "owned": true,
+    "playtimeMinutes": 40466,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 10886,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 421,
+    "lastPlayedAt": "2026-05-16T20:36:10.000Z",
+    "storeUrl": "https://store.steampowered.com/app/22380/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Obsidian Entertainment"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "releaseDate": "2010-10-19",
+    "releaseDateRaw": "Oct 19, 2010",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Welcome to Vegas. New Vegas. Enjoy your stay!",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/22380/header.jpg",
+      "capsule": "/images/collection/steam/22380/capsule.jpg",
+      "hero": "/images/collection/steam/22380/hero.jpg"
+    }
+  },
+  "filing": {
+    "librarySlug": "fallout-new-vegas",
+    "shelfMark": "LIB-0005",
+    "filedAt": "2026-07-26T03:54:45.563Z"
+  }
+}

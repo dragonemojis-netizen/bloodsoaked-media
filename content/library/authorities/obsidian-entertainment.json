@@ -1,0 +1,30 @@
+{
+  "slug": "obsidian-entertainment",
+  "authorityId": "AUTH-0015",
+  "type": "developer",
+  "preferredName": "Obsidian Entertainment",
+  "alternativeNames": ["Obsidian"],
+  "description": "Obsidian Entertainment — developer of record for Fallout: New Vegas in this archive’s Fallout shelf.",
+  "relatedAuthoritySlugs": ["fallout", "bethesda-softworks"],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-07-26T05:00:00.000Z",
+  "curatorialRevisionAt": "2026-07-26T06:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-07-26T05:00:00.000Z",
+      "at": "2026-07-26T05:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0015 — controlled identity for Obsidian Entertainment."
+    },
+    {
+      "id": "editorial-revision-2026-07-26T06:00:00.000Z",
+      "at": "2026-07-26T06:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered for the Fallout Digital Holdings issue."
+    }
+  ]
+}

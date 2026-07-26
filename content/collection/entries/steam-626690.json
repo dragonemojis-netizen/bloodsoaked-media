@@ -1,0 +1,28 @@
+{
+  "id": "steam-626690",
+  "origin": "steam",
+  "title": "Sword Art Online: Fatal Bullet",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 626690,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 626690,
+    "title": "Sword Art Online: Fatal Bullet",
+    "owned": true,
+    "playtimeMinutes": 22,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 22,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-03-07T20:42:06.000Z",
+    "storeUrl": "https://store.steampowered.com/app/626690/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

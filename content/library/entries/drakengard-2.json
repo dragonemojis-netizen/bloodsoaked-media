@@ -1,0 +1,108 @@
+{
+  "slug": "drakengard-2",
+  "title": "Drakengard 2",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2005,
+  "synopsis": "The middle chapter of the Drakengard trilogy — a contested sequel retained so the lineage on the shelf remains whole.",
+  "coverImage": "/images/library/drakengard-2/cover-official.jpg",
+  "filedAt": "2026-06-09T01:36:49.000Z",
+  "curatorialRevisionAt": "2026-07-26T02:40:00.000Z",
+  "shelfMark": "LIB-0002",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": ["cavia"],
+    "publishers": ["ubisoft", "square-enix"],
+    "platforms": ["playstation-2"],
+    "series": ["drakengard-nier-lineage"]
+  },
+  "catalog": {
+    "originalTitle": "Drag-On Dragoon 2: Sealed Red, Immoral Black",
+    "release": "2005 (Japan) · 2006 (North America)",
+    "developer": "Cavia",
+    "publisher": "Ubisoft (North America) · Square Enix (Japan)",
+    "platform": "PlayStation 2",
+    "region": "NTSC-U/C · North America",
+    "mediumForm": "Pressed optical disc · PlayStation 2 retail edition",
+    "subjects": [
+      "Action RPG",
+      "Sequel",
+      "Dark Fantasy",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Complete in box: case, pressed disc, manual, and original cover insert",
+    "condition": "Complete in box. Modest shelf wear on the outer case; printed materials intact. Preserved as a playable reference copy of the North American edition.",
+    "acquired": "Private acquisition · June 2026",
+    "filed": "June 9, 2026"
+  },
+  "curatorNotes": "Drakengard 2 is the filing many readers of this lineage treat with caution. It was shaped to be more approachable than the first game, and that decision remains audible in its tone, its colors, and the way it handles characters who once felt dangerous. Yoko Taro did not guide the narrative as he had before. The sequel arrived under different pressure, and it shows.\n\nThat history is exactly why the copy is here. An archive that keeps only the first and third Drakengard releases would invent a cleaner story than the shelf actually holds. The middle chapter records what the series became when it was asked to behave, and how the world after Caim and Angelus was continued under other hands.\n\nThis filing is not an argument that the sequel is misunderstood, nor a ranking against its neighbors. It is custody of the contested middle — necessary if the Drakengard / Nier lineage is to be read as a sequence rather than a highlight reel.",
+  "collectionNotes": "Acquired in June 2026 with the other principal Drakengard releases, as part of completing the 1–3 shelf rather than as an isolated purchase.\n\nThe retained copy is the North American PlayStation 2 edition published by Ubisoft (SLUS-21373). It remains complete in box with manual and cover insert, and is kept beside Drakengard and Drakengard 3 as the reference set for this lineage.\n\nThe Collection Hall acquisition photograph for the completed shelf includes this edition. Dedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Sony PlayStation 2; compatible North American PlayStation hardware",
+    "originalHardware": "Sony PlayStation 2 · NTSC-U/C",
+    "compatibility": "Pressed for North American PlayStation 2 consoles under Ubisoft’s localization. The retained disc remains the primary access copy for this edition.",
+    "concerns": "As with other mid-2000s optical releases, disc aging, surface abrasion, and case hinge fatigue are the principal risks. The disc is stored upright in its original case; the manual and cover insert remain with the copy under dry, stable conditions.",
+    "knownRevisions": "First issued in Japan as Drag-On Dragoon 2: Sealed Red, Immoral Black in June 2005 (Square Enix). The North American localization followed in February 2006 under Ubisoft as Drakengard 2.",
+    "availability": "The original physical edition is out of print and circulates through the secondary market. No current digital edition replaces this North American reference copy."
+  },
+  "connections": {
+    "series": "Drakengard / Nier lineage",
+    "collectionIds": ["ig-18000146576770625"],
+    "instagramUrls": ["https://www.instagram.com/p/DZWM2vTMPyG/"],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-06-09T01:36:49.000Z-lib-0002",
+      "at": "2026-06-09T01:36:49.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0002."
+    },
+    {
+      "id": "curator-notes-2026-06-09T01:36:49.000Z-lib-0002",
+      "at": "2026-06-09T01:36:49.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-2026-06-09T01:36:49.000Z-lib-0002",
+      "at": "2026-06-09T01:36:49.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-06-09T01:36:49.000Z-lib-0002",
+      "at": "2026-06-09T01:36:49.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-2026-06-09T01:36:49.000Z-lib-0002",
+      "at": "2026-06-09T01:36:49.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Drakengard / Nier lineage recorded."
+    },
+    {
+      "id": "published-2026-06-09T01:36:49.000Z-lib-0002",
+      "at": "2026-06-09T01:36:49.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    },
+    {
+      "id": "editorial-revision-2026-07-26T02:40:00.000Z",
+      "at": "2026-07-26T02:40:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision"
+    }
+  ]
+}

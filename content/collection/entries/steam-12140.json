@@ -1,0 +1,56 @@
+{
+  "id": "steam-12140",
+  "origin": "steam",
+  "title": "Max Payne",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 12140,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 12140,
+    "title": "Max Payne",
+    "owned": true,
+    "playtimeMinutes": 111,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 6,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 105,
+    "lastPlayedAt": "2023-10-24T04:40:42.000Z",
+    "storeUrl": "https://store.steampowered.com/app/12140/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Remedy Entertainment"
+    ],
+    "publishers": [
+      "Rockstar Games"
+    ],
+    "releaseDate": "2011-01-06",
+    "releaseDateRaw": "Jan 6, 2011",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Max Payne is a man with nothing to lose in the violent, cold urban night. A fugitive undercover cop framed for murder, hunted by cops and the mob, Max is a man with his back against the wall, fighting a battle he cannot hope to win. Prepare for pain…",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/12140/header.jpg",
+      "capsule": "/images/collection/steam/12140/capsule.jpg",
+      "hero": "/images/collection/steam/12140/hero.jpg"
+    }
+  }
+}

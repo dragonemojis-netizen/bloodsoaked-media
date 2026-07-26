@@ -1,0 +1,60 @@
+{
+  "id": "steam-21100",
+  "origin": "steam",
+  "title": "F.E.A.R. 3",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 21100,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 21100,
+    "title": "F.E.A.R. 3",
+    "owned": true,
+    "playtimeMinutes": 985,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 948,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 36,
+    "lastPlayedAt": "2025-03-04T01:08:22.000Z",
+    "storeUrl": "https://store.steampowered.com/app/21100/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Day 1 Studios"
+    ],
+    "publishers": [
+      "Warner Bros. Interactive Entertainment"
+    ],
+    "releaseDate": "2011-06-21",
+    "releaseDateRaw": "Jun 21, 2011",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "F.E.A.R. 3 delivers all the hallmarks that define the F.E.A.R. brand: terrifying paranormal experience, frenetic combat and a dramatic storyline.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/21100/header.jpg"
+    }
+  }
+}

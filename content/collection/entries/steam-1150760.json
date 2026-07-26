@@ -1,0 +1,28 @@
+{
+  "id": "steam-1150760",
+  "origin": "steam",
+  "title": "Gloomwood",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1150760,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1150760,
+    "title": "Gloomwood",
+    "owned": true,
+    "playtimeMinutes": 243,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 167,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 76,
+    "lastPlayedAt": "2024-03-16T03:31:32.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1150760/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

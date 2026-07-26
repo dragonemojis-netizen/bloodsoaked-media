@@ -1,0 +1,62 @@
+{
+  "id": "steam-6060",
+  "origin": "steam",
+  "title": "STAR WARS™ Battlefront II (Classic, 2005)",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 6060,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 6060,
+    "title": "STAR WARS™ Battlefront II (Classic, 2005)",
+    "owned": true,
+    "playtimeMinutes": 285,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2018-01-08T02:50:39.000Z",
+    "storeUrl": "https://store.steampowered.com/app/6060/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Pandemic Studios"
+    ],
+    "publishers": [
+      "Lucasfilm",
+      "LucasArts",
+      "Disney"
+    ],
+    "releaseDate": "2009-07-08",
+    "releaseDateRaw": "Jul 8, 2009",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Join the rise of Darth Vader’s elite 501st Legion of Stormtroopers as you fight through an all new story-based saga where every action you take impacts the battlefront and, ultimately, the fate of the Star Wars galaxy.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/6060/header.jpg",
+      "capsule": "/images/collection/steam/6060/capsule.jpg",
+      "hero": "/images/collection/steam/6060/hero.jpg"
+    }
+  }
+}

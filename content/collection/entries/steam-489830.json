@@ -1,0 +1,28 @@
+{
+  "id": "steam-489830",
+  "origin": "steam",
+  "title": "The Elder Scrolls V: Skyrim Special Edition",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 489830,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 489830,
+    "title": "The Elder Scrolls V: Skyrim Special Edition",
+    "owned": true,
+    "playtimeMinutes": 2131,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 2002,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2024-07-12T01:44:32.000Z",
+    "storeUrl": "https://store.steampowered.com/app/489830/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

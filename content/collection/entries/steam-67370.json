@@ -1,0 +1,28 @@
+{
+  "id": "steam-67370",
+  "origin": "steam",
+  "title": "The Darkness II",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 67370,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 67370,
+    "title": "The Darkness II",
+    "owned": true,
+    "playtimeMinutes": 320,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 103,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 203,
+    "lastPlayedAt": "2024-03-16T04:37:15.000Z",
+    "storeUrl": "https://store.steampowered.com/app/67370/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

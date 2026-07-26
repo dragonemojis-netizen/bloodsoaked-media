@@ -1,0 +1,4 @@
+{
+  "schemaVersion": 2,
+  "description": "Bloodsoaked Media Library accession schema. One JSON file per Archive Entry in entries/. Browse projections live in index.json (shelf summaries). Optional steam block is attached permanently when a Steam Pipeline record is filed. stewardshipHistory is an append-only chronology of the archival record itself. Canonical Steam draft: marathon.json. Stewardship: src/config/library-stewardship.ts."
+}

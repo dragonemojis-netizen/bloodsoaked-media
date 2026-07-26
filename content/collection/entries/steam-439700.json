@@ -1,0 +1,28 @@
+{
+  "id": "steam-439700",
+  "origin": "steam",
+  "title": "H1Z1: Test Server",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 439700,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 439700,
+    "title": "H1Z1: Test Server",
+    "owned": true,
+    "playtimeMinutes": 97,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2018-06-21T21:39:18.000Z",
+    "storeUrl": "https://store.steampowered.com/app/439700/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

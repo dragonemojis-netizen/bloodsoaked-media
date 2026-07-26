@@ -1,0 +1,28 @@
+{
+  "id": "steam-429330",
+  "origin": "steam",
+  "title": "Stikbold!",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 429330,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 429330,
+    "title": "Stikbold!",
+    "owned": true,
+    "playtimeMinutes": 84,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 33,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2024-10-25T23:04:27.000Z",
+    "storeUrl": "https://store.steampowered.com/app/429330/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

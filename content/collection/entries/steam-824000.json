@@ -1,0 +1,28 @@
+{
+  "id": "steam-824000",
+  "origin": "steam",
+  "title": "Hokko Life",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 824000,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 824000,
+    "title": "Hokko Life",
+    "owned": true,
+    "playtimeMinutes": 22,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 22,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2023-01-09T22:25:18.000Z",
+    "storeUrl": "https://store.steampowered.com/app/824000/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

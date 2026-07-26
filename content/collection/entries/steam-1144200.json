@@ -1,0 +1,28 @@
+{
+  "id": "steam-1144200",
+  "origin": "steam",
+  "title": "Ready or Not",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1144200,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1144200,
+    "title": "Ready or Not",
+    "owned": true,
+    "playtimeMinutes": 2459,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 2459,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-02-25T23:45:13.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1144200/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

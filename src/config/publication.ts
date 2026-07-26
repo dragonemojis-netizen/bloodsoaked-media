@@ -1,4 +1,6 @@
 /** Editorial terminology — tasteful publication voice */
+import { libraryPublicationAliases } from "@/config/library-voice";
+
 export const publication = {
   featured: "Featured Stories",
   recent: "Recent Entries",
@@ -84,6 +86,7 @@ export const publication = {
   collectionFeatures: "Collection Features",
   moods: "Browse by Mood",
   moodsEyebrow: "Atmosphere",
+  ...libraryPublicationAliases,
   theVault: "The Vault",
   vaultEyebrow: "Permanent Shelf",
   vaultEntry: "Vault Entry",

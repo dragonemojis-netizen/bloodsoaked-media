@@ -47,7 +47,7 @@ export async function EditorPresence() {
 
   return (
     <div
-      className="border-b border-accent/15 bg-background-elevated/90"
+      className="editor-presence border-b border-accent/15 bg-background-elevated/90"
       aria-label="Editor presence"
     >
       <p className="mx-auto max-w-6xl px-6 pt-2 font-mono text-[0.5rem] uppercase tracking-[0.28em] text-accent-bright/50">

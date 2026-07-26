@@ -1,0 +1,28 @@
+{
+  "id": "steam-755790",
+  "origin": "steam",
+  "title": "Ring of Elysium",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 755790,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 755790,
+    "title": "Ring of Elysium",
+    "owned": true,
+    "playtimeMinutes": 92,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2019-01-28T00:50:04.000Z",
+    "storeUrl": "https://store.steampowered.com/app/755790/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

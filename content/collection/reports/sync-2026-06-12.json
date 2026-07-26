@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-06-12T21:49:24.000Z",
+  "dryRun": false,
+  "forceImages": false,
+  "created": [
+    "ig-18123398116656295"
+  ],
+  "updated": [
+    "ig-17887505592560816",
+    "ig-18000146576770625"
+  ],
+  "skipped": [],
+  "images": [
+    {
+      "id": "ig-18123398116656295",
+      "mediaId": "18123398116656295",
+      "status": "saved",
+      "imageSnapshot": "/images/collection/ig-18123398116656295/primary-original.jpg",
+      "coverImage": "/images/collection/ig-18123398116656295/primary.jpg",
+      "sha256": "95793322ec2613e9c641baefc590ec85860b0d3cc63abcc240142fb2451647a6"
+    },
+    {
+      "id": "ig-17887505592560816",
+      "mediaId": "17887505592560816",
+      "status": "skipped",
+      "reason": "exists",
+      "imageSnapshot": "/images/collection/ig-17887505592560816/primary-original.jpg",
+      "coverImage": "/images/collection/ig-17887505592560816/primary.jpg"
+    },
+    {
+      "id": "ig-18000146576770625",
+      "mediaId": "18000146576770625",
+      "status": "skipped",
+      "reason": "exists",
+      "imageSnapshot": "/images/collection/ig-18000146576770625/primary-original.jpg",
+      "coverImage": "/images/collection/ig-18000146576770625/primary.jpg"
+    }
+  ],
+  "tombstoned": [],
+  "errors": []
+}

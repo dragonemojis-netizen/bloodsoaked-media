@@ -5,14 +5,21 @@ interface CoverFrameProps {
   src?: string;
   alt: string;
   label?: string;
-  aspect?: "poster" | "square" | "wide";
+  aspect?: "archive" | "poster" | "square" | "wide";
   /** cover fills frame (cropped); contain shows full art with letterboxing */
   fit?: "cover" | "contain";
   className?: string;
   sizes?: string;
+  quality?: number;
 }
 
 const aspectClasses = {
+  /**
+   * Neutral optical field for complete release artwork (used via CoverArtwork).
+   * At 4:5, narrow cases use the field's height while wider cases use its
+   * width — comparable presence without cropping or manual offsets.
+   */
+  archive: "aspect-[4/5]",
   poster: "aspect-[2/3]",
   square: "aspect-square",
   wide: "aspect-video",
@@ -26,6 +33,7 @@ export function CoverFrame({
   fit = "cover",
   className = "",
   sizes = "(max-width: 768px) 120px, 160px",
+  quality,
 }: CoverFrameProps) {
   const remote = src ? isRemoteCoverUrl(src) : false;
   const objectClass = fit === "contain" ? "object-contain" : "object-cover";
@@ -50,6 +58,7 @@ export function CoverFrame({
             alt={alt}
             fill
             sizes={sizes}
+            quality={quality}
             className={`${objectClass} vhs-hover-image`}
           />
         )

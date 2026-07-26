@@ -1482,8 +1482,1854 @@ a {
   color: var(--foreground-muted);
 }
 
+/* Library — archival wing. After-hours archive: quiet, paper, soft light. */
+.library-hero {
+  border: 1px solid color-mix(in srgb, var(--accent) 16%, var(--border));
+  background: linear-gradient(
+    172deg,
+    color-mix(in srgb, var(--background-panel) 90%, #100808) 0%,
+    var(--background) 48%,
+    var(--background-elevated) 100%
+  );
+  box-shadow:
+    inset 0 0 90px rgba(139, 26, 26, 0.05),
+    inset 0 1px 0 rgba(232, 228, 223, 0.03),
+    0 4px 28px rgba(0, 0, 0, 0.42);
+}
+
+/* Soft reading-lamp falloff — the room is lit from one corner */
+.library-hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: radial-gradient(
+    ellipse 70% 90% at 18% 0%,
+    rgba(232, 228, 223, 0.028),
+    transparent 60%
+  );
+}
+
+.library-hero-watermark {
+  background-position: right -4% top 42%;
+  background-size: min(38%, 250px);
+  opacity: 0.03;
+  filter: grayscale(35%) contrast(1.08) sepia(0.12);
+}
+
+.library-hero-imprint {
+  border-bottom: 1px solid var(--border-subtle);
+  padding-bottom: 0.8rem;
+  max-width: 22rem;
+}
+
+.library-hero-description {
+  font-size: 1.0625rem;
+  line-height: 1.66;
+  text-wrap: pretty;
+}
+
+.library-hero-charter {
+  border-left: 2px solid color-mix(in srgb, var(--accent) 30%, transparent);
+  padding-left: 0.9rem;
+}
+
+.library-body {
+  position: relative;
+  z-index: 1;
+}
+
+/* Lookup terminal — one hairline bar, focus warms the frame */
+.library-search-terminal {
+  border: 1px solid color-mix(in srgb, var(--border) 85%, transparent);
+  background: color-mix(in srgb, var(--background-panel) 72%, transparent);
+  box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.25);
+  transition:
+    border-color var(--transition-vhs),
+    background-color var(--transition-vhs),
+    box-shadow var(--transition-vhs);
+}
+
+.library-search-terminal:focus-within {
+  border-color: color-mix(in srgb, var(--accent) 38%, var(--border));
+  background: color-mix(in srgb, var(--background-panel) 92%, transparent);
+  box-shadow:
+    inset 0 1px 0 rgba(0, 0, 0, 0.25),
+    0 0 0 1px color-mix(in srgb, var(--accent) 12%, transparent),
+    0 2px 18px rgba(139, 26, 26, 0.07);
+}
+
+.library-search-input:focus {
+  outline: none;
+}
+
+.library-search-submit {
+  border-left: 1px solid color-mix(in srgb, var(--border) 70%, transparent);
+  transition:
+    color var(--transition-vhs),
+    background-color var(--transition-vhs);
+}
+
+.library-search-submit:hover {
+  color: var(--accent-bright);
+  background: color-mix(in srgb, var(--accent) 8%, transparent);
+}
+
+/* Card catalog — resting index cards */
+.library-filter-intro {
+  border-left: 2px solid color-mix(in srgb, var(--accent) 24%, transparent);
+  padding-left: 1rem;
+}
+
+.library-index-card {
+  position: relative;
+  box-shadow:
+    inset 0 1px 0 rgba(232, 228, 223, 0.02),
+    0 1px 10px rgba(0, 0, 0, 0.22);
+}
+
+/* Index-card head rule — the red line across the top of a catalog card */
+.library-index-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    color-mix(in srgb, var(--accent) 42%, transparent),
+    color-mix(in srgb, var(--accent) 10%, transparent) 55%,
+    transparent
+  );
+}
+
+.library-index-card-row {
+  transition: color var(--transition-vhs);
+}
+
+/* The empty wing — lit, held, waiting */
+.library-empty {
+  position: relative;
+  overflow: hidden;
+  box-shadow:
+    inset 0 0 110px rgba(0, 0, 0, 0.3),
+    0 4px 24px rgba(0, 0, 0, 0.35);
+}
+
+.library-empty::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(
+      ellipse 65% 75% at 22% 8%,
+      rgba(232, 228, 223, 0.035),
+      transparent 62%
+    ),
+    radial-gradient(
+      ellipse 50% 60% at 85% 100%,
+      rgba(139, 26, 26, 0.045),
+      transparent 65%
+    );
+}
+
+.library-empty-stamp {
+  max-width: 26rem;
+}
+
+/* Shelf cards */
+.library-card {
+  border-color: color-mix(in srgb, var(--border) 88%, transparent);
+  transition:
+    border-color var(--transition-vhs),
+    box-shadow var(--transition-vhs);
+}
+
+.library-card:hover {
+  border-color: color-mix(in srgb, var(--accent) 18%, var(--border));
+  box-shadow: 0 3px 20px rgba(0, 0, 0, 0.35);
+}
+
+/* Shared archival artwork field — hero and shelf card inherit the same rules */
+.cover-artwork {
+  background: color-mix(in srgb, var(--background) 72%, var(--background-panel));
+}
+
+.library-card-cover :is(img) {
+  transition: filter var(--transition-vhs);
+}
+
+.library-card-cover-artwork {
+  box-shadow: none;
+}
+
+/* Quiet shelf continuation — pacing, not pagination chrome */
+.library-shelf-continuation {
+  margin-top: 3.5rem;
+  padding-top: 2rem;
+  border-top: 1px solid color-mix(in srgb, var(--border) 70%, transparent);
+  max-width: 28rem;
+}
+
+.library-shelf-continuation-link {
+  text-underline-offset: 0.2em;
+}
+
+.library-shelf-continuation-link:hover {
+  text-decoration: underline;
+}
+
+/* Filing card — metadata placard */
+.library-metadata-card {
+  position: relative;
+  box-shadow: inset 0 1px 0 rgba(232, 228, 223, 0.02);
+}
+
+.library-metadata-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2px;
+  height: 100%;
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--accent) 42%, transparent),
+    color-mix(in srgb, var(--accent) 10%, transparent)
+  );
+}
+
+.library-detail-back {
+  display: inline-block;
+}
+
+/* Archive Entry — museum accession record */
+.library-accession {
+  max-width: 56rem;
+}
+
+.library-entry-hero-layout {
+  align-items: end;
+}
+
+.library-entry-cover-frame {
+  box-shadow: none;
+}
+
+.library-accession-panel {
+  position: relative;
+}
+
+.library-accession-eyebrow {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.56rem;
+  font-weight: 400;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--accent-bright) 88%, var(--foreground-muted));
+  border-bottom: 1px solid var(--border-subtle);
+  padding-bottom: 0.85rem;
+}
+
+.library-accession-panel--prose .library-accession-eyebrow {
+  max-width: 36rem;
+}
+
+.library-field-list {
+  margin: 0;
+}
+
+.library-field-row {
+  display: grid;
+  grid-template-columns: minmax(7.5rem, 9.5rem) minmax(0, 1fr);
+  gap: 0.85rem 1.25rem;
+  padding: 0.7rem 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--border-subtle) 80%, transparent);
+}
+
+.library-field-row:first-child {
+  padding-top: 0;
+}
+
+.library-field-row:last-child {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+
+.library-field-label {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.5rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--foreground-muted) 70%, transparent);
+  padding-top: 0.2rem;
+}
+
+.library-field-value {
+  font-family: var(--font-serif), "Libre Baskerville", Georgia, serif;
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: color-mix(in srgb, var(--foreground) 92%, transparent);
+  margin: 0;
+}
+
+.library-prose {
+  max-width: 38rem;
+  font-family: var(--font-serif), "Libre Baskerville", Georgia, serif;
+  font-size: 1.0625rem;
+  line-height: 1.78;
+  color: color-mix(in srgb, var(--foreground-muted) 96%, var(--foreground));
+  text-wrap: pretty;
+}
+
+.library-connection-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.library-connection-link {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--foreground-muted);
+  transition: color var(--transition-vhs);
+}
+
+.library-connection-link:hover {
+  color: var(--accent-bright);
+}
+
+/* Derived series lineage — shelf marks read as a register, not a list of sequels */
+.library-lineage-mark {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.58rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--foreground-muted) 60%, transparent);
+  margin-right: 0.7rem;
+}
+
+.library-lineage-current {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--foreground-muted) 70%, transparent);
+}
+
+.library-lineage-note {
+  margin-left: 0.6rem;
+  font-size: 0.56rem;
+  letter-spacing: 0.14em;
+  color: color-mix(in srgb, var(--foreground-muted) 45%, transparent);
+}
+
+/* Artifact Documentation — archival gallery */
+.library-artifact-lead {
+  text-wrap: pretty;
+}
+
+.library-artifact-gallery {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(10.5rem, 1fr));
+  gap: 1.5rem 1.25rem;
+}
+
+@media (min-width: 768px) {
+  .library-artifact-gallery {
+    grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+    gap: 1.75rem 1.5rem;
+  }
+}
+
+.library-artifact-tile {
+  min-width: 0;
+}
+
+.library-artifact-tile-button {
+  display: block;
+  width: 100%;
+  text-align: left;
+  background: transparent;
+  border: 0;
+  padding: 0;
+  cursor: zoom-in;
+}
+
+.library-artifact-tile-frame {
+  position: relative;
+  display: block;
+  aspect-ratio: 3 / 4;
+  overflow: hidden;
+  border: 1px solid color-mix(in srgb, var(--border) 85%, transparent);
+  background: var(--background);
+}
+
+.library-artifact-tile-frame img {
+  transition: filter var(--transition-vhs);
+}
+
+.library-artifact-tile-button:hover .library-artifact-tile-frame,
+.library-artifact-tile-button:focus-visible .library-artifact-tile-frame {
+  border-color: color-mix(in srgb, var(--accent) 28%, var(--border));
+}
+
+.library-artifact-tile-button:hover .library-artifact-tile-frame img,
+.library-artifact-tile-button:focus-visible .library-artifact-tile-frame img {
+  filter: brightness(1.04) contrast(1.02);
+}
+
+.library-artifact-tile-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  margin-top: 0.65rem;
+}
+
+.library-artifact-tile-view {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.52rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--foreground-muted) 90%, transparent);
+}
+
+.library-artifact-tile-kind {
+  font-family: var(--font-serif), "Libre Baskerville", Georgia, serif;
+  font-size: 0.78rem;
+  font-style: italic;
+  color: color-mix(in srgb, var(--foreground-muted) 70%, transparent);
+}
+
+.library-artifact-caption {
+  margin: 0.7rem 0 0;
+  font-family: var(--font-serif), "Libre Baskerville", Georgia, serif;
+  font-size: 0.78rem;
+  line-height: 1.6;
+  color: color-mix(in srgb, var(--foreground-muted) 78%, transparent);
+  text-wrap: pretty;
+}
+
+.library-artifact-placard {
+  margin: 0.55rem 0 0;
+}
+
+.library-artifact-placard-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.65rem;
+  padding: 0.15rem 0;
+}
+
+.library-artifact-placard-row dt {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.45rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--foreground-muted) 45%, transparent);
+}
+
+.library-artifact-placard-row dd {
+  margin: 0;
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.48rem;
+  letter-spacing: 0.08em;
+  color: color-mix(in srgb, var(--foreground-muted) 65%, transparent);
+}
+
+/* Museum lightbox */
+.library-artifact-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 80;
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+}
+
+.library-artifact-lightbox-scrim {
+  position: absolute;
+  inset: 0;
+  border: 0;
+  padding: 0;
+  background: rgba(4, 4, 4, 0.92);
+  cursor: pointer;
+}
+
+.library-artifact-lightbox-chrome {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  width: min(96vw, 72rem);
+  margin: 1.25rem auto;
+  pointer-events: none;
+}
+
+.library-artifact-lightbox-chrome > * {
+  pointer-events: auto;
+}
+
+.library-artifact-lightbox-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem 1.25rem;
+  margin-bottom: 0.75rem;
+}
+
+.library-artifact-lightbox-title {
+  margin: 0;
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.55rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--foreground-muted);
+}
+
+.library-artifact-lightbox-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.library-artifact-lightbox-btn {
+  border: 1px solid color-mix(in srgb, var(--border) 80%, transparent);
+  background: color-mix(in srgb, var(--background-panel) 70%, transparent);
+  color: var(--foreground-muted);
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.52rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  padding: 0.4rem 0.7rem;
+  transition:
+    color var(--transition-vhs),
+    border-color var(--transition-vhs);
+}
+
+.library-artifact-lightbox-btn:hover {
+  color: var(--accent-bright);
+  border-color: color-mix(in srgb, var(--accent) 30%, var(--border));
+}
+
+.library-artifact-lightbox-stage-wrap {
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  min-height: min(72vh, 48rem);
+}
+
+.library-artifact-lightbox-stage {
+  position: relative;
+  flex: 1;
+  height: min(72vh, 48rem);
+  overflow: hidden;
+  border: 1px solid color-mix(in srgb, var(--border) 70%, transparent);
+  background: #050505;
+  touch-action: none;
+  cursor: zoom-in;
+}
+
+.library-artifact-lightbox-stage.is-zoomed {
+  cursor: grab;
+}
+
+.library-artifact-lightbox-stage.is-zoomed:active {
+  cursor: grabbing;
+}
+
+.library-artifact-lightbox-image {
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  transform-origin: center center;
+  transition: transform 80ms linear;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.library-artifact-lightbox-nav {
+  position: absolute;
+  top: 50%;
+  z-index: 2;
+  transform: translateY(-50%);
+  border: 1px solid color-mix(in srgb, var(--border) 70%, transparent);
+  background: color-mix(in srgb, var(--background) 75%, transparent);
+  color: var(--foreground-muted);
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  width: 2.4rem;
+  height: 2.4rem;
+  display: grid;
+  place-items: center;
+  transition: color var(--transition-vhs), border-color var(--transition-vhs);
+}
+
+.library-artifact-lightbox-nav:hover {
+  color: var(--accent-bright);
+  border-color: color-mix(in srgb, var(--accent) 28%, var(--border));
+}
+
+.library-artifact-lightbox-nav--prev {
+  left: 0.5rem;
+}
+
+.library-artifact-lightbox-nav--next {
+  right: 0.5rem;
+}
+
+.library-artifact-lightbox-caption {
+  max-width: 48rem;
+  margin: 0.8rem 0 0;
+  font-family: var(--font-serif), "Libre Baskerville", Georgia, serif;
+  font-size: 0.78rem;
+  line-height: 1.55;
+  color: color-mix(in srgb, var(--foreground-muted) 78%, transparent);
+  text-wrap: pretty;
+}
+
+.library-artifact-lightbox-docs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem 1.5rem;
+  margin: 0.85rem 0 0;
+  padding-top: 0.75rem;
+  border-top: 1px solid color-mix(in srgb, var(--border-subtle) 80%, transparent);
+}
+
+.library-artifact-lightbox-doc {
+  display: flex;
+  gap: 0.45rem;
+  align-items: baseline;
+}
+
+.library-artifact-lightbox-doc dt {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.45rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--foreground-muted) 50%, transparent);
+}
+
+.library-artifact-lightbox-doc dd {
+  margin: 0;
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.52rem;
+  letter-spacing: 0.1em;
+  color: color-mix(in srgb, var(--foreground-muted) 80%, transparent);
+}
+
+.library-field-link {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--border) 70%, transparent);
+  text-underline-offset: 0.2em;
+  word-break: break-all;
+}
+
+.library-field-link:hover {
+  color: var(--accent-bright);
+  text-decoration-color: var(--accent-bright);
+}
+
+.library-editorial-awaiting,
+.library-editorial-awaiting-inline {
+  margin: 0;
+  font-family: var(--font-serif), "Libre Baskerville", serif;
+  font-size: 0.95rem;
+  font-style: italic;
+  line-height: 1.55;
+  color: color-mix(in srgb, var(--foreground-muted) 82%, transparent);
+}
+
+.library-editorial-awaiting-inline {
+  font-size: inherit;
+}
+
+.library-accession-panel--provenance {
+  max-width: 40rem;
+}
+
+.library-accession-panel--provenance .library-accession-eyebrow {
+  color: color-mix(in srgb, var(--foreground-muted) 78%, transparent);
+}
+
+.library-acquisition-lead {
+  margin: 0 0 1.25rem;
+  max-width: 34rem;
+  font-family: var(--font-serif), "Libre Baskerville", Georgia, serif;
+  font-size: 0.92rem;
+  font-style: italic;
+  line-height: 1.55;
+  color: color-mix(in srgb, var(--foreground-muted) 78%, transparent);
+}
+
+.library-technical-details {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid color-mix(in srgb, var(--border-subtle) 70%, transparent);
+}
+
+.library-technical-details summary {
+  cursor: pointer;
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.48rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--foreground-muted) 55%, transparent);
+  list-style: none;
+}
+
+.library-technical-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.library-technical-details[open] summary {
+  color: color-mix(in srgb, var(--foreground-muted) 75%, transparent);
+}
+
+.library-technical-details-list {
+  margin: 0.85rem 0 0;
+}
+
+.library-technical-details-list > div {
+  display: grid;
+  grid-template-columns: 9.5rem minmax(0, 1fr);
+  gap: 0.75rem;
+  padding: 0.45rem 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--border-subtle) 55%, transparent);
+}
+
+.library-technical-details-list dt {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.46rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--foreground-muted) 50%, transparent);
+}
+
+.library-technical-details-list dd {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--foreground-muted);
+}
+
+.library-technical-details-list code {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.78rem;
+}
+
+/* Stewardship History — permanent chronology of the archival record */
+.library-stewardship-lead {
+  margin: 0 0 1.25rem;
+  max-width: 36rem;
+  font-size: 0.92rem;
+  line-height: 1.55;
+  color: color-mix(in srgb, var(--foreground-muted) 88%, transparent);
+}
+
+.library-stewardship-chronology {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid color-mix(in srgb, var(--border-subtle) 70%, transparent);
+}
+
+.library-stewardship-entry {
+  display: grid;
+  grid-template-columns: 7.5rem minmax(0, 1fr);
+  gap: 1rem 1.25rem;
+  padding: 0.9rem 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--border-subtle) 70%, transparent);
+}
+
+.library-stewardship-date {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.5rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--foreground-muted) 55%, transparent);
+  padding-top: 0.2rem;
+}
+
+.library-stewardship-summary {
+  margin: 0;
+  font-family: var(--font-serif), "Libre Baskerville", serif;
+  font-size: 1rem;
+  line-height: 1.4;
+  color: var(--foreground);
+}
+
+.library-stewardship-note {
+  margin: 0.35rem 0 0;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  color: color-mix(in srgb, var(--foreground-muted) 85%, transparent);
+}
+
+@media (max-width: 640px) {
+  .library-stewardship-entry {
+    grid-template-columns: 1fr;
+    gap: 0.3rem;
+  }
+}
+
+/* Authority Records — bibliographic reference cards */
+.authority-record-eyebrow,
+.authority-record-id,
+.authority-record-type {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  text-transform: uppercase;
+}
+
+.authority-record-eyebrow {
+  margin: 0;
+  font-size: 0.54rem;
+  letter-spacing: 0.3em;
+  color: color-mix(in srgb, var(--accent-bright) 88%, var(--foreground-muted));
+}
+
+.authority-record-id {
+  margin: 0.85rem 0 0;
+  font-size: 0.58rem;
+  letter-spacing: 0.22em;
+  color: color-mix(in srgb, var(--foreground-muted) 75%, transparent);
+}
+
+.authority-record-title {
+  margin: 0.55rem 0 0;
+  font-family: var(--font-serif), "Libre Baskerville", Georgia, serif;
+  font-size: clamp(1.85rem, 4vw, 2.45rem);
+  font-weight: 400;
+  line-height: 1.12;
+  letter-spacing: 0.01em;
+  color: var(--foreground);
+}
+
+.authority-record-type {
+  margin: 0.75rem 0 0;
+  font-size: 0.52rem;
+  letter-spacing: 0.24em;
+  color: color-mix(in srgb, var(--foreground-muted) 70%, transparent);
+}
+
+.authority-record-description {
+  margin: 0;
+  max-width: 36rem;
+  font-family: var(--font-serif), "Libre Baskerville", Georgia, serif;
+  font-size: 1.02rem;
+  line-height: 1.72;
+  color: color-mix(in srgb, var(--foreground-muted) 96%, var(--foreground));
+}
+
+.authority-record-description-empty,
+.authority-record-empty,
+.authority-record-lead {
+  margin: 0;
+  font-family: var(--font-serif), "Libre Baskerville", Georgia, serif;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: color-mix(in srgb, var(--foreground-muted) 80%, transparent);
+}
+
+.authority-record-description-empty,
+.authority-record-empty {
+  font-style: italic;
+}
+
+.authority-record-lead {
+  margin-bottom: 1rem;
+}
+
+.authority-related-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+
+.authority-related-list li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.55rem 0.85rem;
+}
+
+.authority-related-mark,
+.authority-related-type {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.5rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--foreground-muted) 65%, transparent);
+  min-width: 4.5rem;
+}
+
+.authority-index-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid color-mix(in srgb, var(--border-subtle) 85%, transparent);
+}
+
+.authority-index-row {
+  border-bottom: 1px solid color-mix(in srgb, var(--border-subtle) 85%, transparent);
+}
+
+.authority-index-link {
+  display: grid;
+  grid-template-columns: 5.5rem minmax(0, 1fr) auto;
+  gap: 0.75rem 1.25rem;
+  align-items: baseline;
+  padding: 0.85rem 0;
+  text-decoration: none;
+  color: inherit;
+}
+
+.authority-index-link:hover .authority-index-name {
+  color: var(--accent-bright);
+}
+
+.authority-index-id,
+.authority-index-type {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.52rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--foreground-muted) 70%, transparent);
+}
+
+.authority-index-name {
+  font-family: var(--font-serif), "Libre Baskerville", Georgia, serif;
+  font-size: 1.05rem;
+  line-height: 1.35;
+  color: color-mix(in srgb, var(--foreground) 94%, transparent);
+  transition: color 160ms ease;
+}
+
+.library-lookup-extras-eyebrow {
+  margin: 0;
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.54rem;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--accent-bright) 88%, var(--foreground-muted));
+  border-bottom: 1px solid var(--border-subtle);
+  padding-bottom: 0.7rem;
+}
+
+.library-lookup-extras-note {
+  margin: 0.65rem 0 0;
+  font-family: var(--font-serif), "Libre Baskerville", Georgia, serif;
+  font-size: 0.88rem;
+  font-style: italic;
+  color: color-mix(in srgb, var(--foreground-muted) 78%, transparent);
+}
+
+.library-lookup-extras-list {
+  list-style: none;
+  margin: 0.9rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.library-lookup-extras-link {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.45rem 0.9rem;
+  text-decoration: none;
+  color: inherit;
+}
+
+.library-lookup-extras-link:hover .library-lookup-extras-title {
+  color: var(--accent-bright);
+}
+
+.library-lookup-extras-id,
+.library-lookup-extras-meta {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.5rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--foreground-muted) 68%, transparent);
+}
+
+.library-lookup-extras-title {
+  font-family: var(--font-serif), "Libre Baskerville", Georgia, serif;
+  font-size: 0.98rem;
+  color: color-mix(in srgb, var(--foreground) 92%, transparent);
+  transition: color 160ms ease;
+}
+
+.library-field-segment-sep {
+  color: color-mix(in srgb, var(--foreground-muted) 55%, transparent);
+}
+
+@media (max-width: 640px) {
+  .authority-index-link {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+}
+
+/* Archive Entry colophon — closing catalog note */
+.library-archive-colophon {
+  padding-top: 1.25rem;
+  border-top: 1px solid color-mix(in srgb, var(--border-subtle) 70%, transparent);
+}
+
+.library-archive-colophon-label {
+  margin: 0;
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.46rem;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--foreground-muted) 45%, transparent);
+}
+
+.library-archive-colophon-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem 1.5rem;
+  margin: 0.75rem 0 0;
+}
+
+.library-archive-colophon-row {
+  display: flex;
+  gap: 0.45rem;
+  align-items: baseline;
+}
+
+.library-archive-colophon-row dt {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.44rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: color-mix(in srgb, var(--foreground-muted) 38%, transparent);
+}
+
+.library-archive-colophon-row dd {
+  margin: 0;
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 0.48rem;
+  letter-spacing: 0.08em;
+  color: color-mix(in srgb, var(--foreground-muted) 58%, transparent);
+}
+
+@media (max-width: 640px) {
+  .library-field-row {
+    grid-template-columns: 1fr;
+    gap: 0.35rem;
+  }
+
+  .library-artifact-lightbox-nav--prev {
+    left: 0.15rem;
+  }
+
+  .library-artifact-lightbox-nav--next {
+    right: 0.15rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .library-card,
+  .library-card-cover :is(img),
+  .library-search-terminal,
+  .library-search-submit,
+  .library-index-card-row,
+  .library-connection-link,
+  .library-artifact-tile-frame img,
+  .library-artifact-lightbox-btn,
+  .library-artifact-lightbox-nav,
+  .library-artifact-lightbox-image {
+    transition: none;
+  }
+}
+
 /* Focus styles for accessibility */
 :focus-visible {
   outline: 2px solid var(--accent-bright);
   outline-offset: 3px;
 }
+
+/* ------------------------------------------------------------------ */
+/* Archive Workbench — internal curator room (not public site chrome) */
+/* ------------------------------------------------------------------ */
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.workbench-world {
+  min-height: 100vh;
+  background:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(139, 26, 26, 0.08), transparent),
+    var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body), "Source Serif 4", serif;
+}
+
+/*
+ * Curator’s Workshop chrome — when Workbench is active, public archive chrome
+ * must not appear. PageShell also strips these when x-pathname is available;
+ * :has() covers cases where the request header is absent.
+ */
+body:has(.workbench-world) .site-masthead,
+body:has(.workbench-world) .publication-footer,
+body:has(.workbench-world) .site-atmosphere,
+body:has(.workbench-world) .texture-vhs-drift,
+body:has(.workbench-world) .texture-print-halftone,
+body:has(.workbench-world) .editor-presence {
+  display: none !important;
+}
+
+body:has(.workbench-world) main {
+  display: contents;
+}
+
+.workbench-header {
+  max-width: 52rem;
+  margin: 0 auto;
+  padding: 3.5rem 1.5rem 2rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.workbench-eyebrow {
+  font-family: var(--font-label), "IBM Plex Mono", monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--foreground-muted);
+  margin: 0 0 1rem;
+}
+
+.workbench-header-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem 2rem;
+}
+
+.workbench-title-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.workbench-title {
+  font-family: var(--font-display), "Libre Baskerville", serif;
+  font-size: clamp(1.75rem, 3vw, 2.25rem);
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  margin: 0;
+}
+
+.workbench-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  font-family: var(--font-label), "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.workbench-nav a {
+  color: var(--foreground-muted);
+  text-decoration: none;
+}
+
+.workbench-nav a:hover {
+  color: var(--foreground);
+}
+
+.workbench-intro {
+  margin: 1.25rem 0 0;
+  max-width: 36rem;
+  color: var(--foreground-muted);
+  font-size: 1.05rem;
+  line-height: 1.55;
+}
+
+.workbench-lifecycle {
+  margin: 0.85rem 0 0;
+  max-width: 40rem;
+  font-family: var(--font-label), "IBM Plex Mono", monospace;
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  line-height: 1.6;
+  color: var(--foreground-muted);
+  opacity: 0.85;
+}
+
+.workbench-body {
+  max-width: 52rem;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 5rem;
+}
+
+.workbench-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 4.25rem;
+}
+
+.workbench-section-title {
+  font-family: var(--font-display), "Libre Baskerville", serif;
+  font-size: 1.15rem;
+  font-weight: 400;
+  margin: 0 0 0.75rem;
+  letter-spacing: 0.01em;
+}
+
+.workbench-section-note {
+  margin: 0 0 1.25rem;
+  color: var(--foreground-muted);
+  font-size: 0.95rem;
+  line-height: 1.5;
+  max-width: 38rem;
+}
+
+.workbench-empty {
+  margin: 0;
+  color: var(--foreground-muted);
+  font-style: italic;
+}
+
+.workbench-stat-list {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  border-top: 1px solid var(--border-subtle);
+}
+
+.workbench-stat-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.workbench-stat-row dt {
+  font-family: var(--font-label), "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--foreground-muted);
+}
+
+.workbench-stat-row dd {
+  margin: 0;
+  font-family: var(--font-display), "Libre Baskerville", serif;
+  font-size: 1.35rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.workbench-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--border-subtle);
+}
+
+.workbench-list-item {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem 1.5rem;
+  padding: 1.25rem 0;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.workbench-list--compact .workbench-list-item {
+  padding: 0.85rem 0;
+}
+
+.workbench-list-title {
+  font-family: var(--font-display), "Libre Baskerville", serif;
+  font-size: 1.1rem;
+  color: var(--foreground);
+  text-decoration: none;
+}
+
+.workbench-list-title:hover {
+  color: var(--accent-bright);
+}
+
+.workbench-list-sub {
+  margin: 0.35rem 0 0;
+  font-family: var(--font-label), "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  color: var(--foreground-muted);
+}
+
+.workbench-list-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.5rem;
+  margin: 0.65rem 0 0;
+}
+
+.workbench-list-meta div {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.workbench-list-meta dt {
+  font-family: var(--font-label), "IBM Plex Mono", monospace;
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--foreground-muted);
+}
+
+.workbench-list-meta dd {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.workbench-list-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0.5rem 0.75rem;
+}
+
+.workbench-action {
+  display: inline-flex;
+  align-items: center;
+  font-family: var(--font-label), "IBM Plex Mono", monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--foreground);
+  background: transparent;
+  border: 1px solid var(--border);
+  padding: 0.45rem 0.75rem;
+  cursor: pointer;
+  transition: border-color 160ms ease, color 160ms ease;
+}
+
+.workbench-action:hover:not(:disabled) {
+  border-color: var(--accent-bright);
+  color: var(--accent-bright);
+}
+
+.workbench-action:disabled {
+  opacity: 0.5;
+  cursor: wait;
+}
+
+.workbench-action--quiet {
+  border-color: transparent;
+  color: var(--foreground-muted);
+  padding-left: 0.35rem;
+  padding-right: 0.35rem;
+}
+
+.workbench-action-cluster {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  align-items: flex-start;
+}
+
+.workbench-action-note {
+  margin: 0;
+  font-size: 0.8rem;
+  color: var(--foreground-muted);
+  max-width: 16rem;
+}
+
+.workbench-checklist {
+  list-style: none;
+  margin: 0.85rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+
+.workbench-check {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 1rem;
+  align-items: baseline;
+  font-size: 0.95rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.workbench-check:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.workbench-check-label {
+  color: var(--foreground);
+}
+
+.workbench-check--absent .workbench-check-label {
+  color: var(--foreground);
+}
+
+.workbench-check--present .workbench-check-label {
+  color: var(--foreground-muted);
+}
+
+.workbench-check-state {
+  font-family: var(--font-label), "IBM Plex Mono", monospace;
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--foreground-muted);
+  white-space: nowrap;
+}
+
+.workbench-log {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--border-subtle);
+}
+
+.workbench-log-entry {
+  display: grid;
+  grid-template-columns: 8.5rem 1fr;
+  gap: 1rem;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.workbench-log-date {
+  font-family: var(--font-label), "IBM Plex Mono", monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  color: var(--foreground-muted);
+}
+
+.workbench-log-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.workbench-log-headline {
+  font-family: var(--font-label), "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--foreground-muted);
+}
+
+.workbench-log-detail {
+  font-family: var(--font-display), "Libre Baskerville", serif;
+  font-size: 1.05rem;
+}
+
+.workbench-search {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1.25rem;
+}
+
+.workbench-search-input {
+  flex: 1 1 16rem;
+  min-width: 0;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid var(--border);
+  color: var(--foreground);
+  font-family: var(--font-body), "Source Serif 4", serif;
+  font-size: 1.05rem;
+  padding: 0.55rem 0;
+}
+
+.workbench-search-input::placeholder {
+  color: var(--foreground-muted);
+}
+
+.workbench-search-input:focus {
+  outline: none;
+  border-bottom-color: var(--accent-bright);
+}
+
+.workbench-lane {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.workbench-detail {
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+}
+
+.workbench-detail-eyebrow {
+  margin: 0;
+  font-family: var(--font-label), "IBM Plex Mono", monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--foreground-muted);
+}
+
+.workbench-detail-title {
+  font-family: var(--font-display), "Libre Baskerville", serif;
+  font-size: clamp(1.75rem, 3vw, 2.4rem);
+  font-weight: 400;
+  margin: 0;
+}
+
+.workbench-detail-id {
+  margin: -1rem 0 0;
+  font-family: var(--font-label), "IBM Plex Mono", monospace;
+  font-size: 0.75rem;
+  color: var(--foreground-muted);
+}
+
+.workbench-detail-fields {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  border-top: 1px solid var(--border-subtle);
+}
+
+.workbench-detail-fields > div {
+  display: grid;
+  grid-template-columns: 9rem 1fr;
+  gap: 1rem;
+  padding: 0.7rem 0;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.workbench-detail-fields dt {
+  font-family: var(--font-label), "IBM Plex Mono", monospace;
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--foreground-muted);
+}
+
+.workbench-detail-fields dd {
+  margin: 0;
+  word-break: break-word;
+}
+
+.workbench-detail-fields a {
+  color: var(--foreground);
+}
+
+.workbench-detail-actions {
+  padding-top: 0.25rem;
+}
+
+.workbench-back {
+  margin: 1rem 0 0;
+  font-size: 0.95rem;
+}
+
+.workbench-back a {
+  color: var(--foreground-muted);
+  text-decoration: none;
+}
+
+.workbench-back a:hover {
+  color: var(--foreground);
+}
+
+.workbench-steam {
+  padding-top: 0.5rem;
+}
+
+.workbench-batch-form {
+  margin: 1.25rem 0 1.75rem;
+}
+
+.workbench-batch-label {
+  display: block;
+  margin: 0 0 0.45rem;
+  font-family: var(--font-label), "IBM Plex Mono", monospace;
+  font-size: 0.62rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--foreground-muted);
+}
+
+.workbench-batch-form-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  align-items: stretch;
+}
+
+.workbench-batch-input {
+  flex: 1 1 14rem;
+  min-width: 0;
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--foreground);
+  padding: 0.55rem 0.75rem;
+  font-family: var(--font-body), "Source Serif 4", serif;
+  font-size: 0.95rem;
+}
+
+.workbench-batch-input:focus {
+  outline: 1px solid color-mix(in srgb, var(--accent) 55%, transparent);
+  border-color: color-mix(in srgb, var(--accent) 40%, var(--border));
+}
+
+.workbench-batch-label--spaced {
+  margin-top: 1rem;
+}
+
+.workbench-batch-textarea {
+  display: block;
+  width: 100%;
+  margin: 0 0 0.85rem;
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--foreground);
+  padding: 0.65rem 0.75rem;
+  font-family: var(--font-body), "Source Serif 4", serif;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  resize: vertical;
+}
+
+.workbench-batch-textarea:focus {
+  outline: 1px solid color-mix(in srgb, var(--accent) 55%, transparent);
+  border-color: color-mix(in srgb, var(--accent) 40%, var(--border));
+}
+
+.workbench-batch-intro-form .workbench-batch-input {
+  width: 100%;
+  margin-bottom: 0.25rem;
+}
+
+.workbench-batch-issue-title {
+  margin: 0.35rem 0 0;
+  font-family: var(--font-serif), "Libre Baskerville", Georgia, serif;
+  font-size: 1.15rem;
+  color: color-mix(in srgb, var(--foreground) 92%, transparent);
+}
+
+.workbench-batch-issue-note {
+  margin: 0.45rem 0 0;
+  max-width: 36rem;
+  font-family: var(--font-serif), "Libre Baskerville", Georgia, serif;
+  font-size: 0.98rem;
+  font-style: italic;
+  line-height: 1.55;
+  color: color-mix(in srgb, var(--foreground-muted) 90%, transparent);
+}
+
+.workbench-batch-review {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin-top: 1rem;
+}
+
+.workbench-batch-review-kind {
+  margin: 0 0 0.4rem;
+  font-family: var(--font-label), "IBM Plex Mono", monospace;
+  font-size: 0.62rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--foreground-muted);
+}
+
+.workbench-batch-observations {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.workbench-batch-observations li {
+  font-family: var(--font-serif), "Libre Baskerville", Georgia, serif;
+  font-size: 0.98rem;
+  line-height: 1.5;
+  color: color-mix(in srgb, var(--foreground) 90%, transparent);
+  padding-left: 0.85rem;
+  border-left: 1px solid color-mix(in srgb, var(--border) 80%, transparent);
+}
+
+.workbench-batch-accession-notes {
+  list-style: none;
+  margin: 0.45rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.workbench-batch-accession-notes li {
+  font-family: var(--font-serif), "Libre Baskerville", Georgia, serif;
+  font-size: 0.88rem;
+  font-style: italic;
+  color: color-mix(in srgb, var(--foreground-muted) 88%, transparent);
+}
+
+.workbench-batch-size-note {
+  margin: 0.45rem 0 0;
+  font-family: var(--font-serif), "Libre Baskerville", Georgia, serif;
+  font-size: 0.88rem;
+  font-style: italic;
+  color: color-mix(in srgb, var(--foreground-muted) 85%, transparent);
+}
+
+.workbench-batch-toolbar {
+  display: grid;
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.workbench-batch-accessions {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+}
+
+.workbench-batch-accession {
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.workbench-batch-accession:last-child {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+
+.workbench-batch-accession-head {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.85rem;
+}
+
+.workbench-batch-accession-mark {
+  margin: 0 0 0.2rem;
+  font-family: var(--font-label), "IBM Plex Mono", monospace;
+  font-size: 0.62rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--foreground-muted);
+}
+
+.workbench-batch-accession-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.workbench-batch-eligible {
+  list-style: none;
+  margin: 0.75rem 0 1rem;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  max-height: 18rem;
+  overflow: auto;
+  border: 1px solid var(--border-subtle);
+  padding: 0.75rem;
+}
+
+.workbench-batch-check {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.55rem 0.85rem;
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+
+.workbench-batch-check-mark {
+  font-family: var(--font-label), "IBM Plex Mono", monospace;
+  font-size: 0.58rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--foreground-muted);
+  min-width: 4.5rem;
+}
+
+.workbench-batch-check-title {
+  font-family: var(--font-serif), "Libre Baskerville", Georgia, serif;
+}
+
+.workbench-batch-context {
+  margin: 0.35rem 0 1.25rem;
+  font-family: var(--font-label), "IBM Plex Mono", monospace;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--foreground-muted);
+}
+
+.workbench-batch-context a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+@media (max-width: 640px) {
+  .workbench-log-entry {
+    grid-template-columns: 1fr;
+    gap: 0.35rem;
+  }
+
+  .workbench-detail-fields > div {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+}
+

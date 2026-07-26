@@ -1,0 +1,57 @@
+{
+  "id": "steam-38400",
+  "origin": "steam",
+  "title": "Fallout: A Post Nuclear Role Playing Game",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 38400,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 38400,
+    "title": "Fallout: A Post Nuclear Role Playing Game",
+    "owned": true,
+    "playtimeMinutes": 43,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 18,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 5,
+    "lastPlayedAt": "2024-01-09T03:30:46.000Z",
+    "storeUrl": "https://store.steampowered.com/app/38400/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Interplay Inc."
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "releaseDate": "2015-11-01",
+    "releaseDateRaw": "Nov 1, 2015",
+    "comingSoon": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "You've just unearthed the classic post-apocalyptic role-playing game that revitalized the entire CRPG genre. The Fallout® SPECIAL system allows drastically different types of characters, meaningful decisions and development that puts you in complete control. Explore the devastated ruins of a golden age civilization.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/38400/header.jpg",
+      "capsule": "/images/collection/steam/38400/capsule.jpg",
+      "hero": "/images/collection/steam/38400/hero.jpg"
+    }
+  }
+}

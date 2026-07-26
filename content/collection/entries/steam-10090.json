@@ -1,0 +1,58 @@
+{
+  "id": "steam-10090",
+  "origin": "steam",
+  "title": "Call of Duty: World at War",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 10090,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 10090,
+    "title": "Call of Duty: World at War",
+    "owned": true,
+    "playtimeMinutes": 7825,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 1016,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2024-06-29T16:13:40.000Z",
+    "storeUrl": "https://store.steampowered.com/app/10090/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Treyarch"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "releaseDate": "2008-11-18",
+    "releaseDateRaw": "Nov 18, 2008",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Call of Duty is back, redefining war like you've never experienced before. Building on the Call of Duty 4®: Modern Warfare engine, Call of Duty: World at War immerses players into the most gritty and chaotic WWII combat ever experienced.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/10090/header.jpg",
+      "capsule": "/images/collection/steam/10090/capsule.jpg",
+      "hero": "/images/collection/steam/10090/hero.jpg"
+    }
+  }
+}

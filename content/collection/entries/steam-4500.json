@@ -1,0 +1,62 @@
+{
+  "id": "steam-4500",
+  "origin": "steam",
+  "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 4500,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 4500,
+    "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+    "owned": true,
+    "playtimeMinutes": 192,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 192,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2024-10-22T23:10:20.000Z",
+    "storeUrl": "https://store.steampowered.com/app/4500/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "GSC Game World"
+    ],
+    "publishers": [
+      "GSC Game World"
+    ],
+    "releaseDate": "2007-03-20",
+    "releaseDateRaw": "Mar 20, 2007",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "S.T.A.L.K.E.R.: Shadow of Chernobyl tells a story about survival in the Zone – a very dangerous place, where you fear not only the radiation, anomalies and deadly creatures, but other S.T.A.L.K.E.R.s, who have their own goals and wishes.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/4500/header.jpg",
+      "capsule": "/images/collection/steam/4500/capsule.jpg",
+      "hero": "/images/collection/steam/4500/hero.jpg"
+    }
+  }
+}

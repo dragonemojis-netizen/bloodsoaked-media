@@ -1,0 +1,28 @@
+{
+  "id": "steam-527430",
+  "origin": "steam",
+  "title": "Warhammer 40,000: Inquisitor - Martyr",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 527430,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 527430,
+    "title": "Warhammer 40,000: Inquisitor - Martyr",
+    "owned": true,
+    "playtimeMinutes": 218,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 218,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-05-24T22:35:24.000Z",
+    "storeUrl": "https://store.steampowered.com/app/527430/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

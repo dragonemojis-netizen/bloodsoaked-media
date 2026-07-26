@@ -1,0 +1,61 @@
+{
+  "id": "steam-22370",
+  "origin": "steam",
+  "title": "Fallout 3: Game of the Year Edition",
+  "eventType": "acquisition",
+  "status": "Filed",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 22370,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 22370,
+    "title": "Fallout 3: Game of the Year Edition",
+    "owned": true,
+    "playtimeMinutes": 6398,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 1131,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 824,
+    "lastPlayedAt": "2026-05-05T02:44:32.000Z",
+    "storeUrl": "https://store.steampowered.com/app/22370/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Bethesda Game Studios"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "releaseDate": "2009-12-17",
+    "releaseDateRaw": "Dec 17, 2009",
+    "comingSoon": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Prepare for the Future™ With Fallout 3: Game of the Year Edition, experience the most acclaimed game of 2008 like never before. Create a character of your choosing and descend into an awe-inspiring, post-apocalyptic world where every minute is a fight for survival.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/22370/header.jpg",
+      "capsule": "/images/collection/steam/22370/capsule.jpg",
+      "hero": "/images/collection/steam/22370/hero.jpg"
+    }
+  },
+  "filing": {
+    "librarySlug": "fallout-3-game-of-the-year-edition",
+    "shelfMark": "LIB-0008",
+    "filedAt": "2026-07-26T03:55:29.800Z"
+  }
+}

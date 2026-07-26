@@ -1,0 +1,28 @@
+{
+  "id": "steam-3357650",
+  "origin": "steam",
+  "title": "PRAGMATA",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 3357650,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 3357650,
+    "title": "PRAGMATA",
+    "owned": true,
+    "playtimeMinutes": 184,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 184,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-04-25T01:02:12.000Z",
+    "storeUrl": "https://store.steampowered.com/app/3357650/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

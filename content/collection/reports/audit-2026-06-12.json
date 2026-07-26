@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-06-12T21:52:33.631Z",
+  "stats": {
+    "total": 3,
+    "instagram": 3,
+    "curated": 0,
+    "development": 0,
+    "catalogued": 3,
+    "pipeline": 0,
+    "preservation": 0,
+    "withCaptionSnapshot": 3,
+    "withImageSnapshot": 3
+  },
+  "errors": [],
+  "warnings": [],
+  "entryIds": [
+    "ig-17887505592560816",
+    "ig-18000146576770625",
+    "ig-18123398116656295"
+  ]
+}

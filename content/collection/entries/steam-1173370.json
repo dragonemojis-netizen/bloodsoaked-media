@@ -1,0 +1,28 @@
+{
+  "id": "steam-1173370",
+  "origin": "steam",
+  "title": "Slapshot: Rebound",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1173370,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1173370,
+    "title": "Slapshot: Rebound",
+    "owned": true,
+    "playtimeMinutes": 95,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 95,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2021-06-18T03:41:17.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1173370/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

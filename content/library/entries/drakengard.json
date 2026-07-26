@@ -1,0 +1,128 @@
+{
+  "slug": "drakengard",
+  "title": "Drakengard",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2003,
+  "synopsis": "The first point in the Drakengard and Nier lineage, retained as a playable reference copy and as evidence of where that history began.",
+  "coverImage": "/images/library/drakengard/cover-official.jpg",
+  "filedAt": "2026-06-09T01:36:49.000Z",
+  "curatorialRevisionAt": "2026-07-25T12:00:00.000Z",
+  "shelfMark": "LIB-0001",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": ["cavia"],
+    "publishers": ["square-enix"],
+    "platforms": ["playstation-2"],
+    "series": ["drakengard-nier-lineage"],
+    "people": ["yoko-taro"]
+  },
+  "catalog": {
+    "originalTitle": "Drag-on Dragoon",
+    "release": "2003 (Japan) · 2004 (North America)",
+    "developer": "Cavia",
+    "publisher": "Square Enix",
+    "platform": "PlayStation 2",
+    "region": "NTSC-U/C · North America",
+    "mediumForm": "Pressed optical disc · PlayStation 2 retail edition",
+    "subjects": [
+      "Action RPG",
+      "Dark Fantasy",
+      "Yoko Taro",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Complete in box: case, pressed disc, manual, and original cover insert",
+    "condition": "Complete in box. Light shelf wear consistent with age. Preserved as a playable reference copy.",
+    "acquired": "Private acquisition · June 2026",
+    "filed": "June 9, 2026"
+  },
+  "curatorNotes": "I spent years thinking of Drakengard as a game I would own eventually. It was never entirely out of reach; it was simply passed over whenever another work felt more urgent. Copies were uncommon in the places I looked, and the search remained open.\n\nWhat changed was the purpose of the shelf. The aim was no longer to own everything, but to keep a smaller group of works whose histories deserved attention. Drakengard belongs here because so much followed from it. Nier inherited ideas, images, and unease that Yoko Taro and Cavia first committed to this game.\n\nIt is a difficult work in every sense: mechanically uneven, severe in tone, and often uncomfortable. Those qualities are part of the record. This copy is preserved not as an endorsement or a score, but as the beginning of a lineage that became more important with time.",
+  "collectionNotes": "Acquired in June 2026 while completing the Drakengard 1–3 shelf. The North American PlayStation 2 edition is retained as the reference copy for this filing.\n\nThe acquisition marked a change in collecting practice: away from accumulation and toward deliberate custody. Drakengard was among the works that clarified that distinction. The copy remains complete in box and is kept with its original manual and cover insert.\n\nThe acquisition photograph records the three principal Drakengard releases together at the moment the lineage was completed.",
+  "preservation": {
+    "playableOn": "Sony PlayStation 2; compatible North American PlayStation hardware",
+    "originalHardware": "Sony PlayStation 2 · NTSC-U/C",
+    "compatibility": "Pressed for North American PlayStation 2 consoles. The retained disc remains the primary access copy.",
+    "concerns": "Optical-disc aging and surface damage remain the principal risks. The disc is stored upright in its original case under stable, dry conditions; printed materials remain housed with the copy.",
+    "knownRevisions": "First issued in Japan as Drag-on Dragoon in 2003. The North American localization followed in 2004 under the title Drakengard.",
+    "availability": "The original physical edition is out of print and circulates through the secondary market. No current digital edition replaces this reference copy."
+  },
+  "connections": {
+    "series": "Drakengard / Nier lineage",
+    "collectionIds": ["ig-18000146576770625"],
+    "instagramUrls": ["https://www.instagram.com/p/DZWM2vTMPyG/"],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [
+    {
+      "id": "reference-01",
+      "src": "/images/library/drakengard/artifacts/01-reference-photograph.jpg",
+      "fullSrc": "/images/library/drakengard/artifacts/01-reference-photograph.jpg",
+      "view": "Collection Grouping",
+      "kind": "Reference Photograph",
+      "captured": "June 2026",
+      "resolution": "4096 × 2394 pixels",
+      "edition": "North American retail copies · Drakengard lineage",
+      "region": "NTSC-U/C",
+      "note": "Drakengard, Drakengard 2, and Drakengard 3 together on the archive shelf at the completion of the lineage. Reference photograph, captured June 2026."
+    }
+  ],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-06-09T01:36:49.000Z",
+      "at": "2026-06-09T01:36:49.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0001."
+    },
+    {
+      "id": "curator-notes-2026-06-09T01:36:49.000Z",
+      "at": "2026-06-09T01:36:49.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-2026-06-09T01:36:49.000Z",
+      "at": "2026-06-09T01:36:49.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-06-09T01:36:49.000Z",
+      "at": "2026-06-09T01:36:49.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-2026-06-09T01:36:49.000Z",
+      "at": "2026-06-09T01:36:49.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Drakengard / Nier lineage recorded."
+    },
+    {
+      "id": "artifacts-2026-06-09T01:36:49.000Z",
+      "at": "2026-06-09T01:36:49.000Z",
+      "kind": "artifact-documentation-added",
+      "summary": "Collection photography added"
+    },
+    {
+      "id": "published-2026-06-09T01:36:49.000Z",
+      "at": "2026-06-09T01:36:49.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    },
+    {
+      "id": "editorial-revision-2026-07-25T12:00:00.000Z",
+      "at": "2026-07-25T12:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision"
+    }
+  ]
+}

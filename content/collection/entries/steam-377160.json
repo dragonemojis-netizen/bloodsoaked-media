@@ -1,0 +1,33 @@
+{
+  "id": "steam-377160",
+  "origin": "steam",
+  "title": "Fallout 4",
+  "eventType": "acquisition",
+  "status": "Filed",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 377160,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 377160,
+    "title": "Fallout 4",
+    "owned": true,
+    "playtimeMinutes": 22572,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 10498,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 1136,
+    "lastPlayedAt": "2026-01-10T20:39:20.000Z",
+    "storeUrl": "https://store.steampowered.com/app/377160/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  },
+  "filing": {
+    "librarySlug": "fallout-4",
+    "shelfMark": "LIB-0006",
+    "filedAt": "2026-07-26T03:54:55.581Z"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "steam-674020",
+  "origin": "steam",
+  "title": "World War 3",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 674020,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 674020,
+    "title": "World War 3",
+    "owned": true,
+    "playtimeMinutes": 1737,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 779,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2023-04-06T19:44:32.000Z",
+    "storeUrl": "https://store.steampowered.com/app/674020/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

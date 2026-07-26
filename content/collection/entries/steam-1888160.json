@@ -1,0 +1,28 @@
+{
+  "id": "steam-1888160",
+  "origin": "steam",
+  "title": "ARMORED CORE™ VI FIRES OF RUBICON™",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1888160,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1888160,
+    "title": "ARMORED CORE™ VI FIRES OF RUBICON™",
+    "owned": true,
+    "playtimeMinutes": 14,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 14,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2025-02-20T01:20:22.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1888160/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

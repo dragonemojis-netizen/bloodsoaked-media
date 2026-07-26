@@ -1,0 +1,177 @@
+{
+  "slug": "fallout-3-game-of-the-year-edition",
+  "title": "Fallout 3: Game of the Year Edition",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2009,
+  "synopsis": "The Game of the Year digital edition of Fallout 3 — earliest title in this issue’s Fallout sequence, retained under the archive Steam account.",
+  "coverImage": "/images/library/fallout-3-game-of-the-year-edition/cover-official.jpg",
+  "filedAt": "2026-07-26T03:55:29.800Z",
+  "curatorialRevisionAt": "2026-07-26T04:06:31.301Z",
+  "shelfMark": "LIB-0008",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-22370",
+    "reconciledAt": "2026-07-26T03:55:29.800Z"
+  },
+  "authorities": {
+    "developers": [
+      "bethesda-game-studios"
+    ],
+    "studios": [
+      "bethesda-game-studios"
+    ],
+    "publishers": [
+      "bethesda-softworks"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "fallout"
+    ]
+  },
+  "catalog": {
+    "release": "December 17, 2009",
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "subjects": [
+      "RPG",
+      "Digital Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition — Game of the Year build",
+    "condition": "Licensed copy held on the archive Steam account. No optical disc or boxed materials accompany this filing.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "July 26, 2026"
+  },
+  "curatorNotes": "Space held for writing on this Game of the Year Edition as the opening point of the Fallout sequence on this shelf.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam Game of the Year Edition license. No physical copy, manual, or insert is held. Collection photography does not apply; official cover artwork has been entered from the Steam library capsule.",
+  "preservation": {
+    "playableOn": "Windows PC via the archive Steam client",
+    "originalHardware": "PC · Steam Game of the Year Edition",
+    "compatibility": "Playback depends on Steam account custody and the continued availability of this edition on the storefront.",
+    "concerns": "Primary risks are account-bound license loss, client obsolescence, and storefront withdrawal. No offline installer is retained.",
+    "knownRevisions": "Filed as Fallout 3: Game of the Year Edition (Steam). The archive holds this licensed digital build, not a separate retail SKU.",
+    "availability": "Accessible through the archive Steam account while the title remains offered for that account."
+  },
+  "connections": {
+    "series": "Fallout",
+    "collectionIds": [
+      "steam-22370"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "steam": {
+    "appId": 22370,
+    "title": "Fallout 3: Game of the Year Edition",
+    "owned": true,
+    "playtimeMinutes": 6398,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 1131,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 824,
+    "lastPlayedAt": "2026-05-05T02:44:32.000Z",
+    "storeUrl": "https://store.steampowered.com/app/22370/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Bethesda Game Studios"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "releaseDate": "2009-12-17",
+    "releaseDateRaw": "Dec 17, 2009",
+    "comingSoon": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Prepare for the Future™ With Fallout 3: Game of the Year Edition, experience the most acclaimed game of 2008 like never before. Create a character of your choosing and descend into an awe-inspiring, post-apocalyptic world where every minute is a fight for survival.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/22370/header.jpg",
+      "capsule": "/images/collection/steam/22370/capsule.jpg",
+      "hero": "/images/collection/steam/22370/hero.jpg"
+    }
+  },
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-07-26T03:55:29.800Z",
+      "at": "2026-07-26T03:55:29.800Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0008."
+    },
+    {
+      "id": "connections-2026-07-26T05:10:00.000Z",
+      "at": "2026-07-26T05:10:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Fallout series lineage and peer accessions linked."
+    },
+    {
+      "id": "collection-documentation-2026-07-26T05:10:00.000Z",
+      "at": "2026-07-26T05:10:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-07-26T05:10:00.000Z",
+      "at": "2026-07-26T05:10:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "editorial-revision-2026-07-26T05:10:00.000Z",
+      "at": "2026-07-26T05:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Curatorial pass — catalog identity, authority references, and digital-holding documentation aligned for the Fallout Editorial Batch."
+    },
+    {
+      "id": "cover-artwork-2026-07-26T06:00:00.000Z",
+      "at": "2026-07-26T06:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "connections-revised-2026-07-26T06:00:00.000Z",
+      "at": "2026-07-26T06:00:00.000Z",
+      "kind": "connections-revised",
+      "summary": "Connections revised",
+      "note": "Peer relationship mesh removed; Archival Lineage retained via series."
+    },
+    {
+      "id": "editorial-revision-2026-07-26T06:00:00.000Z",
+      "at": "2026-07-26T06:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Part A refinement — diversified archival language for Fallout Digital Holdings."
+    },
+    {
+      "id": "published-2026-07-26T04:06:31.301Z-fallout-3-game-of-the-year-edition",
+      "at": "2026-07-26T04:06:31.301Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "as part of the editorial issue \"Fallout Digital Holdings.\""
+    }
+  ]
+}

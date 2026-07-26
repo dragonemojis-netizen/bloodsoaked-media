@@ -1,0 +1,28 @@
+{
+  "id": "steam-1888930",
+  "origin": "steam",
+  "title": "The Last of Us™ Part I",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1888930,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1888930,
+    "title": "The Last of Us™ Part I",
+    "owned": true,
+    "playtimeMinutes": 219,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 219,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2024-12-10T02:48:25.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1888930/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

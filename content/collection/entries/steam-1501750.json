@@ -1,0 +1,28 @@
+{
+  "id": "steam-1501750",
+  "origin": "steam",
+  "title": "Lords of the Fallen",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1501750,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1501750,
+    "title": "Lords of the Fallen",
+    "owned": true,
+    "playtimeMinutes": 1042,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 1042,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2024-10-23T05:29:45.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1501750/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

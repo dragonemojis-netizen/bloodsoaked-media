@@ -1,0 +1,61 @@
+{
+  "id": "steam-10180",
+  "origin": "steam",
+  "title": "Call of Duty®: Modern Warfare® 2 (2009)",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 10180,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 10180,
+    "title": "Call of Duty®: Modern Warfare® 2 (2009)",
+    "owned": true,
+    "playtimeMinutes": 35,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 1,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2023-09-13T21:12:49.000Z",
+    "storeUrl": "https://store.steampowered.com/app/10180/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Infinity Ward"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "releaseDate": "2009-11-11",
+    "releaseDateRaw": "Nov 11, 2009",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "shortDescription": "The most-anticipated game of the year and the sequel to the best-selling first-person action game of all time, Modern Warfare 2 continues the gripping and heart-racing action as players face off against a new threat dedicated to bringing the world to the brink of collapse.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/10180/header.jpg",
+      "capsule": "/images/collection/steam/10180/capsule.jpg",
+      "hero": "/images/collection/steam/10180/hero.jpg"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "steam-374280",
+  "origin": "steam",
+  "title": "Hired Ops",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 374280,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 374280,
+    "title": "Hired Ops",
+    "owned": true,
+    "playtimeMinutes": 314,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 32,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2023-05-12T01:25:48.000Z",
+    "storeUrl": "https://store.steampowered.com/app/374280/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "steam-1818450",
+  "origin": "steam",
+  "title": "STALZONE",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1818450,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1818450,
+    "title": "STALZONE",
+    "owned": true,
+    "playtimeMinutes": 44,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 44,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-02-22T21:48:54.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1818450/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

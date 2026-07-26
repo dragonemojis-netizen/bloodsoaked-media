@@ -1,0 +1,28 @@
+{
+  "id": "steam-2631250",
+  "origin": "steam",
+  "title": "Slitterhead",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 2631250,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 2631250,
+    "title": "Slitterhead",
+    "owned": true,
+    "playtimeMinutes": 391,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 391,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2024-11-16T06:45:39.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2631250/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "steam-346110",
+  "origin": "steam",
+  "title": "ARK: Survival Evolved",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 346110,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 346110,
+    "title": "ARK: Survival Evolved",
+    "owned": true,
+    "playtimeMinutes": 841,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2019-01-01T02:29:52.000Z",
+    "storeUrl": "https://store.steampowered.com/app/346110/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

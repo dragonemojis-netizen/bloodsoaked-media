@@ -1,0 +1,28 @@
+{
+  "id": "steam-1010750",
+  "origin": "steam",
+  "title": "Blood: Fresh Supply",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1010750,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1010750,
+    "title": "Blood: Fresh Supply",
+    "owned": true,
+    "playtimeMinutes": 2412,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 2034,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 378,
+    "lastPlayedAt": "2026-05-04T17:03:00.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1010750/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

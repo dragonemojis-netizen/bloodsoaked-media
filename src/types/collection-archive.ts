@@ -12,6 +12,7 @@ export const COLLECTION_ARCHIVE_STATUSES = [
   "Catalogued",
   "Preservation",
   "Pipeline",
+  "Filed",
 ] as const;
 
 export type CollectionArchiveStatus = (typeof COLLECTION_ARCHIVE_STATUSES)[number];
@@ -24,6 +25,7 @@ export type CollectionVisibility = (typeof COLLECTION_VISIBILITY)[number];
 export const COLLECTION_RECORD_ORIGINS = [
   "instagram",
   "curated",
+  "steam",
   "development",
 ] as const;
 
@@ -38,7 +40,9 @@ export interface CollectionDevelopmentMeta {
 
 /** Immutable provenance captured at first sync — never overwritten. */
 export interface CollectionSourceProvenance {
-  platform: "instagram" | "manual";
+  platform: "instagram" | "manual" | "steam";
+  /** Steam App ID when platform is steam — stable dedupe key. */
+  steamAppId?: number;
   /** Original Instagram caption at first synchronization */
   captionSnapshot?: string;
   /** ISO date when captionSnapshot was captured */
@@ -72,6 +76,74 @@ export interface CollectionArchiveTombstone {
   reason?: string;
 }
 
+/**
+ * Pointer written when a Pipeline record is filed into the Library.
+ * Filing is a transformation of this accession — not a second copy.
+ */
+export interface CollectionFiling {
+  librarySlug: string;
+  shelfMark: string;
+  filedAt: string;
+}
+
+/** Supported-platform flags reported by Steam for a title. */
+export interface CollectionSteamPlatforms {
+  windows?: boolean;
+  mac?: boolean;
+  linux?: boolean;
+}
+
+/** Locally preserved Steam artwork paths (public/). Steam art, not editorial cover. */
+export interface CollectionSteamArtwork {
+  /** Header capsule (store banner). */
+  headerCapsule?: string;
+  /** Vertical library capsule (600x900). */
+  capsule?: string;
+  /** Wide library hero, when available. */
+  hero?: string;
+}
+
+/**
+ * Dedicated Steam metadata section.
+ *
+ * Independent of editorial content: synchronization replaces only this block
+ * and never the record's notes, enrichment, cover, status, or connections.
+ * A record carrying `steam` remains eligible to be promoted to a full Library
+ * Archive Entry later without migrating or recreating this data.
+ */
+export interface CollectionSteamMetadata {
+  appId: number;
+  /** Steam's own title for the app — metadata, distinct from the filing title. */
+  title: string;
+  owned: boolean;
+  playtimeMinutes: number;
+  /** Playtime in the last two weeks, when Steam reports it. */
+  playtime2Weeks?: number | null;
+  playtimeWindowsMinutes?: number;
+  playtimeMacMinutes?: number;
+  playtimeLinuxMinutes?: number;
+  /** ISO timestamp Steam last recorded a play session, when available. */
+  lastPlayedAt?: string | null;
+  storeUrl: string;
+  developers?: string[];
+  publishers?: string[];
+  /** ISO date when resolvable; otherwise the raw Steam string. */
+  releaseDate?: string | null;
+  releaseDateRaw?: string | null;
+  comingSoon?: boolean;
+  genres?: string[];
+  categories?: string[];
+  platforms?: CollectionSteamPlatforms;
+  shortDescription?: string;
+  artwork?: CollectionSteamArtwork;
+  /** ISO timestamp of the last store-metadata (appdetails) refresh. */
+  metadataSyncedAt?: string;
+  /** ISO timestamp of the last ownership/playtime sync. */
+  lastSynced: string;
+  /** Provenance tag for the sync pipeline. */
+  source: "steam-web-api";
+}
+
 export interface CollectionArchiveRecord {
   id: string;
   /** instagram = synced post · curated = real manual entry · development = removable seed */
@@ -90,6 +162,13 @@ export interface CollectionArchiveRecord {
   featured?: boolean;
   source: CollectionSourceProvenance;
   enrichment?: CollectionArchiveEnrichment;
+  /** Imported Steam metadata — present on origin "steam" records. */
+  steam?: CollectionSteamMetadata;
+  /**
+   * Set when this Collection accession has been filed into the Library.
+   * Status becomes "Filed"; the Library entry is the accession page.
+   */
+  filing?: CollectionFiling;
   tombstone?: CollectionArchiveTombstone;
 }
 

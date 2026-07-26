@@ -1,0 +1,28 @@
+{
+  "id": "steam-2515020",
+  "origin": "steam",
+  "title": "FINAL FANTASY XVI",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 2515020,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 2515020,
+    "title": "FINAL FANTASY XVI",
+    "owned": true,
+    "playtimeMinutes": 1714,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 1714,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2024-10-04T03:52:43.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2515020/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

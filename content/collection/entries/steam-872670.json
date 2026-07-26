@@ -1,0 +1,28 @@
+{
+  "id": "steam-872670",
+  "origin": "steam",
+  "title": "SCP: 5K (Alpha Testing)",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 872670,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 872670,
+    "title": "SCP: 5K (Alpha Testing)",
+    "owned": true,
+    "playtimeMinutes": 210,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 210,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2025-06-07T00:39:32.000Z",
+    "storeUrl": "https://store.steampowered.com/app/872670/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

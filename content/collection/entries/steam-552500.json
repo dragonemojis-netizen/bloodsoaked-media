@@ -1,0 +1,28 @@
+{
+  "id": "steam-552500",
+  "origin": "steam",
+  "title": "Warhammer: Vermintide 2",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 552500,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 552500,
+    "title": "Warhammer: Vermintide 2",
+    "owned": true,
+    "playtimeMinutes": 16,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 16,
+    "lastPlayedAt": "2022-11-07T19:41:47.000Z",
+    "storeUrl": "https://store.steampowered.com/app/552500/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

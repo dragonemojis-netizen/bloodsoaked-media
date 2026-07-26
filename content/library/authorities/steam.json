@@ -1,0 +1,31 @@
+{
+  "slug": "steam",
+  "authorityId": "AUTH-0009",
+  "type": "platform",
+  "preferredName": "Steam",
+  "alternativeNames": ["Valve Steam", "Steam Store"],
+  "establishedDate": "2003",
+  "description": "Steam — digital distribution platform through which the archive retains licensed PC editions; provenance for account-bound holdings, not the identity of the work.",
+  "relatedAuthoritySlugs": ["pc"],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-07-26T04:00:00.000Z",
+  "curatorialRevisionAt": "2026-07-26T06:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-07-26T04:00:00.000Z",
+      "at": "2026-07-26T04:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0009 — controlled identity for Steam."
+    },
+    {
+      "id": "editorial-revision-2026-07-26T06:00:00.000Z",
+      "at": "2026-07-26T06:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ]
+}

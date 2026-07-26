@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-06-09T02:48:08.580Z",
+  "dryRun": false,
+  "removed": [
+    "fatal-frame-iii-preservation-transfer",
+    "pending-import-unboxing",
+    "pending-shelf-tour-capture",
+    "ps3-horror-shelf-expansion",
+    "rune-factory-arrival",
+    "silent-hill-2-black-label-acquisition",
+    "switch-2-launch-pickup"
+  ],
+  "kept": [
+    "ig-18000146576770625"
+  ],
+  "archiveDisplayCount": 1,
+  "featuredId": "ig-18000146576770625"
+}

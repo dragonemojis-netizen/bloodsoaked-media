@@ -6,6 +6,8 @@ import { getAllTags } from "@/lib/content";
 import { slugifyTag } from "@/lib/slugs";
 import { isLegacyArchivePublic } from "@/lib/legacy-gate";
 import { getPublishedCollectionSpecimenIds } from "@/lib/collection-archive";
+import { getPublishedAuthoritySlugs } from "@/lib/authority";
+import { getPublishedLibrarySlugs } from "@/lib/library";
 import { ARCHIVE_SLUGS } from "@/config/archives";
 import {
   METAL_LIFESTYLE_BASE,
@@ -25,6 +27,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const mediaLog = getAllMediaLogEntries();
   const tags = getAllTags(posts);
   const collectionSpecimens = getPublishedCollectionSpecimenIds();
+  const libraryEntries = getPublishedLibrarySlugs();
+  const authoritySlugs = getPublishedAuthoritySlugs();
   const mlArchive = legacyPublic && hasMetalLifestyleArchive();
   const metalLifestylePosts = mlArchive
     ? listMetalLifestylePostSlugs()
@@ -40,6 +44,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     "/reviews",
     "/essays",
     "/collection",
+    "/library",
+    "/library/authorities",
     "/archive",
     "/archive/mood",
     "/timeline",
@@ -89,6 +95,18 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: new Date(),
       changeFrequency: "monthly" as const,
       priority: 0.7,
+    })),
+    ...libraryEntries.map((slug) => ({
+      url: `${site.url}/library/${slug}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly" as const,
+      priority: 0.65,
+    })),
+    ...authoritySlugs.map((slug) => ({
+      url: `${site.url}/library/authorities/${slug}`,
+      lastModified: new Date(),
+      changeFrequency: "monthly" as const,
+      priority: 0.55,
     })),
     ...[...archiveYears].map((year) => ({
       url: `${site.url}/archive/year/${year}`,

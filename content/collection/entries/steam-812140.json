@@ -1,0 +1,28 @@
+{
+  "id": "steam-812140",
+  "origin": "steam",
+  "title": "Assassin's Creed Odyssey",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 812140,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 812140,
+    "title": "Assassin's Creed Odyssey",
+    "owned": true,
+    "playtimeMinutes": 1321,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 1321,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2025-03-13T03:09:43.000Z",
+    "storeUrl": "https://store.steampowered.com/app/812140/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

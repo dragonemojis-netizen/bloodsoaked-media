@@ -1,0 +1,28 @@
+{
+  "id": "steam-555000",
+  "origin": "steam",
+  "title": "GOAT OF DUTY",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 555000,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 555000,
+    "title": "GOAT OF DUTY",
+    "owned": true,
+    "playtimeMinutes": 90,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 90,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2020-03-18T22:34:03.000Z",
+    "storeUrl": "https://store.steampowered.com/app/555000/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

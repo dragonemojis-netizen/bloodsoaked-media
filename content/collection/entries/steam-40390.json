@@ -1,0 +1,60 @@
+{
+  "id": "steam-40390",
+  "origin": "steam",
+  "title": "Risen 2: Dark Waters",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 40390,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 40390,
+    "title": "Risen 2: Dark Waters",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/40390/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Piranha Bytes"
+    ],
+    "publishers": [
+      "THQ Nordic"
+    ],
+    "releaseDate": "2012-04-26",
+    "releaseDateRaw": "Apr 26, 2012",
+    "comingSoon": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Stats",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Set several years after the end of Risen, raging titans have devastated the world and pushed humanity to the brink of existence. Subsequently, monstrous creatures have risen from the watery depths of the sea and their attacks have brought all seafaring to a grinding halt.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/40390/header.jpg",
+      "capsule": "/images/collection/steam/40390/capsule.jpg",
+      "hero": "/images/collection/steam/40390/hero.jpg"
+    }
+  }
+}

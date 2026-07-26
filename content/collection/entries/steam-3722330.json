@@ -1,0 +1,28 @@
+{
+  "id": "steam-3722330",
+  "origin": "steam",
+  "title": "Shift At Midnight",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 3722330,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 3722330,
+    "title": "Shift At Midnight",
+    "owned": true,
+    "playtimeMinutes": 186,
+    "playtime2Weeks": 186,
+    "playtimeWindowsMinutes": 186,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-07-23T02:16:49.000Z",
+    "storeUrl": "https://store.steampowered.com/app/3722330/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

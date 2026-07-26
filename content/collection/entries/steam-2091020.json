@@ -1,0 +1,28 @@
+{
+  "id": "steam-2091020",
+  "origin": "steam",
+  "title": "Blades of Fire",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 2091020,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 2091020,
+    "title": "Blades of Fire",
+    "owned": true,
+    "playtimeMinutes": 368,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 368,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-05-18T01:21:07.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2091020/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

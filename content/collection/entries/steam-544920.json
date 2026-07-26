@@ -1,0 +1,28 @@
+{
+  "id": "steam-544920",
+  "origin": "steam",
+  "title": "Darwin Project",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 544920,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 544920,
+    "title": "Darwin Project",
+    "owned": true,
+    "playtimeMinutes": 5,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2018-01-20T18:12:47.000Z",
+    "storeUrl": "https://store.steampowered.com/app/544920/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

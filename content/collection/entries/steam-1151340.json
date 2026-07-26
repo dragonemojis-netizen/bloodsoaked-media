@@ -1,0 +1,33 @@
+{
+  "id": "steam-1151340",
+  "origin": "steam",
+  "title": "Fallout 76",
+  "eventType": "acquisition",
+  "status": "Filed",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1151340,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1151340,
+    "title": "Fallout 76",
+    "owned": true,
+    "playtimeMinutes": 8867,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 8630,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 236,
+    "lastPlayedAt": "2026-03-01T00:19:46.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1151340/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  },
+  "filing": {
+    "librarySlug": "fallout-76",
+    "shelfMark": "LIB-0007",
+    "filedAt": "2026-07-26T03:55:12.922Z"
+  }
+}

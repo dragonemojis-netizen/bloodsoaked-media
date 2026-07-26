@@ -1,0 +1,28 @@
+{
+  "id": "steam-359050",
+  "origin": "steam",
+  "title": "Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 359050,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 359050,
+    "title": "Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad",
+    "owned": true,
+    "playtimeMinutes": 103,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 5,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2023-01-09T22:28:58.000Z",
+    "storeUrl": "https://store.steampowered.com/app/359050/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

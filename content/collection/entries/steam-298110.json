@@ -1,0 +1,28 @@
+{
+  "id": "steam-298110",
+  "origin": "steam",
+  "title": "Far Cry 4",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 298110,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 298110,
+    "title": "Far Cry 4",
+    "owned": true,
+    "playtimeMinutes": 178,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 152,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 25,
+    "lastPlayedAt": "2024-02-24T02:52:41.000Z",
+    "storeUrl": "https://store.steampowered.com/app/298110/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

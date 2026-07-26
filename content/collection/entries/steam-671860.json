@@ -1,0 +1,28 @@
+{
+  "id": "steam-671860",
+  "origin": "steam",
+  "title": "BattleBit Remastered",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 671860,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 671860,
+    "title": "BattleBit Remastered",
+    "owned": true,
+    "playtimeMinutes": 3454,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 3411,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 42,
+    "lastPlayedAt": "2024-02-02T03:03:02.000Z",
+    "storeUrl": "https://store.steampowered.com/app/671860/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

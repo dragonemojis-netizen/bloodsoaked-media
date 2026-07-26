@@ -1,0 +1,28 @@
+{
+  "id": "steam-225260",
+  "origin": "steam",
+  "title": "Brütal Legend",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 225260,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 225260,
+    "title": "Brütal Legend",
+    "owned": true,
+    "playtimeMinutes": 9,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2017-11-20T19:18:08.000Z",
+    "storeUrl": "https://store.steampowered.com/app/225260/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

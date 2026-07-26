@@ -1,0 +1,28 @@
+{
+  "id": "steam-2592160",
+  "origin": "steam",
+  "title": "Dispatch",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 2592160,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 2592160,
+    "title": "Dispatch",
+    "owned": true,
+    "playtimeMinutes": 442,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 442,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2025-12-02T05:27:25.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2592160/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

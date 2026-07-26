@@ -1,0 +1,31 @@
+{
+  "slug": "drakengard-nier-lineage",
+  "authorityId": "AUTH-0010",
+  "type": "series",
+  "preferredName": "Drakengard / Nier lineage",
+  "alternativeNames": [
+    "Drakengard",
+    "Drag-on Dragoon",
+    "Nier",
+    "Drakengard series"
+  ],
+  "relatedAuthoritySlugs": [
+    "cavia",
+    "access-games",
+    "square-enix",
+    "yoko-taro"
+  ],
+  "relatedHoldingIds": ["ig-18000146576770625"],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-07-26T04:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-07-26T04:00:00.000Z",
+      "at": "2026-07-26T04:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0010 — controlled identity for the Drakengard / Nier lineage."
+    }
+  ]
+}

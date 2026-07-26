@@ -1,0 +1,28 @@
+{
+  "id": "steam-223650",
+  "origin": "steam",
+  "title": "F.E.A.R. Online",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 223650,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 223650,
+    "title": "F.E.A.R. Online",
+    "owned": true,
+    "playtimeMinutes": 16,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2015-01-17T08:25:01.000Z",
+    "storeUrl": "https://store.steampowered.com/app/223650/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

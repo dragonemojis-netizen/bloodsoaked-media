@@ -1,0 +1,59 @@
+{
+  "id": "steam-7670",
+  "origin": "steam",
+  "title": "BioShock™",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 7670,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 7670,
+    "title": "BioShock™",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/7670/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "2K Boston",
+      "2K Australia"
+    ],
+    "publishers": [
+      "2K"
+    ],
+    "releaseDate": "2007-08-21",
+    "releaseDateRaw": "Aug 21, 2007",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "BioShock is a shooter unlike any you've ever played, loaded with weapons and tactics never seen. You'll have a complete arsenal at your disposal from simple revolvers to grenade launchers and chemical throwers, but you'll also be forced to genetically modify your DNA to create an even more deadly weapon: you.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/7670/header.jpg",
+      "capsule": "/images/collection/steam/7670/capsule.jpg",
+      "hero": "/images/collection/steam/7670/hero.jpg"
+    }
+  }
+}

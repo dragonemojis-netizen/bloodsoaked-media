@@ -1,0 +1,28 @@
+{
+  "id": "steam-3375780",
+  "origin": "steam",
+  "title": "Trails in the Sky 1st Chapter",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 3375780,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 3375780,
+    "title": "Trails in the Sky 1st Chapter",
+    "owned": true,
+    "playtimeMinutes": 132,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 103,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 29,
+    "lastPlayedAt": "2026-06-14T22:06:52.000Z",
+    "storeUrl": "https://store.steampowered.com/app/3375780/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

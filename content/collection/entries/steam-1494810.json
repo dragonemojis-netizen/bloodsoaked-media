@@ -1,0 +1,28 @@
+{
+  "id": "steam-1494810",
+  "origin": "steam",
+  "title": "Mortal Sin",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1494810,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1494810,
+    "title": "Mortal Sin",
+    "owned": true,
+    "playtimeMinutes": 214,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 214,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2024-05-27T03:31:54.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1494810/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

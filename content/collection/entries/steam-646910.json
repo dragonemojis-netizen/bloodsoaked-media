@@ -1,0 +1,28 @@
+{
+  "id": "steam-646910",
+  "origin": "steam",
+  "title": "The Crew 2",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 646910,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 646910,
+    "title": "The Crew 2",
+    "owned": true,
+    "playtimeMinutes": 15,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 15,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2024-09-16T01:55:55.000Z",
+    "storeUrl": "https://store.steampowered.com/app/646910/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

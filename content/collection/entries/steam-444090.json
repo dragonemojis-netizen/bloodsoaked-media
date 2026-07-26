@@ -1,0 +1,28 @@
+{
+  "id": "steam-444090",
+  "origin": "steam",
+  "title": "Paladins",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 444090,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 444090,
+    "title": "Paladins",
+    "owned": true,
+    "playtimeMinutes": 414,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 231,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2020-05-24T16:57:38.000Z",
+    "storeUrl": "https://store.steampowered.com/app/444090/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

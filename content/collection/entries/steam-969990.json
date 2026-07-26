@@ -1,0 +1,28 @@
+{
+  "id": "steam-969990",
+  "origin": "steam",
+  "title": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 969990,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 969990,
+    "title": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+    "owned": true,
+    "playtimeMinutes": 167,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 167,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2021-07-09T21:15:34.000Z",
+    "storeUrl": "https://store.steampowered.com/app/969990/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

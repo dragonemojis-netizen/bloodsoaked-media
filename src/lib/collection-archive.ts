@@ -59,6 +59,9 @@ function resolveOrigin(record: CollectionArchiveRecord): CollectionRecordOrigin 
   if (record.source.platform === "instagram" || record.id.startsWith("ig-")) {
     return "instagram";
   }
+  if (record.source.platform === "steam" || record.id.startsWith("steam-")) {
+    return "steam";
+  }
   if (record.developmentMeta?.synthetic) return "development";
   return "curated";
 }
@@ -104,9 +107,11 @@ function buildProvenance(
   const sourceLabel =
     origin === "instagram"
       ? "Instagram acquisition"
-      : origin === "curated"
-        ? "Curated filing"
-        : "Archive filing";
+      : origin === "steam"
+        ? "Steam acquisition"
+        : origin === "curated"
+          ? "Curated filing"
+          : "Archive filing";
 
   return {
     origin,

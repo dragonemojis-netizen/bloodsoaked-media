@@ -20,6 +20,10 @@ NEXT_PUBLIC_SITE_URL=https://bloodsoakedmedia.com
 
 # Leave unset (or omit) to keep recovered legacy articles off the live site:
 # NEXT_PUBLIC_LEGACY_ARCHIVE_PUBLIC=true
+
+# Curator Mode — Workbench is available in `npm run dev` automatically.
+# Set only on explicit curator/staging hosts — never on production:
+# NEXT_PUBLIC_CURATOR_MODE=true
 ```
 
 ## Writing content

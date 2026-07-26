@@ -1,0 +1,148 @@
+{
+  "slug": "fallout-76",
+  "title": "Fallout 76",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2018,
+  "synopsis": "Fallout 76 on Steam — the later, service-dependent title closing this issue’s Fallout sequence in digital custody.",
+  "coverImage": "/images/library/fallout-76/cover-official.jpg",
+  "filedAt": "2026-07-26T03:55:12.922Z",
+  "curatorialRevisionAt": "2026-07-26T04:06:31.301Z",
+  "shelfMark": "LIB-0007",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-1151340",
+    "reconciledAt": "2026-07-26T03:55:12.922Z"
+  },
+  "authorities": {
+    "developers": [
+      "bethesda-game-studios"
+    ],
+    "studios": [
+      "bethesda-game-studios"
+    ],
+    "publishers": [
+      "bethesda-softworks"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "fallout"
+    ]
+  },
+  "catalog": {
+    "release": "November 14, 2018",
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "subjects": [
+      "Digital Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · live-service title without a physical shelf object",
+    "condition": "Held solely as a Steam license. No disc, case, or printed insert is part of the accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "July 26, 2026"
+  },
+  "curatorNotes": "Open for curator writing on Fallout 76 as the closing filing in this Fallout digital issue.",
+  "collectionNotes": "Steam license under the archive account; no physical counterpart. Official cover artwork is on file. Photography of a boxed copy is not applicable and remains unopened by choice.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam, subject to the title’s online requirements",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Access depends on Steam custody and on whatever online services the title still requires. That service layer is an additional constraint beyond ordinary digital-license risk.",
+    "concerns": "Account binding, storefront change, client aging, and online-service dependency. No offline installer or physical fallback is held.",
+    "knownRevisions": "Steam release dated November 14, 2018. The archive retains the licensed digital edition in present custody.",
+    "availability": "Reachable through the archive Steam account while both the license and the title’s required services remain available."
+  },
+  "connections": {
+    "series": "Fallout",
+    "collectionIds": [
+      "steam-1151340"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "steam": {
+    "appId": 1151340,
+    "title": "Fallout 76",
+    "owned": true,
+    "playtimeMinutes": 8867,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 8630,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 236,
+    "lastPlayedAt": "2026-03-01T00:19:46.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1151340/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  },
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-07-26T03:55:12.922Z",
+      "at": "2026-07-26T03:55:12.922Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0007."
+    },
+    {
+      "id": "connections-2026-07-26T05:10:00.000Z",
+      "at": "2026-07-26T05:10:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Fallout series lineage and peer accessions linked."
+    },
+    {
+      "id": "collection-documentation-2026-07-26T05:10:00.000Z",
+      "at": "2026-07-26T05:10:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-07-26T05:10:00.000Z",
+      "at": "2026-07-26T05:10:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "editorial-revision-2026-07-26T05:10:00.000Z",
+      "at": "2026-07-26T05:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Curatorial pass — catalog identity, authority references, and digital-holding documentation aligned for the Fallout Editorial Batch. Release date and cover artwork left open pending verified sources."
+    },
+    {
+      "id": "cover-artwork-2026-07-26T06:00:00.000Z",
+      "at": "2026-07-26T06:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed. Release date entered from Steam storefront chronology."
+    },
+    {
+      "id": "connections-revised-2026-07-26T06:00:00.000Z",
+      "at": "2026-07-26T06:00:00.000Z",
+      "kind": "connections-revised",
+      "summary": "Connections revised",
+      "note": "Peer relationship mesh removed; Archival Lineage retained via series."
+    },
+    {
+      "id": "editorial-revision-2026-07-26T06:00:00.000Z",
+      "at": "2026-07-26T06:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Part A refinement — diversified archival language; public face completed for Fallout Digital Holdings."
+    },
+    {
+      "id": "published-2026-07-26T04:06:31.301Z-fallout-76",
+      "at": "2026-07-26T04:06:31.301Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "as part of the editorial issue \"Fallout Digital Holdings.\""
+    }
+  ]
+}

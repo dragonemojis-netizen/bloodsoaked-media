@@ -1,0 +1,28 @@
+{
+  "id": "steam-1687950",
+  "origin": "steam",
+  "title": "Persona 5 Royal",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1687950,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1687950,
+    "title": "Persona 5 Royal",
+    "owned": true,
+    "playtimeMinutes": 4048,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 3793,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 254,
+    "lastPlayedAt": "2024-04-28T00:49:16.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1687950/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

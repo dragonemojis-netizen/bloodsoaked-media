@@ -1,0 +1,28 @@
+{
+  "id": "steam-482400",
+  "origin": "steam",
+  "title": "System Shock",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 482400,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 482400,
+    "title": "System Shock",
+    "owned": true,
+    "playtimeMinutes": 166,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 166,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2024-07-28T20:36:37.000Z",
+    "storeUrl": "https://store.steampowered.com/app/482400/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

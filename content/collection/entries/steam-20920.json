@@ -1,0 +1,70 @@
+{
+  "id": "steam-20920",
+  "origin": "steam",
+  "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 20920,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 20920,
+    "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
+    "owned": true,
+    "playtimeMinutes": 84,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2017-06-28T18:44:31.000Z",
+    "storeUrl": "https://store.steampowered.com/app/20920/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "CD PROJEKT RED"
+    ],
+    "publishers": [
+      "CD PROJEKT RED",
+      "1C-SoftClub"
+    ],
+    "releaseDate": "2012-04-16",
+    "releaseDateRaw": "Apr 16, 2012",
+    "comingSoon": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "shortDescription": "A time of untold chaos has come. Mighty forces clash behind the scenes in a struggle for power and influence. The Northern Kingdoms mobilize for war. But armies on the march are not enough to stop a bloody conspiracy...",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/20920/header.jpg",
+      "capsule": "/images/collection/steam/20920/capsule.jpg",
+      "hero": "/images/collection/steam/20920/hero.jpg"
+    }
+  }
+}

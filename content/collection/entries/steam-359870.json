@@ -1,0 +1,28 @@
+{
+  "id": "steam-359870",
+  "origin": "steam",
+  "title": "FINAL FANTASY X/X-2 HD Remaster",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 359870,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 359870,
+    "title": "FINAL FANTASY X/X-2 HD Remaster",
+    "owned": true,
+    "playtimeMinutes": 6,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 6,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2025-05-15T02:05:02.000Z",
+    "storeUrl": "https://store.steampowered.com/app/359870/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

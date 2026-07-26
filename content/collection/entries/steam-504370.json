@@ -1,0 +1,28 @@
+{
+  "id": "steam-504370",
+  "origin": "steam",
+  "title": "Battlerite",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 504370,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 504370,
+    "title": "Battlerite",
+    "owned": true,
+    "playtimeMinutes": 15,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2017-11-14T19:07:29.000Z",
+    "storeUrl": "https://store.steampowered.com/app/504370/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

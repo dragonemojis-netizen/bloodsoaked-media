@@ -1,0 +1,28 @@
+{
+  "id": "steam-2087030",
+  "origin": "steam",
+  "title": "Shatterline",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 2087030,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 2087030,
+    "title": "Shatterline",
+    "owned": true,
+    "playtimeMinutes": 290,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 280,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 10,
+    "lastPlayedAt": "2022-11-14T19:37:03.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2087030/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

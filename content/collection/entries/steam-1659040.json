@@ -1,0 +1,28 @@
+{
+  "id": "steam-1659040",
+  "origin": "steam",
+  "title": "HITMAN World of Assassination",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1659040,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1659040,
+    "title": "HITMAN World of Assassination",
+    "owned": true,
+    "playtimeMinutes": 490,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 490,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2024-12-07T20:08:32.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1659040/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

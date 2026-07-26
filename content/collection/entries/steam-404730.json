@@ -1,0 +1,28 @@
+{
+  "id": "steam-404730",
+  "origin": "steam",
+  "title": "Wasteland 2: Director's Cut",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 404730,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 404730,
+    "title": "Wasteland 2: Director's Cut",
+    "owned": true,
+    "playtimeMinutes": 77,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 70,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 7,
+    "lastPlayedAt": "2024-07-01T04:46:33.000Z",
+    "storeUrl": "https://store.steampowered.com/app/404730/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

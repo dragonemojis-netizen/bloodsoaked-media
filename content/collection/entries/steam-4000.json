@@ -1,0 +1,81 @@
+{
+  "id": "steam-4000",
+  "origin": "steam",
+  "title": "Garry's Mod",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 4000,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 4000,
+    "title": "Garry's Mod",
+    "owned": true,
+    "playtimeMinutes": 773,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2017-07-14T21:34:51.000Z",
+    "storeUrl": "https://store.steampowered.com/app/4000/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Facepunch Studios"
+    ],
+    "publishers": [
+      "Valve"
+    ],
+    "releaseDate": "2006-11-29",
+    "releaseDateRaw": "Nov 29, 2006",
+    "comingSoon": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Includes level editor",
+      "Includes Source SDK",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "shortDescription": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/4000/header.jpg",
+      "capsule": "/images/collection/steam/4000/capsule.jpg",
+      "hero": "/images/collection/steam/4000/hero.jpg"
+    }
+  }
+}

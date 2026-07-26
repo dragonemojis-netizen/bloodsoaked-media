@@ -1,0 +1,28 @@
+{
+  "id": "steam-782330",
+  "origin": "steam",
+  "title": "DOOM Eternal",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 782330,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 782330,
+    "title": "DOOM Eternal",
+    "owned": true,
+    "playtimeMinutes": 1201,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 881,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 319,
+    "lastPlayedAt": "2025-01-11T05:02:32.000Z",
+    "storeUrl": "https://store.steampowered.com/app/782330/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

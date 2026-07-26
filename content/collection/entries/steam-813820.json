@@ -1,0 +1,28 @@
+{
+  "id": "steam-813820",
+  "origin": "steam",
+  "title": "Realm Royale Reforged",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 813820,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 813820,
+    "title": "Realm Royale Reforged",
+    "owned": true,
+    "playtimeMinutes": 47,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2018-06-13T16:19:34.000Z",
+    "storeUrl": "https://store.steampowered.com/app/813820/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

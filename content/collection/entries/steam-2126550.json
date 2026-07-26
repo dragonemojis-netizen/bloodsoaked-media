@@ -1,0 +1,28 @@
+{
+  "id": "steam-2126550",
+  "origin": "steam",
+  "title": "The Outlast Trials Closed Beta",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 2126550,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 2126550,
+    "title": "The Outlast Trials Closed Beta",
+    "owned": true,
+    "playtimeMinutes": 144,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 143,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 1,
+    "lastPlayedAt": "2022-10-29T02:20:21.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2126550/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

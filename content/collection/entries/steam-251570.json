@@ -1,0 +1,28 @@
+{
+  "id": "steam-251570",
+  "origin": "steam",
+  "title": "7 Days to Die",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 251570,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 251570,
+    "title": "7 Days to Die",
+    "owned": true,
+    "playtimeMinutes": 198,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 19,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-02-08T23:38:08.000Z",
+    "storeUrl": "https://store.steampowered.com/app/251570/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

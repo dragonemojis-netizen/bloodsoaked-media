@@ -2,6 +2,7 @@ import { headers } from "next/headers";
 import { SiteHeader } from "./SiteHeader";
 import { SiteFooter } from "./SiteFooter";
 import { EditorPresence } from "@/components/editorial/EditorPresence";
+import { isWorkbenchPath } from "@/lib/curator-gate";
 
 interface PageShellProps {
   children: React.ReactNode;
@@ -20,11 +21,17 @@ function isImmersiveArchivePath(pathname: string): boolean {
 
 export async function PageShell({ children }: PageShellProps) {
   const headersList = await headers();
-  const pathname = headersList.get("x-pathname") ?? "";
+  const pathname =
+    headersList.get("x-pathname") ??
+    headersList.get("x-invoke-path") ??
+    headersList.get("next-url") ??
+    "";
   const readingMode = isArticleReadingPath(pathname);
   const immersiveArchive = isImmersiveArchivePath(pathname);
+  // Access is gated elsewhere; path alone decides chrome.
+  const workbench = isWorkbenchPath(pathname);
 
-  if (immersiveArchive) {
+  if (immersiveArchive || workbench) {
     return <>{children}</>;
   }
 

@@ -1,0 +1,74 @@
+{
+  "id": "steam-440",
+  "origin": "steam",
+  "title": "Team Fortress 2",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 440,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 440,
+    "title": "Team Fortress 2",
+    "owned": true,
+    "playtimeMinutes": 164,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2017-09-18T21:50:20.000Z",
+    "storeUrl": "https://store.steampowered.com/app/440/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Valve"
+    ],
+    "publishers": [
+      "Valve"
+    ],
+    "releaseDate": "2007-10-10",
+    "releaseDateRaw": "Oct 10, 2007",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Includes level editor",
+      "Commentary available",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": true
+    },
+    "shortDescription": "Nine distinct classes provide a broad range of tactical abilities and personalities. Constantly updated with new game modes, maps, equipment and, most importantly, hats!",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/440/header.jpg",
+      "capsule": "/images/collection/steam/440/capsule.jpg",
+      "hero": "/images/collection/steam/440/hero.jpg"
+    }
+  }
+}

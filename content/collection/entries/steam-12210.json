@@ -1,0 +1,61 @@
+{
+  "id": "steam-12210",
+  "origin": "steam",
+  "title": "Grand Theft Auto IV: The Complete Edition",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 12210,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 12210,
+    "title": "Grand Theft Auto IV: The Complete Edition",
+    "owned": true,
+    "playtimeMinutes": 1917,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 1136,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 781,
+    "lastPlayedAt": "2025-12-20T05:08:29.000Z",
+    "storeUrl": "https://store.steampowered.com/app/12210/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Rockstar North",
+      "Rockstar Toronto"
+    ],
+    "publishers": [
+      "Rockstar Games"
+    ],
+    "releaseDate": "2020-03-24",
+    "releaseDateRaw": "Mar 24, 2020",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Partial Controller Support",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Niko Bellic, Johnny Klebitz and Luis Lopez all have one thing in common - they live in the worst city in America. Liberty City worships money and status, and is heaven for those who have them and a living nightmare for those who don't.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/12210/header.jpg",
+      "capsule": "/images/collection/steam/12210/capsule.jpg",
+      "hero": "/images/collection/steam/12210/hero.jpg"
+    }
+  }
+}

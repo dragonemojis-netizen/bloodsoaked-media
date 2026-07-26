@@ -1,0 +1,57 @@
+{
+  "id": "steam-22330",
+  "origin": "steam",
+  "title": "The Elder Scrolls IV: Oblivion® Game of the Year Edition (2009)",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 22330,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 22330,
+    "title": "The Elder Scrolls IV: Oblivion® Game of the Year Edition (2009)",
+    "owned": true,
+    "playtimeMinutes": 550,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 506,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 44,
+    "lastPlayedAt": "2024-07-12T01:14:57.000Z",
+    "storeUrl": "https://store.steampowered.com/app/22330/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Bethesda Game Studios"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "releaseDate": "2009-06-16",
+    "releaseDateRaw": "Jun 16, 2009",
+    "comingSoon": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "PUBLISHER UPDATE - This is the product page for The Elder Scrolls IV: Oblivion Game of the Year Edition, released in 2009. ---The Elder Scrolls IV: Oblivion® Game of the Year Edition presents one of the best RPGs of all time like never before. Step inside the most richly detailed and vibrant game-world ever created.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/22330/header.jpg",
+      "capsule": "/images/collection/steam/22330/capsule.jpg",
+      "hero": "/images/collection/steam/22330/hero.jpg"
+    }
+  }
+}

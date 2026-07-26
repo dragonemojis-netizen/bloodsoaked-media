@@ -1,0 +1,56 @@
+{
+  "id": "steam-33230",
+  "origin": "steam",
+  "title": "Assassin's Creed 2",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 33230,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 33230,
+    "title": "Assassin's Creed 2",
+    "owned": true,
+    "playtimeMinutes": 726,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 726,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2024-03-15T16:58:36.000Z",
+    "storeUrl": "https://store.steampowered.com/app/33230/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Ubisoft Montreal"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ],
+    "releaseDate": "2010-03-09",
+    "releaseDateRaw": "Mar 9, 2010",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "An epic story of family, vengeance and conspiracy set in the pristine, yet brutal, backdrop of a Renaissance Italy. New low price!",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/33230/header.jpg",
+      "capsule": "/images/collection/steam/33230/capsule.jpg",
+      "hero": "/images/collection/steam/33230/hero.jpg"
+    }
+  }
+}

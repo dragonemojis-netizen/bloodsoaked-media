@@ -1,0 +1,28 @@
+{
+  "id": "steam-208200",
+  "origin": "steam",
+  "title": "DOOM 3: BFG Edition",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 208200,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 208200,
+    "title": "DOOM 3: BFG Edition",
+    "owned": true,
+    "playtimeMinutes": 74,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 56,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 17,
+    "lastPlayedAt": "2024-07-11T00:53:38.000Z",
+    "storeUrl": "https://store.steampowered.com/app/208200/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

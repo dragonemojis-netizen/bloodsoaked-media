@@ -1,0 +1,28 @@
+{
+  "id": "steam-65930",
+  "origin": "steam",
+  "title": "The Bureau: XCOM Declassified",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 65930,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 65930,
+    "title": "The Bureau: XCOM Declassified",
+    "owned": true,
+    "playtimeMinutes": 39,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 9,
+    "lastPlayedAt": "2023-01-15T03:34:00.000Z",
+    "storeUrl": "https://store.steampowered.com/app/65930/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

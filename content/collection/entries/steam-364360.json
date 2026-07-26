@@ -1,0 +1,28 @@
+{
+  "id": "steam-364360",
+  "origin": "steam",
+  "title": "Total War: WARHAMMER",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 364360,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 364360,
+    "title": "Total War: WARHAMMER",
+    "owned": true,
+    "playtimeMinutes": 1,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2017-06-28T18:44:33.000Z",
+    "storeUrl": "https://store.steampowered.com/app/364360/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

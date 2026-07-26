@@ -1,0 +1,28 @@
+{
+  "id": "steam-4128260",
+  "origin": "steam",
+  "title": "Highguard",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 4128260,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 4128260,
+    "title": "Highguard",
+    "owned": true,
+    "playtimeMinutes": 417,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 417,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-01-27T20:14:02.000Z",
+    "storeUrl": "https://store.steampowered.com/app/4128260/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

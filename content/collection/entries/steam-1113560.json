@@ -1,0 +1,28 @@
+{
+  "id": "steam-1113560",
+  "origin": "steam",
+  "title": "NieR Replicant ver.1.22474487139...",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1113560,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1113560,
+    "title": "NieR Replicant ver.1.22474487139...",
+    "owned": true,
+    "playtimeMinutes": 555,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 555,
+    "lastPlayedAt": "2025-12-29T05:31:04.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1113560/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2026-06-09T20:12:58.110Z",
+  "dryRun": false,
+  "forceImages": false,
+  "created": [
+    "ig-17887505592560816"
+  ],
+  "updated": [
+    "ig-18000146576770625"
+  ],
+  "skipped": [],
+  "images": [
+    {
+      "id": "ig-17887505592560816",
+      "mediaId": "17887505592560816",
+      "status": "saved",
+      "imageSnapshot": "/images/collection/ig-17887505592560816/primary-original.jpg",
+      "coverImage": "/images/collection/ig-17887505592560816/primary.jpg",
+      "sha256": "112574c46b296236e97ae3846d49a0688e69066a995b5b3612d7a265b893c752"
+    },
+    {
+      "id": "ig-18000146576770625",
+      "mediaId": "18000146576770625",
+      "status": "skipped",
+      "reason": "exists",
+      "imageSnapshot": "/images/collection/ig-18000146576770625/primary-original.jpg",
+      "coverImage": "/images/collection/ig-18000146576770625/primary.jpg"
+    }
+  ],
+  "tombstoned": [],
+  "errors": []
+}

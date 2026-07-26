@@ -1,0 +1,57 @@
+{
+  "id": "steam-3270",
+  "origin": "steam",
+  "title": "Painkiller Overdose",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 3270,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 3270,
+    "title": "Painkiller Overdose",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/3270/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Mindware Studios"
+    ],
+    "publishers": [
+      "Prime Matter"
+    ],
+    "releaseDate": "2007-10-30",
+    "releaseDateRaw": "Oct 30, 2007",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "The critically-acclaimed and award-winning FPS franchise is back! Packed with tons of fast-paced, adrenaline-fueled single player and multiplayer action, Painkiller Overdose brings with it 6 innovative new demonic weapons, mind-bending physics, lightning-player maps, over 40 demented and sickly-twisted monsters from Hell and gigantic end...",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/3270/header.jpg",
+      "capsule": "/images/collection/steam/3270/capsule.jpg",
+      "hero": "/images/collection/steam/3270/hero.jpg"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "steam-50300",
+  "origin": "steam",
+  "title": "Spec Ops: The Line",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 50300,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 50300,
+    "title": "Spec Ops: The Line",
+    "owned": true,
+    "playtimeMinutes": 147,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 15,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 132,
+    "lastPlayedAt": "2024-01-30T22:15:59.000Z",
+    "storeUrl": "https://store.steampowered.com/app/50300/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api",
+    "developers": [
+      "YAGER"
+    ],
+    "publishers": [
+      "2K",
+      "Missing Link Games"
+    ],
+    "releaseDate": "2012-06-29",
+    "releaseDateRaw": "Jun 29, 2012",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "shortDescription": "A Third-Person modern military Shooter designed to challenge players' morality by putting them in the middle of unspeakable situations.",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/50300/header.jpg",
+      "capsule": "/images/collection/steam/50300/capsule.jpg",
+      "hero": "/images/collection/steam/50300/hero.jpg"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "steam-2358720",
+  "origin": "steam",
+  "title": "Black Myth: Wukong",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 2358720,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 2358720,
+    "title": "Black Myth: Wukong",
+    "owned": true,
+    "playtimeMinutes": 2187,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 2187,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2024-10-14T23:02:17.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2358720/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

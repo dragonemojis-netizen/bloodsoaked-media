@@ -1,0 +1,28 @@
+{
+  "id": "steam-354140",
+  "origin": "steam",
+  "title": "Five Nights at Freddy's 3",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 354140,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 354140,
+    "title": "Five Nights at Freddy's 3",
+    "owned": true,
+    "playtimeMinutes": 17,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2015-04-17T02:43:44.000Z",
+    "storeUrl": "https://store.steampowered.com/app/354140/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

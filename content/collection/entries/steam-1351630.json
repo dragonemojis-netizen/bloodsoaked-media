@@ -1,0 +1,28 @@
+{
+  "id": "steam-1351630",
+  "origin": "steam",
+  "title": "Ys IX: Monstrum Nox",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 1351630,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 1351630,
+    "title": "Ys IX: Monstrum Nox",
+    "owned": true,
+    "playtimeMinutes": 350,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 350,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2025-11-16T02:17:45.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1351630/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

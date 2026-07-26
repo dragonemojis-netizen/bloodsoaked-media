@@ -1,0 +1,28 @@
+{
+  "id": "steam-2623190",
+  "origin": "steam",
+  "title": "The Elder Scrolls IV: Oblivion Remastered",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 2623190,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 2623190,
+    "title": "The Elder Scrolls IV: Oblivion Remastered",
+    "owned": true,
+    "playtimeMinutes": 2294,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 2245,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 49,
+    "lastPlayedAt": "2026-04-26T23:38:09.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2623190/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}

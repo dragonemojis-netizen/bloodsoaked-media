@@ -1,0 +1,28 @@
+{
+  "id": "steam-3764200",
+  "origin": "steam",
+  "title": "Resident Evil Requiem",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-07-26T03:12:32.243Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 3764200,
+    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+  },
+  "steam": {
+    "appId": 3764200,
+    "title": "Resident Evil Requiem",
+    "owned": true,
+    "playtimeMinutes": 787,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 787,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-03-08T02:50:34.000Z",
+    "storeUrl": "https://store.steampowered.com/app/3764200/",
+    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "source": "steam-web-api"
+  }
+}
