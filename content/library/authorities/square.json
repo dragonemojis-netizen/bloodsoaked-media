@@ -1,0 +1,38 @@
+{
+  "slug": "square",
+  "authorityId": "AUTH-0064",
+  "type": "developer",
+  "preferredName": "Square",
+  "alternativeNames": [
+    "SquareSoft",
+    "Squaresoft",
+    "Square Co., Ltd."
+  ],
+  "relatedAuthoritySlugs": [
+    "square-electronic-arts",
+    "square-enix",
+    "parasite-eve"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:45:00.000Z-square",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0064 — controlled identity for Square."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:45:00.000Z-square",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Square — developer of record for Parasite Eve II in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:45:00.000Z"
+}

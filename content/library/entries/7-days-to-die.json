@@ -1,0 +1,152 @@
+{
+  "slug": "7-days-to-die",
+  "title": "7 Days to Die",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:09:46.313Z",
+  "shelfMark": "LIB-0021",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-251570",
+    "reconciledAt": "2026-08-03T23:09:46.313Z"
+  },
+  "catalog": {
+    "release": "July 25, 2024",
+    "developer": "The Fun Pimps",
+    "publisher": "The Fun Pimps Entertainment LLC",
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Digital Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · The Fun Pimps build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 3, 2026"
+  },
+  "curatorNotes": "Space held for curator writing on 7 Days to Die as a long-lived Steam survival holding.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title.",
+    "concerns": "As with other account-bound Steam holdings: platform dependency, policy change, and the absence of a retained offline installer.",
+    "knownRevisions": "Steam 1.0 release dated July 25, 2024. Earlier Early Access builds on Steam date from December 2013; this filing records the licensed digital edition in present custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-251570"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:09:46.313Z",
+      "at": "2026-08-03T23:09:46.313Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0021."
+    },
+    {
+      "id": "cover-artwork-2026-08-03T23:12:28.097Z-7-days-to-die",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-03T23:12:28.097Z-7-days-to-die",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-03T23:12:28.097Z-7-days-to-die",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-03T23:12:28.097Z-7-days-to-die",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:12:28.097Z-7-days-to-die",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-03T23:12:28.097Z-7-days-to-die",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 251570,
+    "title": "7 Days to Die",
+    "owned": true,
+    "playtimeMinutes": 198,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 19,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-02-08T23:38:08.000Z",
+    "storeUrl": "https://store.steampowered.com/app/251570/",
+    "lastSynced": "2026-08-03T22:52:55.577Z",
+    "source": "steam-web-api",
+    "developers": [
+      "The Fun Pimps"
+    ],
+    "publishers": [
+      "The Fun Pimps Entertainment LLC"
+    ],
+    "releaseDate": "2024-07-25",
+    "releaseDateRaw": "Jul 25, 2024",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "metadataSyncedAt": "2026-08-03T23:12:28.097Z"
+  },
+  "year": 2024,
+  "synopsis": "The Fun Pimps’ 7 Days to Die on Steam — a survival sandbox holding retained in permanent digital custody.",
+  "coverImage": "/images/library/7-days-to-die/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-03T23:12:28.097Z",
+  "authorities": {
+    "developers": [
+      "the-fun-pimps"
+    ],
+    "publishers": [
+      "the-fun-pimps"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

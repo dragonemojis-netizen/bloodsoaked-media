@@ -1,0 +1,115 @@
+{
+  "slug": "silent-hill",
+  "title": "Silent Hill",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 1999,
+  "synopsis": "The first Silent Hill — Team Silent’s PlayStation survival-horror debut, retained as the opening point of that lineage on optical disc.",
+  "coverImage": "/images/library/silent-hill/cover-official.jpg",
+  "filedAt": "2026-08-03T23:30:00.000Z",
+  "curatorialRevisionAt": "2026-08-04T02:00:00.000Z",
+  "shelfMark": "LIB-0030",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "team-silent"
+    ],
+    "publishers": [
+      "konami"
+    ],
+    "platforms": [
+      "playstation"
+    ],
+    "series": [
+      "silent-hill"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "サイレントヒル",
+    "release": "1999 (North America) · 1999 (Japan)",
+    "developer": "Team Silent",
+    "publisher": "Konami",
+    "platform": "PlayStation",
+    "region": "NTSC-U/C · North America · SLUS-00707",
+    "mediumForm": "Pressed optical disc · PlayStation retail edition",
+    "subjects": [
+      "Survival Horror",
+      "Silent Hill",
+      "Team Silent",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Complete in box: case, pressed disc, manual, and original cover insert",
+    "condition": "Complete in box. Light shelf wear consistent with age. Preserved as a playable reference copy.",
+    "acquired": "Private acquisition · August 2026",
+    "filed": "August 3, 2026"
+  },
+  "curatorNotes": "Silent Hill is the work that made fog, radio static, and an ordinary American town into a durable vocabulary for survival horror on this generation. Team Silent’s first game arrived on PlayStation in early 1999 and fixed a tone that later sequels would inherit, argue with, and rebuild.\n\nThe shelf keeps the North American black-label retail disc because that is the form in which the series began for this archive’s region — not a later Greatest Hits repress, and not a digital reissue tied to a storefront generation already in decline. What matters here is the original optical object and the lineage that starts from it.\n\nThis filing is the first point, not the whole map. The PlayStation 2 numbered entries and later reimaginings now have their own places on the shelf; the archive still holds the beginning so the name on the spine is attached to a concrete disc rather than to reputation alone.",
+  "collectionNotes": "Acquired in August 2026 as a foundation title for the Original PlayStation collection.\n\nThe retained copy is the North American PlayStation black-label edition published by Konami (SLUS-00707). It remains complete in box with manual and cover insert, and is kept as the reference copy for the opening of the Silent Hill lineage.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Sony PlayStation; compatible North American PlayStation hardware",
+    "originalHardware": "Sony PlayStation · NTSC-U/C",
+    "compatibility": "Pressed for North American PlayStation consoles. The retained disc remains the primary access copy.",
+    "concerns": "Optical-disc aging and surface damage remain the principal risks. The disc is stored upright in its original case under stable, dry conditions; printed materials remain housed with the copy.",
+    "knownRevisions": "North American PlayStation release published by Konami in February 1999 (SLUS-00707), preceding the Japanese release of March 4, 1999 (SLPM-86192). European territories followed in July 1999. Later North American Greatest Hits and regional budget reissues used revised packaging; this filing records the original black-label retail edition.",
+    "availability": "The original physical edition is out of print and circulates through the secondary market. No current digital edition replaces this reference copy."
+  },
+  "connections": {
+    "series": "Silent Hill",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:30:00.000Z-silent-hill",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0030."
+    },
+    {
+      "id": "curator-notes-2026-08-03T23:30:00.000Z-silent-hill",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-2026-08-03T23:30:00.000Z-silent-hill",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-03T23:30:00.000Z-silent-hill",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-2026-08-03T23:30:00.000Z-silent-hill",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Silent Hill series recorded."
+    },
+    {
+      "id": "published-2026-08-03T23:30:00.000Z-silent-hill",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    },
+    {
+      "id": "editorial-revision-2026-08-04T02:00:00.000Z-silent-hill",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Curator Notes updated after PlayStation 2 Silent Hill filings."
+    }
+  ]
+}

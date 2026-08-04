@@ -1,0 +1,36 @@
+{
+  "slug": "krisalis-software",
+  "authorityId": "AUTH-0062",
+  "type": "developer",
+  "preferredName": "Krisalis Software",
+  "alternativeNames": [
+    "Krisalis Software Ltd.",
+    "Key Game"
+  ],
+  "relatedAuthoritySlugs": [
+    "electronic-arts",
+    "space-hulk"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:30:00.000Z-krisalis-software",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0062 — controlled identity for Krisalis Software."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:30:00.000Z-krisalis-software",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Krisalis Software — developer of record for the PlayStation edition of Space Hulk: Vengeance of the Blood Angels in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:30:00.000Z"
+}

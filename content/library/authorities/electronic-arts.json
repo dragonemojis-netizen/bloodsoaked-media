@@ -1,0 +1,37 @@
+{
+  "slug": "electronic-arts",
+  "authorityId": "AUTH-0020",
+  "type": "publisher",
+  "preferredName": "Electronic Arts",
+  "alternativeNames": [
+    "EA"
+  ],
+  "relatedAuthoritySlugs": [
+    "battlefield-studios",
+    "battlefield",
+    "krisalis-software",
+    "space-hulk"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:03:32.851Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:03:32.851Z-electronic-arts",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0020 — controlled identity for Electronic Arts."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-electronic-arts",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Electronic Arts — publisher of record for Battlefield 6 as retained under the archive Steam account.",
+  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z"
+}

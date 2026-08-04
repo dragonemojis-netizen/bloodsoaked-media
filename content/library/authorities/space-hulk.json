@@ -1,0 +1,35 @@
+{
+  "slug": "space-hulk",
+  "authorityId": "AUTH-0063",
+  "type": "series",
+  "preferredName": "Space Hulk",
+  "alternativeNames": [
+    "Warhammer 40,000: Space Hulk"
+  ],
+  "relatedAuthoritySlugs": [
+    "krisalis-software",
+    "electronic-arts"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:30:00.000Z-space-hulk",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0063 — controlled identity for Space Hulk."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:30:00.000Z-space-hulk",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Space Hulk — series identity for Space Hulk titles retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:30:00.000Z"
+}

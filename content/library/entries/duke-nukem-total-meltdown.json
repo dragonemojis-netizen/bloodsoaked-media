@@ -1,0 +1,107 @@
+{
+  "slug": "duke-nukem-total-meltdown",
+  "title": "Duke Nukem: Total Meltdown",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 1997,
+  "synopsis": "The PlayStation edition of Duke Nukem 3D — a console port with exclusive material, retained as the archive’s pressed copy of that conversion.",
+  "coverImage": "/images/library/duke-nukem-total-meltdown/cover-official.jpg",
+  "filedAt": "2026-08-03T23:30:00.000Z",
+  "curatorialRevisionAt": "2026-08-03T23:30:00.000Z",
+  "shelfMark": "LIB-0029",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "aardvark-software"
+    ],
+    "publishers": [
+      "gt-interactive"
+    ],
+    "platforms": [
+      "playstation"
+    ],
+    "series": [
+      "duke-nukem"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "Duke Nukem 3D",
+    "release": "1997 (North America)",
+    "developer": "Aardvark Software",
+    "publisher": "GT Interactive",
+    "platform": "PlayStation",
+    "region": "NTSC-U/C · North America · SLUS-00355",
+    "mediumForm": "Pressed optical disc · PlayStation retail edition",
+    "subjects": [
+      "First-Person Shooter",
+      "Duke Nukem",
+      "Console Port",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Complete in box: case, pressed disc, manual, and original cover insert",
+    "condition": "Complete in box. Light shelf wear consistent with age. Preserved as a playable reference copy.",
+    "acquired": "Private acquisition · August 2026",
+    "filed": "August 3, 2026"
+  },
+  "curatorNotes": "Total Meltdown is the name North America gave the PlayStation conversion of Duke Nukem 3D. Aardvark Software’s port carries the PC campaign onto optical media and adds console-exclusive episode material — evidence that this was not a straight file transfer but a remastering for Sony’s machine and its audience.\n\nEuropean packaging often shortened the title to Duke Nukem, which is a useful reminder that the object on this shelf is a regional retail identity as much as a codebase. The archive keeps the North American Total Meltdown edition because that is the pressed form under which the conversion circulated here.\n\nFiled beside Time to Kill, the disc prevents the Duke Nukem PlayStation story from being told as only one kind of game. This is the Build-engine lineage on black disc; the other is the third-person console original.",
+  "collectionNotes": "Acquired in August 2026 with Duke Nukem: Time to Kill, completing the first Duke Nukem pair on the Original PlayStation shelf.\n\nThe retained copy is the North American PlayStation edition published by GT Interactive (SLUS-00355). It remains complete in box with manual and cover insert.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Sony PlayStation; compatible North American PlayStation hardware",
+    "originalHardware": "Sony PlayStation · NTSC-U/C",
+    "compatibility": "Pressed for North American PlayStation consoles. The retained disc remains the primary access copy.",
+    "concerns": "Optical-disc aging and surface damage remain the principal risks. The disc is stored upright in its original case under stable, dry conditions; printed materials remain housed with the copy.",
+    "knownRevisions": "PlayStation conversion of 3D Realms’ Duke Nukem 3D, developed by Aardvark Software and published in North America by GT Interactive in 1997 as Duke Nukem: Total Meltdown (SLUS-00355). The edition includes exclusive PlayStation episode content beyond the original PC episodes. European releases were titled Duke Nukem; a Japanese release followed in 1999 under King Records.",
+    "availability": "The original physical edition is out of print and circulates through the secondary market. No current digital edition replaces this reference copy."
+  },
+  "connections": {
+    "series": "Duke Nukem",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:30:00.000Z-duke-nukem-total-meltdown",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0029."
+    },
+    {
+      "id": "curator-notes-2026-08-03T23:30:00.000Z-duke-nukem-total-meltdown",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-2026-08-03T23:30:00.000Z-duke-nukem-total-meltdown",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-03T23:30:00.000Z-duke-nukem-total-meltdown",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-2026-08-03T23:30:00.000Z-duke-nukem-total-meltdown",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Duke Nukem series recorded."
+    },
+    {
+      "id": "published-2026-08-03T23:30:00.000Z-duke-nukem-total-meltdown",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "media-vision",
+  "authorityId": "AUTH-0067",
+  "type": "developer",
+  "preferredName": "Media.Vision",
+  "alternativeNames": [
+    "Media.Vision Entertainment",
+    "Media Vision"
+  ],
+  "relatedAuthoritySlugs": [
+    "sony-computer-entertainment-america",
+    "wild-arms"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:45:00.000Z-media-vision",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0067 — controlled identity for Media.Vision."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:45:00.000Z-media-vision",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Media.Vision — developer of record for Wild Arms in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:45:00.000Z"
+}

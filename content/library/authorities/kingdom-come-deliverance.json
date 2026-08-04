@@ -1,0 +1,36 @@
+{
+  "slug": "kingdom-come-deliverance",
+  "authorityId": "AUTH-0033",
+  "type": "series",
+  "preferredName": "Kingdom Come: Deliverance",
+  "alternativeNames": [
+    "Kingdom Come",
+    "KCD"
+  ],
+  "relatedAuthoritySlugs": [
+    "warhorse-studios",
+    "deep-silver"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:03:32.851Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:03:32.851Z-kingdom-come-deliverance",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0033 — controlled identity for Kingdom Come: Deliverance."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-kingdom-come-deliverance",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Kingdom Come: Deliverance — series identity linking Warhorse Studios’ medieval action-RPG holdings in this archive.",
+  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z"
+}

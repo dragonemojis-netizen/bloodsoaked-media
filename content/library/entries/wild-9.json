@@ -1,0 +1,102 @@
+{
+  "slug": "wild-9",
+  "title": "Wild 9",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 1998,
+  "synopsis": "Shiny Entertainment’s PlayStation platformer — retained as a late-nineties Interplay action holding on pressed optical disc.",
+  "coverImage": "/images/library/wild-9/cover-official.jpg",
+  "filedAt": "2026-08-03T23:45:00.000Z",
+  "curatorialRevisionAt": "2026-08-03T23:45:00.000Z",
+  "shelfMark": "LIB-0034",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "shiny-entertainment"
+    ],
+    "publishers": [
+      "interplay"
+    ],
+    "platforms": [
+      "playstation"
+    ]
+  },
+  "catalog": {
+    "release": "1998 (North America)",
+    "developer": "Shiny Entertainment",
+    "publisher": "Interplay",
+    "platform": "PlayStation",
+    "region": "NTSC-U/C · North America · SLUS-00425",
+    "mediumForm": "Pressed optical disc · PlayStation retail edition",
+    "subjects": [
+      "Platformer",
+      "Shiny Entertainment",
+      "Licensed Action",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Complete in box: case, pressed disc, manual, and original cover insert",
+    "condition": "Complete in box. Light shelf wear consistent with age. Preserved as a playable reference copy.",
+    "acquired": "Private acquisition · August 2026",
+    "filed": "August 3, 2026"
+  },
+  "curatorNotes": "Wild 9 is a PlayStation platformer from the same Shiny Entertainment and Interplay circle that had already shaped mid-nineties console action elsewhere. On this shelf it stands apart from the Sony-published RPG line and from the licensed shooters already filed — a third-party action object whose hook is the Rig, not a gunslinger motif or a survival-horror town.\n\nThe filing is not an argument that the game was widely remembered. It is custody of a pressed Interplay release from 1998, when the Original PlayStation catalog was dense enough that distinctive platformers could vanish into the secondary market without leaving a digital fallback on this hardware.\n\nKept with the closing Original PlayStation group, Wild 9 widens what the platform collection can show: not only first-party RPGs and survival horror, but the stranger third-party action discs that shared the same black-disc retail channel.",
+  "collectionNotes": "Acquired in August 2026 while completing the Original PlayStation shelf.\n\nThe retained copy is the North American PlayStation edition published by Interplay (SLUS-00425). It remains complete in box with manual and cover insert, and is kept as the reference copy for this filing.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Sony PlayStation; compatible North American PlayStation hardware",
+    "originalHardware": "Sony PlayStation · NTSC-U/C",
+    "compatibility": "Pressed for North American PlayStation consoles. The retained disc remains the primary access copy.",
+    "concerns": "Optical-disc aging and surface damage remain the principal risks. The disc is stored upright in its original case under stable, dry conditions; printed materials remain housed with the copy.",
+    "knownRevisions": "North American and European PlayStation releases in September 1998, developed by Shiny Entertainment and published by Interplay (North America: SLUS-00425). A Japanese release followed later under Sony Computer Entertainment.",
+    "availability": "The original physical edition is out of print and circulates through the secondary market. No current digital edition replaces this reference copy."
+  },
+  "connections": {
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:45:00.000Z-wild-9",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0034."
+    },
+    {
+      "id": "curator-notes-2026-08-03T23:45:00.000Z-wild-9",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-2026-08-03T23:45:00.000Z-wild-9",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-03T23:45:00.000Z-wild-9",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-2026-08-03T23:45:00.000Z-wild-9",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Original PlayStation collection recorded."
+    },
+    {
+      "id": "published-2026-08-03T23:45:00.000Z-wild-9",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

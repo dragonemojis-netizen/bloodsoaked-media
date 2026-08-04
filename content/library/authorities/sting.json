@@ -1,0 +1,36 @@
+{
+  "slug": "sting",
+  "authorityId": "AUTH-0077",
+  "type": "developer",
+  "preferredName": "Sting",
+  "alternativeNames": [
+    "Sting Entertainment",
+    "Sting, Inc."
+  ],
+  "relatedAuthoritySlugs": [
+    "atlus",
+    "playstation-2"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-04T02:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-04T02:00:00.000Z-sting",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0077 — controlled identity for Sting."
+    },
+    {
+      "id": "editorial-revision-2026-08-04T02:00:00.000Z-sting",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Sting — developer of record for Baroque in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-04T02:00:00.000Z"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "fromsoftware",
+  "authorityId": "AUTH-0017",
+  "type": "developer",
+  "preferredName": "FromSoftware, Inc.",
+  "alternativeNames": [
+    "FromSoftware",
+    "From Software"
+  ],
+  "relatedAuthoritySlugs": [
+    "bandai-namco-entertainment",
+    "elden-ring"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:03:32.851Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:03:32.851Z-fromsoftware",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0017 — controlled identity for FromSoftware, Inc.."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-fromsoftware",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "FromSoftware, Inc. — developer of record for ELDEN RING as retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z"
+}

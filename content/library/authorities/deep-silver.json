@@ -1,0 +1,33 @@
+{
+  "slug": "deep-silver",
+  "authorityId": "AUTH-0030",
+  "type": "publisher",
+  "preferredName": "Deep Silver",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "warhorse-studios",
+    "kingdom-come-deliverance"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:03:32.851Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:03:32.851Z-deep-silver",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0030 — controlled identity for Deep Silver."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-deep-silver",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Deep Silver — publisher of record for Kingdom Come: Deliverance II in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z"
+}

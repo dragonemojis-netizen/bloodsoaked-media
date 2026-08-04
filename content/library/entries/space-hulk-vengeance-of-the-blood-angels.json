@@ -1,0 +1,106 @@
+{
+  "slug": "space-hulk-vengeance-of-the-blood-angels",
+  "title": "Space Hulk: Vengeance of the Blood Angels",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 1996,
+  "synopsis": "A Warhammer 40,000 Space Hulk conversion for PlayStation — retained as a mid-nineties licensed tactical shooter on pressed optical disc.",
+  "coverImage": "/images/library/space-hulk-vengeance-of-the-blood-angels/cover-official.jpg",
+  "filedAt": "2026-08-03T23:30:00.000Z",
+  "curatorialRevisionAt": "2026-08-03T23:30:00.000Z",
+  "shelfMark": "LIB-0031",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "krisalis-software"
+    ],
+    "publishers": [
+      "electronic-arts"
+    ],
+    "platforms": [
+      "playstation"
+    ],
+    "series": [
+      "space-hulk"
+    ]
+  },
+  "catalog": {
+    "release": "1996 (North America)",
+    "developer": "Krisalis Software",
+    "publisher": "Electronic Arts",
+    "platform": "PlayStation",
+    "region": "NTSC-U/C · North America · SLUS-00205",
+    "mediumForm": "Pressed optical disc · PlayStation retail edition",
+    "subjects": [
+      "Tactical Shooter",
+      "Warhammer 40,000",
+      "Licensed Title",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Complete in box: case, pressed disc, manual, and original cover insert",
+    "condition": "Complete in box. Light shelf wear consistent with age. Preserved as a playable reference copy.",
+    "acquired": "Private acquisition · August 2026",
+    "filed": "August 3, 2026"
+  },
+  "curatorNotes": "Space Hulk: Vengeance of the Blood Angels brings Games Workshop’s boarded corridors and Terminator squads onto PlayStation through Electronic Arts’ mid-nineties licensing line. The console edition follows the 3DO original; Krisalis’s conversion is the form this archive holds.\n\nLicensed tabletop properties of this period often survive only as reputation or as later digital reissues. The point of the filing is the pressed North American disc itself — SLUS-00205 — and what it records about how Warhammer 40,000 reached living-room hardware before online storefronts became the default path.\n\nThe title is kept with the Original PlayStation collection as evidence of that licensed corridor of the catalog: tactical, severe, and dependent on a physical edition that is no longer in print.",
+  "collectionNotes": "Acquired in August 2026 while opening the Original PlayStation shelf.\n\nThe retained copy is the North American PlayStation edition published by Electronic Arts (SLUS-00205). It remains complete in box with manual and cover insert, and is kept as the reference copy for this Space Hulk conversion.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Sony PlayStation; compatible North American PlayStation hardware",
+    "originalHardware": "Sony PlayStation · NTSC-U/C",
+    "compatibility": "Pressed for North American PlayStation consoles. The retained disc remains the primary access copy.",
+    "concerns": "Optical-disc aging and surface damage remain the principal risks. The disc is stored upright in its original case under stable, dry conditions; printed materials remain housed with the copy.",
+    "knownRevisions": "Originated on 3DO in 1995 before PlayStation, Saturn, and Windows editions. The North American PlayStation release was published by Electronic Arts in 1996 (SLUS-00205), with console conversion work associated with Krisalis Software. European PlayStation localization used a separate product code (SLES-00207).",
+    "availability": "The original physical edition is out of print and circulates through the secondary market. No current digital edition replaces this reference copy."
+  },
+  "connections": {
+    "series": "Space Hulk",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:30:00.000Z-space-hulk-vengeance-of-the-blood-angels",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0031."
+    },
+    {
+      "id": "curator-notes-2026-08-03T23:30:00.000Z-space-hulk-vengeance-of-the-blood-angels",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-2026-08-03T23:30:00.000Z-space-hulk-vengeance-of-the-blood-angels",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-03T23:30:00.000Z-space-hulk-vengeance-of-the-blood-angels",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-2026-08-03T23:30:00.000Z-space-hulk-vengeance-of-the-blood-angels",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Space Hulk series recorded."
+    },
+    {
+      "id": "published-2026-08-03T23:30:00.000Z-space-hulk-vengeance-of-the-blood-angels",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

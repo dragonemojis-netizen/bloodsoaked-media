@@ -1,0 +1,32 @@
+{
+  "slug": "skystone-games",
+  "authorityId": "AUTH-0028",
+  "type": "publisher",
+  "preferredName": "Skystone Games",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "bellring-games"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:03:32.851Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:03:32.851Z-skystone-games",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0028 — controlled identity for Skystone Games."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-skystone-games",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Skystone Games — publisher of record for Mistfall Hunter as retained on Steam.",
+  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z"
+}

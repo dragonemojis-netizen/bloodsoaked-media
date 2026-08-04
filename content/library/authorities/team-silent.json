@@ -1,0 +1,36 @@
+{
+  "slug": "team-silent",
+  "authorityId": "AUTH-0059",
+  "type": "developer",
+  "preferredName": "Team Silent",
+  "alternativeNames": [
+    "Konami Computer Entertainment Tokyo",
+    "KCET"
+  ],
+  "relatedAuthoritySlugs": [
+    "konami",
+    "silent-hill"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:30:00.000Z-team-silent",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0059 — controlled identity for Team Silent."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:30:00.000Z-team-silent",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Team Silent — developer of record for Silent Hill in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:30:00.000Z"
+}

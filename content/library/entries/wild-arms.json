@@ -1,0 +1,108 @@
+{
+  "slug": "wild-arms",
+  "title": "Wild Arms",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 1996,
+  "synopsis": "Media.Vision’s first Wild Arms — an early PlayStation JRPG with a western motif, retained as the opening point of that series on optical disc.",
+  "coverImage": "/images/library/wild-arms/cover-official.jpg",
+  "filedAt": "2026-08-03T23:45:00.000Z",
+  "curatorialRevisionAt": "2026-08-03T23:45:00.000Z",
+  "shelfMark": "LIB-0033",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "media-vision"
+    ],
+    "publishers": [
+      "sony-computer-entertainment-america"
+    ],
+    "platforms": [
+      "playstation"
+    ],
+    "series": [
+      "wild-arms"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "ワイルドアームズ",
+    "release": "1996 (Japan) · 1997 (North America)",
+    "developer": "Media.Vision",
+    "publisher": "Sony Computer Entertainment America",
+    "platform": "PlayStation",
+    "region": "NTSC-U/C · North America · SCUS-94608",
+    "mediumForm": "Pressed optical disc · PlayStation retail edition",
+    "subjects": [
+      "JRPG",
+      "Wild Arms",
+      "Early PlayStation",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Complete in box: case, pressed disc, manual, and original cover insert",
+    "condition": "Complete in box. Light shelf wear consistent with age. Preserved as a playable reference copy.",
+    "acquired": "Private acquisition · August 2026",
+    "filed": "August 3, 2026"
+  },
+  "curatorNotes": "Wild Arms is the first Media.Vision chapter in a series that gave the PlayStation a western-tinged Japanese role-playing identity of its own. Released in Japan in 1996 and localized by Sony Computer Entertainment America the following year, it sits in the same early window as Beyond the Beyond — when SCEA was still teaching North American shelves what a Sony-published JRPG could be.\n\nThe filing is kept as the opening point of the Wild Arms lineage on this archive, not because every later sequel is already present. A series name without its first disc is only a rumor; the pressed SCUS-94608 copy is the concrete beginning.\n\nFiled beside the other Original PlayStation holdings, it records another path through the platform’s first RPG years: tool-driven dungeons, hybrid 2D exploration and 3D battles, and a studio whose later work would keep returning to Filgaia.",
+  "collectionNotes": "Acquired in August 2026 as part of completing the Original PlayStation shelf.\n\nThe retained copy is the North American PlayStation edition published by Sony Computer Entertainment America (SCUS-94608). It remains complete in box with manual and cover insert, and is kept as the reference copy for the opening of the Wild Arms lineage.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Sony PlayStation; compatible North American PlayStation hardware",
+    "originalHardware": "Sony PlayStation · NTSC-U/C",
+    "compatibility": "Pressed for North American PlayStation consoles. The retained disc remains the primary access copy.",
+    "concerns": "Optical-disc aging and surface damage remain the principal risks. The disc is stored upright in its original case under stable, dry conditions; printed materials remain housed with the copy.",
+    "knownRevisions": "First issued in Japan on December 20, 1996. The North American localization followed on April 30, 1997 under Sony Computer Entertainment America as Wild Arms (SCUS-94608). European territories received a 1998 PlayStation release.",
+    "availability": "The original physical edition is out of print and circulates through the secondary market. Later remakes and digital reissues do not replace this North American reference copy."
+  },
+  "connections": {
+    "series": "Wild Arms",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:45:00.000Z-wild-arms",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0033."
+    },
+    {
+      "id": "curator-notes-2026-08-03T23:45:00.000Z-wild-arms",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-2026-08-03T23:45:00.000Z-wild-arms",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-03T23:45:00.000Z-wild-arms",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-2026-08-03T23:45:00.000Z-wild-arms",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Wild Arms series recorded."
+    },
+    {
+      "id": "published-2026-08-03T23:45:00.000Z-wild-arms",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

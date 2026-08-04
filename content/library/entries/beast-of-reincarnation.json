@@ -1,0 +1,156 @@
+{
+  "slug": "beast-of-reincarnation",
+  "title": "Beast of Reincarnation",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-03T22:55:15.502Z",
+  "shelfMark": "LIB-0014",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-2001760",
+    "reconciledAt": "2026-08-03T22:55:15.502Z"
+  },
+  "catalog": {
+    "release": "August 3, 2026",
+    "developer": "Game Freak",
+    "publisher": "Fictions",
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Digital Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Fictions build",
+    "condition": "Held solely as a Steam license. No disc, case, or printed insert is part of the accession.",
+    "acquired": "Digital acquisition · August 2026",
+    "filed": "August 3, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Beast of Reincarnation as a Game Freak digital filing.",
+  "collectionNotes": "Steam license under the archive account; no physical counterpart. Official cover artwork is on file from Steam library art. Collection photography remains unopened by choice.",
+  "preservation": {
+    "playableOn": "Windows PC through the Steam client under the archive account",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Access depends on Steam account custody and continued storefront availability.",
+    "concerns": "Account-bound digital holdings face platform dependency, storefront policy change, and client obsolescence. No physical disc or offline installer is held.",
+    "knownRevisions": "Steam storefront chronology lists August 3, 2026 for this edition. Wider platform announcements have cited August 4, 2026; this accession records the Steam-listed digital edition in custody.",
+    "availability": "Held as a permanent digital license on the archive Steam account while that custody and Steam’s service for the title continue."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-2001760"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T22:55:15.502Z",
+      "at": "2026-08-03T22:55:15.502Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0014."
+    },
+    {
+      "id": "cover-artwork-2026-08-03T23:03:32.851Z-beast-of-reincarnation",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-03T23:03:32.851Z-beast-of-reincarnation",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-03T23:03:32.851Z-beast-of-reincarnation",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-03T23:03:32.851Z-beast-of-reincarnation",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-beast-of-reincarnation",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-03T23:03:32.851Z-beast-of-reincarnation",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:05:55.705Z-beast-of-reincarnation",
+      "at": "2026-08-03T23:05:55.705Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Primary cover replaced with official Steam library capsule (portrait)."
+    }
+  ],
+  "steam": {
+    "appId": 2001760,
+    "title": "Beast of Reincarnation",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/2001760/",
+    "lastSynced": "2026-08-03T22:52:55.577Z",
+    "source": "steam-web-api",
+    "developers": [
+      "GAME FREAK inc."
+    ],
+    "publishers": [
+      "Fictions"
+    ],
+    "releaseDate": "2026-08-03",
+    "releaseDateRaw": "3 Aug, 2026",
+    "comingSoon": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-03T23:03:32.851Z"
+  },
+  "year": 2026,
+  "synopsis": "Game Freak’s Beast of Reincarnation on Steam — retained as a permanent digital holding under the archive Steam account.",
+  "coverImage": "/images/library/beast-of-reincarnation/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-03T23:05:55.705Z",
+  "authorities": {
+    "developers": [
+      "game-freak"
+    ],
+    "publishers": [
+      "fictions"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

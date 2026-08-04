@@ -1,0 +1,40 @@
+{
+  "slug": "playstation",
+  "authorityId": "AUTH-0052",
+  "type": "platform",
+  "preferredName": "PlayStation",
+  "alternativeNames": [
+    "PS1",
+    "PSX",
+    "PSOne",
+    "Sony PlayStation",
+    "Original PlayStation"
+  ],
+  "establishedDate": "1994",
+  "relatedAuthoritySlugs": [
+    "playstation-2",
+    "playstation-3"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:30:00.000Z-playstation",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0052 — controlled identity for PlayStation."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:30:00.000Z-playstation",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "PlayStation — original Sony home console platform for physical holdings retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:30:00.000Z"
+}

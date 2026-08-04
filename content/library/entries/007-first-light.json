@@ -1,0 +1,147 @@
+{
+  "slug": "007-first-light",
+  "title": "007 First Light",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:09:31.696Z",
+  "shelfMark": "LIB-0018",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-3768760",
+    "reconciledAt": "2026-08-03T23:09:31.696Z"
+  },
+  "catalog": {
+    "release": "May 26, 2026",
+    "developer": "IO Interactive",
+    "publisher": "IO Interactive",
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "Digital Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · IO Interactive build",
+    "condition": "Account-bound Steam license under archive custody. No physical case, disc, or insert accompanies this filing.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 3, 2026"
+  },
+  "curatorNotes": "Space held for curator writing on 007 First Light as a digital espionage accession.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive Steam account and Steam’s ongoing support for the title.",
+    "concerns": "As with other account-bound Steam holdings: platform dependency, policy change, and the absence of a retained offline installer.",
+    "knownRevisions": "Steam release dated May 26, 2026. This accession records the licensed digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-3768760"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:09:31.696Z",
+      "at": "2026-08-03T23:09:31.696Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0018."
+    },
+    {
+      "id": "cover-artwork-2026-08-03T23:12:28.097Z-007-first-light",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-03T23:12:28.097Z-007-first-light",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-03T23:12:28.097Z-007-first-light",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-03T23:12:28.097Z-007-first-light",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:12:28.097Z-007-first-light",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-03T23:12:28.097Z-007-first-light",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 3768760,
+    "title": "007 First Light",
+    "owned": true,
+    "playtimeMinutes": 665,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 665,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-05-29T22:26:23.000Z",
+    "storeUrl": "https://store.steampowered.com/app/3768760/",
+    "lastSynced": "2026-08-03T22:52:55.577Z",
+    "source": "steam-web-api",
+    "developers": [
+      "IO Interactive A/S"
+    ],
+    "publishers": [
+      "IO Interactive A/S"
+    ],
+    "releaseDate": "2026-05-26",
+    "releaseDateRaw": "May 26, 2026",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-03T23:12:28.097Z"
+  },
+  "year": 2026,
+  "synopsis": "IO Interactive’s 007 First Light on Steam — a Bond origin holding retained in permanent digital custody.",
+  "coverImage": "/images/library/007-first-light/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-03T23:12:28.097Z",
+  "authorities": {
+    "developers": [
+      "io-interactive"
+    ],
+    "publishers": [
+      "io-interactive"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

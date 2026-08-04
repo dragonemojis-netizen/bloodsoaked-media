@@ -1,0 +1,32 @@
+{
+  "slug": "bellring-games",
+  "authorityId": "AUTH-0027",
+  "type": "developer",
+  "preferredName": "Bellring Games",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "skystone-games"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:03:32.851Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:03:32.851Z-bellring-games",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0027 — controlled identity for Bellring Games."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-bellring-games",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Bellring Games — developer of record for Mistfall Hunter in this archive.",
+  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "hekate",
+  "authorityId": "AUTH-0044",
+  "type": "developer",
+  "preferredName": "Hekate",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "nacon"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:12:28.097Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:12:28.097Z-hekate",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0044 — controlled identity for Hekate."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:12:28.097Z-hekate",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Hekate — developer of record for Ad Infinitum in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:12:28.097Z"
+}

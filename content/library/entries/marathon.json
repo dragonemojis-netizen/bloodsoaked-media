@@ -16,9 +16,16 @@
     "reconciledAt": "2026-07-26T03:24:14.590Z"
   },
   "authorities": {
-    "developers": ["bungie"],
-    "publishers": ["bungie"],
-    "platforms": ["pc", "steam"]
+    "developers": [
+      "bungie"
+    ],
+    "publishers": [
+      "bungie"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
   },
   "catalog": {
     "release": "March 5, 2026",
@@ -51,7 +58,9 @@
     "availability": "Held as a permanent digital license on the archive Steam account. Continuity of access depends on that account and on Steam’s continued service for the title."
   },
   "connections": {
-    "collectionIds": ["steam-3065800"],
+    "collectionIds": [
+      "steam-3065800"
+    ],
     "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
   },
   "artifacts": [],
@@ -66,18 +75,8 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2026-07-22T23:00:54.000Z",
     "storeUrl": "https://store.steampowered.com/app/3065800/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api",
-    "developers": ["Bungie"],
-    "publishers": ["Bungie"],
-    "releaseDate": "2026-03-05",
-    "releaseDateRaw": "5 Mar, 2026",
-    "comingSoon": false,
-    "genres": ["Action"],
-    "artwork": {
-      "capsule": "/images/library/marathon/cover-official.jpg"
-    },
-    "metadataSyncedAt": "2026-07-26T03:30:00.000Z"
+    "lastSynced": "2026-08-03T22:52:55.577Z",
+    "source": "steam-web-api"
   },
   "stewardshipHistory": [
     {

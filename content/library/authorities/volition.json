@@ -1,0 +1,35 @@
+{
+  "slug": "volition",
+  "authorityId": "AUTH-0078",
+  "type": "developer",
+  "preferredName": "Volition",
+  "alternativeNames": [
+    "Volition, Inc."
+  ],
+  "relatedAuthoritySlugs": [
+    "thq",
+    "playstation-2"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-04T02:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-04T02:00:00.000Z-volition",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0078 — controlled identity for Volition."
+    },
+    {
+      "id": "editorial-revision-2026-08-04T02:00:00.000Z-volition",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Volition — developer of record for The Punisher in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-04T02:00:00.000Z"
+}

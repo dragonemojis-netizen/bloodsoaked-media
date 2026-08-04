@@ -1,0 +1,157 @@
+{
+  "slug": "escape-from-tarkov",
+  "title": "Escape from Tarkov",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-03T22:53:40.138Z",
+  "shelfMark": "LIB-0009",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-3932890",
+    "reconciledAt": "2026-08-03T22:53:40.138Z"
+  },
+  "catalog": {
+    "release": "November 15, 2025",
+    "developer": "Battlestate Games",
+    "publisher": "Battlestate Games",
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "subjects": [
+      "Action",
+      "Massively Multiplayer",
+      "RPG",
+      "Digital Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · live-service title without a physical shelf object",
+    "condition": "Held solely as a Steam license. Online services are required for play; no disc or boxed materials accompany this filing.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 3, 2026"
+  },
+  "curatorNotes": "Space held for curator writing on Escape from Tarkov as a Steam-edition extraction holding.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license for Escape from Tarkov. Official cover artwork is on file from Steam library art; collection photography of a physical object does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam, subject to the title’s online requirements",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Access depends on Steam custody and on Battlestate’s online services. That service layer is an additional constraint beyond ordinary digital-license risk.",
+    "concerns": "Account binding, storefront change, client aging, and online-service dependency. No offline installer or physical fallback is held.",
+    "knownRevisions": "Steam edition dated November 15, 2025. Earlier launcher-distributed builds of Escape from Tarkov are outside this accession; the archive retains the Steam-licensed digital edition in present custody.",
+    "availability": "Reachable through the archive Steam account while both the license and the title’s required services remain available."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-3932890"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T22:53:40.138Z",
+      "at": "2026-08-03T22:53:40.138Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0009."
+    },
+    {
+      "id": "cover-artwork-2026-08-03T23:03:32.851Z-escape-from-tarkov",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-03T23:03:32.851Z-escape-from-tarkov",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-03T23:03:32.851Z-escape-from-tarkov",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-03T23:03:32.851Z-escape-from-tarkov",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-escape-from-tarkov",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-03T23:03:32.851Z-escape-from-tarkov",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:05:55.705Z-escape-from-tarkov",
+      "at": "2026-08-03T23:05:55.705Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Primary cover replaced with official Steam library capsule (portrait)."
+    }
+  ],
+  "steam": {
+    "appId": 3932890,
+    "title": "Escape from Tarkov",
+    "owned": true,
+    "playtimeMinutes": 29238,
+    "playtime2Weeks": 1248,
+    "playtimeWindowsMinutes": 29238,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-08-03T22:26:46.000Z",
+    "storeUrl": "https://store.steampowered.com/app/3932890/",
+    "lastSynced": "2026-08-03T22:52:55.577Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Battlestate Games"
+    ],
+    "publishers": [
+      "Battlestate Games"
+    ],
+    "releaseDate": "2025-11-15",
+    "releaseDateRaw": "Nov 15, 2025",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-03T23:03:32.851Z"
+  },
+  "year": 2025,
+  "synopsis": "Battlestate Games’ Escape from Tarkov on Steam — an extraction shooter retained as an account-bound digital holding under archive custody.",
+  "coverImage": "/images/library/escape-from-tarkov/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-03T23:05:55.705Z",
+  "authorities": {
+    "developers": [
+      "battlestate-games"
+    ],
+    "publishers": [
+      "battlestate-games"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

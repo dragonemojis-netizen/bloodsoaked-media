@@ -1,0 +1,101 @@
+{
+  "slug": "the-punisher",
+  "title": "The Punisher",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2005,
+  "synopsis": "Volition’s Marvel Punisher action game — retained as the North American PlayStation 2 retail disc published by THQ.",
+  "coverImage": "/images/library/the-punisher/cover-official.jpg",
+  "filedAt": "2026-08-04T02:00:00.000Z",
+  "curatorialRevisionAt": "2026-08-04T02:00:00.000Z",
+  "shelfMark": "LIB-0045",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "volition"
+    ],
+    "publishers": [
+      "thq"
+    ],
+    "platforms": [
+      "playstation-2"
+    ]
+  },
+  "catalog": {
+    "release": "2005 (North America)",
+    "developer": "Volition",
+    "publisher": "THQ",
+    "platform": "PlayStation 2",
+    "region": "NTSC-U/C · North America · SLUS-20864",
+    "mediumForm": "Pressed optical disc · PlayStation 2 retail edition",
+    "subjects": [
+      "Third-Person Shooter",
+      "Licensed Action",
+      "Marvel",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Complete in box: case, pressed disc, manual, and original cover insert",
+    "condition": "Complete in box. Light shelf wear consistent with age. Preserved as a playable reference copy.",
+    "acquired": "Private acquisition · August 2026",
+    "filed": "August 4, 2026"
+  },
+  "curatorNotes": "The Punisher (2005) is Volition’s console and PC action adaptation of the Marvel antihero — interrogation systems, environmental kills, and a tone closer to the comics’ brutality than to a light licensed tie-in. THQ published the North American PlayStation 2 edition (SLUS-20864) in January 2005.\n\nThe shelf keeps the optical object because licensed Marvel games of this period are often reduced to checklist entries. Custody here is of the pressed disc and keep-case as they shipped for NTSC-U consoles, not of a later storefront listing.\n\nThis filing does not invent a Punisher series map across decades of adaptations. It records one complete retail edition among the PlayStation 2 action holdings.",
+  "collectionNotes": "Acquired in August 2026 while expanding the PlayStation 2 physical shelf.\n\nThe retained copy is the North American PlayStation 2 edition published by THQ (SLUS-20864). It remains complete in box with manual and cover insert, and is kept as the reference copy for this filing.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Sony PlayStation 2; compatible North American PlayStation hardware",
+    "originalHardware": "Sony PlayStation 2 · NTSC-U/C",
+    "compatibility": "Pressed for North American PlayStation 2 consoles. The retained disc remains the primary access copy.",
+    "concerns": "Optical-disc aging and surface damage remain the principal risks. The disc is stored upright in its original case under stable, dry conditions; printed materials remain housed with the copy.",
+    "knownRevisions": "North American multiplatform release in January 2005; PlayStation 2 serial SLUS-20864 (commonly cited as January 17–18, 2005). Contemporary Xbox and Windows editions are neighboring objects and are not this filing.",
+    "availability": "The original physical edition is out of print and circulates through the secondary market. No current digital edition replaces this North American reference copy."
+  },
+  "connections": {
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-04T02:00:00.000Z-the-punisher",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0045."
+    },
+    {
+      "id": "curator-notes-2026-08-04T02:00:00.000Z-the-punisher",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-2026-08-04T02:00:00.000Z-the-punisher",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-04T02:00:00.000Z-the-punisher",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-2026-08-04T02:00:00.000Z-the-punisher",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "published-2026-08-04T02:00:00.000Z-the-punisher",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

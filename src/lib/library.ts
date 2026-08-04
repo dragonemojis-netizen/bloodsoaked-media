@@ -7,6 +7,7 @@ import {
 import { LIBRARY_SCALING_CONTRACT } from "@/config/library-stewardship";
 import { sortStewardshipHistory } from "@/lib/library-stewardship-history";
 import type {
+  LibraryBrowsePlatform,
   LibraryBrowseQuery,
   LibraryCatalog,
   LibraryCatalogIndex,
@@ -19,14 +20,12 @@ import type {
   LibraryShelfSummary,
   LibraryStatus,
 } from "@/types/library";
-import {
-  LIBRARY_MEDIA_TYPES,
-  LIBRARY_STATUSES,
-} from "@/types/library";
+import { LIBRARY_BROWSE_PLATFORMS } from "@/types/library";
 
 export type {
   LibraryAccession,
   LibraryAccessionSource,
+  LibraryBrowsePlatform,
   LibraryBrowseQuery,
   LibraryCatalog,
   LibraryEntry,
@@ -38,6 +37,14 @@ export type {
   LibraryStatus,
   LibraryStewardshipEvent,
 } from "@/types/library";
+
+export { LIBRARY_BROWSE_PLATFORMS } from "@/types/library";
+
+/** Subjects that are archival meta-labels, not browse genres. */
+const LIBRARY_GENRE_EXCLUSIONS = new Set([
+  "Digital Preservation",
+  "Preservation",
+]);
 
 const LIBRARY_DIR = path.join(process.cwd(), "content", "library");
 const ENTRIES_DIR = path.join(LIBRARY_DIR, "entries");
@@ -310,6 +317,59 @@ export function getPublishedShelfCards(): LibraryShelfCard[] {
 }
 
 /**
+ * Map a shelf card onto the curated browse-platform taxonomy.
+ * Steam holdings are identified by Steam provenance, not by catalog "PC".
+ * Values outside LIBRARY_BROWSE_PLATFORMS are never invented.
+ */
+export function resolveLibraryBrowsePlatform(
+  card: Pick<LibraryShelfCard, "platform" | "steamAppId">,
+): LibraryBrowsePlatform | undefined {
+  if (card.steamAppId != null || card.platform === "Steam") {
+    return "Steam";
+  }
+  if (
+    card.platform &&
+    (LIBRARY_BROWSE_PLATFORMS as readonly string[]).includes(card.platform)
+  ) {
+    return card.platform as LibraryBrowsePlatform;
+  }
+  return undefined;
+}
+
+function normalizeBrowseList(values: string[] | undefined): string[] {
+  if (!values?.length) return [];
+  const seen = new Set<string>();
+  const out: string[] = [];
+  for (const raw of values) {
+    const value = raw.trim();
+    if (!value || seen.has(value)) continue;
+    seen.add(value);
+    out.push(value);
+  }
+  return out;
+}
+
+/** Toggle a value in a multi-select facet list (order preserved). */
+export function toggleLibraryBrowseValue(
+  values: string[] | undefined,
+  value: string,
+): string[] {
+  const current = normalizeBrowseList(values);
+  if (current.includes(value)) {
+    return current.filter((entry) => entry !== value);
+  }
+  return [...current, value];
+}
+
+export function libraryBrowseQueryHasFacets(query: LibraryBrowseQuery): boolean {
+  return Boolean(
+    query.q?.trim() ||
+      query.platforms?.length ||
+      query.genres?.length,
+  );
+}
+
+/**
  * Catalog lookup and facets operate on shelf fields only —
  * never full curator notes or preservation prose.
  */
@@ -329,6 +389,7 @@ export function filterLibraryShelfCards(
         card.developer,
         card.publisher,
         card.platform,
+        resolveLibraryBrowsePlatform(card),
         card.director,
         card.artist,
         card.shelfMark,
@@ -342,30 +403,22 @@ export function filterLibraryShelfCards(
     });
   }
 
-  if (query.mediaType && LIBRARY_MEDIA_TYPES.includes(query.mediaType)) {
-    result = result.filter((card) => card.mediaType === query.mediaType);
+  const platforms = normalizeBrowseList(query.platforms).filter((platform) =>
+    (LIBRARY_BROWSE_PLATFORMS as readonly string[]).includes(platform),
+  );
+  if (platforms.length > 0) {
+    const allowed = new Set(platforms);
+    result = result.filter((card) => {
+      const browsePlatform = resolveLibraryBrowsePlatform(card);
+      return browsePlatform != null && allowed.has(browsePlatform);
+    });
   }
 
-  if (query.status && LIBRARY_STATUSES.includes(query.status)) {
-    result = result.filter((card) => card.status === query.status);
-  }
-
-  if (query.decade) {
-    const decadeStart = Number.parseInt(query.decade, 10);
-    if (!Number.isNaN(decadeStart)) {
-      result = result.filter(
-        (card) =>
-          card.year != null &&
-          card.year >= decadeStart &&
-          card.year < decadeStart + 10,
-      );
-    }
-  }
-
-  if (query.tag) {
-    const tag = query.tag.toLowerCase();
+  const genres = normalizeBrowseList(query.genres);
+  if (genres.length > 0) {
+    const allowed = new Set(genres.map((genre) => genre.toLowerCase()));
     result = result.filter((card) =>
-      card.subjects.some((t) => t.toLowerCase() === tag),
+      card.subjects.some((subject) => allowed.has(subject.toLowerCase())),
     );
   }
 
@@ -409,17 +462,34 @@ export function filterLibraryEntries(
 /**
  * Build a browse URL that preserves lookup / facet state.
  * Page 1 omits the page param so the first shelf stays clean.
+ * Multi-select facets serialize as comma-separated values.
  */
 export function getLibraryBrowseHref(query: LibraryBrowseQuery = {}): string {
   const params = new URLSearchParams();
   if (query.q?.trim()) params.set("q", query.q.trim());
-  if (query.mediaType) params.set("mediaType", query.mediaType);
-  if (query.status) params.set("status", query.status);
-  if (query.decade) params.set("decade", query.decade);
-  if (query.tag) params.set("tag", query.tag);
+
+  const platforms = normalizeBrowseList(query.platforms).filter((platform) =>
+    (LIBRARY_BROWSE_PLATFORMS as readonly string[]).includes(platform),
+  );
+  if (platforms.length > 0) params.set("platform", platforms.join(","));
+
+  const genres = normalizeBrowseList(query.genres);
+  if (genres.length > 0) params.set("genre", genres.join(","));
+
   if (query.page && query.page > 1) params.set("page", String(query.page));
   const serialized = params.toString();
   return serialized ? `/library?${serialized}` : "/library";
+}
+
+/** Parse a single or repeated query param into a clean string list. */
+export function parseLibraryBrowseParamList(
+  value: string | string[] | undefined,
+): string[] {
+  if (value == null) return [];
+  const parts = Array.isArray(value) ? value : [value];
+  return normalizeBrowseList(
+    parts.flatMap((part) => part.split(",").map((entry) => entry.trim())),
+  );
 }
 
 /**
@@ -483,25 +553,33 @@ export function rebuildLibraryCatalogIndex(): LibraryCatalogIndex {
   return index;
 }
 
-/** Facet options for the catalog — static taxonomy until live counts exist. */
+/**
+ * Catalog Facets for the Library sidebar.
+ * Platform is a fixed curated taxonomy; genre is derived from filed subjects.
+ */
 export function getLibraryFilterTaxonomy() {
+  const cards = getPublishedShelfCards();
+  const genreSet = new Set<string>();
+
+  for (const card of cards) {
+    for (const subject of card.subjects) {
+      const trimmed = subject.trim();
+      if (!trimmed || LIBRARY_GENRE_EXCLUSIONS.has(trimmed)) continue;
+      genreSet.add(trimmed);
+    }
+  }
+
   return {
-    mediaTypes: LIBRARY_MEDIA_TYPES.map((value) => ({
+    platforms: LIBRARY_BROWSE_PLATFORMS.map((value) => ({
       value,
-      label: libraryMediumLabels[value],
+      label: value,
     })),
-    statuses: LIBRARY_STATUSES.map((value) => ({
-      value,
-      label: libraryStatusLabels[value],
-    })),
-    decades: [
-      { value: "2020", label: "2020s" },
-      { value: "2010", label: "2010s" },
-      { value: "2000", label: "2000s" },
-      { value: "1990", label: "1990s" },
-      { value: "1980", label: "1980s" },
-      { value: "1970", label: "1970s & earlier" },
-    ],
+    genres: [...genreSet]
+      .sort((a, b) => a.localeCompare(b))
+      .map((value) => ({
+        value,
+        label: value,
+      })),
   };
 }
 

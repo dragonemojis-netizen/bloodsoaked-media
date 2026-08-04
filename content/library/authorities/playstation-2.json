@@ -3,9 +3,15 @@
   "authorityId": "AUTH-0006",
   "type": "platform",
   "preferredName": "PlayStation 2",
-  "alternativeNames": ["PS2", "Sony PlayStation 2"],
+  "alternativeNames": [
+    "PS2",
+    "Sony PlayStation 2"
+  ],
   "establishedDate": "2000",
-  "relatedAuthoritySlugs": ["playstation-3"],
+  "relatedAuthoritySlugs": [
+    "playstation-3",
+    "playstation"
+  ],
   "relatedHoldingIds": [],
   "externalReferences": [],
   "visibility": "published",

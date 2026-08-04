@@ -1,40 +1,184 @@
 {
   "schemaVersion": 1,
   "authoritySlugs": [
+    "505-games",
+    "aardvark-software",
     "access-games",
+    "atlus",
+    "bandai-namco-entertainment",
+    "battlefield",
+    "battlefield-studios",
+    "battlestate-games",
+    "behaviour-interactive",
+    "bellring-games",
     "bethesda-game-studios",
     "bethesda-softworks",
     "bungie",
+    "camelot-software-planning",
+    "capcom",
     "cavia",
+    "climax-studios",
+    "clock-tower",
+    "counter-strike",
+    "deep-silver",
     "drakengard-nier-lineage",
+    "duke-nukem",
+    "elden-ring",
+    "electronic-arts",
     "fallout",
+    "fictions",
+    "fromsoftware",
+    "fruitbat-factory",
+    "game-freak",
+    "giant-squid",
+    "gsc-game-world",
+    "gt-interactive",
+    "hekate",
+    "hound13",
+    "hypetrain-digital",
+    "ink-stains-games",
+    "interplay",
+    "io-interactive",
+    "kingdom-come-deliverance",
+    "konami",
+    "krisalis-software",
+    "localthunk",
+    "media-vision",
+    "morefun-studios",
+    "n-space",
+    "nacon",
     "obsidian-entertainment",
+    "orange-juice",
+    "orange-juice-franchise",
+    "parasite-eve",
     "pc",
+    "persona",
+    "playstack",
+    "playstation",
     "playstation-2",
     "playstation-3",
+    "radical-entertainment",
+    "s-t-a-l-k-e-r",
+    "sega",
+    "shiny-entertainment",
+    "silent-hill",
+    "skystone-games",
+    "sony-computer-entertainment-america",
+    "space-hulk",
+    "square",
+    "square-electronic-arts",
     "square-enix",
     "steam",
+    "sting",
+    "team-silent",
+    "the-fun-pimps",
+    "thq",
     "ubisoft",
+    "valve",
+    "vivendi-universal-games",
+    "volition",
+    "warhorse-studios",
+    "wild-arms",
     "yoko-taro"
   ],
   "publishedSlugs": [
+    "505-games",
+    "aardvark-software",
     "access-games",
+    "atlus",
+    "bandai-namco-entertainment",
+    "battlefield",
+    "battlefield-studios",
+    "battlestate-games",
+    "behaviour-interactive",
+    "bellring-games",
     "bethesda-game-studios",
     "bethesda-softworks",
     "bungie",
+    "camelot-software-planning",
+    "capcom",
     "cavia",
+    "climax-studios",
+    "clock-tower",
+    "counter-strike",
+    "deep-silver",
     "drakengard-nier-lineage",
+    "duke-nukem",
+    "elden-ring",
+    "electronic-arts",
     "fallout",
+    "fictions",
+    "fromsoftware",
+    "fruitbat-factory",
+    "game-freak",
+    "giant-squid",
+    "gsc-game-world",
+    "gt-interactive",
+    "hekate",
+    "hound13",
+    "hypetrain-digital",
+    "ink-stains-games",
+    "interplay",
+    "io-interactive",
+    "kingdom-come-deliverance",
+    "konami",
+    "krisalis-software",
+    "localthunk",
+    "media-vision",
+    "morefun-studios",
+    "n-space",
+    "nacon",
     "obsidian-entertainment",
+    "orange-juice",
+    "orange-juice-franchise",
+    "parasite-eve",
     "pc",
+    "persona",
+    "playstack",
+    "playstation",
     "playstation-2",
     "playstation-3",
+    "radical-entertainment",
+    "s-t-a-l-k-e-r",
+    "sega",
+    "shiny-entertainment",
+    "silent-hill",
+    "skystone-games",
+    "sony-computer-entertainment-america",
+    "space-hulk",
+    "square",
+    "square-electronic-arts",
     "square-enix",
     "steam",
+    "sting",
+    "team-silent",
+    "the-fun-pimps",
+    "thq",
     "ubisoft",
+    "valve",
+    "vivendi-universal-games",
+    "volition",
+    "warhorse-studios",
+    "wild-arms",
     "yoko-taro"
   ],
   "shelf": {
+    "505-games": {
+      "slug": "505-games",
+      "authorityId": "AUTH-0043",
+      "type": "publisher",
+      "preferredName": "505 Games",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "aardvark-software": {
+      "slug": "aardvark-software",
+      "authorityId": "AUTH-0057",
+      "type": "developer",
+      "preferredName": "Aardvark Software",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "access-games": {
       "slug": "access-games",
       "authorityId": "AUTH-0004",
@@ -44,6 +188,71 @@
       "alternativeNames": [
         "Access Games Inc."
       ]
+    },
+    "atlus": {
+      "slug": "atlus",
+      "authorityId": "AUTH-0047",
+      "type": "developer",
+      "preferredName": "ATLUS",
+      "visibility": "published",
+      "alternativeNames": [
+        "Atlus"
+      ]
+    },
+    "bandai-namco-entertainment": {
+      "slug": "bandai-namco-entertainment",
+      "authorityId": "AUTH-0018",
+      "type": "publisher",
+      "preferredName": "Bandai Namco Entertainment",
+      "visibility": "published",
+      "alternativeNames": [
+        "BANDAI NAMCO Entertainment",
+        "Bandai Namco Entertainment Inc."
+      ]
+    },
+    "battlefield": {
+      "slug": "battlefield",
+      "authorityId": "AUTH-0032",
+      "type": "series",
+      "preferredName": "Battlefield",
+      "visibility": "published",
+      "alternativeNames": [
+        "Battlefield series"
+      ]
+    },
+    "battlefield-studios": {
+      "slug": "battlefield-studios",
+      "authorityId": "AUTH-0019",
+      "type": "studio",
+      "preferredName": "Battlefield Studios",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "battlestate-games": {
+      "slug": "battlestate-games",
+      "authorityId": "AUTH-0021",
+      "type": "developer",
+      "preferredName": "Battlestate Games",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "behaviour-interactive": {
+      "slug": "behaviour-interactive",
+      "authorityId": "AUTH-0071",
+      "type": "developer",
+      "preferredName": "Behaviour Interactive",
+      "visibility": "published",
+      "alternativeNames": [
+        "Behaviour Interactive, Inc."
+      ]
+    },
+    "bellring-games": {
+      "slug": "bellring-games",
+      "authorityId": "AUTH-0027",
+      "type": "developer",
+      "preferredName": "Bellring Games",
+      "visibility": "published",
+      "alternativeNames": []
     },
     "bethesda-game-studios": {
       "slug": "bethesda-game-studios",
@@ -76,6 +285,29 @@
         "Bungie Software"
       ]
     },
+    "camelot-software-planning": {
+      "slug": "camelot-software-planning",
+      "authorityId": "AUTH-0053",
+      "type": "developer",
+      "preferredName": "Camelot Software Planning",
+      "visibility": "published",
+      "alternativeNames": [
+        "Camelot",
+        "CAMELOT Software Planning"
+      ]
+    },
+    "capcom": {
+      "slug": "capcom",
+      "authorityId": "AUTH-0072",
+      "type": "publisher",
+      "preferredName": "Capcom",
+      "visibility": "published",
+      "alternativeNames": [
+        "Capcom Co., Ltd.",
+        "Capcom Entertainment",
+        "Capcom U.S.A."
+      ]
+    },
     "cavia": {
       "slug": "cavia",
       "authorityId": "AUTH-0002",
@@ -85,6 +317,45 @@
       "alternativeNames": [
         "Cavia Inc."
       ]
+    },
+    "climax-studios": {
+      "slug": "climax-studios",
+      "authorityId": "AUTH-0076",
+      "type": "developer",
+      "preferredName": "Climax Studios",
+      "visibility": "published",
+      "alternativeNames": [
+        "Climax"
+      ]
+    },
+    "clock-tower": {
+      "slug": "clock-tower",
+      "authorityId": "AUTH-0073",
+      "type": "series",
+      "preferredName": "Clock Tower",
+      "visibility": "published",
+      "alternativeNames": [
+        "Clock Tower series"
+      ]
+    },
+    "counter-strike": {
+      "slug": "counter-strike",
+      "authorityId": "AUTH-0031",
+      "type": "series",
+      "preferredName": "Counter-Strike",
+      "visibility": "published",
+      "alternativeNames": [
+        "CS",
+        "Counter-Strike series"
+      ]
+    },
+    "deep-silver": {
+      "slug": "deep-silver",
+      "authorityId": "AUTH-0030",
+      "type": "publisher",
+      "preferredName": "Deep Silver",
+      "visibility": "published",
+      "alternativeNames": []
     },
     "drakengard-nier-lineage": {
       "slug": "drakengard-nier-lineage",
@@ -99,6 +370,34 @@
         "Drakengard series"
       ]
     },
+    "duke-nukem": {
+      "slug": "duke-nukem",
+      "authorityId": "AUTH-0058",
+      "type": "series",
+      "preferredName": "Duke Nukem",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "elden-ring": {
+      "slug": "elden-ring",
+      "authorityId": "AUTH-0034",
+      "type": "series",
+      "preferredName": "ELDEN RING",
+      "visibility": "published",
+      "alternativeNames": [
+        "Elden Ring"
+      ]
+    },
+    "electronic-arts": {
+      "slug": "electronic-arts",
+      "authorityId": "AUTH-0020",
+      "type": "publisher",
+      "preferredName": "Electronic Arts",
+      "visibility": "published",
+      "alternativeNames": [
+        "EA"
+      ]
+    },
     "fallout": {
       "slug": "fallout",
       "authorityId": "AUTH-0012",
@@ -108,6 +407,208 @@
       "alternativeNames": [
         "Fallout series"
       ]
+    },
+    "fictions": {
+      "slug": "fictions",
+      "authorityId": "AUTH-0025",
+      "type": "publisher",
+      "preferredName": "Fictions",
+      "visibility": "published",
+      "alternativeNames": [
+        "Fictions, Inc."
+      ]
+    },
+    "fromsoftware": {
+      "slug": "fromsoftware",
+      "authorityId": "AUTH-0017",
+      "type": "developer",
+      "preferredName": "FromSoftware, Inc.",
+      "visibility": "published",
+      "alternativeNames": [
+        "FromSoftware",
+        "From Software"
+      ]
+    },
+    "fruitbat-factory": {
+      "slug": "fruitbat-factory",
+      "authorityId": "AUTH-0037",
+      "type": "publisher",
+      "preferredName": "Fruitbat Factory",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "game-freak": {
+      "slug": "game-freak",
+      "authorityId": "AUTH-0024",
+      "type": "developer",
+      "preferredName": "Game Freak",
+      "visibility": "published",
+      "alternativeNames": [
+        "GAME FREAK inc.",
+        "GAME FREAK"
+      ]
+    },
+    "giant-squid": {
+      "slug": "giant-squid",
+      "authorityId": "AUTH-0042",
+      "type": "developer",
+      "preferredName": "Giant Squid",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "gsc-game-world": {
+      "slug": "gsc-game-world",
+      "authorityId": "AUTH-0050",
+      "type": "developer",
+      "preferredName": "GSC Game World",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "gt-interactive": {
+      "slug": "gt-interactive",
+      "authorityId": "AUTH-0056",
+      "type": "publisher",
+      "preferredName": "GT Interactive",
+      "visibility": "published",
+      "alternativeNames": [
+        "GT Interactive Software",
+        "GT Interactive Software Corp."
+      ]
+    },
+    "hekate": {
+      "slug": "hekate",
+      "authorityId": "AUTH-0044",
+      "type": "developer",
+      "preferredName": "Hekate",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "hound13": {
+      "slug": "hound13",
+      "authorityId": "AUTH-0026",
+      "type": "developer",
+      "preferredName": "Hound13 Inc.",
+      "visibility": "published",
+      "alternativeNames": [
+        "Hound13"
+      ]
+    },
+    "hypetrain-digital": {
+      "slug": "hypetrain-digital",
+      "authorityId": "AUTH-0040",
+      "type": "publisher",
+      "preferredName": "HypeTrain Digital",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "ink-stains-games": {
+      "slug": "ink-stains-games",
+      "authorityId": "AUTH-0039",
+      "type": "developer",
+      "preferredName": "Ink Stains Games",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "interplay": {
+      "slug": "interplay",
+      "authorityId": "AUTH-0070",
+      "type": "publisher",
+      "preferredName": "Interplay",
+      "visibility": "published",
+      "alternativeNames": [
+        "Interplay Productions",
+        "Interplay Entertainment",
+        "Interplay Entertainment Corp."
+      ]
+    },
+    "io-interactive": {
+      "slug": "io-interactive",
+      "authorityId": "AUTH-0035",
+      "type": "developer",
+      "preferredName": "IO Interactive",
+      "visibility": "published",
+      "alternativeNames": [
+        "IO Interactive A/S"
+      ]
+    },
+    "kingdom-come-deliverance": {
+      "slug": "kingdom-come-deliverance",
+      "authorityId": "AUTH-0033",
+      "type": "series",
+      "preferredName": "Kingdom Come: Deliverance",
+      "visibility": "published",
+      "alternativeNames": [
+        "Kingdom Come",
+        "KCD"
+      ]
+    },
+    "konami": {
+      "slug": "konami",
+      "authorityId": "AUTH-0060",
+      "type": "publisher",
+      "preferredName": "Konami",
+      "visibility": "published",
+      "alternativeNames": [
+        "Konami of America",
+        "Konami Computer Entertainment"
+      ]
+    },
+    "krisalis-software": {
+      "slug": "krisalis-software",
+      "authorityId": "AUTH-0062",
+      "type": "developer",
+      "preferredName": "Krisalis Software",
+      "visibility": "published",
+      "alternativeNames": [
+        "Krisalis Software Ltd.",
+        "Key Game"
+      ]
+    },
+    "localthunk": {
+      "slug": "localthunk",
+      "authorityId": "AUTH-0022",
+      "type": "developer",
+      "preferredName": "LocalThunk",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "media-vision": {
+      "slug": "media-vision",
+      "authorityId": "AUTH-0067",
+      "type": "developer",
+      "preferredName": "Media.Vision",
+      "visibility": "published",
+      "alternativeNames": [
+        "Media.Vision Entertainment",
+        "Media Vision"
+      ]
+    },
+    "morefun-studios": {
+      "slug": "morefun-studios",
+      "authorityId": "AUTH-0046",
+      "type": "developer",
+      "preferredName": "Morefun Studios",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "n-space": {
+      "slug": "n-space",
+      "authorityId": "AUTH-0055",
+      "type": "developer",
+      "preferredName": "n-Space",
+      "visibility": "published",
+      "alternativeNames": [
+        "n-Space, Inc.",
+        "N-Space"
+      ]
+    },
+    "nacon": {
+      "slug": "nacon",
+      "authorityId": "AUTH-0045",
+      "type": "publisher",
+      "preferredName": "Nacon",
+      "visibility": "published",
+      "alternativeNames": []
     },
     "obsidian-entertainment": {
       "slug": "obsidian-entertainment",
@@ -119,6 +620,34 @@
         "Obsidian"
       ]
     },
+    "orange-juice": {
+      "slug": "orange-juice",
+      "authorityId": "AUTH-0036",
+      "type": "developer",
+      "preferredName": "Orange_Juice",
+      "visibility": "published",
+      "alternativeNames": [
+        "Orange Juice"
+      ]
+    },
+    "orange-juice-franchise": {
+      "slug": "orange-juice-franchise",
+      "authorityId": "AUTH-0038",
+      "type": "series",
+      "preferredName": "Orange Juice",
+      "visibility": "published",
+      "alternativeNames": [
+        "100% Orange Juice"
+      ]
+    },
+    "parasite-eve": {
+      "slug": "parasite-eve",
+      "authorityId": "AUTH-0066",
+      "type": "series",
+      "preferredName": "Parasite Eve",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "pc": {
       "slug": "pc",
       "authorityId": "AUTH-0008",
@@ -128,6 +657,38 @@
       "alternativeNames": [
         "Personal Computer",
         "Windows"
+      ]
+    },
+    "persona": {
+      "slug": "persona",
+      "authorityId": "AUTH-0049",
+      "type": "series",
+      "preferredName": "Persona",
+      "visibility": "published",
+      "alternativeNames": [
+        "Shin Megami Tensei: Persona"
+      ]
+    },
+    "playstack": {
+      "slug": "playstack",
+      "authorityId": "AUTH-0023",
+      "type": "publisher",
+      "preferredName": "Playstack",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "playstation": {
+      "slug": "playstation",
+      "authorityId": "AUTH-0052",
+      "type": "platform",
+      "preferredName": "PlayStation",
+      "visibility": "published",
+      "alternativeNames": [
+        "PS1",
+        "PSX",
+        "PSOne",
+        "Sony PlayStation",
+        "Original PlayStation"
       ]
     },
     "playstation-2": {
@@ -152,6 +713,107 @@
         "Sony PlayStation 3"
       ]
     },
+    "radical-entertainment": {
+      "slug": "radical-entertainment",
+      "authorityId": "AUTH-0074",
+      "type": "developer",
+      "preferredName": "Radical Entertainment",
+      "visibility": "published",
+      "alternativeNames": [
+        "Radical"
+      ]
+    },
+    "s-t-a-l-k-e-r": {
+      "slug": "s-t-a-l-k-e-r",
+      "authorityId": "AUTH-0051",
+      "type": "series",
+      "preferredName": "S.T.A.L.K.E.R.",
+      "visibility": "published",
+      "alternativeNames": [
+        "STALKER",
+        "S.T.A.L.K.E.R"
+      ]
+    },
+    "sega": {
+      "slug": "sega",
+      "authorityId": "AUTH-0048",
+      "type": "publisher",
+      "preferredName": "SEGA",
+      "visibility": "published",
+      "alternativeNames": [
+        "Sega"
+      ]
+    },
+    "shiny-entertainment": {
+      "slug": "shiny-entertainment",
+      "authorityId": "AUTH-0069",
+      "type": "developer",
+      "preferredName": "Shiny Entertainment",
+      "visibility": "published",
+      "alternativeNames": [
+        "Shiny Entertainment, Inc."
+      ]
+    },
+    "silent-hill": {
+      "slug": "silent-hill",
+      "authorityId": "AUTH-0061",
+      "type": "series",
+      "preferredName": "Silent Hill",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "skystone-games": {
+      "slug": "skystone-games",
+      "authorityId": "AUTH-0028",
+      "type": "publisher",
+      "preferredName": "Skystone Games",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "sony-computer-entertainment-america": {
+      "slug": "sony-computer-entertainment-america",
+      "authorityId": "AUTH-0054",
+      "type": "publisher",
+      "preferredName": "Sony Computer Entertainment America",
+      "visibility": "published",
+      "alternativeNames": [
+        "SCEA",
+        "Sony Computer Entertainment of America"
+      ]
+    },
+    "space-hulk": {
+      "slug": "space-hulk",
+      "authorityId": "AUTH-0063",
+      "type": "series",
+      "preferredName": "Space Hulk",
+      "visibility": "published",
+      "alternativeNames": [
+        "Warhammer 40,000: Space Hulk"
+      ]
+    },
+    "square": {
+      "slug": "square",
+      "authorityId": "AUTH-0064",
+      "type": "developer",
+      "preferredName": "Square",
+      "visibility": "published",
+      "alternativeNames": [
+        "SquareSoft",
+        "Squaresoft",
+        "Square Co., Ltd."
+      ]
+    },
+    "square-electronic-arts": {
+      "slug": "square-electronic-arts",
+      "authorityId": "AUTH-0065",
+      "type": "publisher",
+      "preferredName": "Square Electronic Arts",
+      "visibility": "published",
+      "alternativeNames": [
+        "Square EA",
+        "Square Electronic Arts L.L.C."
+      ]
+    },
     "square-enix": {
       "slug": "square-enix",
       "authorityId": "AUTH-0003",
@@ -174,6 +836,48 @@
         "Steam Store"
       ]
     },
+    "sting": {
+      "slug": "sting",
+      "authorityId": "AUTH-0077",
+      "type": "developer",
+      "preferredName": "Sting",
+      "visibility": "published",
+      "alternativeNames": [
+        "Sting Entertainment",
+        "Sting, Inc."
+      ]
+    },
+    "team-silent": {
+      "slug": "team-silent",
+      "authorityId": "AUTH-0059",
+      "type": "developer",
+      "preferredName": "Team Silent",
+      "visibility": "published",
+      "alternativeNames": [
+        "Konami Computer Entertainment Tokyo",
+        "KCET"
+      ]
+    },
+    "the-fun-pimps": {
+      "slug": "the-fun-pimps",
+      "authorityId": "AUTH-0041",
+      "type": "developer",
+      "preferredName": "The Fun Pimps",
+      "visibility": "published",
+      "alternativeNames": [
+        "The Fun Pimps Entertainment LLC"
+      ]
+    },
+    "thq": {
+      "slug": "thq",
+      "authorityId": "AUTH-0079",
+      "type": "publisher",
+      "preferredName": "THQ",
+      "visibility": "published",
+      "alternativeNames": [
+        "THQ Inc."
+      ]
+    },
     "ubisoft": {
       "slug": "ubisoft",
       "authorityId": "AUTH-0005",
@@ -182,6 +886,55 @@
       "visibility": "published",
       "alternativeNames": [
         "Ubisoft Entertainment"
+      ]
+    },
+    "valve": {
+      "slug": "valve",
+      "authorityId": "AUTH-0016",
+      "type": "developer",
+      "preferredName": "Valve",
+      "visibility": "published",
+      "alternativeNames": [
+        "Valve Corporation"
+      ]
+    },
+    "vivendi-universal-games": {
+      "slug": "vivendi-universal-games",
+      "authorityId": "AUTH-0075",
+      "type": "publisher",
+      "preferredName": "Vivendi Universal Games",
+      "visibility": "published",
+      "alternativeNames": [
+        "Vivendi Games",
+        "VU Games"
+      ]
+    },
+    "volition": {
+      "slug": "volition",
+      "authorityId": "AUTH-0078",
+      "type": "developer",
+      "preferredName": "Volition",
+      "visibility": "published",
+      "alternativeNames": [
+        "Volition, Inc."
+      ]
+    },
+    "warhorse-studios": {
+      "slug": "warhorse-studios",
+      "authorityId": "AUTH-0029",
+      "type": "developer",
+      "preferredName": "Warhorse Studios",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "wild-arms": {
+      "slug": "wild-arms",
+      "authorityId": "AUTH-0068",
+      "type": "series",
+      "preferredName": "Wild Arms",
+      "visibility": "published",
+      "alternativeNames": [
+        "Wild ARMs"
       ]
     },
     "yoko-taro": {
@@ -196,5 +949,5 @@
       ]
     }
   },
-  "updatedAt": "2026-07-26T04:06:31.315Z"
+  "updatedAt": "2026-08-04T00:02:47.655Z"
 }

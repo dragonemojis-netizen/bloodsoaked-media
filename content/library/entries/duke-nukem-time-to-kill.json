@@ -1,0 +1,106 @@
+{
+  "slug": "duke-nukem-time-to-kill",
+  "title": "Duke Nukem: Time to Kill",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 1998,
+  "synopsis": "n-Space’s third-person Duke Nukem for PlayStation — retained so the console’s licensed action shelf records more than a single port of the PC shooter.",
+  "coverImage": "/images/library/duke-nukem-time-to-kill/cover-official.jpg",
+  "filedAt": "2026-08-03T23:30:00.000Z",
+  "curatorialRevisionAt": "2026-08-03T23:30:00.000Z",
+  "shelfMark": "LIB-0028",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "n-space"
+    ],
+    "publishers": [
+      "gt-interactive"
+    ],
+    "platforms": [
+      "playstation"
+    ],
+    "series": [
+      "duke-nukem"
+    ]
+  },
+  "catalog": {
+    "release": "1998 (North America)",
+    "developer": "n-Space",
+    "publisher": "GT Interactive",
+    "platform": "PlayStation",
+    "region": "NTSC-U/C · North America · SLUS-00583",
+    "mediumForm": "Pressed optical disc · PlayStation retail edition",
+    "subjects": [
+      "Third-Person Shooter",
+      "Duke Nukem",
+      "Licensed Action",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Complete in box: case, pressed disc, manual, and original cover insert",
+    "condition": "Complete in box. Light shelf wear consistent with age. Preserved as a playable reference copy.",
+    "acquired": "Private acquisition · August 2026",
+    "filed": "August 3, 2026"
+  },
+  "curatorNotes": "Duke Nukem: Time to Kill is not a conversion of the PC shooter that made the character famous on this generation. It is a PlayStation-built third-person game — n-Space’s own construction under GT Interactive — and that distinction matters on a shelf that also holds Total Meltdown.\n\nKept alone, either title would imply that Duke’s PlayStation presence was a single idea. Together they record two different answers to the same license: one a console edition of Duke Nukem 3D, the other a new third-person campaign built for this hardware’s audience and its controllers.\n\nThe filing is custody of that second answer. It belongs here so the Original PlayStation collection can show how a major late-nineties action property was localized onto Sony’s disc format without collapsing every release into one story.",
+  "collectionNotes": "Acquired in August 2026 while establishing the first Duke Nukem pair on the Original PlayStation shelf.\n\nThe retained copy is the North American PlayStation edition published by GT Interactive (SLUS-00583). It remains complete in box with manual and cover insert, and is kept beside Duke Nukem: Total Meltdown as the reference set for this license on the platform.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Sony PlayStation; compatible North American PlayStation hardware",
+    "originalHardware": "Sony PlayStation · NTSC-U/C",
+    "compatibility": "Pressed for North American PlayStation consoles. The retained disc remains the primary access copy.",
+    "concerns": "Optical-disc aging and surface damage remain the principal risks. The disc is stored upright in its original case under stable, dry conditions; printed materials remain housed with the copy.",
+    "knownRevisions": "North American PlayStation release published by GT Interactive in October 1998 (SLUS-00583), developed by n-Space. European territories received separate PlayStation localizations under GT Interactive.",
+    "availability": "The original physical edition is out of print and circulates through the secondary market. No current digital edition replaces this reference copy."
+  },
+  "connections": {
+    "series": "Duke Nukem",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:30:00.000Z-duke-nukem-time-to-kill",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0028."
+    },
+    {
+      "id": "curator-notes-2026-08-03T23:30:00.000Z-duke-nukem-time-to-kill",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-2026-08-03T23:30:00.000Z-duke-nukem-time-to-kill",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-03T23:30:00.000Z-duke-nukem-time-to-kill",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-2026-08-03T23:30:00.000Z-duke-nukem-time-to-kill",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Duke Nukem series recorded."
+    },
+    {
+      "id": "published-2026-08-03T23:30:00.000Z-duke-nukem-time-to-kill",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

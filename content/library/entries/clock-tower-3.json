@@ -1,0 +1,107 @@
+{
+  "slug": "clock-tower-3",
+  "title": "Clock Tower 3",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2003,
+  "synopsis": "Capcom and Sunsoft’s PlayStation 2 survival-horror entry — retained as the North American optical copy of a series that rarely reached this hardware.",
+  "coverImage": "/images/library/clock-tower-3/cover-official-front.jpg",
+  "filedAt": "2026-08-04T02:00:00.000Z",
+  "curatorialRevisionAt": "2026-08-04T02:00:00.000Z",
+  "shelfMark": "LIB-0036",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "capcom"
+    ],
+    "publishers": [
+      "capcom"
+    ],
+    "platforms": [
+      "playstation-2"
+    ],
+    "series": [
+      "clock-tower"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "クロックタワー3",
+    "release": "2002 (Japan) · 2003 (North America)",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "platform": "PlayStation 2",
+    "region": "NTSC-U/C · North America · SLUS-20633",
+    "mediumForm": "Pressed optical disc · PlayStation 2 retail edition",
+    "subjects": [
+      "Survival Horror",
+      "Clock Tower",
+      "Capcom",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Complete in box: case, pressed disc, manual, and original cover insert",
+    "condition": "Complete in box. Light shelf wear consistent with age. Preserved as a playable reference copy.",
+    "acquired": "Private acquisition · August 2026",
+    "filed": "August 4, 2026"
+  },
+  "curatorNotes": "Clock Tower 3 is the series’ principal North American PlayStation 2 outing — co-produced with Sunsoft after Human Entertainment’s collapse, and directed with cinematic ambition uncommon for the brand’s earlier point-and-click lineage. Capcom’s retail disc (SLUS-20633) is the object this shelf can keep: pressed for NTSC-U consoles in March 2003, months after the Japanese release of December 2002.\n\nThe filing is not an argument that every Clock Tower release belongs here. It is custody of the edition that carried the name onto this generation’s black DVD keep-case in North America — a survival-horror object that sits beside other optical holdings without pretending the series’ history was continuous or tidy.\n\nWhat matters on this shelf is the official Capcom packaging and the playable disc. Later ports and reissues are neighboring stories; they are not invented as substitutes for the pressed copy in custody.",
+  "collectionNotes": "Acquired in August 2026 while expanding the PlayStation 2 physical shelf.\n\nThe retained copy is the North American PlayStation 2 edition published by Capcom (SLUS-20633). It remains complete in box with manual and cover insert, and is kept as the reference copy for this filing.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Sony PlayStation 2; compatible North American PlayStation hardware",
+    "originalHardware": "Sony PlayStation 2 · NTSC-U/C",
+    "compatibility": "Pressed for North American PlayStation 2 consoles. The retained disc remains the primary access copy.",
+    "concerns": "Optical-disc aging and surface damage remain the principal risks. The disc is stored upright in its original case under stable, dry conditions; printed materials remain housed with the copy.",
+    "knownRevisions": "First issued in Japan as クロックタワー3 on December 12, 2002. The North American Capcom localization followed on March 18, 2003 (SLUS-20633). European territories followed later in 2003.",
+    "availability": "The original physical edition is out of print and circulates through the secondary market. No current digital edition replaces this North American reference copy."
+  },
+  "connections": {
+    "series": "Clock Tower",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-04T02:00:00.000Z-clock-tower-3",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0036."
+    },
+    {
+      "id": "curator-notes-2026-08-04T02:00:00.000Z-clock-tower-3",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-2026-08-04T02:00:00.000Z-clock-tower-3",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-04T02:00:00.000Z-clock-tower-3",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-2026-08-04T02:00:00.000Z-clock-tower-3",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Clock Tower series recorded."
+    },
+    {
+      "id": "published-2026-08-04T02:00:00.000Z-clock-tower-3",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

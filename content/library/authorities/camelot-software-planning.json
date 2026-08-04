@@ -1,0 +1,35 @@
+{
+  "slug": "camelot-software-planning",
+  "authorityId": "AUTH-0053",
+  "type": "developer",
+  "preferredName": "Camelot Software Planning",
+  "alternativeNames": [
+    "Camelot",
+    "CAMELOT Software Planning"
+  ],
+  "relatedAuthoritySlugs": [
+    "sony-computer-entertainment-america"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:30:00.000Z-camelot-software-planning",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0053 — controlled identity for Camelot Software Planning."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:30:00.000Z-camelot-software-planning",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Camelot Software Planning — developer of record for Beyond the Beyond in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:30:00.000Z"
+}

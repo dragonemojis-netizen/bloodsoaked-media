@@ -1,0 +1,159 @@
+{
+  "slug": "battlefieldtm-6",
+  "title": "Battlefield 6",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-03T22:54:39.725Z",
+  "shelfMark": "LIB-0011",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-2807960",
+    "reconciledAt": "2026-08-03T22:54:39.725Z"
+  },
+  "catalog": {
+    "release": "October 10, 2025",
+    "developer": "Battlefield Studios",
+    "publisher": "Electronic Arts",
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "subjects": [
+      "Action",
+      "Digital Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · EA account linkage required for play; no boxed object on the shelf",
+    "condition": "Account-bound Steam license under archive custody. An EA account link is required by the publisher; no optical disc accompanies this filing.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 3, 2026"
+  },
+  "curatorNotes": "Held open for curator writing on Battlefield 6 as the current Battlefield series filing on this shelf.",
+  "collectionNotes": "This holding is a Steam license only. No boxed edition sits beside it. Official cover artwork is recorded from Steam library art. Supplementary photography remains unfiled by design.",
+  "preservation": {
+    "playableOn": "Windows through Steam under archive custody, subject to EA account requirements",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive Steam account, a linked EA account, and the publishers’ ongoing online services.",
+    "concerns": "Platform dependency, EA account binding, live-service change, and the absence of a retained offline installer.",
+    "knownRevisions": "Steam release dated October 10, 2025. The filing documents the licensed digital copy in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license, EA linkage, and storefront path remain intact."
+  },
+  "connections": {
+    "series": "Battlefield",
+    "collectionIds": [
+      "steam-2807960"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T22:54:39.725Z",
+      "at": "2026-08-03T22:54:39.725Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0011."
+    },
+    {
+      "id": "cover-artwork-2026-08-03T23:03:32.851Z-battlefieldtm-6",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-03T23:03:32.851Z-battlefieldtm-6",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-03T23:03:32.851Z-battlefieldtm-6",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-03T23:03:32.851Z-battlefieldtm-6",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-battlefieldtm-6",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-03T23:03:32.851Z-battlefieldtm-6",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:05:55.705Z-battlefieldtm-6",
+      "at": "2026-08-03T23:05:55.705Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Primary cover replaced with official Steam library capsule (portrait)."
+    }
+  ],
+  "steam": {
+    "appId": 2807960,
+    "title": "Battlefield™ 6",
+    "owned": true,
+    "playtimeMinutes": 13534,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 13534,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-02-18T19:33:02.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2807960/",
+    "lastSynced": "2026-08-03T22:52:55.577Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Battlefield Studios"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "releaseDate": "2025-10-10",
+    "releaseDateRaw": "10 Oct, 2025",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-03T23:03:32.851Z"
+  },
+  "year": 2025,
+  "synopsis": "Battlefield 6 on Steam — a Battlefield Studios title published by Electronic Arts, retained in account-bound digital custody.",
+  "coverImage": "/images/library/battlefieldtm-6/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-03T23:05:55.705Z",
+  "authorities": {
+    "developers": [
+      "battlefield-studios"
+    ],
+    "studios": [
+      "battlefield-studios"
+    ],
+    "publishers": [
+      "electronic-arts"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "battlefield"
+    ]
+  }
+}

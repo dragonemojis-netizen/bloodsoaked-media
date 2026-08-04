@@ -1,0 +1,36 @@
+{
+  "slug": "bandai-namco-entertainment",
+  "authorityId": "AUTH-0018",
+  "type": "publisher",
+  "preferredName": "Bandai Namco Entertainment",
+  "alternativeNames": [
+    "BANDAI NAMCO Entertainment",
+    "Bandai Namco Entertainment Inc."
+  ],
+  "relatedAuthoritySlugs": [
+    "fromsoftware",
+    "elden-ring"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:03:32.851Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:03:32.851Z-bandai-namco-entertainment",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0018 — controlled identity for Bandai Namco Entertainment."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-bandai-namco-entertainment",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Bandai Namco Entertainment — overseas publisher of record for ELDEN RING in this archive’s PC Steam holding.",
+  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z"
+}

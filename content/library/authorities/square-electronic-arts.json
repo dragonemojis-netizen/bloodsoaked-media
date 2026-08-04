@@ -1,0 +1,36 @@
+{
+  "slug": "square-electronic-arts",
+  "authorityId": "AUTH-0065",
+  "type": "publisher",
+  "preferredName": "Square Electronic Arts",
+  "alternativeNames": [
+    "Square EA",
+    "Square Electronic Arts L.L.C."
+  ],
+  "relatedAuthoritySlugs": [
+    "square",
+    "parasite-eve"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:45:00.000Z-square-electronic-arts",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0065 — controlled identity for Square Electronic Arts."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:45:00.000Z-square-electronic-arts",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Square Electronic Arts — publisher of record for the North American edition of Parasite Eve II in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:45:00.000Z"
+}

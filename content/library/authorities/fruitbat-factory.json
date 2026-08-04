@@ -1,0 +1,33 @@
+{
+  "slug": "fruitbat-factory",
+  "authorityId": "AUTH-0037",
+  "type": "publisher",
+  "preferredName": "Fruitbat Factory",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "orange-juice",
+    "orange-juice-franchise"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:12:28.097Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:12:28.097Z-fruitbat-factory",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0037 — controlled identity for Fruitbat Factory."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:12:28.097Z-fruitbat-factory",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Fruitbat Factory — publisher of record for 100% Orange Juice in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:12:28.097Z"
+}

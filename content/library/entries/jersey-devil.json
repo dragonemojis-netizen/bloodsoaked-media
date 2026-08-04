@@ -1,0 +1,103 @@
+{
+  "slug": "jersey-devil",
+  "title": "Jersey Devil",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 1997,
+  "synopsis": "Behaviour Interactive’s 3D platformer — a Sony-published North American edition retained among the Original PlayStation action holdings.",
+  "coverImage": "/images/library/jersey-devil/cover-official.jpg",
+  "filedAt": "2026-08-03T23:45:00.000Z",
+  "curatorialRevisionAt": "2026-08-03T23:45:00.000Z",
+  "shelfMark": "LIB-0035",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "behaviour-interactive"
+    ],
+    "publishers": [
+      "sony-computer-entertainment-america"
+    ],
+    "platforms": [
+      "playstation"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "ジャージ・デビルの大冒険",
+    "release": "1997 (Europe) · 1998 (North America)",
+    "developer": "Behaviour Interactive",
+    "publisher": "Sony Computer Entertainment America",
+    "platform": "PlayStation",
+    "region": "NTSC-U/C · North America · SCUS-94907",
+    "mediumForm": "Pressed optical disc · PlayStation retail edition",
+    "subjects": [
+      "Platformer",
+      "3D Platformer",
+      "Early PlayStation",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Complete in box: case, pressed disc, manual, and original cover insert",
+    "condition": "Complete in box. Light shelf wear consistent with age. Preserved as a playable reference copy.",
+    "acquired": "Private acquisition · August 2026",
+    "filed": "August 3, 2026"
+  },
+  "curatorNotes": "Jersey Devil reached Europe before North America — an Ocean release first, then Sony Computer Entertainment America’s SCUS-94907 edition in 1998. Behaviour Interactive’s 3D platformer belongs on this shelf as another path through the console’s mascot-era action catalog: not a first-party icon that defined the hardware’s advertising, but a published Sony disc that still circulated through the same retail channel.\n\nThe filing keeps the North American object because that is the edition this archive holds. European and Japanese packaging tell neighboring stories; they are not invented here as substitutes for the pressed copy in custody.\n\nTogether with Wild 9, the title balances the Original PlayStation collection’s RPG and horror weight with platform action — evidence that the black-disc shelf was never only one genre’s history.",
+  "collectionNotes": "Acquired in August 2026 while completing the Original PlayStation shelf.\n\nThe retained copy is the North American PlayStation edition published by Sony Computer Entertainment America (SCUS-94907). It remains complete in box with manual and cover insert, and is kept as the reference copy for this filing.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Sony PlayStation; compatible North American PlayStation hardware",
+    "originalHardware": "Sony PlayStation · NTSC-U/C",
+    "compatibility": "Pressed for North American PlayStation consoles. The retained disc remains the primary access copy.",
+    "concerns": "Optical-disc aging and surface damage remain the principal risks. The disc is stored upright in its original case under stable, dry conditions; printed materials remain housed with the copy.",
+    "knownRevisions": "European PlayStation release published by Ocean in December 1997 (SLES-00598), preceding the North American Sony Computer Entertainment America edition of May 31, 1998 (SCUS-94907). A Japanese release followed in 1999 under Konami as ジャージ・デビルの大冒険 (SLPM-86075).",
+    "availability": "The original physical edition is out of print and circulates through the secondary market. No current digital edition replaces this North American reference copy."
+  },
+  "connections": {
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:45:00.000Z-jersey-devil",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0035."
+    },
+    {
+      "id": "curator-notes-2026-08-03T23:45:00.000Z-jersey-devil",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-2026-08-03T23:45:00.000Z-jersey-devil",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-03T23:45:00.000Z-jersey-devil",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-2026-08-03T23:45:00.000Z-jersey-devil",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Original PlayStation collection recorded."
+    },
+    {
+      "id": "published-2026-08-03T23:45:00.000Z-jersey-devil",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

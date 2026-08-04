@@ -1,0 +1,33 @@
+{
+  "slug": "battlestate-games",
+  "authorityId": "AUTH-0021",
+  "type": "developer",
+  "preferredName": "Battlestate Games",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "steam",
+    "pc"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:03:32.851Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:03:32.851Z-battlestate-games",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0021 — controlled identity for Battlestate Games."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-battlestate-games",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Battlestate Games — developer and publisher of the Steam edition of Escape from Tarkov held by this archive.",
+  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "elden-ring",
+  "authorityId": "AUTH-0034",
+  "type": "series",
+  "preferredName": "ELDEN RING",
+  "alternativeNames": [
+    "Elden Ring"
+  ],
+  "relatedAuthoritySlugs": [
+    "fromsoftware",
+    "bandai-namco-entertainment"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:03:32.851Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:03:32.851Z-elden-ring",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0034 — controlled identity for ELDEN RING."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-elden-ring",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "ELDEN RING — series identity for FromSoftware’s title and related expansions as retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z"
+}

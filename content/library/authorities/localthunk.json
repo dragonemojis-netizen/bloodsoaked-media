@@ -1,0 +1,32 @@
+{
+  "slug": "localthunk",
+  "authorityId": "AUTH-0022",
+  "type": "developer",
+  "preferredName": "LocalThunk",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "playstack"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:03:32.851Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:03:32.851Z-localthunk",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0022 — controlled identity for LocalThunk."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-localthunk",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "LocalThunk — developer of record for Balatro in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z"
+}

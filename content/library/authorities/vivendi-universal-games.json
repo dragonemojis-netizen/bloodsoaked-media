@@ -1,0 +1,36 @@
+{
+  "slug": "vivendi-universal-games",
+  "authorityId": "AUTH-0075",
+  "type": "publisher",
+  "preferredName": "Vivendi Universal Games",
+  "alternativeNames": [
+    "Vivendi Games",
+    "VU Games"
+  ],
+  "relatedAuthoritySlugs": [
+    "radical-entertainment",
+    "playstation-2"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-04T02:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-04T02:00:00.000Z-vivendi-universal-games",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0075 — controlled identity for Vivendi Universal Games."
+    },
+    {
+      "id": "editorial-revision-2026-08-04T02:00:00.000Z-vivendi-universal-games",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Vivendi Universal Games — publisher of record for The Simpsons: Hit & Run in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-04T02:00:00.000Z"
+}

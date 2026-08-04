@@ -1,0 +1,37 @@
+{
+  "slug": "persona",
+  "authorityId": "AUTH-0049",
+  "type": "series",
+  "preferredName": "Persona",
+  "alternativeNames": [
+    "Shin Megami Tensei: Persona"
+  ],
+  "relatedAuthoritySlugs": [
+    "atlus",
+    "sega"
+  ],
+  "relatedHoldingIds": [
+    "ig-17887505592560816"
+  ],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:12:28.097Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:12:28.097Z-persona",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0049 — controlled identity for Persona."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:12:28.097Z-persona",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Persona — series identity for ATLUS Persona titles retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:12:28.097Z"
+}

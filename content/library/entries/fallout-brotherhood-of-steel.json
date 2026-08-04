@@ -1,0 +1,107 @@
+{
+  "slug": "fallout-brotherhood-of-steel",
+  "title": "Fallout: Brotherhood of Steel",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2004,
+  "synopsis": "Interplay’s console Fallout action title for PlayStation 2 — retained as optical evidence of a contested branch of the series.",
+  "coverImage": "/images/library/fallout-brotherhood-of-steel/cover-official.jpg",
+  "filedAt": "2026-08-04T02:00:00.000Z",
+  "curatorialRevisionAt": "2026-08-04T02:00:00.000Z",
+  "shelfMark": "LIB-0038",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "interplay"
+    ],
+    "publishers": [
+      "interplay"
+    ],
+    "platforms": [
+      "playstation-2"
+    ],
+    "series": [
+      "fallout"
+    ]
+  },
+  "catalog": {
+    "release": "2004 (North America)",
+    "developer": "Interplay Entertainment",
+    "publisher": "Interplay Entertainment",
+    "platform": "PlayStation 2",
+    "region": "NTSC-U/C · North America · SLUS-20539",
+    "mediumForm": "Pressed optical disc · PlayStation 2 retail edition",
+    "subjects": [
+      "Action RPG",
+      "Fallout",
+      "Interplay",
+      "Console Branch",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Complete in box: case, pressed disc, manual, and original cover insert",
+    "condition": "Complete in box. Light shelf wear consistent with age. Preserved as a playable reference copy.",
+    "acquired": "Private acquisition · August 2026",
+    "filed": "August 4, 2026"
+  },
+  "curatorNotes": "Fallout: Brotherhood of Steel is the Interplay console outing many readers of the series treat as a detour — an action game that borrows the Brotherhood name and a slice of the setting while leaving the isometric CRPG structure behind. That contested status is exactly why the disc belongs on an archival shelf rather than only in argument.\n\nThe North American PlayStation 2 release (SLUS-20539) arrived in January 2004 from Interplay Entertainment. It shares the Fallout series authority with later Bethesda and Obsidian holdings without pretending those eras are continuous in authorship or design.\n\nThis filing records the optical object as issued. It is not a ranking against Fallout 3 or New Vegas, and it does not invent a rehabilitation. It keeps the branch so the name on other spines is not the only Fallout story the shelf can show.",
+  "collectionNotes": "Acquired in August 2026 while expanding the PlayStation 2 physical shelf.\n\nThe retained copy is the North American PlayStation 2 edition published by Interplay Entertainment (SLUS-20539). It remains complete in box with manual and cover insert, and is kept as the reference copy for this filing.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Sony PlayStation 2; compatible North American PlayStation hardware",
+    "originalHardware": "Sony PlayStation 2 · NTSC-U/C",
+    "compatibility": "Pressed for North American PlayStation 2 consoles. The retained disc remains the primary access copy.",
+    "concerns": "Optical-disc aging and surface damage remain the principal risks. The disc is stored upright in its original case under stable, dry conditions; printed materials remain housed with the copy.",
+    "knownRevisions": "North American PlayStation 2 and Xbox releases published by Interplay Entertainment in January 2004. The PlayStation 2 serial for this filing is SLUS-20539. No later official remaster replaces this optical edition.",
+    "availability": "The original physical edition is out of print and circulates through the secondary market. No current digital edition replaces this North American reference copy."
+  },
+  "connections": {
+    "series": "Fallout",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-04T02:00:00.000Z-fallout-brotherhood-of-steel",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0038."
+    },
+    {
+      "id": "curator-notes-2026-08-04T02:00:00.000Z-fallout-brotherhood-of-steel",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-2026-08-04T02:00:00.000Z-fallout-brotherhood-of-steel",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-04T02:00:00.000Z-fallout-brotherhood-of-steel",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-2026-08-04T02:00:00.000Z-fallout-brotherhood-of-steel",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Fallout series recorded."
+    },
+    {
+      "id": "published-2026-08-04T02:00:00.000Z-fallout-brotherhood-of-steel",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

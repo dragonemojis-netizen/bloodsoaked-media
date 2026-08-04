@@ -1,0 +1,102 @@
+{
+  "slug": "baroque",
+  "title": "Baroque",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2008,
+  "synopsis": "Sting’s dungeon-crawling remake on PlayStation 2 — retained as the North American Atlus retail disc.",
+  "coverImage": "/images/library/baroque/cover-official.jpg",
+  "filedAt": "2026-08-04T02:00:00.000Z",
+  "curatorialRevisionAt": "2026-08-04T02:00:00.000Z",
+  "shelfMark": "LIB-0041",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "sting"
+    ],
+    "publishers": [
+      "atlus"
+    ],
+    "platforms": [
+      "playstation-2"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "バロック",
+    "release": "2007 (Japan) · 2008 (North America)",
+    "developer": "Sting",
+    "publisher": "Atlus",
+    "platform": "PlayStation 2",
+    "region": "NTSC-U/C · North America · SLUS-21714",
+    "mediumForm": "Pressed optical disc · PlayStation 2 retail edition",
+    "subjects": [
+      "Action RPG",
+      "Dungeon Crawler",
+      "Sting",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Complete in box: case, pressed disc, manual, and original cover insert",
+    "condition": "Complete in box. Light shelf wear consistent with age. Preserved as a playable reference copy.",
+    "acquired": "Private acquisition · August 2026",
+    "filed": "August 4, 2026"
+  },
+  "curatorNotes": "Baroque reached North America as an Atlus localization of Sting’s PlayStation 2 remake — a tower descent through a ruined world that already had a late-1990s pedigree before this generation’s rebuild. The Japanese remake arrived in June 2007; Atlus published the NTSC-U edition (SLUS-21714) on April 8, 2008.\n\nThe shelf keeps the Atlus keep-case because that is how the work entered this region’s retail channel. Earlier Saturn and PlayStation versions are neighboring history; they are not invented here as stand-ins for the pressed PS2 copy in custody.\n\nThis filing widens the PlayStation 2 RPG holdings beyond Persona without forcing Baroque into another series map it does not need.",
+  "collectionNotes": "Acquired in August 2026 while expanding the PlayStation 2 physical shelf.\n\nThe retained copy is the North American PlayStation 2 edition published by Atlus (SLUS-21714). It remains complete in box with manual and cover insert, and is kept as the reference copy for this filing.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Sony PlayStation 2; compatible North American PlayStation hardware",
+    "originalHardware": "Sony PlayStation 2 · NTSC-U/C",
+    "compatibility": "Pressed for North American PlayStation 2 consoles. The retained disc remains the primary access copy.",
+    "concerns": "Optical-disc aging and surface damage remain the principal risks. The disc is stored upright in its original case under stable, dry conditions; printed materials remain housed with the copy.",
+    "knownRevisions": "PlayStation 2 remake first issued in Japan on June 28, 2007 (SLPM-66747). The North American Atlus localization followed on April 8, 2008 (SLUS-21714). A contemporary Wii edition and later reissues are neighboring objects and are not this filing.",
+    "availability": "The original physical edition is out of print and circulates through the secondary market. No current digital edition replaces this North American reference copy."
+  },
+  "connections": {
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-04T02:00:00.000Z-baroque",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0041."
+    },
+    {
+      "id": "curator-notes-2026-08-04T02:00:00.000Z-baroque",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-2026-08-04T02:00:00.000Z-baroque",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-04T02:00:00.000Z-baroque",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-2026-08-04T02:00:00.000Z-baroque",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "published-2026-08-04T02:00:00.000Z-baroque",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

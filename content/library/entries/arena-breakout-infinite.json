@@ -1,0 +1,152 @@
+{
+  "slug": "arena-breakout-infinite",
+  "title": "Arena Breakout: Infinite",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:09:57.461Z",
+  "shelfMark": "LIB-0024",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-2073620",
+    "reconciledAt": "2026-08-03T23:09:57.461Z"
+  },
+  "catalog": {
+    "release": "September 15, 2025",
+    "developer": "Morefun Studios",
+    "publisher": "Morefun Studios",
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "Digital Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · live-service free-to-play title without a physical shelf object",
+    "condition": "Held as a Steam entitlement under archive custody. Online services are required for play; no disc or boxed materials accompany this filing.",
+    "acquired": "Digital acquisition · August 2026",
+    "filed": "August 3, 2026"
+  },
+  "curatorNotes": "Space held for curator writing on Arena Breakout: Infinite as a free-to-play extraction holding.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam entitlement. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam, subject to the title’s online requirements",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Access depends on Steam custody and on Morefun Studios’ online services. That service layer is an additional constraint beyond ordinary digital-license risk.",
+    "concerns": "Account binding, storefront change, client aging, and online-service dependency. Free-to-play entitlements remain subject to publisher service decisions. No offline installer or physical fallback is held.",
+    "knownRevisions": "Steam release dated September 15, 2025. This accession records the licensed digital edition in custody.",
+    "availability": "Reachable through the archive Steam account while both the entitlement and the title’s required services remain available."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-2073620"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:09:57.461Z",
+      "at": "2026-08-03T23:09:57.461Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0024."
+    },
+    {
+      "id": "cover-artwork-2026-08-03T23:12:28.097Z-arena-breakout-infinite",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-03T23:12:28.097Z-arena-breakout-infinite",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-03T23:12:28.097Z-arena-breakout-infinite",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-03T23:12:28.097Z-arena-breakout-infinite",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:12:28.097Z-arena-breakout-infinite",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-03T23:12:28.097Z-arena-breakout-infinite",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 2073620,
+    "title": "Arena Breakout: Infinite",
+    "owned": true,
+    "playtimeMinutes": 127,
+    "playtime2Weeks": 127,
+    "playtimeWindowsMinutes": 127,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-07-27T20:11:02.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2073620/",
+    "lastSynced": "2026-08-03T22:52:55.577Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Morefun Studios"
+    ],
+    "publishers": [
+      "Morefun Studios"
+    ],
+    "releaseDate": "2025-09-15",
+    "releaseDateRaw": "Sep 15, 2025",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Strategy",
+      "Free To Play"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-03T23:12:28.097Z"
+  },
+  "year": 2025,
+  "synopsis": "Morefun Studios’ Arena Breakout: Infinite on Steam — an extraction shooter retained as a permanent digital holding.",
+  "coverImage": "/images/library/arena-breakout-infinite/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-03T23:12:28.097Z",
+  "authorities": {
+    "developers": [
+      "morefun-studios"
+    ],
+    "publishers": [
+      "morefun-studios"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

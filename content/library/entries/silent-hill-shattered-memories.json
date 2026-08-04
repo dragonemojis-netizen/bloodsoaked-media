@@ -1,0 +1,107 @@
+{
+  "slug": "silent-hill-shattered-memories",
+  "title": "Silent Hill: Shattered Memories",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2010,
+  "synopsis": "Climax Studios’ Wii-origin Silent Hill reimagining — retained in its later North American PlayStation 2 retail edition.",
+  "coverImage": "/images/library/silent-hill-shattered-memories/cover-official.jpg",
+  "filedAt": "2026-08-04T02:00:00.000Z",
+  "curatorialRevisionAt": "2026-08-04T02:00:00.000Z",
+  "shelfMark": "LIB-0040",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "climax-studios"
+    ],
+    "publishers": [
+      "konami"
+    ],
+    "platforms": [
+      "playstation-2"
+    ],
+    "series": [
+      "silent-hill"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "サイレントヒル シャッタードメモリーズ",
+    "release": "2009 (Wii) · 2010 (PlayStation 2, North America)",
+    "developer": "Climax Studios",
+    "publisher": "Konami",
+    "platform": "PlayStation 2",
+    "region": "NTSC-U/C · North America · SLUS-21899",
+    "mediumForm": "Pressed optical disc · PlayStation 2 retail edition",
+    "subjects": [
+      "Survival Horror",
+      "Silent Hill",
+      "Reimagining",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Complete in box: case, pressed disc, manual, and original cover insert",
+    "condition": "Complete in box. Light shelf wear consistent with age. Preserved as a playable reference copy.",
+    "acquired": "Private acquisition · August 2026",
+    "filed": "August 4, 2026"
+  },
+  "curatorNotes": "Silent Hill: Shattered Memories is not a Team Silent sequel in the ordinary numbered sense. Climax Studios rebuilt the first game’s premise for a later hardware moment — psychological profiling, iced environments, and a structure that argues with memory rather than fog alone. The Wii release came first; the North American PlayStation 2 edition (SLUS-21899) followed in January 2010.\n\nThe archive keeps the PS2 disc because that is the optical form held here, and because the series authority must be able to hold both Team Silent’s numbered entries and later licensed reimaginings without collapsing them into one studio story.\n\nThis filing sits beside Silent Hill, Silent Hill 2–4, and the rest of the Konami lineage as another concrete object — not as a substitute for the 1999 beginning, and not as a ranking against it.",
+  "collectionNotes": "Acquired in August 2026 while expanding the PlayStation 2 physical shelf.\n\nThe retained copy is the North American PlayStation 2 edition published by Konami (SLUS-21899). It remains complete in box with manual and cover insert, and is kept as the reference copy for this filing.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Sony PlayStation 2; compatible North American PlayStation hardware",
+    "originalHardware": "Sony PlayStation 2 · NTSC-U/C",
+    "compatibility": "Pressed for North American PlayStation 2 consoles. The retained disc remains the primary access copy for this edition.",
+    "concerns": "Optical-disc aging and surface damage remain the principal risks. The disc is stored upright in its original case under stable, dry conditions; printed materials remain housed with the copy.",
+    "knownRevisions": "First released for Wii in December 2009. The North American PlayStation 2 edition followed on January 19, 2010 (SLUS-21899), with contemporary PSP and later regional releases as neighboring editions.",
+    "availability": "The original physical edition is out of print and circulates through the secondary market. No current digital edition replaces this North American PlayStation 2 reference copy."
+  },
+  "connections": {
+    "series": "Silent Hill",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-04T02:00:00.000Z-silent-hill-shattered-memories",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0040."
+    },
+    {
+      "id": "curator-notes-2026-08-04T02:00:00.000Z-silent-hill-shattered-memories",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-2026-08-04T02:00:00.000Z-silent-hill-shattered-memories",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-04T02:00:00.000Z-silent-hill-shattered-memories",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-2026-08-04T02:00:00.000Z-silent-hill-shattered-memories",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Silent Hill series recorded."
+    },
+    {
+      "id": "published-2026-08-04T02:00:00.000Z-silent-hill-shattered-memories",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

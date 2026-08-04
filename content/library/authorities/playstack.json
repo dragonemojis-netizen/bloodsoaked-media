@@ -1,0 +1,32 @@
+{
+  "slug": "playstack",
+  "authorityId": "AUTH-0023",
+  "type": "publisher",
+  "preferredName": "Playstack",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "localthunk"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:03:32.851Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:03:32.851Z-playstack",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0023 — controlled identity for Playstack."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-playstack",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Playstack — publisher of record for Balatro as retained in digital custody.",
+  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z"
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "s-t-a-l-k-e-r-2-heart-of-chornobyl",
+  "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:10:16.155Z",
+  "shelfMark": "LIB-0026",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-1643320",
+    "reconciledAt": "2026-08-03T23:10:16.155Z"
+  },
+  "catalog": {
+    "release": "November 20, 2024",
+    "developer": "GSC Game World",
+    "publisher": "GSC Game World",
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Digital Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · GSC Game World build",
+    "condition": "Licensed Steam copy under archive custody. There is no case, disc, or insert to describe; condition is that of the account-bound edition alone.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 3, 2026"
+  },
+  "curatorNotes": "Space held for curator writing on S.T.A.L.K.E.R. 2: Heart of Chornobyl as the series’ contemporary digital accession.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography of a physical object does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Access depends on Steam account custody and continued storefront availability. The retained license is the archive’s primary access path.",
+    "concerns": "Account-bound digital holdings face platform dependency, storefront policy change, and client obsolescence. No physical disc or offline installer is held for this filing.",
+    "knownRevisions": "Steam release dated November 20, 2024. This accession records the licensed digital edition in custody.",
+    "availability": "Held as a permanent digital license on the archive Steam account. Continuity of access depends on that account and on Steam’s continued service for the title."
+  },
+  "connections": {
+    "series": "S.T.A.L.K.E.R.",
+    "collectionIds": [
+      "steam-1643320"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:10:16.155Z",
+      "at": "2026-08-03T23:10:16.155Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0026."
+    },
+    {
+      "id": "cover-artwork-2026-08-03T23:12:28.097Z-s-t-a-l-k-e-r-2-heart-of-chornobyl",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-03T23:12:28.097Z-s-t-a-l-k-e-r-2-heart-of-chornobyl",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-03T23:12:28.097Z-s-t-a-l-k-e-r-2-heart-of-chornobyl",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-03T23:12:28.097Z-s-t-a-l-k-e-r-2-heart-of-chornobyl",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:12:28.097Z-s-t-a-l-k-e-r-2-heart-of-chornobyl",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-03T23:12:28.097Z-s-t-a-l-k-e-r-2-heart-of-chornobyl",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 1643320,
+    "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "owned": true,
+    "playtimeMinutes": 10593,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 10593,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-02-20T02:17:24.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1643320/",
+    "lastSynced": "2026-08-03T22:52:55.577Z",
+    "source": "steam-web-api",
+    "developers": [
+      "GSC Game World"
+    ],
+    "publishers": [
+      "GSC Game World (worldwide)",
+      "SEGA (Japan)",
+      "4Divinity (China and South East Asia)"
+    ],
+    "releaseDate": "2024-11-20",
+    "releaseDateRaw": "Nov 20, 2024",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-03T23:12:28.097Z"
+  },
+  "year": 2024,
+  "synopsis": "GSC Game World’s S.T.A.L.K.E.R. 2: Heart of Chornobyl on Steam — retained as a permanent digital holding in the S.T.A.L.K.E.R. series.",
+  "coverImage": "/images/library/s-t-a-l-k-e-r-2-heart-of-chornobyl/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-03T23:12:28.097Z",
+  "authorities": {
+    "developers": [
+      "gsc-game-world"
+    ],
+    "publishers": [
+      "gsc-game-world"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "s-t-a-l-k-e-r"
+    ]
+  }
+}

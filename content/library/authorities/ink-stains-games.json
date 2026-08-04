@@ -1,0 +1,32 @@
+{
+  "slug": "ink-stains-games",
+  "authorityId": "AUTH-0039",
+  "type": "developer",
+  "preferredName": "Ink Stains Games",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "hypetrain-digital"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:12:28.097Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:12:28.097Z-ink-stains-games",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0039 — controlled identity for Ink Stains Games."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:12:28.097Z-ink-stains-games",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Ink Stains Games — developer of record for 12 is Better Than 6 in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:12:28.097Z"
+}

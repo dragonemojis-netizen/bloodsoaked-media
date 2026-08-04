@@ -1,0 +1,33 @@
+{
+  "slug": "warhorse-studios",
+  "authorityId": "AUTH-0029",
+  "type": "developer",
+  "preferredName": "Warhorse Studios",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "deep-silver",
+    "kingdom-come-deliverance"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:03:32.851Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:03:32.851Z-warhorse-studios",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0029 — controlled identity for Warhorse Studios."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-warhorse-studios",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Warhorse Studios — developer of record for Kingdom Come: Deliverance II on this shelf.",
+  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z"
+}

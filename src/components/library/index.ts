@@ -1,6 +1,7 @@
 export { LibraryHero } from "./LibraryHero";
 export { LibrarySearch } from "./LibrarySearch";
 export { LibraryFilterSidebar } from "./LibraryFilterSidebar";
+export { LibraryActiveFilters } from "./LibraryActiveFilters";
 export { LibraryEmpty } from "./LibraryEmpty";
 export { LibraryCard } from "./LibraryCard";
 export { LibraryMetadata } from "./LibraryMetadata";

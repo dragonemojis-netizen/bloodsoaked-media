@@ -1,0 +1,108 @@
+{
+  "slug": "parasite-eve-ii",
+  "title": "Parasite Eve II",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 1999,
+  "synopsis": "Square’s PlayStation sequel to Parasite Eve — a two-disc North American edition retained as the next point in that lineage on optical media.",
+  "coverImage": "/images/library/parasite-eve-ii/cover-official.jpg",
+  "filedAt": "2026-08-03T23:45:00.000Z",
+  "curatorialRevisionAt": "2026-08-03T23:45:00.000Z",
+  "shelfMark": "LIB-0032",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "square"
+    ],
+    "publishers": [
+      "square-electronic-arts"
+    ],
+    "platforms": [
+      "playstation"
+    ],
+    "series": [
+      "parasite-eve"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "パラサイト・イヴ2",
+    "release": "1999 (Japan) · 2000 (North America)",
+    "developer": "Square",
+    "publisher": "Square Electronic Arts",
+    "platform": "PlayStation",
+    "region": "NTSC-U/C · North America · SLUS-01042 / SLUS-01055",
+    "mediumForm": "Pressed optical disc · PlayStation retail edition · two discs",
+    "subjects": [
+      "Survival Horror",
+      "Action RPG",
+      "Parasite Eve",
+      "Sequel",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Complete in box: case, pressed discs, manual, and original cover insert",
+    "condition": "Complete in box. Light shelf wear consistent with age. Preserved as a playable reference copy of the two-disc North American edition.",
+    "acquired": "Private acquisition · August 2026",
+    "filed": "August 3, 2026"
+  },
+  "curatorNotes": "Parasite Eve II is the second Square PlayStation chapter in a line that began by fusing cinema, role-playing structure, and survival-horror pressure. Where the first game announced that mixture, the sequel records how Square carried Aya Brea forward on the same black-disc generation — two pressed discs, a revised combat cadence, and a North American release under Square Electronic Arts rather than under Sony’s first-party label.\n\nThe filing is kept so the Parasite Eve lineage on this shelf is not left as a single unfinished note. An archive that holds only the idea of the series, or only later digital reissues, would erase the physical form in which the sequel circulated here.\n\nThis copy is the North American two-disc retail object. It belongs with the Original PlayStation collection as evidence of Square’s late-nineties survival-horror RPG work on optical media, not as a ranking against the first game or against what followed under later company names.",
+  "collectionNotes": "Acquired in August 2026 while completing the first Original PlayStation shelf.\n\nThe retained copy is the North American PlayStation edition published by Square Electronic Arts (SLUS-01042 / SLUS-01055). It remains complete in box with both discs, manual, and cover insert, and is kept as the reference copy for this sequel filing.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Sony PlayStation; compatible North American PlayStation hardware",
+    "originalHardware": "Sony PlayStation · NTSC-U/C",
+    "compatibility": "Pressed for North American PlayStation consoles as a two-disc edition. Both retained discs remain required for complete access to this retail copy.",
+    "concerns": "Optical-disc aging and surface damage remain the principal risks, doubled across two pressed discs. The set is stored upright in its original case under stable, dry conditions; printed materials remain housed with the copy.",
+    "knownRevisions": "First issued in Japan on December 16, 1999 (SLPS-02480 / SLPS-02481). The North American localization followed in 2000 under Square Electronic Arts as Parasite Eve II (SLUS-01042 / SLUS-01055). European territories also received 2000 PlayStation releases.",
+    "availability": "The original physical edition is out of print and circulates through the secondary market. Later digital reissues on PlayStation Network do not replace this two-disc reference copy."
+  },
+  "connections": {
+    "series": "Parasite Eve",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:45:00.000Z-parasite-eve-ii",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0032."
+    },
+    {
+      "id": "curator-notes-2026-08-03T23:45:00.000Z-parasite-eve-ii",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-2026-08-03T23:45:00.000Z-parasite-eve-ii",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-03T23:45:00.000Z-parasite-eve-ii",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-2026-08-03T23:45:00.000Z-parasite-eve-ii",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Parasite Eve series recorded."
+    },
+    {
+      "id": "published-2026-08-03T23:45:00.000Z-parasite-eve-ii",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

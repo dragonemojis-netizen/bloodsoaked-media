@@ -6,17 +6,20 @@ import {
   LibraryHero,
   LibraryShelfContinuation,
 } from "@/components/library";
+import { LibraryActiveFilters } from "@/components/library/LibraryActiveFilters";
 import { LibraryCatalogLookupExtras } from "@/components/library/LibraryCatalogLookupExtras";
 import { libraryVoice } from "@/config/library-voice";
 import { searchAuthorityRecords } from "@/lib/authority";
 import { searchCatalogHoldings } from "@/lib/catalog-lookup";
 import {
   getLibraryCatalog,
+  getLibraryFilterTaxonomy,
+  libraryBrowseQueryHasFacets,
+  parseLibraryBrowseParamList,
+  type LibraryBrowsePlatform,
   type LibraryBrowseQuery,
-  type LibraryMediaType,
-  type LibraryStatus,
 } from "@/lib/library";
-import { LIBRARY_MEDIA_TYPES, LIBRARY_STATUSES } from "@/types/library";
+import { LIBRARY_BROWSE_PLATFORMS } from "@/types/library";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -26,35 +29,42 @@ export const metadata: Metadata = {
 
 interface LibraryPageProps {
   searchParams: Promise<{
-    q?: string;
-    mediaType?: string;
-    status?: string;
-    decade?: string;
-    tag?: string;
-    page?: string;
+    q?: string | string[];
+    platform?: string | string[];
+    genre?: string | string[];
+    page?: string | string[];
   }>;
+}
+
+function firstParam(value: string | string[] | undefined): string | undefined {
+  if (Array.isArray(value)) return value[0];
+  return value;
 }
 
 function parseBrowseQuery(
   params: Awaited<LibraryPageProps["searchParams"]>,
 ): LibraryBrowseQuery {
-  const mediaType = params.mediaType;
-  const status = params.status;
-  const pageRaw = params.page ? Number.parseInt(params.page, 10) : undefined;
+  const pageRaw = firstParam(params.page)
+    ? Number.parseInt(firstParam(params.page)!, 10)
+    : undefined;
+
+  const platforms = parseLibraryBrowseParamList(params.platform).filter(
+    (platform): platform is LibraryBrowsePlatform =>
+      (LIBRARY_BROWSE_PLATFORMS as readonly string[]).includes(platform),
+  );
+
+  const genreTaxonomy = getLibraryFilterTaxonomy().genres;
+  const genreByLower = new Map(
+    genreTaxonomy.map((genre) => [genre.value.toLowerCase(), genre.value]),
+  );
+  const genres = parseLibraryBrowseParamList(params.genre)
+    .map((genre) => genreByLower.get(genre.toLowerCase()) ?? genre)
+    .filter((genre, index, all) => all.indexOf(genre) === index);
 
   return {
-    q: params.q,
-    mediaType:
-      mediaType &&
-      (LIBRARY_MEDIA_TYPES as readonly string[]).includes(mediaType)
-        ? (mediaType as LibraryMediaType)
-        : undefined,
-    status:
-      status && (LIBRARY_STATUSES as readonly string[]).includes(status)
-        ? (status as LibraryStatus)
-        : undefined,
-    decade: params.decade,
-    tag: params.tag,
+    q: firstParam(params.q),
+    platforms: platforms.length > 0 ? platforms : undefined,
+    genres: genres.length > 0 ? genres : undefined,
     page:
       pageRaw != null && !Number.isNaN(pageRaw) && pageRaw > 0
         ? pageRaw
@@ -88,7 +98,11 @@ export default async function LibraryPage({ searchParams }: LibraryPageProps) {
             </div>
           }
         >
-          <LibraryBrowseShell>
+          <LibraryBrowseShell query={query}>
+            <LibraryActiveFilters
+              query={query}
+              matchCount={catalog.total}
+            />
             {catalog.isEmpty && !hasLookupExtras ? (
               <LibraryEmpty />
             ) : (
@@ -107,6 +121,7 @@ export default async function LibraryPage({ searchParams }: LibraryPageProps) {
                     <LibraryGrid
                       entries={catalog.entries}
                       total={catalog.total}
+                      showHeader={!libraryBrowseQueryHasFacets(query)}
                     />
                     <LibraryShelfContinuation catalog={catalog} query={query} />
                   </>

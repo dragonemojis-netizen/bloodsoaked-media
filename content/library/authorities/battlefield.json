@@ -1,0 +1,35 @@
+{
+  "slug": "battlefield",
+  "authorityId": "AUTH-0032",
+  "type": "series",
+  "preferredName": "Battlefield",
+  "alternativeNames": [
+    "Battlefield series"
+  ],
+  "relatedAuthoritySlugs": [
+    "battlefield-studios",
+    "electronic-arts"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:03:32.851Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:03:32.851Z-battlefield",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0032 — controlled identity for Battlefield."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-battlefield",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "The Battlefield series as retained in the Bloodsoaked Library — linking successive digital holdings published by Electronic Arts.",
+  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "gt-interactive",
+  "authorityId": "AUTH-0056",
+  "type": "publisher",
+  "preferredName": "GT Interactive",
+  "alternativeNames": [
+    "GT Interactive Software",
+    "GT Interactive Software Corp."
+  ],
+  "relatedAuthoritySlugs": [
+    "n-space",
+    "aardvark-software",
+    "duke-nukem"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:30:00.000Z-gt-interactive",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0056 — controlled identity for GT Interactive."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:30:00.000Z-gt-interactive",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "GT Interactive — publisher of record for Duke Nukem PlayStation holdings in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:30:00.000Z"
+}

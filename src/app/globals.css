@@ -1608,6 +1608,14 @@ a {
   transition: color var(--transition-vhs);
 }
 
+.library-active-filter-chip {
+  box-shadow: inset 0 1px 0 rgba(232, 228, 223, 0.02);
+}
+
+.library-active-filter-chip:hover {
+  background: color-mix(in srgb, var(--accent) 8%, var(--background-panel));
+}
+
 /* The empty wing — lit, held, waiting */
 .library-empty {
   position: relative;

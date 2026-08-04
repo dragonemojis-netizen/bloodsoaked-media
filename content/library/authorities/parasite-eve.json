@@ -1,0 +1,33 @@
+{
+  "slug": "parasite-eve",
+  "authorityId": "AUTH-0066",
+  "type": "series",
+  "preferredName": "Parasite Eve",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "square",
+    "square-electronic-arts"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:45:00.000Z-parasite-eve",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0066 — controlled identity for Parasite Eve."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:45:00.000Z-parasite-eve",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Parasite Eve — series identity for Parasite Eve titles retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:45:00.000Z"
+}

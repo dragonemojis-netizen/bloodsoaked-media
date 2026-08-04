@@ -3,18 +3,21 @@
   "authorityId": "AUTH-0012",
   "type": "series",
   "preferredName": "Fallout",
-  "alternativeNames": ["Fallout series"],
+  "alternativeNames": [
+    "Fallout series"
+  ],
   "description": "The Fallout series as retained in the Bloodsoaked Library — a controlled identity linking successive digital holdings across developers and editions.",
   "relatedAuthoritySlugs": [
     "bethesda-game-studios",
     "bethesda-softworks",
-    "obsidian-entertainment"
+    "obsidian-entertainment",
+    "interplay"
   ],
   "relatedHoldingIds": [],
   "externalReferences": [],
   "visibility": "published",
   "filedAt": "2026-07-26T05:00:00.000Z",
-  "curatorialRevisionAt": "2026-07-26T06:00:00.000Z",
+  "curatorialRevisionAt": "2026-08-04T02:00:00.000Z",
   "stewardshipHistory": [
     {
       "id": "filed-2026-07-26T05:00:00.000Z",

@@ -1,0 +1,33 @@
+{
+  "slug": "aardvark-software",
+  "authorityId": "AUTH-0057",
+  "type": "developer",
+  "preferredName": "Aardvark Software",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "gt-interactive",
+    "duke-nukem"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:30:00.000Z-aardvark-software",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0057 — controlled identity for Aardvark Software."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:30:00.000Z-aardvark-software",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Aardvark Software — developer of record for the PlayStation edition Duke Nukem: Total Meltdown in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:30:00.000Z"
+}

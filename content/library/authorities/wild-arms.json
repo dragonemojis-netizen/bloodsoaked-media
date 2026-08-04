@@ -1,0 +1,35 @@
+{
+  "slug": "wild-arms",
+  "authorityId": "AUTH-0068",
+  "type": "series",
+  "preferredName": "Wild Arms",
+  "alternativeNames": [
+    "Wild ARMs"
+  ],
+  "relatedAuthoritySlugs": [
+    "media-vision",
+    "sony-computer-entertainment-america"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:45:00.000Z-wild-arms",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0068 — controlled identity for Wild Arms."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:45:00.000Z-wild-arms",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Wild Arms — series identity for Wild Arms titles retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:45:00.000Z"
+}

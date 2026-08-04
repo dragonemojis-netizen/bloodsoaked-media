@@ -1,0 +1,34 @@
+{
+  "slug": "fictions",
+  "authorityId": "AUTH-0025",
+  "type": "publisher",
+  "preferredName": "Fictions",
+  "alternativeNames": [
+    "Fictions, Inc."
+  ],
+  "relatedAuthoritySlugs": [
+    "game-freak"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:03:32.851Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:03:32.851Z-fictions",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0025 — controlled identity for Fictions."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-fictions",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Fictions — publisher of record for Beast of Reincarnation in this archive’s Steam holding.",
+  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z"
+}

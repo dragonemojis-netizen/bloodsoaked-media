@@ -1,0 +1,36 @@
+{
+  "slug": "valve",
+  "authorityId": "AUTH-0016",
+  "type": "developer",
+  "preferredName": "Valve",
+  "alternativeNames": [
+    "Valve Corporation"
+  ],
+  "relatedAuthoritySlugs": [
+    "steam",
+    "pc",
+    "counter-strike"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:03:32.851Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:03:32.851Z-valve",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0016 — controlled identity for Valve."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-valve",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Valve — developer and publisher of record for Counter-Strike 2 in this archive’s digital holdings.",
+  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z"
+}

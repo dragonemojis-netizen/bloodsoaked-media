@@ -1,0 +1,35 @@
+{
+  "slug": "hound13",
+  "authorityId": "AUTH-0026",
+  "type": "developer",
+  "preferredName": "Hound13 Inc.",
+  "alternativeNames": [
+    "Hound13"
+  ],
+  "relatedAuthoritySlugs": [
+    "steam",
+    "pc"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:03:32.851Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:03:32.851Z-hound13",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0026 — controlled identity for Hound13 Inc.."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-hound13",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Hound13 Inc. — developer and publisher of DragonSword : Awakening as filed in the Library.",
+  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z"
+}

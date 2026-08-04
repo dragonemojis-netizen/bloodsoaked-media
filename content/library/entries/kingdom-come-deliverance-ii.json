@@ -1,0 +1,153 @@
+{
+  "slug": "kingdom-come-deliverance-ii",
+  "title": "Kingdom Come: Deliverance II",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-03T22:55:38.997Z",
+  "shelfMark": "LIB-0017",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-1771300",
+    "reconciledAt": "2026-08-03T22:55:38.997Z"
+  },
+  "catalog": {
+    "release": "February 4, 2025",
+    "developer": "Warhorse Studios",
+    "publisher": "Deep Silver",
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Digital Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Deep Silver build",
+    "condition": "Licensed Steam copy under archive custody. There is no case, disc, or insert to describe; condition is that of the account-bound edition alone.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 3, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Kingdom Come: Deliverance II as the sequel filing in this series.",
+  "collectionNotes": "Digital ownership confirmed via Steam. No physical edition, booklet, or insert is held. Official cover artwork has been entered from Steam library art.",
+  "preservation": {
+    "playableOn": "Archive Steam client on Windows PC",
+    "originalHardware": "PC · Steam",
+    "compatibility": "The retained path of access is the Steam license attached to the archive account.",
+    "concerns": "Primary risks are account-bound license loss, client obsolescence, and storefront withdrawal. No offline installer is retained.",
+    "knownRevisions": "Steam release dated February 4, 2025. This accession records the licensed digital edition in custody.",
+    "availability": "Held on the archive Steam account; access lasts only as long as that custody and Steam’s service for the title."
+  },
+  "connections": {
+    "series": "Kingdom Come: Deliverance",
+    "collectionIds": [
+      "steam-1771300"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T22:55:38.997Z",
+      "at": "2026-08-03T22:55:38.997Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0017."
+    },
+    {
+      "id": "cover-artwork-2026-08-03T23:03:32.851Z-kingdom-come-deliverance-ii",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-03T23:03:32.851Z-kingdom-come-deliverance-ii",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-03T23:03:32.851Z-kingdom-come-deliverance-ii",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-03T23:03:32.851Z-kingdom-come-deliverance-ii",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-kingdom-come-deliverance-ii",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-03T23:03:32.851Z-kingdom-come-deliverance-ii",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 1771300,
+    "title": "Kingdom Come: Deliverance II",
+    "owned": true,
+    "playtimeMinutes": 9486,
+    "playtime2Weeks": 669,
+    "playtimeWindowsMinutes": 9486,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-08-03T03:06:16.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1771300/",
+    "lastSynced": "2026-08-03T22:52:55.577Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Warhorse Studios"
+    ],
+    "publishers": [
+      "Deep Silver"
+    ],
+    "releaseDate": "2025-02-04",
+    "releaseDateRaw": "Feb 4, 2025",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-03T23:03:32.851Z"
+  },
+  "year": 2025,
+  "synopsis": "Warhorse Studios’ Kingdom Come: Deliverance II on Steam — the sequel chapter in the Kingdom Come: Deliverance series, retained in digital custody.",
+  "coverImage": "/images/library/kingdom-come-deliverance-ii/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z",
+  "authorities": {
+    "developers": [
+      "warhorse-studios"
+    ],
+    "publishers": [
+      "deep-silver"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "kingdom-come-deliverance"
+    ]
+  }
+}

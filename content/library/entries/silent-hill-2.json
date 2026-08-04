@@ -1,0 +1,108 @@
+{
+  "slug": "silent-hill-2",
+  "title": "Silent Hill 2",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2001,
+  "synopsis": "Team Silent’s second Silent Hill — retained as the original North American PlayStation 2 black-label disc, not a later Greatest Hits repress.",
+  "coverImage": "/images/library/silent-hill-2/cover-official-front.jpg",
+  "filedAt": "2026-08-04T02:00:00.000Z",
+  "curatorialRevisionAt": "2026-08-04T02:00:00.000Z",
+  "shelfMark": "LIB-0044",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "team-silent"
+    ],
+    "publishers": [
+      "konami"
+    ],
+    "platforms": [
+      "playstation-2"
+    ],
+    "series": [
+      "silent-hill"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "サイレントヒル2",
+    "release": "2001 (North America) · 2001 (Japan)",
+    "developer": "Team Silent",
+    "publisher": "Konami",
+    "platform": "PlayStation 2",
+    "region": "NTSC-U/C · North America · SLUS-20228",
+    "mediumForm": "Pressed optical disc · PlayStation 2 retail edition",
+    "subjects": [
+      "Survival Horror",
+      "Silent Hill",
+      "Team Silent",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Complete in box: case, pressed disc, manual, and original cover insert",
+    "condition": "Complete in box. Light shelf wear consistent with age. Preserved as a playable reference copy.",
+    "acquired": "Private acquisition · August 2026",
+    "filed": "August 4, 2026"
+  },
+  "curatorNotes": "Silent Hill 2 is the chapter that fixed James Sunderland, Lakeview Hotel, and a particular kind of guilt into the series’ permanent vocabulary. Team Silent’s North American PlayStation 2 release (SLUS-20228) arrived in September 2001 — days around the Japanese launch — and remains the edition this archive treats as the reference optical object.\n\nThe filing deliberately records the original black-label retail disc rather than the later Greatest Hits repress. Greatest Hits packaging and, in other regions, expanded “Born from a Wish” configurations are neighboring revisions; they are not substituted for the first North American keep-case held here.\n\nWith Silent Hill already filed on PlayStation, this disc is the PS2 hinge of the lineage — the work later remakes argue with, and the concrete object that keeps those arguments attached to a serial number.",
+  "collectionNotes": "Acquired in August 2026 while expanding the PlayStation 2 physical shelf.\n\nThe retained copy is the original North American PlayStation 2 black-label edition published by Konami (SLUS-20228), not a Greatest Hits repress. It remains complete in box with manual and cover insert, and is kept as the reference copy for this filing.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Sony PlayStation 2; compatible North American PlayStation hardware",
+    "originalHardware": "Sony PlayStation 2 · NTSC-U/C",
+    "compatibility": "Pressed for North American PlayStation 2 consoles. The retained disc remains the primary access copy.",
+    "concerns": "Optical-disc aging and surface damage remain the principal risks. The disc is stored upright in its original case under stable, dry conditions; printed materials remain housed with the copy.",
+    "knownRevisions": "North American PlayStation 2 release published by Konami on September 24, 2001 (SLUS-20228). Japanese release followed on September 27, 2001. European special sets and later Director’s Cut / Greatest Hits editions added or rearranged content and packaging; this filing records the original North American black-label retail edition.",
+    "availability": "The original physical edition is out of print and circulates through the secondary market. Later remakes and digital editions do not replace this North American reference copy."
+  },
+  "connections": {
+    "series": "Silent Hill",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-04T02:00:00.000Z-silent-hill-2",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0044."
+    },
+    {
+      "id": "curator-notes-2026-08-04T02:00:00.000Z-silent-hill-2",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-2026-08-04T02:00:00.000Z-silent-hill-2",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-04T02:00:00.000Z-silent-hill-2",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-2026-08-04T02:00:00.000Z-silent-hill-2",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Silent Hill series recorded."
+    },
+    {
+      "id": "published-2026-08-04T02:00:00.000Z-silent-hill-2",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

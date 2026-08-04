@@ -1,0 +1,36 @@
+{
+  "slug": "konami",
+  "authorityId": "AUTH-0060",
+  "type": "publisher",
+  "preferredName": "Konami",
+  "alternativeNames": [
+    "Konami of America",
+    "Konami Computer Entertainment"
+  ],
+  "relatedAuthoritySlugs": [
+    "team-silent",
+    "silent-hill"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:30:00.000Z-konami",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0060 — controlled identity for Konami."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:30:00.000Z-konami",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Konami — publisher of record for Silent Hill in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:30:00.000Z"
+}

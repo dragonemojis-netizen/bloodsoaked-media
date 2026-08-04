@@ -1,0 +1,149 @@
+{
+  "slug": "balatro",
+  "title": "Balatro",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-03T22:55:08.550Z",
+  "shelfMark": "LIB-0013",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-2379780",
+    "reconciledAt": "2026-08-03T22:55:08.550Z"
+  },
+  "catalog": {
+    "release": "February 20, 2024",
+    "developer": "LocalThunk",
+    "publisher": "Playstack",
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "subjects": [
+      "Casual",
+      "Indie",
+      "Strategy",
+      "Digital Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Playstack build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · August 2026",
+    "filed": "August 3, 2026"
+  },
+  "curatorNotes": "Space held for curator writing on Balatro as a digital indie holding.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows or macOS through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title.",
+    "concerns": "As with other account-bound Steam holdings: platform dependency, policy change, and the absence of a retained offline installer.",
+    "knownRevisions": "Steam release dated February 20, 2024. The filing documents the licensed digital copy in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-2379780"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T22:55:08.550Z",
+      "at": "2026-08-03T22:55:08.550Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0013."
+    },
+    {
+      "id": "cover-artwork-2026-08-03T23:03:32.851Z-balatro",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-03T23:03:32.851Z-balatro",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-03T23:03:32.851Z-balatro",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-03T23:03:32.851Z-balatro",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-balatro",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-03T23:03:32.851Z-balatro",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 2379780,
+    "title": "Balatro",
+    "owned": true,
+    "playtimeMinutes": 245,
+    "playtime2Weeks": 245,
+    "playtimeWindowsMinutes": 245,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-07-29T02:47:56.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2379780/",
+    "lastSynced": "2026-08-03T22:52:55.577Z",
+    "source": "steam-web-api",
+    "developers": [
+      "LocalThunk"
+    ],
+    "publishers": [
+      "Playstack"
+    ],
+    "releaseDate": "2024-02-20",
+    "releaseDateRaw": "Feb 20, 2024",
+    "comingSoon": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-03T23:03:32.851Z"
+  },
+  "year": 2024,
+  "synopsis": "LocalThunk’s Balatro on Steam — a deck-building holding retained in permanent digital custody.",
+  "coverImage": "/images/library/balatro/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z",
+  "authorities": {
+    "developers": [
+      "localthunk"
+    ],
+    "publishers": [
+      "playstack"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

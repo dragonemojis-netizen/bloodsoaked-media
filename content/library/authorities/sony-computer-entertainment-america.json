@@ -1,0 +1,39 @@
+{
+  "slug": "sony-computer-entertainment-america",
+  "authorityId": "AUTH-0054",
+  "type": "publisher",
+  "preferredName": "Sony Computer Entertainment America",
+  "alternativeNames": [
+    "SCEA",
+    "Sony Computer Entertainment of America"
+  ],
+  "relatedAuthoritySlugs": [
+    "playstation",
+    "camelot-software-planning",
+    "media-vision",
+    "wild-arms",
+    "behaviour-interactive"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:30:00.000Z-sony-computer-entertainment-america",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0054 — controlled identity for Sony Computer Entertainment America."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:30:00.000Z-sony-computer-entertainment-america",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Sony Computer Entertainment America — publisher of record for Beyond the Beyond in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:30:00.000Z"
+}

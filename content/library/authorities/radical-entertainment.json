@@ -1,0 +1,35 @@
+{
+  "slug": "radical-entertainment",
+  "authorityId": "AUTH-0074",
+  "type": "developer",
+  "preferredName": "Radical Entertainment",
+  "alternativeNames": [
+    "Radical"
+  ],
+  "relatedAuthoritySlugs": [
+    "vivendi-universal-games",
+    "playstation-2"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-04T02:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-04T02:00:00.000Z-radical-entertainment",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0074 — controlled identity for Radical Entertainment."
+    },
+    {
+      "id": "editorial-revision-2026-08-04T02:00:00.000Z-radical-entertainment",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Radical Entertainment — developer of record for The Simpsons: Hit & Run in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-04T02:00:00.000Z"
+}

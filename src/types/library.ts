@@ -65,13 +65,29 @@ export interface LibraryAccession {
   reconciledAt?: string;
 }
 
-/** Stable filter facets for the browse sidebar (UI-ready; filtering wired later). */
-export const LIBRARY_FILTER_FACETS = [
-  "mediaType",
-  "status",
-  "decade",
-  "tag",
+/**
+ * Curated browse platforms — fixed taxonomy for Catalog Facets.
+ * Do not infer values beyond this list.
+ */
+export const LIBRARY_BROWSE_PLATFORMS = [
+  "Steam",
+  "PlayStation",
+  "PlayStation 2",
+  "PlayStation 3",
+  "PlayStation 4",
+  "PlayStation 5",
+  "PlayStation Vita",
+  "PlayStation Portable",
+  "Nintendo Switch",
+  "Nintendo Switch 2",
+  "Xbox",
+  "Xbox 360",
 ] as const;
+
+export type LibraryBrowsePlatform = (typeof LIBRARY_BROWSE_PLATFORMS)[number];
+
+/** Active Catalog Facets on the Library shelves. */
+export const LIBRARY_FILTER_FACETS = ["platform", "genre"] as const;
 
 export type LibraryFilterFacet = (typeof LIBRARY_FILTER_FACETS)[number];
 
@@ -387,10 +403,10 @@ export interface LibraryCatalog {
 /** Browse query shape — wired from /library searchParams. */
 export interface LibraryBrowseQuery {
   q?: string;
-  mediaType?: LibraryMediaType;
-  status?: LibraryStatus;
-  decade?: string;
-  tag?: string;
+  /** Curated platform facets — OR within, AND with other dimensions. */
+  platforms?: LibraryBrowsePlatform[];
+  /** Genre facets from catalog subjects — OR within, AND with other dimensions. */
+  genres?: string[];
   /** 1-based shelf page. Omitted or invalid values resolve to page 1. */
   page?: number;
 }

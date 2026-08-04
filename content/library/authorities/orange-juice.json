@@ -1,0 +1,35 @@
+{
+  "slug": "orange-juice",
+  "authorityId": "AUTH-0036",
+  "type": "developer",
+  "preferredName": "Orange_Juice",
+  "alternativeNames": [
+    "Orange Juice"
+  ],
+  "relatedAuthoritySlugs": [
+    "fruitbat-factory",
+    "orange-juice-franchise"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:12:28.097Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:12:28.097Z-orange-juice",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0036 — controlled identity for Orange_Juice."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:12:28.097Z-orange-juice",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Orange_Juice — developer of record for 100% Orange Juice in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:12:28.097Z"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "n-space",
+  "authorityId": "AUTH-0055",
+  "type": "developer",
+  "preferredName": "n-Space",
+  "alternativeNames": [
+    "n-Space, Inc.",
+    "N-Space"
+  ],
+  "relatedAuthoritySlugs": [
+    "gt-interactive",
+    "duke-nukem"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:30:00.000Z-n-space",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0055 — controlled identity for n-Space."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:30:00.000Z-n-space",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "n-Space — developer of record for Duke Nukem: Time to Kill in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:30:00.000Z"
+}

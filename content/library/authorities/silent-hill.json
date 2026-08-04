@@ -1,0 +1,33 @@
+{
+  "slug": "silent-hill",
+  "authorityId": "AUTH-0061",
+  "type": "series",
+  "preferredName": "Silent Hill",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "team-silent",
+    "konami"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:30:00.000Z-silent-hill",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0061 — controlled identity for Silent Hill."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:30:00.000Z-silent-hill",
+      "at": "2026-08-03T23:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Silent Hill — series identity for Silent Hill titles retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:30:00.000Z"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "battlefield-studios",
+  "authorityId": "AUTH-0019",
+  "type": "studio",
+  "preferredName": "Battlefield Studios",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "electronic-arts",
+    "battlefield"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:03:32.851Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:03:32.851Z-battlefield-studios",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0019 — controlled identity for Battlefield Studios."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:03:32.851Z-battlefield-studios",
+      "at": "2026-08-03T23:03:32.851Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Battlefield Studios — studio identity used by the archive for Battlefield 6 on this shelf.",
+  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z"
+}

@@ -1,0 +1,147 @@
+{
+  "slug": "ad-infinitum",
+  "title": "Ad Infinitum",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:09:52.060Z",
+  "shelfMark": "LIB-0023",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-1234430",
+    "reconciledAt": "2026-08-03T23:09:52.060Z"
+  },
+  "catalog": {
+    "release": "September 14, 2023",
+    "developer": "Hekate",
+    "publisher": "Nacon",
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "Digital Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Nacon build",
+    "condition": "Held solely as a Steam license. No disc or boxed materials accompany this filing.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 3, 2026"
+  },
+  "curatorNotes": "Space held for curator writing on Ad Infinitum as a digital horror accession.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license for Ad Infinitum. Official cover artwork is on file from Steam library art; collection photography of a physical object does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under the archive account",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Access depends on Steam account custody and continued storefront availability.",
+    "concerns": "Account-bound digital holdings face platform dependency, storefront policy change, and client obsolescence. No physical disc or offline installer is held.",
+    "knownRevisions": "Steam release dated September 14, 2023. This accession records the licensed digital edition in custody.",
+    "availability": "Reachable through the archive Steam account while the license and Steam’s service for the title remain available."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-1234430"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:09:52.060Z",
+      "at": "2026-08-03T23:09:52.060Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0023."
+    },
+    {
+      "id": "cover-artwork-2026-08-03T23:12:28.097Z-ad-infinitum",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-03T23:12:28.097Z-ad-infinitum",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-03T23:12:28.097Z-ad-infinitum",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-03T23:12:28.097Z-ad-infinitum",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:12:28.097Z-ad-infinitum",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-03T23:12:28.097Z-ad-infinitum",
+      "at": "2026-08-03T23:12:28.097Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 1234430,
+    "title": "Ad Infinitum",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/1234430/",
+    "lastSynced": "2026-08-03T22:52:55.577Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Hekate"
+    ],
+    "publishers": [
+      "Nacon"
+    ],
+    "releaseDate": "2023-09-14",
+    "releaseDateRaw": "Sep 14, 2023",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-03T23:12:28.097Z"
+  },
+  "year": 2023,
+  "synopsis": "Hekate’s Ad Infinitum on Steam — a psychological horror holding kept in permanent digital custody.",
+  "coverImage": "/images/library/ad-infinitum/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-03T23:12:28.097Z",
+  "authorities": {
+    "developers": [
+      "hekate"
+    ],
+    "publishers": [
+      "nacon"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

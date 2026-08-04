@@ -1,0 +1,36 @@
+{
+  "slug": "climax-studios",
+  "authorityId": "AUTH-0076",
+  "type": "developer",
+  "preferredName": "Climax Studios",
+  "alternativeNames": [
+    "Climax"
+  ],
+  "relatedAuthoritySlugs": [
+    "konami",
+    "silent-hill",
+    "playstation-2"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-04T02:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-04T02:00:00.000Z-climax-studios",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0076 — controlled identity for Climax Studios."
+    },
+    {
+      "id": "editorial-revision-2026-08-04T02:00:00.000Z-climax-studios",
+      "at": "2026-08-04T02:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Climax Studios — developer of record for Silent Hill: Shattered Memories in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-04T02:00:00.000Z"
+}

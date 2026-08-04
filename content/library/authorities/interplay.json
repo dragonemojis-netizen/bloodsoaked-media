@@ -1,0 +1,36 @@
+{
+  "slug": "interplay",
+  "authorityId": "AUTH-0070",
+  "type": "publisher",
+  "preferredName": "Interplay",
+  "alternativeNames": [
+    "Interplay Productions",
+    "Interplay Entertainment",
+    "Interplay Entertainment Corp."
+  ],
+  "relatedAuthoritySlugs": [
+    "shiny-entertainment"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-03T23:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-03T23:45:00.000Z-interplay",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0070 — controlled identity for Interplay."
+    },
+    {
+      "id": "editorial-revision-2026-08-03T23:45:00.000Z-interplay",
+      "at": "2026-08-03T23:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Interplay — publisher of record for Wild 9 in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-03T23:45:00.000Z"
+}
