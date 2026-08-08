@@ -1,0 +1,152 @@
+{
+  "slug": "gears-of-war-e-day",
+  "title": "Gears of War: E-Day",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T17:40:43.204Z",
+  "shelfMark": "LIB-0048",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-3010850",
+    "reconciledAt": "2026-08-08T17:40:43.204Z"
+  },
+  "catalog": {
+    "release": "October 6, 2026 (announced · not yet released)",
+    "developer": "The Coalition",
+    "publisher": "Xbox Game Studios",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "Third-Person Shooter",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Xbox Game Studios build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · August 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Gears of War: E-Day once the Steam edition ships and can be assessed as a playable accession.",
+  "collectionNotes": "Digital ownership confirmed via Steam ahead of the announced release. No physical edition is held. Official cover artwork has been entered from Steam library art.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody once the title is released to the account library",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Pre-release custody depends on Steam account ownership and the publisher’s eventual unlock of the licensed build.",
+    "concerns": "Unreleased digital holdings carry schedule risk in addition to ordinary account-bound platform dependency. No offline installer is held.",
+    "knownRevisions": "Steam storefront lists October 6, 2026 as the announced release date and marks the title coming soon. This accession records the licensed pre-release digital holding in custody; playability begins when Steam delivers the released build.",
+    "availability": "Held on the archive Steam account; access lasts only as long as that custody and Steam’s service for the title."
+  },
+  "connections": {
+    "series": "Gears of War",
+    "collectionIds": [
+      "steam-3010850"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T17:40:43.204Z",
+      "at": "2026-08-08T17:40:43.204Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0048."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:00:00.000Z-gears-of-war-e-day",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam storefront / library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:00:00.000Z-gears-of-war-e-day",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:00:00.000Z-gears-of-war-e-day",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:00:00.000Z-gears-of-war-e-day",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:00:00.000Z-gears-of-war-e-day",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:00:00.000Z-gears-of-war-e-day",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 3010850,
+    "title": "Gears of War: E-Day",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/3010850/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "The Coalition"
+    ],
+    "publishers": [
+      "Xbox Game Studios"
+    ],
+    "releaseDate": "2026-10-06",
+    "releaseDateRaw": "Oct 6, 2026",
+    "comingSoon": true,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:00:00.000Z"
+  },
+  "year": 2026,
+  "synopsis": "The Coalition’s Gears of War: E-Day on Steam — a pre-release digital holding retained under the archive Steam account within the Gears of War series.",
+  "coverImage": "/images/library/gears-of-war-e-day/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:00:00.000Z",
+  "authorities": {
+    "developers": [
+      "the-coalition"
+    ],
+    "publishers": [
+      "xbox-game-studios"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "gears-of-war"
+    ]
+  }
+}

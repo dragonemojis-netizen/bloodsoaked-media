@@ -1,0 +1,35 @@
+{
+  "slug": "monolith-productions",
+  "authorityId": "AUTH-0113",
+  "type": "developer",
+  "preferredName": "Monolith Productions",
+  "alternativeNames": [
+    "Monolith Productions, Inc."
+  ],
+  "relatedAuthoritySlugs": [
+    "warner-bros-games",
+    "f-e-a-r"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:20:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:20:00.000Z-monolith-productions",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0113 — controlled identity for Monolith Productions."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:20:00.000Z-monolith-productions",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Monolith Productions — developer of record for F.E.A.R. in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:20:00.000Z"
+}

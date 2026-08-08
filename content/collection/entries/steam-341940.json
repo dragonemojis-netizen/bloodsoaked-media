@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 341940,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 341940,
@@ -22,7 +22,41 @@
     "playtimeLinuxMinutes": 28,
     "lastPlayedAt": "2023-07-19T21:21:59.000Z",
     "storeUrl": "https://store.steampowered.com/app/341940/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Destructive Creations"
+    ],
+    "publishers": [
+      "Destructive Creations"
+    ],
+    "releaseDate": "2015-06-01",
+    "releaseDateRaw": "Jun 1, 2015",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": true
+    },
+    "shortDescription": "Hatred is a violent twin-stick shooter, in which you take the role of The Antagonist fighting against all of humanity.",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/341940/header.jpg",
+      "capsule": "/images/collection/steam/341940/capsule.jpg",
+      "hero": "/images/collection/steam/341940/hero.jpg"
+    }
   }
 }

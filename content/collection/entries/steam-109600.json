@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 109600,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 109600,
@@ -22,7 +22,46 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2017-09-20T20:36:24.000Z",
     "storeUrl": "https://store.steampowered.com/app/109600/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Cryptic Studios"
+    ],
+    "publishers": [
+      "Arc Games"
+    ],
+    "releaseDate": "2013-12-05",
+    "releaseDateRaw": "Dec 5, 2013",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Trading Cards",
+      "In-App Purchases"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Neverwinter is a free, action MMORPG based on the acclaimed Dungeons &amp; Dragons fantasy roleplaying game. Epic stories, action combat and classic roleplaying await those heroes courageous enough to enter the fantastic world of Neverwinter!",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/109600/header.jpg",
+      "capsule": "/images/collection/steam/109600/capsule.jpg",
+      "hero": "/images/collection/steam/109600/hero.jpg"
+    }
   }
 }

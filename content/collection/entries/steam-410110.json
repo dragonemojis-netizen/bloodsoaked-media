@@ -3,13 +3,13 @@
   "origin": "steam",
   "title": "12 is Better Than 6",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
     "platform": "steam",
     "steamAppId": 410110,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 410110,
@@ -22,7 +22,31 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/410110/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Ink Stains Games"
+    ],
+    "publishers": [
+      "HypeTrain Digital"
+    ],
+    "releaseDate": "2015-11-20",
+    "releaseDateRaw": "Nov 20, 2015",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "metadataSyncedAt": "2026-08-03T23:12:28.097Z"
+  },
+  "filing": {
+    "librarySlug": "12-is-better-than-6",
+    "shelfMark": "LIB-0020",
+    "filedAt": "2026-08-03T23:09:42.721Z"
   }
 }

@@ -3,13 +3,13 @@
   "origin": "steam",
   "title": "Gothic 1 Remake",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
     "platform": "steam",
     "steamAppId": 1297900,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 1297900,
@@ -22,7 +22,12 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2026-06-12T04:36:07.000Z",
     "storeUrl": "https://store.steampowered.com/app/1297900/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api"
+  },
+  "filing": {
+    "librarySlug": "gothic-1-remake",
+    "shelfMark": "LIB-0073",
+    "filedAt": "2026-08-08T17:59:46.881Z"
   }
 }

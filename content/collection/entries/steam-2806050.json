@@ -9,20 +9,20 @@
   "source": {
     "platform": "steam",
     "steamAppId": 2806050,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 2806050,
     "title": "Halo: Campaign Evolved",
     "owned": true,
     "playtimeMinutes": 615,
-    "playtime2Weeks": 615,
+    "playtime2Weeks": 161,
     "playtimeWindowsMinutes": 615,
     "playtimeMacMinutes": 0,
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2026-07-26T00:09:06.000Z",
     "storeUrl": "https://store.steampowered.com/app/2806050/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api"
   }
 }

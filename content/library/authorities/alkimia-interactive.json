@@ -1,0 +1,33 @@
+{
+  "slug": "alkimia-interactive",
+  "authorityId": "AUTH-0125",
+  "type": "developer",
+  "preferredName": "Alkimia Interactive",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "thq-nordic",
+    "gothic"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:20:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:20:00.000Z-alkimia-interactive",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0125 — controlled identity for Alkimia Interactive."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:20:00.000Z-alkimia-interactive",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Alkimia Interactive — developer of record for Gothic 1 Remake in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:20:00.000Z"
+}

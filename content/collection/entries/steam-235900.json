@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 235900,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 235900,
@@ -22,7 +22,38 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/235900/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Gotcha Gotcha Games",
+      "KADOKAWA",
+      "Yoji Ojima"
+    ],
+    "publishers": [
+      "Gotcha Gotcha Games"
+    ],
+    "releaseDate": "2013-12-13",
+    "releaseDateRaw": "Dec 13, 2013",
+    "comingSoon": false,
+    "genres": [
+      "RPG",
+      "Design & Illustration",
+      "Education",
+      "Web Publishing",
+      "Game Development"
+    ],
+    "categories": [
+      "Single-player"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "RPG MAKER lets you create an original role-playing game without any prior specialized knowledge or training. RPG MAKER XP is full of the functions you've been asking for, including game data encryption and a scripting feature that lets you change the very heart of the RPG MAKER engine.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/235900/header.jpg"
+    }
   }
 }

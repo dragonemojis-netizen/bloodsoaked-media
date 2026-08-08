@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 208090,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 208090,
@@ -22,7 +22,40 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2015-03-12T03:19:16.000Z",
     "storeUrl": "https://store.steampowered.com/app/208090/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Edge of Reality"
+    ],
+    "publishers": [
+      "Edge of Reality"
+    ],
+    "releaseDate": "2014-01-31",
+    "releaseDateRaw": "Jan 31, 2014",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Indie"
+    ],
+    "categories": [
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Loadout is an outrageous new multi-player shooter that’s all about the guns, baby! Build a massive variety of absolutely insane weaponry - billions of combinations - totally customized, totally unique, and totally deadly.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/208090/header.jpg"
+    }
   }
 }

@@ -3,26 +3,51 @@
   "origin": "steam",
   "title": "Kingdom Come: Deliverance II",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
     "platform": "steam",
     "steamAppId": 1771300,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 1771300,
     "title": "Kingdom Come: Deliverance II",
     "owned": true,
-    "playtimeMinutes": 8816,
-    "playtime2Weeks": null,
-    "playtimeWindowsMinutes": 8816,
+    "playtimeMinutes": 9508,
+    "playtime2Weeks": 692,
+    "playtimeWindowsMinutes": 9508,
     "playtimeMacMinutes": 0,
     "playtimeLinuxMinutes": 0,
-    "lastPlayedAt": "2026-04-08T23:29:08.000Z",
+    "lastPlayedAt": "2026-08-04T18:54:04.000Z",
     "storeUrl": "https://store.steampowered.com/app/1771300/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Warhorse Studios"
+    ],
+    "publishers": [
+      "Deep Silver"
+    ],
+    "releaseDate": "2025-02-04",
+    "releaseDateRaw": "Feb 4, 2025",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-03T23:03:32.851Z"
+  },
+  "filing": {
+    "librarySlug": "kingdom-come-deliverance-ii",
+    "shelfMark": "LIB-0017",
+    "filedAt": "2026-08-03T22:55:38.997Z"
   }
 }

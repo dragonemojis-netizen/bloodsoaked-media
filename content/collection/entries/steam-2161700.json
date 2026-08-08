@@ -3,13 +3,13 @@
   "origin": "steam",
   "title": "Persona 3 Reload",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
     "platform": "steam",
     "steamAppId": 2161700,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 2161700,
@@ -22,7 +22,32 @@
     "playtimeLinuxMinutes": 385,
     "lastPlayedAt": "2025-07-27T22:03:58.000Z",
     "storeUrl": "https://store.steampowered.com/app/2161700/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "ATLUS"
+    ],
+    "publishers": [
+      "SEGA"
+    ],
+    "releaseDate": "2024-02-01",
+    "releaseDateRaw": "Feb 1, 2024",
+    "comingSoon": false,
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-03T23:12:28.097Z"
+  },
+  "filing": {
+    "librarySlug": "persona-3-reload",
+    "shelfMark": "LIB-0025",
+    "filedAt": "2026-08-03T23:10:11.795Z"
   }
 }

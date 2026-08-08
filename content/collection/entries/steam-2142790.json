@@ -1,0 +1,33 @@
+{
+  "id": "steam-2142790",
+  "origin": "steam",
+  "title": "Fields of Mistria",
+  "eventType": "acquisition",
+  "status": "Filed",
+  "catalogued": "2026-08-08T17:35:45.984Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 2142790,
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
+  },
+  "steam": {
+    "appId": 2142790,
+    "title": "Fields of Mistria",
+    "owned": true,
+    "playtimeMinutes": 318,
+    "playtime2Weeks": 318,
+    "playtimeWindowsMinutes": 318,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-08-08T16:23:09.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2142790/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api"
+  },
+  "filing": {
+    "librarySlug": "fields-of-mistria",
+    "shelfMark": "LIB-0047",
+    "filedAt": "2026-08-08T17:40:37.610Z"
+  }
+}

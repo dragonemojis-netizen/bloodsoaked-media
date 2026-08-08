@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 232090,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 232090,
@@ -22,7 +22,49 @@
     "playtimeLinuxMinutes": 114,
     "lastPlayedAt": "2022-11-15T18:07:05.000Z",
     "storeUrl": "https://store.steampowered.com/app/232090/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Tripwire Interactive"
+    ],
+    "publishers": [
+      "Tripwire Interactive"
+    ],
+    "releaseDate": "2016-11-18",
+    "releaseDateRaw": "Nov 18, 2016",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Valve Anti-Cheat enabled",
+      "Includes level editor",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "In KILLING FLOOR 2, players descend into continental Europe after it has been overrun by horrific, murderous clones called Zeds that were created by rogue elements of the Horzine Corporation. 6-player Co-Op &amp; 12-player VS Zed-slaughtering mayhem.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/232090/header.jpg",
+      "capsule": "/images/collection/steam/232090/capsule.jpg",
+      "hero": "/images/collection/steam/232090/hero.jpg"
+    }
   }
 }

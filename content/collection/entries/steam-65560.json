@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 65560,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 65560,
@@ -22,7 +22,35 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/65560/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Eggtooth Team"
+    ],
+    "publishers": [
+      "Prime Matter"
+    ],
+    "releaseDate": "2011-02-25",
+    "releaseDateRaw": "Feb 25, 2011",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Welcome to a world of pain. Heaven is once again in danger and threatened by a reckless army of hell spawn monsters - and they will stop at nothing.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/65560/header.jpg",
+      "capsule": "/images/collection/steam/65560/capsule.jpg",
+      "hero": "/images/collection/steam/65560/hero.jpg"
+    }
   }
 }

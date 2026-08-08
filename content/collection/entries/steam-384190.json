@@ -3,13 +3,13 @@
   "origin": "steam",
   "title": "ABZÛ",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
     "platform": "steam",
     "steamAppId": 384190,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 384190,
@@ -22,7 +22,33 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/384190/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Giant Squid"
+    ],
+    "publishers": [
+      "505 Games"
+    ],
+    "releaseDate": "2016-08-02",
+    "releaseDateRaw": "Aug 2, 2016",
+    "comingSoon": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-03T23:12:28.097Z"
+  },
+  "filing": {
+    "librarySlug": "abzu",
+    "shelfMark": "LIB-0022",
+    "filedAt": "2026-08-03T23:09:49.411Z"
   }
 }

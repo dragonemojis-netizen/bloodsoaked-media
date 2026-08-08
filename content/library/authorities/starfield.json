@@ -1,0 +1,33 @@
+{
+  "slug": "starfield",
+  "authorityId": "AUTH-0110",
+  "type": "series",
+  "preferredName": "Starfield",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "bethesda-game-studios",
+    "bethesda-softworks"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:10:00.000Z-starfield",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0110 — controlled identity for Starfield."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:10:00.000Z-starfield",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Starfield — series identity for Bethesda Game Studios’ Starfield holdings in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:10:00.000Z"
+}

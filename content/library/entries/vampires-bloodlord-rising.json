@@ -1,0 +1,151 @@
+{
+  "slug": "vampires-bloodlord-rising",
+  "title": "Vampires: Bloodlord Rising",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T17:59:27.620Z",
+  "shelfMark": "LIB-0069",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-2191500",
+    "reconciledAt": "2026-08-08T17:59:27.620Z"
+  },
+  "catalog": {
+    "release": "January 30, 2026",
+    "developer": "Mehuman Games",
+    "publisher": "Toplitz Productions",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Simulation",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Toplitz Productions build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Vampires: Bloodlord Rising once the Early Access edition stabilizes toward a fuller critical record.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title.",
+    "concerns": "Early Access holdings carry additional revision risk as builds change in place. Account-bound licensing and the absence of a retained offline installer remain principal concerns.",
+    "knownRevisions": "Entered Steam Early Access on January 30, 2026. This accession records the licensed Early Access digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-2191500"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T17:59:27.620Z",
+      "at": "2026-08-08T17:59:27.620Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0069."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:20:00.000Z-vampires-bloodlord-rising",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:20:00.000Z-vampires-bloodlord-rising",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:20:00.000Z-vampires-bloodlord-rising",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:20:00.000Z-vampires-bloodlord-rising",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:20:00.000Z-vampires-bloodlord-rising",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:20:00.000Z-vampires-bloodlord-rising",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 2191500,
+    "title": "Vampires: Bloodlord Rising",
+    "owned": true,
+    "playtimeMinutes": 71,
+    "playtime2Weeks": 40,
+    "playtimeWindowsMinutes": 71,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-07-26T17:10:37.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2191500/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Mehuman Games"
+    ],
+    "publishers": [
+      "Toplitz Productions"
+    ],
+    "releaseDate": "2026-01-30",
+    "releaseDateRaw": "Jan 30, 2026",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Simulation"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:20:00.000Z"
+  },
+  "year": 2026,
+  "synopsis": "Mehuman Games’ Vampires: Bloodlord Rising on Steam — an Early Access digital holding retained under the archive Steam account.",
+  "coverImage": "/images/library/vampires-bloodlord-rising/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:20:00.000Z",
+  "authorities": {
+    "developers": [
+      "mehuman-games"
+    ],
+    "publishers": [
+      "toplitz-productions"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

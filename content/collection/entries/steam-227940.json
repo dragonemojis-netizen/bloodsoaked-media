@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 227940,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 227940,
@@ -22,7 +22,46 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2018-01-19T04:20:41.000Z",
     "storeUrl": "https://store.steampowered.com/app/227940/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "TLM Partners"
+    ],
+    "publishers": [
+      "TLM Partners"
+    ],
+    "releaseDate": "2016-10-18",
+    "releaseDateRaw": "Oct 18, 2016",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Indie",
+      "Massively Multiplayer",
+      "Strategy"
+    ],
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "In-App Purchases",
+      "Stats",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Shoot, blow sh!t up, fly or bark orders in the ultimate Free-to-Play, large scale, multiplayer, shooter experience. Thousands of players in multiple battles fighting one massive war of nations. The first to capture 15 cities takes the glory.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/227940/header.jpg",
+      "capsule": "/images/collection/steam/227940/capsule.jpg",
+      "hero": "/images/collection/steam/227940/hero.jpg"
+    }
   }
 }

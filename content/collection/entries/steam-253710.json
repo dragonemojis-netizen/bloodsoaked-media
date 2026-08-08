@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 253710,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 253710,
@@ -22,7 +22,46 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2017-02-27T00:21:13.000Z",
     "storeUrl": "https://store.steampowered.com/app/253710/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Expansive Worlds",
+      "Avalanche Studios"
+    ],
+    "publishers": [
+      "Expansive Worlds",
+      "Avalanche Studios"
+    ],
+    "releaseDate": "2014-06-03",
+    "releaseDateRaw": "Jun 3, 2014",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free To Play",
+      "Simulation",
+      "Sports"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "The most realistic hunting experience awaits. Explore 12 reserves and hunt 45 unique species, ranging from waterfowl to big game. Over 100 weapons from state-of-the art rifles to bows. Customize your load-out with stands, blinds and dogs. Play alone or in multiplayer with up to 7 friends.",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/253710/header.jpg",
+      "capsule": "/images/collection/steam/253710/capsule.jpg",
+      "hero": "/images/collection/steam/253710/hero.jpg"
+    }
   }
 }

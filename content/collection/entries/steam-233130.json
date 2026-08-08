@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 233130,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 233130,
@@ -22,7 +22,42 @@
     "playtimeLinuxMinutes": 10,
     "lastPlayedAt": "2024-04-10T04:48:05.000Z",
     "storeUrl": "https://store.steampowered.com/app/233130/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Flying Wild Hog"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ],
+    "releaseDate": "2013-09-26",
+    "releaseDateRaw": "Sep 26, 2013",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "shortDescription": "Shadow Warrior is a bold reimagining of the classic 3D Realms’ shooter from independent developer Flying Wild Hog (Hard Reset) starring the legendary and quick-witted warrior Lo Wang.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/233130/header.jpg",
+      "capsule": "/images/collection/steam/233130/capsule.jpg",
+      "hero": "/images/collection/steam/233130/hero.jpg"
+    }
   }
 }

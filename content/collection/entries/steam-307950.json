@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 307950,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 307950,
@@ -22,7 +22,48 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2023-04-13T23:20:24.000Z",
     "storeUrl": "https://store.steampowered.com/app/307950/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "1C Game Studios"
+    ],
+    "publishers": [
+      "FOR-GAMES CR LTD"
+    ],
+    "releaseDate": "2023-04-12",
+    "releaseDateRaw": "Apr 12, 2023",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualSense Controller Support",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Caliber is a team-based online shooter focused on special forces units from all over the world. More than 70 operators with unique abilities and weapons as well as various game modes and maps are waiting for you.",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/307950/header.jpg",
+      "capsule": "/images/collection/steam/307950/capsule.jpg",
+      "hero": "/images/collection/steam/307950/hero.jpg"
+    }
   }
 }

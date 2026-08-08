@@ -1,0 +1,36 @@
+{
+  "slug": "team17",
+  "authorityId": "AUTH-0089",
+  "type": "publisher",
+  "preferredName": "Team17",
+  "alternativeNames": [
+    "Team17 Digital",
+    "Team17 Digital Limited"
+  ],
+  "relatedAuthoritySlugs": [
+    "expression-games",
+    "hell-let-loose"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:00:00.000Z-team17",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0089 — controlled identity for Team17."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:00:00.000Z-team17",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Team17 — publisher of record for Hell Let Loose: Vietnam in this archive’s PC Steam holding.",
+  "curatorialRevisionAt": "2026-08-08T18:00:00.000Z"
+}

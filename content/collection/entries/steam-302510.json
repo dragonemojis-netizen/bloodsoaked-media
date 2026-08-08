@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 302510,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 302510,
@@ -22,7 +22,44 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/302510/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Crytek"
+    ],
+    "publishers": [
+      "Crytek "
+    ],
+    "releaseDate": "2014-10-10",
+    "releaseDateRaw": "Oct 10, 2014",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "“Ryse: Son of Rome” tells the story of Marius Titus, a young Roman soldier who witnesses the murder of his family at the hands of barbarian bandits, then travels with the Roman army to Britannia to seek revenge.",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/302510/header.jpg",
+      "capsule": "/images/collection/steam/302510/capsule.jpg",
+      "hero": "/images/collection/steam/302510/hero.jpg"
+    }
   }
 }

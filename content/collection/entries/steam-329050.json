@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 329050,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 329050,
@@ -22,7 +22,39 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/329050/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "publishers": [
+      "CAPCOM Co., Ltd. "
+    ],
+    "releaseDate": "2015-06-23",
+    "releaseDateRaw": "Jun 23, 2015",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "The smash-hit stylish action game DMC4 is back and better than ever, boasting new playable characters and game modes!",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/329050/header.jpg",
+      "capsule": "/images/collection/steam/329050/capsule.jpg",
+      "hero": "/images/collection/steam/329050/hero.jpg"
+    }
   }
 }

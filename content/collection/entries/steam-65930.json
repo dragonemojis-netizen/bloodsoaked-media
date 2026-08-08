@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 65930,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 65930,
@@ -22,7 +22,40 @@
     "playtimeLinuxMinutes": 9,
     "lastPlayedAt": "2023-01-15T03:34:00.000Z",
     "storeUrl": "https://store.steampowered.com/app/65930/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "2K Marin"
+    ],
+    "publishers": [
+      "2K"
+    ],
+    "releaseDate": "2013-08-19",
+    "releaseDateRaw": "Aug 19, 2013",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "shortDescription": "The year is 1962 and the Cold War has the nation gripped by fear.  A top-secret government unit called The Bureau begins investigating a series of mysterious attacks by an enemy more powerful than communism.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/65930/header.jpg",
+      "capsule": "/images/collection/steam/65930/capsule.jpg",
+      "hero": "/images/collection/steam/65930/hero.jpg"
+    }
   }
 }

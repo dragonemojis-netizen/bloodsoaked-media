@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 214870,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 214870,
@@ -22,7 +22,46 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2025-10-05T22:00:55.000Z",
     "storeUrl": "https://store.steampowered.com/app/214870/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "The Farm 51"
+    ],
+    "publishers": [
+      "Prime Matter"
+    ],
+    "releaseDate": "2012-10-31",
+    "releaseDateRaw": "Oct 31, 2012",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "shortDescription": "Evil has returned! Demonic powers are manifesting themselves as a myriad of dark creatures, fighting over the fates of imprisoned souls caught in Purgatory.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/214870/header.jpg",
+      "capsule": "/images/collection/steam/214870/capsule.jpg",
+      "hero": "/images/collection/steam/214870/hero.jpg"
+    }
   }
 }

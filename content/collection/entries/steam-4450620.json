@@ -1,0 +1,33 @@
+{
+  "id": "steam-4450620",
+  "origin": "steam",
+  "title": "GRAIN ROT",
+  "eventType": "acquisition",
+  "status": "Filed",
+  "catalogued": "2026-08-08T17:35:45.984Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 4450620,
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
+  },
+  "steam": {
+    "appId": 4450620,
+    "title": "GRAIN ROT",
+    "owned": true,
+    "playtimeMinutes": 113,
+    "playtime2Weeks": 113,
+    "playtimeWindowsMinutes": 113,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-08-07T23:52:36.000Z",
+    "storeUrl": "https://store.steampowered.com/app/4450620/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api"
+  },
+  "filing": {
+    "librarySlug": "grain-rot",
+    "shelfMark": "LIB-0049",
+    "filedAt": "2026-08-08T17:40:53.509Z"
+  }
+}

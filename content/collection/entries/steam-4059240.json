@@ -1,0 +1,28 @@
+{
+  "id": "steam-4059240",
+  "origin": "steam",
+  "title": "Gears of War: E-Day Multiplayer Beta",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-08-08T17:35:45.984Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 4059240,
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
+  },
+  "steam": {
+    "appId": 4059240,
+    "title": "Gears of War: E-Day Multiplayer Beta",
+    "owned": true,
+    "playtimeMinutes": 306,
+    "playtime2Weeks": 306,
+    "playtimeWindowsMinutes": 306,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-08-07T21:48:21.000Z",
+    "storeUrl": "https://store.steampowered.com/app/4059240/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api"
+  }
+}

@@ -9,11 +9,11 @@
   "source": {
     "platform": "steam",
     "steamAppId": 268500,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 268500,
-    "title": "XCOM 2",
+    "title": "XCOM® 2",
     "owned": true,
     "playtimeMinutes": 100,
     "playtime2Weeks": null,
@@ -22,7 +22,44 @@
     "playtimeLinuxMinutes": 3,
     "lastPlayedAt": "2023-01-14T03:34:25.000Z",
     "storeUrl": "https://store.steampowered.com/app/268500/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Firaxis Games",
+      "Feral Interactive (Mac)",
+      "Feral Interactive (Linux)"
+    ],
+    "publishers": [
+      "2K",
+      "Feral Interactive (Mac)",
+      "Feral Interactive (Linux)"
+    ],
+    "releaseDate": "2016-02-04",
+    "releaseDateRaw": "Feb 4, 2016",
+    "comingSoon": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "shortDescription": "XCOM 2 is the sequel to XCOM: Enemy Unknown, the 2012 award-winning strategy game of the year. Earth has changed and is now under alien rule. Facing impossible odds you must rebuild XCOM, and ignite a global resistance to reclaim our world and save humanity.",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/268500/header.jpg",
+      "capsule": "/images/collection/steam/268500/capsule.jpg",
+      "hero": "/images/collection/steam/268500/hero.jpg"
+    }
   }
 }

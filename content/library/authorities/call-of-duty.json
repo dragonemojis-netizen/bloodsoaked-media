@@ -1,0 +1,35 @@
+{
+  "slug": "call-of-duty",
+  "authorityId": "AUTH-0102",
+  "type": "series",
+  "preferredName": "Call of Duty",
+  "alternativeNames": [
+    "CoD"
+  ],
+  "relatedAuthoritySlugs": [
+    "treyarch",
+    "activision"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:10:00.000Z-call-of-duty",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0102 — controlled identity for Call of Duty."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:10:00.000Z-call-of-duty",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Call of Duty — series identity for Activision first-person shooter titles retained in the Bloodsoaked Library, including World at War and Black Ops III.",
+  "curatorialRevisionAt": "2026-08-08T18:20:00.000Z"
+}

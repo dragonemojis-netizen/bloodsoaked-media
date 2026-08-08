@@ -1,0 +1,35 @@
+{
+  "slug": "thq-nordic",
+  "authorityId": "AUTH-0126",
+  "type": "publisher",
+  "preferredName": "THQ Nordic",
+  "alternativeNames": [
+    "THQ Nordic GmbH"
+  ],
+  "relatedAuthoritySlugs": [
+    "alkimia-interactive",
+    "gothic"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:20:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:20:00.000Z-thq-nordic",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0126 — controlled identity for THQ Nordic."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:20:00.000Z-thq-nordic",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "THQ Nordic — publisher of record for Gothic 1 Remake in this archive’s PC Steam holding.",
+  "curatorialRevisionAt": "2026-08-08T18:20:00.000Z"
+}

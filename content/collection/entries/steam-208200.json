@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 208200,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 208200,
@@ -22,7 +22,39 @@
     "playtimeLinuxMinutes": 17,
     "lastPlayedAt": "2024-07-11T00:53:38.000Z",
     "storeUrl": "https://store.steampowered.com/app/208200/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "id Software"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "releaseDate": "2012-10-15",
+    "releaseDateRaw": "Oct 15, 2012",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "A demonic invasion has overwhelmed the Union Aerospace Corporation's Mars research facility. As one of only a few survivors, you must fight your way to hell and back against a horde of demons in this award-winning horror/action FPS and reimagining of the original DOOM.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/208200/header.jpg",
+      "capsule": "/images/collection/steam/208200/capsule.jpg",
+      "hero": "/images/collection/steam/208200/hero.jpg"
+    }
   }
 }

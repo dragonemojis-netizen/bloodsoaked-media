@@ -1,0 +1,156 @@
+{
+  "slug": "hack-g-u-last-recode",
+  "title": ".hack//G.U. Last Recode",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T17:40:30.238Z",
+  "shelfMark": "LIB-0046",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-525480",
+    "reconciledAt": "2026-08-08T17:40:30.238Z"
+  },
+  "catalog": {
+    "release": "November 3, 2017",
+    "developer": "CyberConnect2",
+    "publisher": "Bandai Namco Entertainment",
+    "subjects": [
+      "RPG",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Bandai Namco Entertainment build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · August 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on .hack//G.U. Last Recode as the archive’s .hack series digital filing.",
+  "collectionNotes": "Digital ownership confirmed via Steam. No physical edition, booklet, or insert is held. Official cover artwork has been entered from Steam portrait art.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title.",
+    "concerns": "As with other account-bound Steam holdings: platform dependency, policy change, and the absence of a retained offline installer.",
+    "knownRevisions": "Steam release dated November 3, 2017. Collects remastered .hack//G.U. volumes Rebirth, Reminisce, and Redemption with the additional volume Reconnection. This accession records the licensed digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "series": ".hack",
+    "collectionIds": [
+      "steam-525480"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T17:40:30.238Z",
+      "at": "2026-08-08T17:40:30.238Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0046."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:00:00.000Z-hack-g-u-last-recode",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam storefront / library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:00:00.000Z-hack-g-u-last-recode",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:00:00.000Z-hack-g-u-last-recode",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:00:00.000Z-hack-g-u-last-recode",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:00:00.000Z-hack-g-u-last-recode",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:00:00.000Z-hack-g-u-last-recode",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T17:52:32.944Z-hack-g-u-last-recode",
+      "at": "2026-08-08T17:52:32.944Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Primary cover replaced with curated official portrait key art."
+    }
+  ],
+  "steam": {
+    "appId": 525480,
+    "title": ".hack//G.U. Last Recode",
+    "owned": true,
+    "playtimeMinutes": 31,
+    "playtime2Weeks": 31,
+    "playtimeWindowsMinutes": 31,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-08-07T03:37:05.000Z",
+    "storeUrl": "https://store.steampowered.com/app/525480/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "CyberConnect2"
+    ],
+    "publishers": [
+      "Bandai Namco Entertainment"
+    ],
+    "releaseDate": "2017-11-03",
+    "releaseDateRaw": "Nov 3, 2017",
+    "comingSoon": false,
+    "genres": [
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:00:00.000Z"
+  },
+  "year": 2017,
+  "synopsis": "CyberConnect2’s .hack//G.U. Last Recode on Steam — the remastered G.U. trilogy plus Reconnection, retained as a permanent digital holding in the .hack series.",
+  "coverImage": "/images/library/hack-g-u-last-recode/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T17:52:32.944Z",
+  "authorities": {
+    "developers": [
+      "cyberconnect2"
+    ],
+    "publishers": [
+      "bandai-namco-entertainment"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "hack"
+    ]
+  }
+}

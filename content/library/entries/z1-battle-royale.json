@@ -1,0 +1,148 @@
+{
+  "slug": "z1-battle-royale",
+  "title": "Z1 Battle Royale",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T17:41:40.246Z",
+  "shelfMark": "LIB-0055",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-433850",
+    "reconciledAt": "2026-08-08T17:41:40.246Z"
+  },
+  "catalog": {
+    "release": "February 28, 2018",
+    "developer": "Daybreak Game Company",
+    "publisher": "Daybreak Game Company",
+    "subjects": [
+      "Action",
+      "Massively Multiplayer",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Daybreak Game Company build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Z1 Battle Royale as a historical free-to-play battle-royale digital holding.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account, Steam’s support for the title, and Daybreak’s online services.",
+    "concerns": "Live multiplayer titles face heightened preservation risk: server dependency, free-to-play economy changes, and possible retirement of online services. No offline installer is held.",
+    "knownRevisions": "Descended from the H1Z1 / King of the Kill lineage. Steam storefront date for the Z1 Battle Royale branding is February 28, 2018. This accession records the licensed digital edition in custody under the current title.",
+    "availability": "Held as a permanent digital license on the archive Steam account while that custody and the required online services for the title continue."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-433850"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T17:41:40.246Z",
+      "at": "2026-08-08T17:41:40.246Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0055."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:00:00.000Z-z1-battle-royale",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam storefront / library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:00:00.000Z-z1-battle-royale",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:00:00.000Z-z1-battle-royale",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:00:00.000Z-z1-battle-royale",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:00:00.000Z-z1-battle-royale",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:00:00.000Z-z1-battle-royale",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 433850,
+    "title": "Z1 Battle Royale",
+    "owned": true,
+    "playtimeMinutes": 8059,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 155,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2020-01-19T19:11:01.000Z",
+    "storeUrl": "https://store.steampowered.com/app/433850/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Daybreak Game Company"
+    ],
+    "publishers": [
+      "Daybreak Game Company"
+    ],
+    "releaseDate": "2018-02-28",
+    "releaseDateRaw": "Feb 28, 2018",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:00:00.000Z"
+  },
+  "year": 2018,
+  "synopsis": "Daybreak Game Company’s Z1 Battle Royale on Steam — retained as a permanent digital holding under the archive Steam account.",
+  "coverImage": "/images/library/z1-battle-royale/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:00:00.000Z",
+  "authorities": {
+    "developers": [
+      "daybreak-game-company"
+    ],
+    "publishers": [
+      "daybreak-game-company"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

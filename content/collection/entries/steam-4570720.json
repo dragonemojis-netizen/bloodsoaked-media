@@ -1,0 +1,53 @@
+{
+  "id": "steam-4570720",
+  "origin": "steam",
+  "title": "DragonSword : Awakening",
+  "eventType": "acquisition",
+  "status": "Filed",
+  "catalogued": "2026-08-03T22:52:55.577Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 4570720,
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
+  },
+  "steam": {
+    "appId": 4570720,
+    "title": "DragonSword : Awakening",
+    "owned": true,
+    "playtimeMinutes": 352,
+    "playtime2Weeks": 352,
+    "playtimeWindowsMinutes": 352,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-08-02T00:44:38.000Z",
+    "storeUrl": "https://store.steampowered.com/app/4570720/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Hound13 Inc."
+    ],
+    "publishers": [
+      "Hound13 Inc."
+    ],
+    "releaseDate": "2026-07-22",
+    "releaseDateRaw": "Jul 22, 2026",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-03T23:03:32.851Z"
+  },
+  "filing": {
+    "librarySlug": "dragonsword-awakening",
+    "shelfMark": "LIB-0015",
+    "filedAt": "2026-08-03T22:55:27.049Z"
+  }
+}

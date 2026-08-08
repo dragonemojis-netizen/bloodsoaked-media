@@ -9,11 +9,11 @@
   "source": {
     "platform": "steam",
     "steamAppId": 240760,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 240760,
-    "title": "Wasteland 2",
+    "title": "Wasteland 2: Director's Cut",
     "owned": true,
     "playtimeMinutes": 27,
     "playtime2Weeks": null,
@@ -22,7 +22,42 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2024-06-17T00:53:00.000Z",
     "storeUrl": "https://store.steampowered.com/app/240760/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "inXile Entertainment"
+    ],
+    "publishers": [
+      "inXile Entertainment"
+    ],
+    "releaseDate": "2014-09-18",
+    "releaseDateRaw": "Sep 18, 2014",
+    "comingSoon": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Captions available",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "shortDescription": "From the producer of the original Fallout comes Wasteland 2. With over 80 hours of gameplay, deck out your Ranger squad with devastating weaponry, test the limits of your strategy skills, and bring justice to the Wasteland! The choices are yours…but so are the consequences.",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/240760/header.jpg",
+      "capsule": "/images/collection/steam/240760/capsule.jpg",
+      "hero": "/images/collection/steam/240760/hero.jpg"
+    }
   }
 }

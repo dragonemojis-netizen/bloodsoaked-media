@@ -1,0 +1,162 @@
+{
+  "slug": "call-of-duty-world-at-war",
+  "title": "Call of Duty: World at War",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T17:54:10.812Z",
+  "shelfMark": "LIB-0057",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-10090",
+    "reconciledAt": "2026-08-08T17:54:10.812Z"
+  },
+  "catalog": {
+    "release": "November 18, 2008",
+    "developer": "Treyarch",
+    "publisher": "Activision",
+    "subjects": [
+      "Action",
+      "First-Person Shooter",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Activision build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Call of Duty: World at War as a historical World War II digital filing.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title. Multiplayer components may depend on third-party or Activision services.",
+    "concerns": "Older online multiplayer titles face elevated server and matchmaking risk. Account-bound licensing and the absence of a retained offline installer remain the principal preservation concerns.",
+    "knownRevisions": "Steam release dated November 18, 2008. This accession records the licensed digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "series": "Call of Duty",
+    "collectionIds": [
+      "steam-10090"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T17:54:10.812Z",
+      "at": "2026-08-08T17:54:10.812Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0057."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:10:00.000Z-call-of-duty-world-at-war",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:10:00.000Z-call-of-duty-world-at-war",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:10:00.000Z-call-of-duty-world-at-war",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:10:00.000Z-call-of-duty-world-at-war",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:10:00.000Z-call-of-duty-world-at-war",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:10:00.000Z-call-of-duty-world-at-war",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 10090,
+    "title": "Call of Duty: World at War",
+    "owned": true,
+    "playtimeMinutes": 7825,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 1016,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2024-06-29T16:13:40.000Z",
+    "storeUrl": "https://store.steampowered.com/app/10090/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Treyarch"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "releaseDate": "2008-11-18",
+    "releaseDateRaw": "Nov 18, 2008",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Call of Duty is back, redefining war like you've never experienced before. Building on the Call of Duty 4®: Modern Warfare engine, Call of Duty: World at War immerses players into the most gritty and chaotic WWII combat ever experienced.",
+    "metadataSyncedAt": "2026-08-08T18:10:00.000Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/10090/header.jpg",
+      "capsule": "/images/collection/steam/10090/capsule.jpg",
+      "hero": "/images/collection/steam/10090/hero.jpg"
+    }
+  },
+  "year": 2008,
+  "synopsis": "Treyarch’s Call of Duty: World at War on Steam — retained as a permanent digital holding in the Call of Duty series.",
+  "coverImage": "/images/library/call-of-duty-world-at-war/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:10:00.000Z",
+  "authorities": {
+    "developers": [
+      "treyarch"
+    ],
+    "publishers": [
+      "activision"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "call-of-duty"
+    ]
+  }
+}

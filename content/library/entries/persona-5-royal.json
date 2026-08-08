@@ -1,0 +1,156 @@
+{
+  "slug": "persona-5-royal",
+  "title": "Persona 5 Royal",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T17:59:16.348Z",
+  "shelfMark": "LIB-0067",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-1687950",
+    "reconciledAt": "2026-08-08T17:59:16.348Z"
+  },
+  "catalog": {
+    "release": "October 20, 2022",
+    "developer": "ATLUS",
+    "publisher": "SEGA",
+    "subjects": [
+      "RPG",
+      "JRPG",
+      "Persona",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · SEGA build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Persona 5 Royal as the archive’s Persona 5 digital filing.",
+  "collectionNotes": "Digital ownership confirmed via Steam. No physical edition is held for this accession. Official cover artwork has been entered from Steam library art.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title.",
+    "concerns": "As with other account-bound Steam holdings: platform dependency, policy change, and the absence of a retained offline installer.",
+    "knownRevisions": "Persona 5 Royal originated on PlayStation 4. The Steam PC edition is dated October 20, 2022. This accession records the licensed digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "series": "Persona",
+    "relatedEntrySlugs": [
+      "persona-3-reload",
+      "persona-4",
+      "persona-4-golden"
+    ],
+    "collectionIds": [
+      "steam-1687950"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T17:59:16.348Z",
+      "at": "2026-08-08T17:59:16.348Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0067."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:20:00.000Z-persona-5-royal",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:20:00.000Z-persona-5-royal",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:20:00.000Z-persona-5-royal",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:20:00.000Z-persona-5-royal",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:20:00.000Z-persona-5-royal",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:20:00.000Z-persona-5-royal",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 1687950,
+    "title": "Persona 5 Royal",
+    "owned": true,
+    "playtimeMinutes": 4048,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 3793,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 254,
+    "lastPlayedAt": "2024-04-28T00:49:16.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1687950/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "ATLUS"
+    ],
+    "publishers": [
+      "SEGA"
+    ],
+    "releaseDate": "2022-10-20",
+    "releaseDateRaw": "Oct 20, 2022",
+    "comingSoon": false,
+    "genres": [
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:20:00.000Z"
+  },
+  "year": 2022,
+  "synopsis": "ATLUS’s Persona 5 Royal on Steam — the expanded PC edition retained in permanent digital custody within the Persona series.",
+  "coverImage": "/images/library/persona-5-royal/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:20:00.000Z",
+  "authorities": {
+    "developers": [
+      "atlus"
+    ],
+    "publishers": [
+      "sega"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "persona"
+    ]
+  }
+}

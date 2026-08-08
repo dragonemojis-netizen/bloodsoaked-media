@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 238430,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 238430,
@@ -22,7 +22,57 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2017-06-28T18:44:13.000Z",
     "storeUrl": "https://store.steampowered.com/app/238430/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Monochrome, Inc"
+    ],
+    "publishers": [
+      "Monochrome, Inc"
+    ],
+    "releaseDate": "2013-10-25",
+    "releaseDateRaw": "Oct 25, 2013",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Contagion isn't your average Zombie Shooter but instead takes a more realistic and different approach to the popular genre with unique characters, environments, weapons, items, and a built in system that makes every round completely unpredictable with resources, objectives, and paths ever changing.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/238430/header.jpg",
+      "capsule": "/images/collection/steam/238430/capsule.jpg",
+      "hero": "/images/collection/steam/238430/hero.jpg"
+    }
   }
 }

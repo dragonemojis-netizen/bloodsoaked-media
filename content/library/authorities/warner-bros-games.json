@@ -1,0 +1,36 @@
+{
+  "slug": "warner-bros-games",
+  "authorityId": "AUTH-0114",
+  "type": "publisher",
+  "preferredName": "Warner Bros. Games",
+  "alternativeNames": [
+    "Warner Bros. Interactive Entertainment",
+    "WB Games"
+  ],
+  "relatedAuthoritySlugs": [
+    "monolith-productions",
+    "f-e-a-r"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:20:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:20:00.000Z-warner-bros-games",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0114 — controlled identity for Warner Bros. Games."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:20:00.000Z-warner-bros-games",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Warner Bros. Games — publisher of record for F.E.A.R. in this archive’s PC Steam holding.",
+  "curatorialRevisionAt": "2026-08-08T18:20:00.000Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "mehuman-games",
+  "authorityId": "AUTH-0117",
+  "type": "developer",
+  "preferredName": "Mehuman Games",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "toplitz-productions"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:20:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:20:00.000Z-mehuman-games",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0117 — controlled identity for Mehuman Games."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:20:00.000Z-mehuman-games",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Mehuman Games — developer of record for Vampires: Bloodlord Rising in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:20:00.000Z"
+}

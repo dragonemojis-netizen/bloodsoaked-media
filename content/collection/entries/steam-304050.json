@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 304050,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 304050,
@@ -22,7 +22,57 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2022-12-09T20:21:28.000Z",
     "storeUrl": "https://store.steampowered.com/app/304050/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "gamigo US Inc."
+    ],
+    "publishers": [
+      "gamigo US Inc."
+    ],
+    "releaseDate": "2015-07-09",
+    "releaseDateRaw": "Jul 9, 2015",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Adjustable Text Size",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualSense Controller Support",
+      "DualSense Controller Support",
+      "Save Anytime",
+      "Partial Controller Support"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Grab your friends, hone your blades, and set off for an epic procedurally generated adventure in Trove! Battle the Shadow in realms filled with dungeons and items created by your fellow players. Whether hunting treasure or building realms of your own, it’s never been this good to be square!",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/304050/header.jpg",
+      "capsule": "/images/collection/steam/304050/capsule.jpg",
+      "hero": "/images/collection/steam/304050/hero.jpg"
+    }
   }
 }

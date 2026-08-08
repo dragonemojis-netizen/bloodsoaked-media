@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 207930,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 207930,
@@ -22,7 +22,43 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/207930/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Southend"
+    ],
+    "publishers": [
+      "THQ Nordic"
+    ],
+    "releaseDate": "2013-04-16",
+    "releaseDateRaw": "Apr 16, 2013",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Stats",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Sharpen your axe, string your bow, brew your potions! Ancaria needs heroes like you. Grab your friends to join the resistance!The once peaceful land of Ancaria is in grave danger. The evil Ashen empire has enslaved its population and is using the orc-like Grimmoc to wipe out the Seraphim, who swore to protect it.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/207930/header.jpg",
+      "capsule": "/images/collection/steam/207930/capsule.jpg",
+      "hero": "/images/collection/steam/207930/hero.jpg"
+    }
   }
 }

@@ -1,0 +1,154 @@
+{
+  "slug": "metaphor-refantazio",
+  "title": "Metaphor: ReFantazio",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T17:54:35.851Z",
+  "shelfMark": "LIB-0063",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-2679460",
+    "reconciledAt": "2026-08-08T17:54:35.851Z"
+  },
+  "catalog": {
+    "release": "October 10, 2024",
+    "developer": "ATLUS",
+    "publisher": "SEGA",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "JRPG",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · SEGA build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Metaphor: ReFantazio as an ATLUS fantasy RPG digital filing.",
+  "collectionNotes": "Digital ownership confirmed via Steam. No physical edition, booklet, or insert is held. Official cover artwork has been entered from Steam library art.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title.",
+    "concerns": "As with other account-bound Steam holdings: platform dependency, policy change, and the absence of a retained offline installer.",
+    "knownRevisions": "Steam release dated October 10, 2024. This accession records the licensed digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "series": "Metaphor: ReFantazio",
+    "collectionIds": [
+      "steam-2679460"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T17:54:35.851Z",
+      "at": "2026-08-08T17:54:35.851Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0063."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:10:00.000Z-metaphor-refantazio",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:10:00.000Z-metaphor-refantazio",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:10:00.000Z-metaphor-refantazio",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:10:00.000Z-metaphor-refantazio",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:10:00.000Z-metaphor-refantazio",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:10:00.000Z-metaphor-refantazio",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 2679460,
+    "title": "Metaphor: ReFantazio",
+    "owned": true,
+    "playtimeMinutes": 5184,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 5184,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-04-06T22:55:14.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2679460/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "ATLUS"
+    ],
+    "publishers": [
+      "SEGA"
+    ],
+    "releaseDate": "2024-10-10",
+    "releaseDateRaw": "Oct 10, 2024",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:10:00.000Z"
+  },
+  "year": 2024,
+  "synopsis": "ATLUS’s Metaphor: ReFantazio on Steam — retained as a permanent digital holding under the archive Steam account.",
+  "coverImage": "/images/library/metaphor-refantazio/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:10:00.000Z",
+  "authorities": {
+    "developers": [
+      "atlus"
+    ],
+    "publishers": [
+      "sega"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "metaphor-refantazio"
+    ]
+  }
+}

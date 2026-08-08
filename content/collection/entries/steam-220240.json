@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 220240,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 220240,
@@ -22,7 +22,39 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2025-01-04T03:28:47.000Z",
     "storeUrl": "https://store.steampowered.com/app/220240/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Ubisoft Montreal, Massive Entertainment, and Ubisoft Shanghai"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ],
+    "releaseDate": "2012-12-04",
+    "releaseDateRaw": "Dec 4, 2012",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Partial Controller Support"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Stranded on the Rook Islands as Jason Brody, fight your way through a lawless tropical open world using a powerful arsenal to save your friends and escape the madness of this acclaimed visceral FPS.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/220240/header.jpg",
+      "capsule": "/images/collection/steam/220240/capsule.jpg",
+      "hero": "/images/collection/steam/220240/hero.jpg"
+    }
   }
 }

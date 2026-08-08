@@ -1,0 +1,152 @@
+{
+  "slug": "red-dead-redemption-2",
+  "title": "Red Dead Redemption 2",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T17:41:30.764Z",
+  "shelfMark": "LIB-0054",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-1174180",
+    "reconciledAt": "2026-08-08T17:41:30.764Z"
+  },
+  "catalog": {
+    "release": "December 5, 2019",
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "Open World",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Rockstar Games build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Red Dead Redemption 2 as a digital open-world holding.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account, Steam’s support for the title, and Rockstar launcher / online services where the client requires them.",
+    "concerns": "Account-bound digital holdings face platform dependency and policy change. Multiplayer components and third-party launcher requirements increase long-term access risk. No physical disc or offline installer is held for this filing.",
+    "knownRevisions": "Console release preceded the PC edition. Steam storefront date for this PC edition is December 5, 2019. This accession records the licensed digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and the required services remain intact."
+  },
+  "connections": {
+    "series": "Red Dead",
+    "collectionIds": [
+      "steam-1174180"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T17:41:30.764Z",
+      "at": "2026-08-08T17:41:30.764Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0054."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:00:00.000Z-red-dead-redemption-2",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam storefront / library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:00:00.000Z-red-dead-redemption-2",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:00:00.000Z-red-dead-redemption-2",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:00:00.000Z-red-dead-redemption-2",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:00:00.000Z-red-dead-redemption-2",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:00:00.000Z-red-dead-redemption-2",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 1174180,
+    "title": "Red Dead Redemption 2",
+    "owned": true,
+    "playtimeMinutes": 5372,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 5084,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 288,
+    "lastPlayedAt": "2025-12-21T23:08:05.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1174180/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Rockstar Games"
+    ],
+    "publishers": [
+      "Rockstar Games"
+    ],
+    "releaseDate": "2019-12-05",
+    "releaseDateRaw": "Dec 5, 2019",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:00:00.000Z"
+  },
+  "year": 2019,
+  "synopsis": "Rockstar Games’ Red Dead Redemption 2 on Steam — retained as a permanent digital holding in the Red Dead series.",
+  "coverImage": "/images/library/red-dead-redemption-2/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:00:00.000Z",
+  "authorities": {
+    "developers": [
+      "rockstar-games"
+    ],
+    "publishers": [
+      "rockstar-games"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "red-dead"
+    ]
+  }
+}

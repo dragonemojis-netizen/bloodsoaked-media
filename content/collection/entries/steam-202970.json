@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 202970,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 202970,
@@ -22,7 +22,44 @@
     "playtimeLinuxMinutes": 38,
     "lastPlayedAt": "2024-05-09T03:22:22.000Z",
     "storeUrl": "https://store.steampowered.com/app/202970/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Treyarch"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "releaseDate": "2012-11-12",
+    "releaseDateRaw": "Nov 12, 2012",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Pushing the boundaries of what fans have come to expect from the record-setting entertainment franchise, Call of Duty®: Black Ops II propels players into a near future Cold War",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/202970/header.jpg",
+      "capsule": "/images/collection/steam/202970/capsule.jpg",
+      "hero": "/images/collection/steam/202970/hero.jpg"
+    }
   }
 }

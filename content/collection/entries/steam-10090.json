@@ -3,13 +3,13 @@
   "origin": "steam",
   "title": "Call of Duty: World at War",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
     "platform": "steam",
     "steamAppId": 10090,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 10090,
@@ -22,7 +22,7 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2024-06-29T16:13:40.000Z",
     "storeUrl": "https://store.steampowered.com/app/10090/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api",
     "developers": [
       "Treyarch"
@@ -54,5 +54,10 @@
       "capsule": "/images/collection/steam/10090/capsule.jpg",
       "hero": "/images/collection/steam/10090/hero.jpg"
     }
+  },
+  "filing": {
+    "librarySlug": "call-of-duty-world-at-war",
+    "shelfMark": "LIB-0057",
+    "filedAt": "2026-08-08T17:54:10.812Z"
   }
 }

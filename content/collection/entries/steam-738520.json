@@ -1,0 +1,28 @@
+{
+  "id": "steam-738520",
+  "origin": "steam",
+  "title": "Breathedge",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-08-08T17:35:45.984Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 738520,
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
+  },
+  "steam": {
+    "appId": 738520,
+    "title": "Breathedge",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/738520/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api"
+  }
+}

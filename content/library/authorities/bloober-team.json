@@ -1,0 +1,35 @@
+{
+  "slug": "bloober-team",
+  "authorityId": "AUTH-0112",
+  "type": "developer",
+  "preferredName": "Bloober Team",
+  "alternativeNames": [
+    "Bloober Team SA"
+  ],
+  "relatedAuthoritySlugs": [
+    "konami",
+    "silent-hill"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:10:00.000Z-bloober-team",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0112 — controlled identity for Bloober Team."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:10:00.000Z-bloober-team",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Bloober Team — developer of record for the Silent Hill 2 remake in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:10:00.000Z"
+}

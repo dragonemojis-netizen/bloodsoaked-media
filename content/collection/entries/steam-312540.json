@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 312540,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 312540,
@@ -22,7 +22,43 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2026-03-01T05:16:26.000Z",
     "storeUrl": "https://store.steampowered.com/app/312540/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Nihon Falcom"
+    ],
+    "publishers": [
+      "XSEED Games",
+      "Marvelous USA, Inc."
+    ],
+    "releaseDate": "2015-04-28",
+    "releaseDateRaw": "Apr 28, 2015",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Adventurer Adol Christin has washed ashore in yet another mysterious, isolated new land, inhabited by a people who sport long ears and bushy tails...and are none too fond of humans. Experience the very first 3D Ys game as never before, with a whole new gameplay mode unique to this release!",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/312540/header.jpg",
+      "capsule": "/images/collection/steam/312540/capsule.jpg",
+      "hero": "/images/collection/steam/312540/hero.jpg"
+    }
   }
 }

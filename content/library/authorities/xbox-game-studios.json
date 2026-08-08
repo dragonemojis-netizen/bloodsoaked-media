@@ -1,0 +1,36 @@
+{
+  "slug": "xbox-game-studios",
+  "authorityId": "AUTH-0084",
+  "type": "publisher",
+  "preferredName": "Xbox Game Studios",
+  "alternativeNames": [
+    "Microsoft Studios",
+    "Microsoft Game Studios"
+  ],
+  "relatedAuthoritySlugs": [
+    "the-coalition",
+    "gears-of-war"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:00:00.000Z-xbox-game-studios",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0084 — controlled identity for Xbox Game Studios."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:00:00.000Z-xbox-game-studios",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Xbox Game Studios — publisher of record for Gears of War: E-Day in this archive’s PC Steam holding.",
+  "curatorialRevisionAt": "2026-08-08T18:00:00.000Z"
+}

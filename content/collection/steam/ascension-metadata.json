@@ -1,0 +1,332 @@
+{
+  "730": {
+    "name": "Counter-Strike 2",
+    "type": "game",
+    "developers": [
+      "Valve"
+    ],
+    "publishers": [
+      "Valve"
+    ],
+    "releaseDateRaw": "21 Aug, 2012",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": true
+    },
+    "categories": [
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls"
+    ],
+    "shortDescription": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strik",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1784564069",
+    "website": "http://counter-strike.net/"
+  },
+  "1245620": {
+    "name": "ELDEN RING",
+    "type": "game",
+    "developers": [
+      "FromSoftware, Inc."
+    ],
+    "publishers": [
+      "FromSoftware, Inc.",
+      "Bandai Namco Entertainment"
+    ],
+    "releaseDateRaw": "Feb 24, 2022",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort"
+    ],
+    "shortDescription": "THE CRITICALLY ACCLAIMED FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1784684281",
+    "website": null
+  },
+  "1771300": {
+    "name": "Kingdom Come: Deliverance II",
+    "type": "game",
+    "developers": [
+      "Warhorse Studios"
+    ],
+    "publishers": [
+      "Deep Silver"
+    ],
+    "releaseDateRaw": "Feb 4, 2025",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualSense Controller Support",
+      "DualSense Controller Support",
+      "Stereo Sound"
+    ],
+    "shortDescription": "A thrilling story-driven action RPG, with a rich open world, set in 15th century Medieval Europe. Experience the ultimate medieval adventure - through the eyes of young Henry - as you embark on a journey of epic proporti",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
+    "website": "https://www.kingdomcomerpg.com/"
+  },
+  "2001760": {
+    "name": "Beast of Reincarnation",
+    "type": "game",
+    "developers": [
+      "GAME FREAK inc."
+    ],
+    "publishers": [
+      "Fictions"
+    ],
+    "releaseDateRaw": "3 Aug, 2026",
+    "comingSoon": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualSense Controller Support",
+      "DualSense Controller Support",
+      "Stereo Sound"
+    ],
+    "shortDescription": "Game Freak's brand-new title: Beast of Reincarnation is an action RPG with a fusion of real-time and turn-based combat. Experience the innovative &quot;one-person, one-dog action RPG&quot; in the beautiful yet harsh worl",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/d068139fe039e26a6a9d9f57ac5d89785b984d33/header.jpg?t=1785194490",
+    "website": null
+  },
+  "2379780": {
+    "name": "Balatro",
+    "type": "game",
+    "developers": [
+      "LocalThunk"
+    ],
+    "publishers": [
+      "Playstack"
+    ],
+    "releaseDateRaw": "Feb 20, 2024",
+    "comingSoon": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "DualSense Controller Support",
+      "DualSense Controller Support"
+    ],
+    "shortDescription": "The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger adrenaline-pumping, outrageous combos.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/7a85430784e4d613cdb0547414d8cf16ffa45747/header.jpg?t=1785428554",
+    "website": "https://www.playbalatro.com/"
+  },
+  "2807960": {
+    "name": "Battlefield™ 6",
+    "type": "game",
+    "developers": [
+      "Battlefield Studios"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "releaseDateRaw": "10 Oct, 2025",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "In-App Purchases",
+      "Camera Comfort",
+      "Chat Speech-to-text"
+    ],
+    "shortDescription": "The ultimate all-out warfare experience. In a war of tanks, fighter jets, and massive combat arsenals, your squad is the deadliest weapon.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1784839791",
+    "website": "https://www.ea.com/games/battlefield/battlefield-6"
+  },
+  "3282300": {
+    "name": "Mistfall Hunter",
+    "type": "game",
+    "developers": [
+      "Bellring Games"
+    ],
+    "publishers": [
+      "Skystone Games"
+    ],
+    "releaseDateRaw": "Jul 29, 2026",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "In-App Purchases",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualSense Controller Support"
+    ],
+    "shortDescription": "Mistfall Hunter is a dark fantasy extraction ARPG. Combine skills, talents, and gear for each class in thrilling combat! Whether you team up or go solo, one thing remains certain—only by fighting your way through can you",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/08d970d57d0e400ef35abae2602c5d5cd5f842d5/header.jpg?t=1785673983",
+    "website": "https://mistfallhunter.com/"
+  },
+  "3932890": {
+    "name": "Escape from Tarkov",
+    "type": "game",
+    "developers": [
+      "Battlestate Games"
+    ],
+    "publishers": [
+      "Battlestate Games"
+    ],
+    "releaseDateRaw": "Nov 15, 2025",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Camera Comfort"
+    ],
+    "shortDescription": "Escape from Tarkov is the original extraction FPS where every raid is a gamble with death. Prep your raid, bleed, endure and fight through ruthless PMC players and Scavs, gain tactical advantage and cling to your loot — ",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/4dd12ea3b00a4f8b67bfd629f3b9abbf8d5cab05/header_alt_assets_2.jpg?t=1785782094",
+    "website": "https://www.escapefromtarkov.com/"
+  },
+  "4570720": {
+    "name": "DragonSword : Awakening",
+    "type": "game",
+    "developers": [
+      "Hound13 Inc."
+    ],
+    "publishers": [
+      "Hound13 Inc."
+    ],
+    "releaseDateRaw": "Jul 22, 2026",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Camera Comfort",
+      "#category_contrast_controls",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "DualShock Controller Support"
+    ],
+    "shortDescription": "Explore the anime-style open world of the Continent of Orbis, brought to life with Unreal Engine 5! Recruit unique companions, unleash spectacular Status Ailment tag-team action, and embark on an epic journey to save the",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1785492030",
+    "website": null
+  }
+}

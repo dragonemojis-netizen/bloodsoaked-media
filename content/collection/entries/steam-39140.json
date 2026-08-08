@@ -9,11 +9,11 @@
   "source": {
     "platform": "steam",
     "steamAppId": 39140,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 39140,
-    "title": "FINAL FANTASY VII",
+    "title": "FINAL FANTASY VII (2013)",
     "owned": true,
     "playtimeMinutes": 0,
     "playtime2Weeks": null,
@@ -22,7 +22,7 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/39140/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api",
     "developers": [
       "Square Enix"

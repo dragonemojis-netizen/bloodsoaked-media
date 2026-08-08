@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 237110,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 237110,
@@ -22,7 +22,42 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/237110/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "NetherRealm Studios",
+      "High Voltage Software"
+    ],
+    "publishers": [
+      "Warner Bros. Interactive Entertainment"
+    ],
+    "releaseDate": null,
+    "releaseDateRaw": null,
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "The newest chapter of the iconic fighting franchise is now available! Experience the deadliest tournament with all the kombatants and their unique fatalities. Players enter the realm to face the Kombatants in Mortal Kombat Komplete Edition, delivering all of the downloadable content (DLC), including intrepid warriors Skarlet, Kenshi and...",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/237110/header.jpg"
+    }
   }
 }

@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 241930,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 241930,
@@ -22,7 +22,38 @@
     "playtimeLinuxMinutes": 76,
     "lastPlayedAt": "2023-09-20T01:14:47.000Z",
     "storeUrl": "https://store.steampowered.com/app/241930/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Monolith Productions"
+    ],
+    "publishers": [
+      "Warner Bros. Interactive Entertainment",
+      "Warner Bros. Games"
+    ],
+    "releaseDate": "2014-09-30",
+    "releaseDateRaw": "Sep 30, 2014",
+    "comingSoon": false,
+    "genres": [],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Fight through Mordor and uncover the truth of the spirit that compels you, discover the origins of the Rings of Power, build your legend and ultimately confront the evil of Sauron in this new chronicle of Middle-earth.",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/241930/header.jpg",
+      "capsule": "/images/collection/steam/241930/capsule.jpg",
+      "hero": "/images/collection/steam/241930/hero.jpg"
+    }
   }
 }

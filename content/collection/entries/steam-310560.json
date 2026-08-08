@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 310560,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 310560,
@@ -22,7 +22,54 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/310560/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Codemasters",
+      "Feral Interactive (Linux)",
+      "Feral Interactive (Mac)"
+    ],
+    "publishers": [
+      "Codemasters",
+      "Feral Interactive (Linux)",
+      "Feral Interactive (Mac)",
+      "Electronic Arts"
+    ],
+    "releaseDate": "2015-12-07",
+    "releaseDateRaw": "Dec 7, 2015",
+    "comingSoon": false,
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Full controller support",
+      "VR Supported",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "shortDescription": "DiRT Rally is the most authentic and thrilling rally game ever made, road-tested over 80 million miles by the DiRT community. It perfectly captures that white knuckle feeling of racing on the edge as you hurtle along dangerous roads, knowing that one crash could irreparably harm your stage time.",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/310560/header.jpg",
+      "capsule": "/images/collection/steam/310560/capsule.jpg",
+      "hero": "/images/collection/steam/310560/hero.jpg"
+    }
   }
 }

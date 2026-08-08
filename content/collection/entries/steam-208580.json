@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 208580,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 208580,
@@ -22,7 +22,43 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2024-06-02T22:32:22.000Z",
     "storeUrl": "https://store.steampowered.com/app/208580/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Obsidian Entertainment",
+      "Aspyr (Mac, Linux, & Windows Update)"
+    ],
+    "publishers": [
+      "LucasArts",
+      "Lucasfilm",
+      "Aspyr (Mac, Linux)"
+    ],
+    "releaseDate": "2012-08-23",
+    "releaseDateRaw": "Aug 23, 2012",
+    "comingSoon": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "shortDescription": "5 years after the events of the award winning original, the Sith are on the verge of crushing the Old Republic. As a lone Jedi, will you follow the light side or succumb to the dark?",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/208580/header.jpg",
+      "capsule": "/images/collection/steam/208580/capsule.jpg",
+      "hero": "/images/collection/steam/208580/hero.jpg"
+    }
   }
 }

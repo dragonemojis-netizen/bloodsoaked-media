@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 204360,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 204360,
@@ -22,7 +22,65 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2024-08-07T19:18:17.000Z",
     "storeUrl": "https://store.steampowered.com/app/204360/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "The Behemoth"
+    ],
+    "publishers": [
+      "The Behemoth"
+    ],
+    "releaseDate": "2012-09-26",
+    "releaseDateRaw": "Sep 26, 2012",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Custom Volume Controls",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualSense Controller Support",
+      "DualSense Controller Support",
+      "Steam Input API Support",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "shortDescription": "Hack, slash, and smash your way to victory in this award winning 2D arcade adventure from The Behemoth!",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/204360/header.jpg",
+      "capsule": "/images/collection/steam/204360/capsule.jpg",
+      "hero": "/images/collection/steam/204360/hero.jpg"
+    }
   }
 }

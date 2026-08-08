@@ -1,0 +1,162 @@
+{
+  "slug": "hell-let-loose-vietnam",
+  "title": "Hell Let Loose: Vietnam",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T17:40:56.777Z",
+  "shelfMark": "LIB-0050",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-3079210",
+    "reconciledAt": "2026-08-08T17:40:56.777Z"
+  },
+  "catalog": {
+    "release": "August 13, 2026 (announced · not yet released)",
+    "developer": "Expression Games",
+    "publisher": "Team17",
+    "subjects": [
+      "Action",
+      "Strategy",
+      "Simulation",
+      "Tactical Shooter",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Team17 build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · August 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Hell Let Loose: Vietnam once the Steam edition ships and can be assessed as a playable accession.",
+  "collectionNotes": "Digital ownership confirmed via Steam ahead of the announced release. No physical edition is held. Official cover artwork has been entered from curated portrait key art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody once the title is released to the account library",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Pre-release custody depends on Steam account ownership and the publisher’s eventual unlock of the licensed build.",
+    "concerns": "Unreleased digital holdings carry schedule risk in addition to ordinary account-bound platform dependency. No offline installer is held.",
+    "knownRevisions": "Public materials previously cited a June 2026 target; the Steam storefront presently lists August 13, 2026 and marks the title coming soon. This accession records the licensed pre-release digital holding in custody.",
+    "availability": "Held on the archive Steam account; access lasts only as long as that custody and Steam’s service for the title."
+  },
+  "connections": {
+    "series": "Hell Let Loose",
+    "collectionIds": [
+      "steam-3079210"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T17:40:56.777Z",
+      "at": "2026-08-08T17:40:56.777Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0050."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:00:00.000Z-hell-let-loose-vietnam",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam storefront / library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:00:00.000Z-hell-let-loose-vietnam",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:00:00.000Z-hell-let-loose-vietnam",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:00:00.000Z-hell-let-loose-vietnam",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:00:00.000Z-hell-let-loose-vietnam",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:00:00.000Z-hell-let-loose-vietnam",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T17:52:32.944Z-hell-let-loose-vietnam",
+      "at": "2026-08-08T17:52:32.944Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Primary cover replaced with curated official portrait key art."
+    }
+  ],
+  "steam": {
+    "appId": 3079210,
+    "title": "Hell Let Loose: Vietnam",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/3079210/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Expression Games"
+    ],
+    "publishers": [
+      "Team17"
+    ],
+    "releaseDate": "2026-08-13",
+    "releaseDateRaw": "Aug 13, 2026",
+    "comingSoon": true,
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "Simulation",
+      "Strategy"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:00:00.000Z"
+  },
+  "year": 2026,
+  "synopsis": "Expression Games’ Hell Let Loose: Vietnam on Steam — a pre-release digital holding retained under the archive Steam account within the Hell Let Loose series.",
+  "coverImage": "/images/library/hell-let-loose-vietnam/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T17:52:32.944Z",
+  "authorities": {
+    "developers": [
+      "expression-games"
+    ],
+    "publishers": [
+      "team17"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "hell-let-loose"
+    ]
+  }
+}

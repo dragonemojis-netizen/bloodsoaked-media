@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 71240,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 71240,
@@ -22,7 +22,37 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/71240/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "SEGA"
+    ],
+    "publishers": [
+      "SEGA"
+    ],
+    "releaseDate": "2011-03-04",
+    "releaseDateRaw": "Mar 4, 2011",
+    "comingSoon": false,
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "categories": [
+      "Single-player",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Explore the exciting sport of Bass fishing! Based on the Dreamcast hit, motor out to eight different fishing locations to catch the biggest and baddest Bass possible! Choose between fourteen different lures, and compete in four tournaments. Start off as an amateur, and work your way up to the pros in the Masters Classic tournament.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/71240/header.jpg",
+      "capsule": "/images/collection/steam/71240/capsule.jpg",
+      "hero": "/images/collection/steam/71240/hero.jpg"
+    }
   }
 }

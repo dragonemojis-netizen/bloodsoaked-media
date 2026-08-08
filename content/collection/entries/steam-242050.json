@@ -9,11 +9,11 @@
   "source": {
     "platform": "steam",
     "steamAppId": 242050,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 242050,
-    "title": "Assassin's Creed IV Black Flag",
+    "title": "Assassin’s Creed® IV Black Flag™",
     "owned": true,
     "playtimeMinutes": 2127,
     "playtime2Weeks": null,
@@ -22,7 +22,40 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2026-05-07T14:39:39.000Z",
     "storeUrl": "https://store.steampowered.com/app/242050/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Ubisoft Montreal"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ],
+    "releaseDate": null,
+    "releaseDateRaw": null,
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Stereo Sound",
+      "Surround Sound"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Discover Assassin's Creed IV Black Flag, the classic pirate action-adventure game from 2013. Command your ship, hunt Templars and carve your legend as Edward Kenway across the Caribbean's Golden Age of Piracy.",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/242050/header.jpg",
+      "capsule": "/images/collection/steam/242050/capsule.jpg",
+      "hero": "/images/collection/steam/242050/hero.jpg"
+    }
   }
 }

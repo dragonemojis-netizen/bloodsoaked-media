@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 674940,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 674940,
@@ -22,7 +22,7 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2021-01-13T01:09:57.000Z",
     "storeUrl": "https://store.steampowered.com/app/674940/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api"
   }
 }

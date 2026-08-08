@@ -1,0 +1,18 @@
+{
+  "appId": 242880,
+  "fetchedAt": "2026-08-08T17:35:56.301Z",
+  "files": {
+    "header.jpg": {
+      "sha256": "d96f610a8c6c926151e29d4209c1f22f586e5fd605adc49cc22c7dde0f00363c",
+      "bytes": 46177
+    },
+    "capsule.jpg": {
+      "sha256": "2c204fa4552e3a3ad104c56a66438c21bb53e0464e644e79fb02bf6e6dbf1e8f",
+      "bytes": 34150
+    },
+    "hero.jpg": {
+      "sha256": "983741a63a5b3bba5f6e1b25890c72912cb63675c93593c845fe8af4a0d65c60",
+      "bytes": 131512
+    }
+  }
+}

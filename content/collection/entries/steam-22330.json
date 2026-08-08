@@ -9,11 +9,11 @@
   "source": {
     "platform": "steam",
     "steamAppId": 22330,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 22330,
-    "title": "The Elder Scrolls IV: Oblivion® Game of the Year Edition (2009)",
+    "title": "The Elder Scrolls IV: Oblivion Game of the Year Edition (2009)",
     "owned": true,
     "playtimeMinutes": 550,
     "playtime2Weeks": null,
@@ -22,7 +22,7 @@
     "playtimeLinuxMinutes": 44,
     "lastPlayedAt": "2024-07-12T01:14:57.000Z",
     "storeUrl": "https://store.steampowered.com/app/22330/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api",
     "developers": [
       "Bethesda Game Studios"

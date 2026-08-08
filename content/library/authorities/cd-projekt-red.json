@@ -1,0 +1,36 @@
+{
+  "slug": "cd-projekt-red",
+  "authorityId": "AUTH-0091",
+  "type": "developer",
+  "preferredName": "CD PROJEKT RED",
+  "alternativeNames": [
+    "CD Projekt Red",
+    "CD Projekt RED",
+    "CDPR"
+  ],
+  "relatedAuthoritySlugs": [
+    "cyberpunk"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:00:00.000Z-cd-projekt-red",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0091 — controlled identity for CD PROJEKT RED."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:00:00.000Z-cd-projekt-red",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "CD PROJEKT RED — developer and publisher of record for Cyberpunk 2077 in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:00:00.000Z"
+}

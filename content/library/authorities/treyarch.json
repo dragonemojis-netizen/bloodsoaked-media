@@ -1,0 +1,33 @@
+{
+  "slug": "treyarch",
+  "authorityId": "AUTH-0100",
+  "type": "developer",
+  "preferredName": "Treyarch",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "activision",
+    "call-of-duty"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:10:00.000Z-treyarch",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0100 — controlled identity for Treyarch."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:10:00.000Z-treyarch",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Treyarch — developer of record for Call of Duty: World at War in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:10:00.000Z"
+}

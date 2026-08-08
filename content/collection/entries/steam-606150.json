@@ -1,0 +1,28 @@
+{
+  "id": "steam-606150",
+  "origin": "steam",
+  "title": "Moonlighter",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-08-08T17:35:45.984Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 606150,
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
+  },
+  "steam": {
+    "appId": 606150,
+    "title": "Moonlighter",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/606150/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api"
+  }
+}

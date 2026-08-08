@@ -1,0 +1,35 @@
+{
+  "slug": "gears-of-war",
+  "authorityId": "AUTH-0085",
+  "type": "series",
+  "preferredName": "Gears of War",
+  "alternativeNames": [
+    "Gears"
+  ],
+  "relatedAuthoritySlugs": [
+    "the-coalition",
+    "xbox-game-studios"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:00:00.000Z-gears-of-war",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0085 — controlled identity for Gears of War."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:00:00.000Z-gears-of-war",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Gears of War — series identity for Coalition / Xbox Game Studios titles retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:00:00.000Z"
+}

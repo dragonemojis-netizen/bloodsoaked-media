@@ -1,0 +1,53 @@
+{
+  "id": "steam-2001760",
+  "origin": "steam",
+  "title": "Beast of Reincarnation",
+  "eventType": "acquisition",
+  "status": "Filed",
+  "catalogued": "2026-08-03T22:52:55.577Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 2001760,
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
+  },
+  "steam": {
+    "appId": 2001760,
+    "title": "Beast of Reincarnation",
+    "owned": true,
+    "playtimeMinutes": 90,
+    "playtime2Weeks": 90,
+    "playtimeWindowsMinutes": 90,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-08-04T05:49:39.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2001760/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "GAME FREAK inc."
+    ],
+    "publishers": [
+      "Fictions"
+    ],
+    "releaseDate": "2026-08-03",
+    "releaseDateRaw": "3 Aug, 2026",
+    "comingSoon": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-03T23:03:32.851Z"
+  },
+  "filing": {
+    "librarySlug": "beast-of-reincarnation",
+    "shelfMark": "LIB-0014",
+    "filedAt": "2026-08-03T22:55:15.502Z"
+  }
+}

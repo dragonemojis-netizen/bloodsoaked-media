@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 204100,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 204100,
@@ -22,7 +22,37 @@
     "playtimeLinuxMinutes": 201,
     "lastPlayedAt": "2023-11-12T04:47:00.000Z",
     "storeUrl": "https://store.steampowered.com/app/204100/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Rockstar Studios"
+    ],
+    "publishers": [
+      "Rockstar Games"
+    ],
+    "releaseDate": "2012-05-31",
+    "releaseDateRaw": "May 31, 2012",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Partial Controller Support"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "No longer a New York City cop, Max Payne moves to São Paulo to protect a wealthy family in an effort to finally escape his troubled past. This complete edition of Max Payne 3 includes the complete original game and all previously released downloadable content.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/204100/header.jpg",
+      "capsule": "/images/collection/steam/204100/capsule.jpg",
+      "hero": "/images/collection/steam/204100/hero.jpg"
+    }
   }
 }

@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 208670,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 208670,
@@ -22,7 +22,43 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/208670/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Gaijin Entertainment Corporation"
+    ],
+    "publishers": [
+      "Gaijin Entertainment Corporation"
+    ],
+    "releaseDate": "2012-04-20",
+    "releaseDateRaw": "Apr 20, 2012",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "shortDescription": "Ayumi, the gorgeous gun and sword-wielding treasure hunter, sets out on a journey to an ancient island in search of new adventures. While rich in bounty, the island is also filled with the magic of Chaos, being at the same time home to blood thirsty monsters.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/208670/header.jpg",
+      "capsule": "/images/collection/steam/208670/capsule.jpg",
+      "hero": "/images/collection/steam/208670/hero.jpg"
+    }
   }
 }

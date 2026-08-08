@@ -1,0 +1,32 @@
+{
+  "slug": "far-cry",
+  "authorityId": "AUTH-0121",
+  "type": "series",
+  "preferredName": "Far Cry",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "ubisoft"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:20:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:20:00.000Z-far-cry",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0121 — controlled identity for Far Cry."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:20:00.000Z-far-cry",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Far Cry — series identity for Ubisoft open-world shooter titles retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:20:00.000Z"
+}

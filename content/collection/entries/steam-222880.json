@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 222880,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 222880,
@@ -22,7 +22,45 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2018-09-06T00:44:34.000Z",
     "storeUrl": "https://store.steampowered.com/app/222880/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "New World Interactive"
+    ],
+    "publishers": [
+      "New World Interactive"
+    ],
+    "releaseDate": "2014-01-22",
+    "releaseDateRaw": "Jan 22, 2014",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Multi-player",
+      "Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Valve Anti-Cheat enabled",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "shortDescription": "Take to the streets for intense close quarters combat, where a team's survival depends upon securing crucial strongholds and destroying enemy supply in this multiplayer and cooperative Source Engine based experience.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/222880/header.jpg",
+      "capsule": "/images/collection/steam/222880/capsule.jpg",
+      "hero": "/images/collection/steam/222880/hero.jpg"
+    }
   }
 }

@@ -1,0 +1,36 @@
+{
+  "slug": "helldivers",
+  "authorityId": "AUTH-0105",
+  "type": "series",
+  "preferredName": "Helldivers",
+  "alternativeNames": [
+    "HELLDIVERS",
+    "Helldivers 2"
+  ],
+  "relatedAuthoritySlugs": [
+    "arrowhead-game-studios",
+    "playstation-publishing"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:10:00.000Z-helldivers",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0105 — controlled identity for Helldivers."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:10:00.000Z-helldivers",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Helldivers — series identity for Arrowhead Game Studios titles retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:10:00.000Z"
+}

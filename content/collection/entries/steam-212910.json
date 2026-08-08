@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 212910,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 212910,
@@ -22,7 +22,25 @@
     "playtimeLinuxMinutes": 1,
     "lastPlayedAt": "2023-07-01T23:19:55.000Z",
     "storeUrl": "https://store.steampowered.com/app/212910/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [],
+    "publishers": [],
+    "releaseDate": null,
+    "releaseDateRaw": null,
+    "comingSoon": false,
+    "genres": [],
+    "categories": [
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/212910/header.jpg"
+    }
   }
 }

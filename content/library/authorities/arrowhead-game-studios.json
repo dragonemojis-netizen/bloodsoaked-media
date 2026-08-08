@@ -1,0 +1,35 @@
+{
+  "slug": "arrowhead-game-studios",
+  "authorityId": "AUTH-0103",
+  "type": "developer",
+  "preferredName": "Arrowhead Game Studios",
+  "alternativeNames": [
+    "Arrowhead"
+  ],
+  "relatedAuthoritySlugs": [
+    "playstation-publishing",
+    "helldivers"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:10:00.000Z-arrowhead-game-studios",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0103 — controlled identity for Arrowhead Game Studios."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:10:00.000Z-arrowhead-game-studios",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Arrowhead Game Studios — developer of record for Helldivers 2 in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:10:00.000Z"
+}

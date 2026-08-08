@@ -9,11 +9,11 @@
   "source": {
     "platform": "steam",
     "steamAppId": 351710,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 351710,
-    "title": "Hyperdimension Neptunia Re;Birth2 Sisters Generation",
+    "title": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
     "owned": true,
     "playtimeMinutes": 0,
     "playtime2Weeks": null,
@@ -22,7 +22,43 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/351710/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Idea Factory",
+      "Compile Heart",
+      "Felistella"
+    ],
+    "publishers": [
+      "Idea Factory",
+      "Idea Factory International"
+    ],
+    "releaseDate": "2015-05-29",
+    "releaseDateRaw": "May 29, 2015",
+    "comingSoon": false,
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Gamindustri has been taken over by a new threat, and the CPUs are nowhere to be found! It’s now up to their younger sisters to step into the spotlight and save the day in this hilarious, deeply customizable JRPG!",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/351710/header.jpg",
+      "capsule": "/images/collection/steam/351710/capsule.jpg",
+      "hero": "/images/collection/steam/351710/hero.jpg"
+    }
   }
 }

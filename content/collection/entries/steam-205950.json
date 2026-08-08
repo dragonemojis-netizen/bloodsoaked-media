@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 205950,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 205950,
@@ -22,7 +22,37 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/205950/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Blit Software"
+    ],
+    "publishers": [
+      "SEGA"
+    ],
+    "releaseDate": "2012-09-19",
+    "releaseDateRaw": "Sep 19, 2012",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Full controller support",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Tag, grind, and trick to the beat in SEGA’s hit game Jet Set Radio!",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/205950/header.jpg",
+      "capsule": "/images/collection/steam/205950/capsule.jpg",
+      "hero": "/images/collection/steam/205950/hero.jpg"
+    }
   }
 }

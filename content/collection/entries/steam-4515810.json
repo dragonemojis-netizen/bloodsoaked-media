@@ -1,0 +1,28 @@
+{
+  "id": "steam-4515810",
+  "origin": "steam",
+  "title": "Prospice Playtest",
+  "eventType": "acquisition",
+  "status": "Pipeline",
+  "catalogued": "2026-08-08T17:35:45.984Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 4515810,
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
+  },
+  "steam": {
+    "appId": 4515810,
+    "title": "Prospice Playtest",
+    "owned": true,
+    "playtimeMinutes": 7,
+    "playtime2Weeks": 7,
+    "playtimeWindowsMinutes": 7,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-08-04T19:36:51.000Z",
+    "storeUrl": "https://store.steampowered.com/app/4515810/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api"
+  }
+}

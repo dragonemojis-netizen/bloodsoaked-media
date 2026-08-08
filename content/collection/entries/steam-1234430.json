@@ -3,13 +3,13 @@
   "origin": "steam",
   "title": "Ad Infinitum",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
     "platform": "steam",
     "steamAppId": 1234430,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 1234430,
@@ -22,7 +22,31 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/1234430/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Hekate"
+    ],
+    "publishers": [
+      "Nacon"
+    ],
+    "releaseDate": "2023-09-14",
+    "releaseDateRaw": "Sep 14, 2023",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-03T23:12:28.097Z"
+  },
+  "filing": {
+    "librarySlug": "ad-infinitum",
+    "shelfMark": "LIB-0023",
+    "filedAt": "2026-08-03T23:09:52.060Z"
   }
 }

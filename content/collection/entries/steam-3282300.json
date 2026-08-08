@@ -1,0 +1,52 @@
+{
+  "id": "steam-3282300",
+  "origin": "steam",
+  "title": "Mistfall Hunter",
+  "eventType": "acquisition",
+  "status": "Filed",
+  "catalogued": "2026-08-03T22:52:55.577Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 3282300,
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
+  },
+  "steam": {
+    "appId": 3282300,
+    "title": "Mistfall Hunter",
+    "owned": true,
+    "playtimeMinutes": 1232,
+    "playtime2Weeks": 1232,
+    "playtimeWindowsMinutes": 1232,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-08-07T02:23:01.000Z",
+    "storeUrl": "https://store.steampowered.com/app/3282300/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Bellring Games"
+    ],
+    "publishers": [
+      "Skystone Games"
+    ],
+    "releaseDate": "2026-07-29",
+    "releaseDateRaw": "Jul 29, 2026",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-03T23:03:32.851Z"
+  },
+  "filing": {
+    "librarySlug": "mistfall-hunter",
+    "shelfMark": "LIB-0016",
+    "filedAt": "2026-08-03T22:55:33.344Z"
+  }
+}

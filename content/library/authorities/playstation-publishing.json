@@ -1,0 +1,36 @@
+{
+  "slug": "playstation-publishing",
+  "authorityId": "AUTH-0104",
+  "type": "publisher",
+  "preferredName": "PlayStation Publishing",
+  "alternativeNames": [
+    "PlayStation Publishing LLC",
+    "Sony Interactive Entertainment"
+  ],
+  "relatedAuthoritySlugs": [
+    "arrowhead-game-studios",
+    "helldivers"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:10:00.000Z-playstation-publishing",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0104 — controlled identity for PlayStation Publishing."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:10:00.000Z-playstation-publishing",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "PlayStation Publishing — publisher of record for Helldivers 2 in this archive’s PC Steam holding.",
+  "curatorialRevisionAt": "2026-08-08T18:10:00.000Z"
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "fields-of-mistria",
+  "title": "Fields of Mistria",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T17:40:37.610Z",
+  "shelfMark": "LIB-0047",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-2142790",
+    "reconciledAt": "2026-08-08T17:40:37.610Z"
+  },
+  "catalog": {
+    "release": "August 5, 2026",
+    "developer": "NPC Studio",
+    "publisher": "NPC Studio",
+    "subjects": [
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · NPC Studio build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · August 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Fields of Mistria as a digital indie holding.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows or Linux through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Access depends on Steam account custody and continued storefront availability.",
+    "concerns": "Account-bound digital holdings face platform dependency, storefront policy change, and client obsolescence. No physical disc or offline installer is held.",
+    "knownRevisions": "Entered Steam Early Access on August 5, 2024. Version 1.0 / full release is dated August 5, 2026 on the Steam storefront. This accession records the licensed digital edition in custody.",
+    "availability": "Held as a permanent digital license on the archive Steam account while that custody and Steam’s service for the title continue."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-2142790"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T17:40:37.610Z",
+      "at": "2026-08-08T17:40:37.610Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0047."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:00:00.000Z-fields-of-mistria",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam storefront / library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:00:00.000Z-fields-of-mistria",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:00:00.000Z-fields-of-mistria",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:00:00.000Z-fields-of-mistria",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:00:00.000Z-fields-of-mistria",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:00:00.000Z-fields-of-mistria",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 2142790,
+    "title": "Fields of Mistria",
+    "owned": true,
+    "playtimeMinutes": 318,
+    "playtime2Weeks": 318,
+    "playtimeWindowsMinutes": 318,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-08-08T16:23:09.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2142790/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "NPC Studio"
+    ],
+    "publishers": [
+      "NPC Studio"
+    ],
+    "releaseDate": "2026-08-05",
+    "releaseDateRaw": "Aug 5, 2026",
+    "comingSoon": false,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": true
+    },
+    "metadataSyncedAt": "2026-08-08T18:00:00.000Z"
+  },
+  "year": 2026,
+  "synopsis": "NPC Studio’s Fields of Mistria on Steam — a farming life-sim RPG retained as a permanent digital holding under the archive Steam account.",
+  "coverImage": "/images/library/fields-of-mistria/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:00:00.000Z",
+  "authorities": {
+    "developers": [
+      "npc-studio"
+    ],
+    "publishers": [
+      "npc-studio"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

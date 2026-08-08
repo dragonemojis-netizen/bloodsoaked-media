@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 234140,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 234140,
@@ -22,7 +22,44 @@
     "playtimeLinuxMinutes": 115,
     "lastPlayedAt": "2024-03-22T03:27:09.000Z",
     "storeUrl": "https://store.steampowered.com/app/234140/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Avalanche Studios"
+    ],
+    "publishers": [
+      "Warner Bros. Games",
+      "Warner Bros. Interactive Entertainment"
+    ],
+    "releaseDate": "2015-09-01",
+    "releaseDateRaw": "Sep 1, 2015",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Play as Mad Max, a reluctant hero and survivor who wants nothing more than to leave the madness behind and find solace.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/234140/header.jpg",
+      "capsule": "/images/collection/steam/234140/capsule.jpg",
+      "hero": "/images/collection/steam/234140/hero.jpg"
+    }
   }
 }

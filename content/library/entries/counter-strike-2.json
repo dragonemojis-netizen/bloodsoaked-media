@@ -108,7 +108,7 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2023-12-28T01:20:53.000Z",
     "storeUrl": "https://store.steampowered.com/app/730/",
-    "lastSynced": "2026-08-03T22:52:55.577Z",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api",
     "developers": [
       "Valve"
@@ -117,7 +117,7 @@
       "Valve"
     ],
     "releaseDate": "2012-08-21",
-    "releaseDateRaw": "21 Aug, 2012",
+    "releaseDateRaw": "Aug 21, 2012",
     "comingSoon": false,
     "genres": [
       "Action",
@@ -150,7 +150,7 @@
       "linux": true
     },
     "shortDescription": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
-    "metadataSyncedAt": "2026-08-03T23:03:32.851Z",
+    "metadataSyncedAt": "2026-07-26T03:12:32.243Z",
     "artwork": {
       "headerCapsule": "/images/collection/steam/730/header.jpg",
       "capsule": "/images/collection/steam/730/capsule.jpg",

@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 225260,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 225260,
@@ -22,7 +22,48 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2017-11-20T19:18:08.000Z",
     "storeUrl": "https://store.steampowered.com/app/225260/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Double Fine Productions"
+    ],
+    "publishers": [
+      "Double Fine Productions",
+      "Xbox Game Studios"
+    ],
+    "releaseDate": "2013-02-26",
+    "releaseDateRaw": "Feb 26, 2013",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "shortDescription": "Brütal Legend is an action-adventure that marries visceral action combat with open-world freedom. Set in a universe somewhere between Lord of the Rings and Spinal Tap, it’s a fresh take on the action/driving genre, which in this case is full of imitation cover bands, demons intent on enslaving humanity and Heavy metal tunes.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/225260/header.jpg",
+      "capsule": "/images/collection/steam/225260/capsule.jpg",
+      "hero": "/images/collection/steam/225260/hero.jpg"
+    }
   }
 }

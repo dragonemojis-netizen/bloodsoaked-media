@@ -1,0 +1,35 @@
+{
+  "slug": "krafton",
+  "authorityId": "AUTH-0107",
+  "type": "publisher",
+  "preferredName": "KRAFTON",
+  "alternativeNames": [
+    "KRAFTON, Inc.",
+    "Krafton"
+  ],
+  "relatedAuthoritySlugs": [
+    "pubg-corporation"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:10:00.000Z-krafton",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0107 — controlled identity for KRAFTON."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:10:00.000Z-krafton",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "KRAFTON — publisher of record for PUBG: BATTLEGROUNDS in this archive’s PC Steam holding.",
+  "curatorialRevisionAt": "2026-08-08T18:10:00.000Z"
+}

@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 200260,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 200260,
@@ -22,7 +22,40 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/200260/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Rocksteady Studios"
+    ],
+    "publishers": [
+      "WB Games"
+    ],
+    "releaseDate": "2012-09-07",
+    "releaseDateRaw": "Sep 7, 2012",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Get Batman: Arkham City and all DLC for one low price with the release of the GOTY Edition!",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/200260/header.jpg",
+      "capsule": "/images/collection/steam/200260/capsule.jpg",
+      "hero": "/images/collection/steam/200260/hero.jpg"
+    }
   }
 }

@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 243870,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 243870,
@@ -22,7 +22,34 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2015-01-17T20:39:06.000Z",
     "storeUrl": "https://store.steampowered.com/app/243870/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Ubisoft Singapore"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ],
+    "releaseDate": "2014-04-10",
+    "releaseDateRaw": "Apr 10, 2014",
+    "comingSoon": false,
+    "genres": [
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "Steam Achievements",
+      "Partial Controller Support"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Experience the next generation of PC multiplayer shooters with Tom Clancy’s Ghost Recon Phantoms. Step into the boots of an elite Ghost and deploy cutting-edge weapons and technology as you link up with your squad to dominate your enemies on tomorrow’s battlefield.",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/243870/header.jpg"
+    }
   }
 }

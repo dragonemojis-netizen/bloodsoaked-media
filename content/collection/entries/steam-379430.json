@@ -3,13 +3,13 @@
   "origin": "steam",
   "title": "Kingdom Come: Deliverance",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
     "platform": "steam",
     "steamAppId": 379430,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 379430,
@@ -22,7 +22,12 @@
     "playtimeLinuxMinutes": 167,
     "lastPlayedAt": "2024-10-10T02:08:35.000Z",
     "storeUrl": "https://store.steampowered.com/app/379430/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api"
+  },
+  "filing": {
+    "librarySlug": "kingdom-come-deliverance",
+    "shelfMark": "LIB-0064",
+    "filedAt": "2026-08-08T17:54:41.638Z"
   }
 }

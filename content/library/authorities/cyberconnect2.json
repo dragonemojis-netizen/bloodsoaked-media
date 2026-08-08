@@ -1,0 +1,36 @@
+{
+  "slug": "cyberconnect2",
+  "authorityId": "AUTH-0080",
+  "type": "developer",
+  "preferredName": "CyberConnect2",
+  "alternativeNames": [
+    "CYBERCONNECT2 Co., Ltd.",
+    "Cyber Connect 2"
+  ],
+  "relatedAuthoritySlugs": [
+    "bandai-namco-entertainment",
+    "hack"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:00:00.000Z-cyberconnect2",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0080 — controlled identity for CyberConnect2."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:00:00.000Z-cyberconnect2",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "CyberConnect2 — developer of record for .hack//G.U. Last Recode in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:00:00.000Z"
+}

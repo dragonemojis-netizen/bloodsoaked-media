@@ -1,0 +1,35 @@
+{
+  "slug": "activision",
+  "authorityId": "AUTH-0101",
+  "type": "publisher",
+  "preferredName": "Activision",
+  "alternativeNames": [
+    "Activision Publishing"
+  ],
+  "relatedAuthoritySlugs": [
+    "treyarch",
+    "call-of-duty"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:10:00.000Z-activision",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0101 — controlled identity for Activision."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:10:00.000Z-activision",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Activision — publisher of record for Call of Duty: World at War in this archive’s PC Steam holding.",
+  "curatorialRevisionAt": "2026-08-08T18:10:00.000Z"
+}

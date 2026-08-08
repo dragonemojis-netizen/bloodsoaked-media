@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 209000,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 209000,
@@ -22,7 +22,42 @@
     "playtimeLinuxMinutes": 83,
     "lastPlayedAt": "2023-12-28T07:27:05.000Z",
     "storeUrl": "https://store.steampowered.com/app/209000/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "WB Games Montreal",
+      "Splash Damage"
+    ],
+    "publishers": [
+      "Warner Bros. Interactive Entertainment"
+    ],
+    "releaseDate": "2013-10-24",
+    "releaseDateRaw": "Oct 24, 2013",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "As of December 4, 2016, the online services portion of Batman: Arkham Origins has been retired. We thank those that have joined us to battle. The Single player campaign may still be played and enjoyed offline. For any questions relating to Batman: Arkham Origins, please contact WB Games customer service.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/209000/header.jpg",
+      "capsule": "/images/collection/steam/209000/capsule.jpg",
+      "hero": "/images/collection/steam/209000/hero.jpg"
+    }
   }
 }

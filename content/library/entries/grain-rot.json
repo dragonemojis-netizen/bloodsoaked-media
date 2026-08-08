@@ -1,0 +1,156 @@
+{
+  "slug": "grain-rot",
+  "title": "GRAIN ROT",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T17:40:53.509Z",
+  "shelfMark": "LIB-0049",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-4450620",
+    "reconciledAt": "2026-08-08T17:40:53.509Z"
+  },
+  "catalog": {
+    "release": "August 7, 2026",
+    "developer": "Beck & Branch Games",
+    "publisher": "Neem Interactive",
+    "subjects": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Neem Interactive build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · August 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on GRAIN ROT as a digital indie holding.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from curated portrait key art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title.",
+    "concerns": "As with other account-bound Steam holdings: platform dependency, policy change, and the absence of a retained offline installer.",
+    "knownRevisions": "Steam release dated August 7, 2026. This accession records the licensed digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-4450620"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T17:40:53.509Z",
+      "at": "2026-08-08T17:40:53.509Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0049."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:00:00.000Z-grain-rot",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam storefront / library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:00:00.000Z-grain-rot",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:00:00.000Z-grain-rot",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:00:00.000Z-grain-rot",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:00:00.000Z-grain-rot",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:00:00.000Z-grain-rot",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T17:52:32.944Z-grain-rot",
+      "at": "2026-08-08T17:52:32.944Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Primary cover replaced with curated official portrait key art."
+    }
+  ],
+  "steam": {
+    "appId": 4450620,
+    "title": "GRAIN ROT",
+    "owned": true,
+    "playtimeMinutes": 113,
+    "playtime2Weeks": 113,
+    "playtimeWindowsMinutes": 113,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-08-07T23:52:36.000Z",
+    "storeUrl": "https://store.steampowered.com/app/4450620/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Beck & Branch Games"
+    ],
+    "publishers": [
+      "Neem Interactive"
+    ],
+    "releaseDate": "2026-08-07",
+    "releaseDateRaw": "7 Aug, 2026",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:00:00.000Z"
+  },
+  "year": 2026,
+  "synopsis": "Beck & Branch Games’ GRAIN ROT on Steam — a co-op extraction builder retained as a permanent digital holding under the archive Steam account.",
+  "coverImage": "/images/library/grain-rot/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T17:52:32.944Z",
+  "authorities": {
+    "developers": [
+      "beck-and-branch-games"
+    ],
+    "publishers": [
+      "neem-interactive"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 321270,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 321270,
@@ -22,7 +22,42 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/321270/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "BlueEagle Productions"
+    ],
+    "publishers": [
+      "Paul Schneider"
+    ],
+    "releaseDate": "2016-09-29",
+    "releaseDateRaw": "Sep 29, 2016",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Based on the community award-winning Doom2 mod with the same name by the same creator, UNLOVED is reimagined in the Unreal Engine 4 to bring forth the unspeakable terror in new ways. Play coop with your friends, increase your skills, mod your weapons and face the horror that this unearthly place holds...",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/321270/header.jpg",
+      "capsule": "/images/collection/steam/321270/capsule.jpg",
+      "hero": "/images/collection/steam/321270/hero.jpg"
+    }
   }
 }

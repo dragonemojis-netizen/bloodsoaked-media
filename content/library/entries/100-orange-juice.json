@@ -107,7 +107,7 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/282800/",
-    "lastSynced": "2026-08-03T22:52:55.577Z",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api",
     "developers": [
       "Orange_Juice",
@@ -123,12 +123,40 @@
       "Indie",
       "Strategy"
     ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
     "platforms": {
       "windows": true,
       "mac": true,
       "linux": true
     },
-    "metadataSyncedAt": "2026-08-03T23:12:28.097Z"
+    "shortDescription": "100% Orange Juice is a digital multiplayer board game populated by developer Orange Juice's all-star cast. Characters from Flying Red Barrel, QP Shooting, Suguri and Sora come together with all-new characters to duke it out... with dice.",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/282800/header.jpg",
+      "capsule": "/images/collection/steam/282800/capsule.jpg",
+      "hero": "/images/collection/steam/282800/hero.jpg"
+    }
   },
   "year": 2014,
   "synopsis": "Orange_Juice’s 100% Orange Juice on Steam — a multiplayer board-game holding retained as a permanent digital license.",

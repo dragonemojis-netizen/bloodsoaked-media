@@ -1,0 +1,56 @@
+{
+  "id": "steam-2073620",
+  "origin": "steam",
+  "title": "Arena Breakout: Infinite",
+  "eventType": "acquisition",
+  "status": "Filed",
+  "catalogued": "2026-08-03T22:52:55.577Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 2073620,
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
+  },
+  "steam": {
+    "appId": 2073620,
+    "title": "Arena Breakout: Infinite",
+    "owned": true,
+    "playtimeMinutes": 127,
+    "playtime2Weeks": 127,
+    "playtimeWindowsMinutes": 127,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-07-27T20:11:02.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2073620/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Morefun Studios"
+    ],
+    "publishers": [
+      "Morefun Studios"
+    ],
+    "releaseDate": "2025-09-15",
+    "releaseDateRaw": "Sep 15, 2025",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Strategy",
+      "Free To Play"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-03T23:12:28.097Z"
+  },
+  "filing": {
+    "librarySlug": "arena-breakout-infinite",
+    "shelfMark": "LIB-0024",
+    "filedAt": "2026-08-03T23:09:57.461Z"
+  }
+}

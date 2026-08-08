@@ -1,0 +1,177 @@
+{
+  "slug": "call-of-duty-black-ops-iii",
+  "title": "Call of Duty: Black Ops III",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T17:59:10.984Z",
+  "shelfMark": "LIB-0066",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-311210",
+    "reconciledAt": "2026-08-08T17:59:10.984Z"
+  },
+  "catalog": {
+    "release": "November 5, 2015",
+    "developer": "Treyarch",
+    "publisher": "Activision",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "First-Person Shooter",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Activision build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Call of Duty: Black Ops III as a mid-2010s Call of Duty digital filing.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows or macOS through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account, Steam’s support for the title, and Activision services where multiplayer components require them.",
+    "concerns": "Online multiplayer and live-service components face elevated long-term access risk. Account-bound licensing and the absence of a retained offline installer remain the principal concerns.",
+    "knownRevisions": "Steam release dated November 5, 2015. This accession records the licensed digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "series": "Call of Duty",
+    "collectionIds": [
+      "steam-311210"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T17:59:10.984Z",
+      "at": "2026-08-08T17:59:10.984Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0066."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:20:00.000Z-call-of-duty-black-ops-iii",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:20:00.000Z-call-of-duty-black-ops-iii",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:20:00.000Z-call-of-duty-black-ops-iii",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:20:00.000Z-call-of-duty-black-ops-iii",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:20:00.000Z-call-of-duty-black-ops-iii",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:20:00.000Z-call-of-duty-black-ops-iii",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 311210,
+    "title": "Call of Duty®: Black Ops III",
+    "owned": true,
+    "playtimeMinutes": 7502,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 2963,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 231,
+    "lastPlayedAt": "2025-12-31T05:33:39.000Z",
+    "storeUrl": "https://store.steampowered.com/app/311210/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Treyarch",
+      "Aspyr (Mac)"
+    ],
+    "publishers": [
+      "Activision",
+      "Aspyr (Mac)"
+    ],
+    "releaseDate": "2015-11-05",
+    "releaseDateRaw": "Nov 5, 2015",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Valve Anti-Cheat enabled",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "shortDescription": "Call of Duty®: Black Ops III Zombies Chronicles Edition includes the full base game plus the Zombies Chronicles content expansion.",
+    "metadataSyncedAt": "2026-08-08T18:20:00.000Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/311210/header.jpg",
+      "capsule": "/images/collection/steam/311210/capsule.jpg",
+      "hero": "/images/collection/steam/311210/hero.jpg"
+    }
+  },
+  "year": 2015,
+  "synopsis": "Treyarch’s Call of Duty: Black Ops III on Steam — retained as a permanent digital holding in the Call of Duty series.",
+  "coverImage": "/images/library/call-of-duty-black-ops-iii/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:20:00.000Z",
+  "authorities": {
+    "developers": [
+      "treyarch"
+    ],
+    "publishers": [
+      "activision"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "call-of-duty"
+    ]
+  }
+}

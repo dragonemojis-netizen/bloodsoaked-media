@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 57300,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 57300,
@@ -22,7 +22,46 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2015-02-23T01:41:46.000Z",
     "storeUrl": "https://store.steampowered.com/app/57300/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Frictional Games"
+    ],
+    "publishers": [
+      "Frictional Games"
+    ],
+    "releaseDate": "2010-09-08",
+    "releaseDateRaw": "Sep 8, 2010",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Captions available",
+      "Includes level editor",
+      "Commentary available",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "shortDescription": "Amnesia: The Dark Descent, a first person survival horror. A game about immersion, discovery and living through a nightmare. An experience that will chill you to the core.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/57300/header.jpg",
+      "capsule": "/images/collection/steam/57300/capsule.jpg",
+      "hero": "/images/collection/steam/57300/hero.jpg"
+    }
   }
 }

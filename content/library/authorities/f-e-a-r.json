@@ -1,0 +1,36 @@
+{
+  "slug": "f-e-a-r",
+  "authorityId": "AUTH-0115",
+  "type": "series",
+  "preferredName": "F.E.A.R.",
+  "alternativeNames": [
+    "FEAR",
+    "First Encounter Assault Recon"
+  ],
+  "relatedAuthoritySlugs": [
+    "monolith-productions",
+    "warner-bros-games"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:20:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:20:00.000Z-f-e-a-r",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0115 — controlled identity for F.E.A.R.."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:20:00.000Z-f-e-a-r",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "F.E.A.R. — series identity for Monolith Productions horror-shooter titles retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:20:00.000Z"
+}

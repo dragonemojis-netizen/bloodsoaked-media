@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 55100,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 55100,
@@ -22,7 +22,41 @@
     "playtimeLinuxMinutes": 132,
     "lastPlayedAt": "2022-10-26T05:58:05.000Z",
     "storeUrl": "https://store.steampowered.com/app/55100/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Kaos Studios",
+      "Digital Extremes"
+    ],
+    "publishers": [
+      "Deep Silver"
+    ],
+    "releaseDate": "2011-03-14",
+    "releaseDateRaw": "Mar 14, 2011",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "The Rock Map Pack is Now Available! Join the Resistance, stand united and fight for freedom against an overwhelming military force.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/55100/header.jpg",
+      "capsule": "/images/collection/steam/55100/capsule.jpg",
+      "hero": "/images/collection/steam/55100/hero.jpg"
+    }
   }
 }

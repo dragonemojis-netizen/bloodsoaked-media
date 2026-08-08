@@ -1,0 +1,36 @@
+{
+  "slug": "343-industries",
+  "authorityId": "AUTH-0098",
+  "type": "developer",
+  "preferredName": "343 Industries",
+  "alternativeNames": [
+    "343 Industries LLC"
+  ],
+  "relatedAuthoritySlugs": [
+    "xbox-game-studios",
+    "halo",
+    "bungie"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:10:00.000Z-343-industries",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0098 — controlled identity for 343 Industries."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:10:00.000Z-343-industries",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "343 Industries — developer of record for Halo: The Master Chief Collection in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:10:00.000Z"
+}

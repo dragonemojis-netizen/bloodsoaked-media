@@ -3,13 +3,13 @@
   "origin": "steam",
   "title": "Far Cry 5",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
     "platform": "steam",
     "steamAppId": 552520,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 552520,
@@ -22,7 +22,12 @@
     "playtimeLinuxMinutes": 79,
     "lastPlayedAt": "2025-12-17T01:47:12.000Z",
     "storeUrl": "https://store.steampowered.com/app/552520/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api"
+  },
+  "filing": {
+    "librarySlug": "far-cry-5",
+    "shelfMark": "LIB-0074",
+    "filedAt": "2026-08-08T17:59:50.358Z"
   }
 }

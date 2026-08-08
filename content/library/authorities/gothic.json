@@ -1,0 +1,35 @@
+{
+  "slug": "gothic",
+  "authorityId": "AUTH-0124",
+  "type": "series",
+  "preferredName": "Gothic",
+  "alternativeNames": [
+    "Gothic 1 Remake"
+  ],
+  "relatedAuthoritySlugs": [
+    "alkimia-interactive",
+    "thq-nordic"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:20:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:20:00.000Z-gothic",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0124 — controlled identity for Gothic."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:20:00.000Z-gothic",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Gothic — series identity for Gothic titles retained in the Bloodsoaked Library, including the 2026 remake.",
+  "curatorialRevisionAt": "2026-08-08T18:20:00.000Z"
+}

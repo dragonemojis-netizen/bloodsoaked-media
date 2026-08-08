@@ -3,9 +3,15 @@
   "authorityId": "AUTH-0001",
   "type": "developer",
   "preferredName": "Bungie",
-  "alternativeNames": ["Bungie, Inc.", "Bungie Software"],
+  "alternativeNames": [
+    "Bungie, Inc.",
+    "Bungie Software"
+  ],
   "establishedDate": "1991",
-  "relatedAuthoritySlugs": ["steam", "pc"],
+  "relatedAuthoritySlugs": [
+    "steam",
+    "pc"
+  ],
   "relatedHoldingIds": [],
   "externalReferences": [],
   "visibility": "published",
@@ -18,5 +24,7 @@
       "summary": "Filed into the Library",
       "note": "Established as AUTH-0001 — controlled identity for Bungie."
     }
-  ]
+  ],
+  "description": "Bungie — developer of record for Destiny 2 and a credited studio on Halo: The Master Chief Collection in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:10:00.000Z"
 }

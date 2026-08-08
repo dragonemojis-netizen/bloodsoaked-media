@@ -1,0 +1,53 @@
+{
+  "id": "steam-2379780",
+  "origin": "steam",
+  "title": "Balatro",
+  "eventType": "acquisition",
+  "status": "Filed",
+  "catalogued": "2026-08-03T22:52:55.577Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 2379780,
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
+  },
+  "steam": {
+    "appId": 2379780,
+    "title": "Balatro",
+    "owned": true,
+    "playtimeMinutes": 245,
+    "playtime2Weeks": 245,
+    "playtimeWindowsMinutes": 245,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-07-29T02:47:56.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2379780/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "LocalThunk"
+    ],
+    "publishers": [
+      "Playstack"
+    ],
+    "releaseDate": "2024-02-20",
+    "releaseDateRaw": "Feb 20, 2024",
+    "comingSoon": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-03T23:03:32.851Z"
+  },
+  "filing": {
+    "librarySlug": "balatro",
+    "shelfMark": "LIB-0013",
+    "filedAt": "2026-08-03T22:55:08.550Z"
+  }
+}

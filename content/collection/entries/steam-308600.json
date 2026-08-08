@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 308600,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 308600,
@@ -22,7 +22,47 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2025-11-11T21:10:59.000Z",
     "storeUrl": "https://store.steampowered.com/app/308600/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Ben Johnson (bencelot) "
+    ],
+    "publishers": [
+      "Nik Nak Studios"
+    ],
+    "releaseDate": "2017-05-23",
+    "releaseDateRaw": "May 23, 2017",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Free To Play",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "In-App Purchases",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": true
+    },
+    "shortDescription": "Loot, shoot, cast and drive in this chaotic PvP Roguelite. Level up fast, draft wild skills, and create crazy combos on the fly. Explore a GTA-style battle royale with no queues or downtime as you prepare to win the final fight. Play solos, duos or trios with friends and climb the ranks!",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/308600/header.jpg",
+      "capsule": "/images/collection/steam/308600/capsule.jpg",
+      "hero": "/images/collection/steam/308600/hero.jpg"
+    }
   }
 }

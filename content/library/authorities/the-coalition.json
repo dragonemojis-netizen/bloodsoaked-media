@@ -1,0 +1,33 @@
+{
+  "slug": "the-coalition",
+  "authorityId": "AUTH-0083",
+  "type": "developer",
+  "preferredName": "The Coalition",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "xbox-game-studios",
+    "gears-of-war"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:00:00.000Z-the-coalition",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0083 — controlled identity for The Coalition."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:00:00.000Z-the-coalition",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "The Coalition — developer of record for Gears of War: E-Day in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:00:00.000Z"
+}

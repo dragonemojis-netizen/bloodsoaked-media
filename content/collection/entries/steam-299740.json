@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 299740,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 299740,
@@ -22,7 +22,48 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2021-01-12T21:55:30.000Z",
     "storeUrl": "https://store.steampowered.com/app/299740/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Entrada Interactive LLC"
+    ],
+    "publishers": [
+      "Entrada Interactive LLC"
+    ],
+    "releaseDate": "2018-12-18",
+    "releaseDateRaw": "Dec 18, 2018",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Miscreated is a multiplayer online hardcore survival game set in a post-apocalyptic future. You will need to survive against mutants, players, and even mother nature herself.",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/299740/header.jpg",
+      "capsule": "/images/collection/steam/299740/capsule.jpg",
+      "hero": "/images/collection/steam/299740/hero.jpg"
+    }
   }
 }

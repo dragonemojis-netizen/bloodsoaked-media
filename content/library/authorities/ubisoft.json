@@ -3,7 +3,9 @@
   "authorityId": "AUTH-0005",
   "type": "publisher",
   "preferredName": "Ubisoft",
-  "alternativeNames": ["Ubisoft Entertainment"],
+  "alternativeNames": [
+    "Ubisoft Entertainment"
+  ],
   "establishedDate": "1986",
   "relatedAuthoritySlugs": [],
   "relatedHoldingIds": [],
@@ -18,5 +20,7 @@
       "summary": "Filed into the Library",
       "note": "Established as AUTH-0005 — controlled identity for Ubisoft."
     }
-  ]
+  ],
+  "description": "Ubisoft — publisher of record for Far Cry 5 and Assassin's Creed Black Flag Resynced in this archive’s PC Steam holdings.",
+  "curatorialRevisionAt": "2026-08-08T18:20:00.000Z"
 }

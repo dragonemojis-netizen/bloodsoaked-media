@@ -3,13 +3,13 @@
   "origin": "steam",
   "title": "Counter-Strike 2",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
     "platform": "steam",
     "steamAppId": 730,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 730,
@@ -22,7 +22,7 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2023-12-28T01:20:53.000Z",
     "storeUrl": "https://store.steampowered.com/app/730/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api",
     "developers": [
       "Valve"
@@ -70,5 +70,10 @@
       "capsule": "/images/collection/steam/730/capsule.jpg",
       "hero": "/images/collection/steam/730/hero.jpg"
     }
+  },
+  "filing": {
+    "librarySlug": "counter-strike-2",
+    "shelfMark": "LIB-0012",
+    "filedAt": "2026-08-03T22:54:58.797Z"
   }
 }

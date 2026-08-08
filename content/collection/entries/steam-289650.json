@@ -9,11 +9,11 @@
   "source": {
     "platform": "steam",
     "steamAppId": 289650,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 289650,
-    "title": "Assassin's Creed Unity",
+    "title": "Assassin's Creed® Unity",
     "owned": true,
     "playtimeMinutes": 495,
     "playtime2Weeks": null,
@@ -22,7 +22,47 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2023-12-30T20:22:13.000Z",
     "storeUrl": "https://store.steampowered.com/app/289650/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Ubisoft"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ],
+    "releaseDate": "2014-11-11",
+    "releaseDateRaw": "Nov 11, 2014",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Paris, 1789. In this action-adventure game, experience the French Revolution through the eyes of Arno Dorian. Become an Assassin and expose the true powers behind the Revolution for the fate of a nation.",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/289650/header.jpg",
+      "capsule": "/images/collection/steam/289650/capsule.jpg",
+      "hero": "/images/collection/steam/289650/hero.jpg"
+    }
   }
 }

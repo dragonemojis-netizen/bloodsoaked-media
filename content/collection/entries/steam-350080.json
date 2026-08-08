@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 350080,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 350080,
@@ -22,7 +22,42 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/350080/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "MachineGames"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "releaseDate": "2015-05-04",
+    "releaseDateRaw": "May 4, 2015",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Color Alternatives",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Wolfenstein®: The Old Blood™ is a standalone prequel to the critically acclaimed first-person action-adventure shooter, Wolfenstein®: The New Order. This adventure spans eight chapters and features the hallmarks of MachineGames – thrilling action, immersive story, and intense FPS combat.",
+    "metadataSyncedAt": "2026-08-08T17:35:45.984Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/350080/header.jpg",
+      "capsule": "/images/collection/steam/350080/capsule.jpg",
+      "hero": "/images/collection/steam/350080/hero.jpg"
+    }
   }
 }

@@ -1,0 +1,146 @@
+{
+  "slug": "arc-raiders",
+  "title": "ARC Raiders",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T17:54:23.531Z",
+  "shelfMark": "LIB-0060",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-1808500",
+    "reconciledAt": "2026-08-08T17:54:23.531Z"
+  },
+  "catalog": {
+    "release": "October 30, 2025",
+    "developer": "Embark Studios",
+    "publisher": "Embark Studios",
+    "subjects": [
+      "Action",
+      "Extraction Shooter",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Embark Studios build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on ARC Raiders as a digital extraction multiplayer holding.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account, Steam’s support for the title, and Embark online services.",
+    "concerns": "Extraction multiplayer holdings depend on live servers and account authentication. Platform dependency and the absence of a retained offline installer are the principal risks.",
+    "knownRevisions": "Steam release dated October 30, 2025. This accession records the licensed digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and the required services remain intact."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-1808500"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T17:54:23.531Z",
+      "at": "2026-08-08T17:54:23.531Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0060."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:10:00.000Z-arc-raiders",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:10:00.000Z-arc-raiders",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:10:00.000Z-arc-raiders",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:10:00.000Z-arc-raiders",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:10:00.000Z-arc-raiders",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:10:00.000Z-arc-raiders",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 1808500,
+    "title": "ARC Raiders",
+    "owned": true,
+    "playtimeMinutes": 7127,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 7127,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2025-11-20T22:24:32.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1808500/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Embark Studios"
+    ],
+    "publishers": [
+      "Embark Studios"
+    ],
+    "releaseDate": "2025-10-30",
+    "releaseDateRaw": "Oct 30, 2025",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:10:00.000Z"
+  },
+  "year": 2025,
+  "synopsis": "Embark Studios’ ARC Raiders on Steam — a multiplayer extraction adventure retained as a permanent digital holding under the archive Steam account.",
+  "coverImage": "/images/library/arc-raiders/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:10:00.000Z",
+  "authorities": {
+    "developers": [
+      "embark-studios"
+    ],
+    "publishers": [
+      "embark-studios"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

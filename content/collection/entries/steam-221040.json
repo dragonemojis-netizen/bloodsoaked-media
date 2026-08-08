@@ -9,7 +9,7 @@
   "source": {
     "platform": "steam",
     "steamAppId": 221040,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 221040,
@@ -22,7 +22,46 @@
     "playtimeLinuxMinutes": 96,
     "lastPlayedAt": "2023-04-25T04:10:35.000Z",
     "storeUrl": "https://store.steampowered.com/app/221040/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
-    "source": "steam-web-api"
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Capcom"
+    ],
+    "publishers": [
+      "Capcom"
+    ],
+    "releaseDate": "2013-03-21",
+    "releaseDateRaw": "Mar 21, 2013",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Steam Leaderboards",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Blending action and survival horror, Resident Evil 6 promises to be the dramatic horror experience of 2013.",
+    "metadataSyncedAt": "2026-08-03T22:52:55.577Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/221040/header.jpg",
+      "capsule": "/images/collection/steam/221040/capsule.jpg",
+      "hero": "/images/collection/steam/221040/hero.jpg"
+    }
   }
 }

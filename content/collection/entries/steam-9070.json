@@ -9,11 +9,11 @@
   "source": {
     "platform": "steam",
     "steamAppId": 9070,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 9070,
-    "title": "DOOM 3 Resurrection of Evil",
+    "title": "DOOM 3: Resurrection of Evil",
     "owned": true,
     "playtimeMinutes": 0,
     "playtime2Weeks": null,
@@ -22,7 +22,7 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": null,
     "storeUrl": "https://store.steampowered.com/app/9070/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api",
     "developers": [
       "id Software"

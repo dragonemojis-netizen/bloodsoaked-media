@@ -1,0 +1,156 @@
+{
+  "slug": "silent-hill-2-2",
+  "title": "Silent Hill 2",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T17:54:51.519Z",
+  "shelfMark": "LIB-0065",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-2124490",
+    "reconciledAt": "2026-08-08T17:54:51.519Z"
+  },
+  "catalog": {
+    "release": "October 7, 2024",
+    "developer": "Bloober Team",
+    "publisher": "Konami",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "Survival Horror",
+      "Silent Hill",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Konami build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on the 2024 Silent Hill 2 remake as the archive’s contemporary digital counterpart to the PlayStation 2 reference copy.",
+  "collectionNotes": "Digital ownership confirmed via Steam. No physical edition is held for this accession. Official cover artwork has been entered from Steam library art. The North American PlayStation 2 Silent Hill 2 retail disc remains a separate physical filing.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title.",
+    "concerns": "As with other account-bound Steam holdings: platform dependency, policy change, and the absence of a retained offline installer.",
+    "knownRevisions": "Bloober Team remake released on Steam October 7, 2024. This accession records the licensed digital remake and does not replace the North American PlayStation 2 Silent Hill 2 reference copy (LIB-0044).",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "series": "Silent Hill",
+    "relatedEntrySlugs": [
+      "silent-hill-2"
+    ],
+    "collectionIds": [
+      "steam-2124490"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T17:54:51.519Z",
+      "at": "2026-08-08T17:54:51.519Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0065."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:10:00.000Z-silent-hill-2-2",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:10:00.000Z-silent-hill-2-2",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:10:00.000Z-silent-hill-2-2",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:10:00.000Z-silent-hill-2-2",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:10:00.000Z-silent-hill-2-2",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:10:00.000Z-silent-hill-2-2",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 2124490,
+    "title": "SILENT HILL 2",
+    "owned": true,
+    "playtimeMinutes": 3930,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 3911,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 19,
+    "lastPlayedAt": "2025-12-16T05:53:56.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2124490/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Bloober Team SA"
+    ],
+    "publishers": [
+      "KONAMI"
+    ],
+    "releaseDate": "2024-10-07",
+    "releaseDateRaw": "Oct 7, 2024",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:10:00.000Z"
+  },
+  "year": 2024,
+  "synopsis": "Bloober Team’s Silent Hill 2 remake on Steam — retained as a permanent digital holding alongside the PlayStation 2 original.",
+  "coverImage": "/images/library/silent-hill-2-2/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:10:00.000Z",
+  "authorities": {
+    "developers": [
+      "bloober-team"
+    ],
+    "publishers": [
+      "konami"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "silent-hill"
+    ]
+  }
+}

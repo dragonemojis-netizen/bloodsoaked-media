@@ -1,0 +1,33 @@
+{
+  "id": "steam-525480",
+  "origin": "steam",
+  "title": ".hack//G.U. Last Recode",
+  "eventType": "acquisition",
+  "status": "Filed",
+  "catalogued": "2026-08-08T17:35:45.984Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 525480,
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
+  },
+  "steam": {
+    "appId": 525480,
+    "title": ".hack//G.U. Last Recode",
+    "owned": true,
+    "playtimeMinutes": 31,
+    "playtime2Weeks": 31,
+    "playtimeWindowsMinutes": 31,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-08-07T03:37:05.000Z",
+    "storeUrl": "https://store.steampowered.com/app/525480/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api"
+  },
+  "filing": {
+    "librarySlug": "hack-g-u-last-recode",
+    "shelfMark": "LIB-0046",
+    "filedAt": "2026-08-08T17:40:30.238Z"
+  }
+}

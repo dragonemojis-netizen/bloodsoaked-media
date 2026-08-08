@@ -1,0 +1,373 @@
+{
+  "response": {
+    "store_items": [
+      {
+        "item_type": 0,
+        "id": 3932890,
+        "success": 1,
+        "visible": true,
+        "name": "Escape from Tarkov",
+        "store_url_path": "app/3932890/Escape_from_Tarkov",
+        "appid": 3932890,
+        "type": 0,
+        "content_descriptorids": [
+          2,
+          5
+        ],
+        "categories": {
+          "supported_player_categoryids": [
+            1,
+            20,
+            49,
+            36,
+            9,
+            38
+          ],
+          "feature_categoryids": [
+            22,
+            29,
+            35,
+            66,
+            67,
+            68,
+            69,
+            70,
+            74
+          ]
+        },
+        "assets": {
+          "asset_url_format": "steam/apps/3932890/${FILENAME}?t=1785782094",
+          "main_capsule": "3c90584f07e009ebc5b6065a628b9c65ec0d29d3/capsule_616x353_alt_assets_2.jpg",
+          "main_capsule_2x": "3c90584f07e009ebc5b6065a628b9c65ec0d29d3/capsule_616x353_alt_assets_2_2x.jpg",
+          "small_capsule": "236dcc64545c082a9f4382757390ce91c474ddbe/capsule_231x87_alt_assets_2.jpg",
+          "small_capsule_2x": "236dcc64545c082a9f4382757390ce91c474ddbe/capsule_231x87_alt_assets_2_2x.jpg",
+          "header": "4dd12ea3b00a4f8b67bfd629f3b9abbf8d5cab05/header_alt_assets_2.jpg",
+          "header_2x": "4dd12ea3b00a4f8b67bfd629f3b9abbf8d5cab05/header_alt_assets_2_2x.jpg",
+          "page_background": "509c1f55460374f2286a5010eeff788557b2bcdc/page_bg_v6.jpg",
+          "hero_capsule": "8ed24d1d13a8877c57c588139f3e30ca7de88d5b/hero_capsule_alt_assets_2.jpg",
+          "hero_capsule_2x": "8ed24d1d13a8877c57c588139f3e30ca7de88d5b/hero_capsule_alt_assets_2_2x.jpg",
+          "library_capsule": "df4e504f2a0aa246750265c44bc2578895ff043e/library_capsule.jpg",
+          "library_capsule_2x": "df4e504f2a0aa246750265c44bc2578895ff043e/library_capsule_2x.jpg",
+          "library_hero": "aafc8223ec54157952204dce609e40ec743e7720/library_hero.jpg",
+          "library_hero_2x": "aafc8223ec54157952204dce609e40ec743e7720/library_hero_2x.jpg",
+          "community_icon": "807fdb2b66eacb5e550b9043197cb7fd2b11b505",
+          "page_background_path": "app/3932890?t=1785782094",
+          "raw_page_background": "509c1f55460374f2286a5010eeff788557b2bcdc/page_bg_raw.jpg",
+          "edition_comparison": "22d957efa6a57fddc380045b4881bcd9a7418ef7/edition_comparision.png"
+        },
+        "best_purchase_option": {
+          "packageid": 1381724,
+          "purchase_option_name": "Escape from Tarkov - Standard Edition",
+          "final_price_in_cents": "4999",
+          "formatted_final_price": "$49.99",
+          "user_can_purchase_as_gift": true,
+          "hide_discount_pct_for_compliance": false,
+          "included_game_count": 1,
+          "must_purchase_as_set": false,
+          "package_group": "default",
+          "price_cannot_be_displayed_as_discount": false
+        },
+        "assets_without_overrides": {
+          "asset_url_format": "steam/apps/3932890/${FILENAME}?t=1785782094",
+          "main_capsule": "b2f778ce89eabef7a6ce498cfa1731aa02e0c1ed/capsule_616x353.jpg",
+          "main_capsule_2x": "b2f778ce89eabef7a6ce498cfa1731aa02e0c1ed/capsule_616x353_2x.jpg",
+          "small_capsule": "2c6e1e35562ccc39bb34436d2ea1064710691d9d/capsule_231x87.jpg",
+          "small_capsule_2x": "2c6e1e35562ccc39bb34436d2ea1064710691d9d/capsule_231x87_2x.jpg",
+          "header": "e1367f10d469137a2ced522b642a9b1ee10450da/header.jpg",
+          "header_2x": "e1367f10d469137a2ced522b642a9b1ee10450da/header_2x.jpg",
+          "page_background": "509c1f55460374f2286a5010eeff788557b2bcdc/page_bg_v6.jpg",
+          "hero_capsule": "9e35867580a0ec57a9af50dc8f27887c772cbba2/hero_capsule.jpg",
+          "hero_capsule_2x": "9e35867580a0ec57a9af50dc8f27887c772cbba2/hero_capsule_2x.jpg",
+          "library_capsule": "df4e504f2a0aa246750265c44bc2578895ff043e/library_capsule.jpg",
+          "library_capsule_2x": "df4e504f2a0aa246750265c44bc2578895ff043e/library_capsule_2x.jpg",
+          "library_hero": "aafc8223ec54157952204dce609e40ec743e7720/library_hero.jpg",
+          "library_hero_2x": "aafc8223ec54157952204dce609e40ec743e7720/library_hero_2x.jpg",
+          "community_icon": "807fdb2b66eacb5e550b9043197cb7fd2b11b505",
+          "page_background_path": "app/3932890?t=1785782094",
+          "raw_page_background": "509c1f55460374f2286a5010eeff788557b2bcdc/page_bg_raw.jpg",
+          "edition_comparison": "22d957efa6a57fddc380045b4881bcd9a7418ef7/edition_comparision.png"
+        }
+      },
+      {
+        "item_type": 0,
+        "id": 2807960,
+        "success": 1,
+        "visible": true,
+        "name": "Battlefield™ 6",
+        "store_url_path": "app/2807960/Battlefield_6",
+        "appid": 2807960,
+        "type": 0,
+        "related_items": {
+          "related_f2p": {
+            "appid": 3028330,
+            "header_text": "Try Battlefield™ REDSEC For Free",
+            "description_text": "Now entering REDSEC, the ultimate free-to-play FPS destination built on Battlefield’s iconic DNA. Featuring Battle Royale, Gauntlet, and the power of Portal."
+          }
+        },
+        "content_descriptorids": [
+          2,
+          5
+        ],
+        "categories": {
+          "supported_player_categoryids": [
+            2,
+            1,
+            49,
+            36,
+            27
+          ],
+          "feature_categoryids": [
+            22,
+            35,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            72,
+            73,
+            74,
+            75,
+            78,
+            23,
+            61
+          ],
+          "controller_categoryids": [
+            28,
+            55,
+            57,
+            58
+          ]
+        },
+        "assets": {
+          "asset_url_format": "steam/apps/2807960/${FILENAME}?t=1784839791",
+          "main_capsule": "e0fa2647f3ec682171e97ecd739599da104488b8/capsule_616x353_alt_assets_20.jpg",
+          "main_capsule_2x": "e0fa2647f3ec682171e97ecd739599da104488b8/capsule_616x353_alt_assets_20_2x.jpg",
+          "small_capsule": "d7ae078e0a543a97ff5a5d72165999535b0b1cdc/capsule_231x87.jpg",
+          "small_capsule_2x": "d7ae078e0a543a97ff5a5d72165999535b0b1cdc/capsule_231x87_2x.jpg",
+          "header": "c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg",
+          "header_2x": "c12d12ce3c7d217398d3fcad77427bfc9d57c570/header_2x.jpg",
+          "page_background": "d127c8b4a1c85122b8aeffdd00163b318b8c2a41/page_bg_v6.jpg",
+          "hero_capsule": "4bf05302e4ac2086fed8a75ed7cd0673602b2c62/hero_capsule.jpg",
+          "hero_capsule_2x": "4bf05302e4ac2086fed8a75ed7cd0673602b2c62/hero_capsule_2x.jpg",
+          "library_capsule": "289b1c193f9730a0d4ea4dbf912219e46cd1a8a3/library_capsule.jpg",
+          "library_capsule_2x": "289b1c193f9730a0d4ea4dbf912219e46cd1a8a3/library_capsule_2x.jpg",
+          "library_hero": "38bc66fe214422bb28e98fbd50e834c51bed85c7/library_hero.jpg",
+          "library_hero_2x": "38bc66fe214422bb28e98fbd50e834c51bed85c7/library_hero_2x.jpg",
+          "community_icon": "195cfd006af0fc4ab13b35bbb0c1a4f46416d303",
+          "page_background_path": "app/2807960?t=1784839791",
+          "raw_page_background": "d127c8b4a1c85122b8aeffdd00163b318b8c2a41/page_bg_raw.jpg",
+          "edition_comparison": "56985b610a0151a92743c279b50b28e371169148/edition_comparision.png"
+        },
+        "best_purchase_option": {
+          "packageid": 1115548,
+          "purchase_option_name": "Battlefield™ 6",
+          "final_price_in_cents": "3499",
+          "original_price_in_cents": "6999",
+          "formatted_final_price": "$34.99",
+          "formatted_original_price": "$69.99",
+          "discount_pct": 50,
+          "active_discounts": [
+            {
+              "discount_amount": "3500",
+              "discount_description": "#discount_desc_preset_special",
+              "discount_end_date": 1786208400
+            }
+          ],
+          "user_can_purchase_as_gift": true,
+          "hide_discount_pct_for_compliance": false,
+          "included_game_count": 1,
+          "must_purchase_as_set": false,
+          "package_group": "default",
+          "price_cannot_be_displayed_as_discount": false
+        },
+        "assets_without_overrides": {
+          "asset_url_format": "steam/apps/2807960/${FILENAME}?t=1784839791",
+          "main_capsule": "a9052c33c3bc80dc8f55fbfb3d18a62d6d762b2a/capsule_616x353.jpg",
+          "main_capsule_2x": "a9052c33c3bc80dc8f55fbfb3d18a62d6d762b2a/capsule_616x353_2x.jpg",
+          "small_capsule": "d7ae078e0a543a97ff5a5d72165999535b0b1cdc/capsule_231x87.jpg",
+          "small_capsule_2x": "d7ae078e0a543a97ff5a5d72165999535b0b1cdc/capsule_231x87_2x.jpg",
+          "header": "c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg",
+          "header_2x": "c12d12ce3c7d217398d3fcad77427bfc9d57c570/header_2x.jpg",
+          "page_background": "d127c8b4a1c85122b8aeffdd00163b318b8c2a41/page_bg_v6.jpg",
+          "hero_capsule": "4bf05302e4ac2086fed8a75ed7cd0673602b2c62/hero_capsule.jpg",
+          "hero_capsule_2x": "4bf05302e4ac2086fed8a75ed7cd0673602b2c62/hero_capsule_2x.jpg",
+          "library_capsule": "289b1c193f9730a0d4ea4dbf912219e46cd1a8a3/library_capsule.jpg",
+          "library_capsule_2x": "289b1c193f9730a0d4ea4dbf912219e46cd1a8a3/library_capsule_2x.jpg",
+          "library_hero": "38bc66fe214422bb28e98fbd50e834c51bed85c7/library_hero.jpg",
+          "library_hero_2x": "38bc66fe214422bb28e98fbd50e834c51bed85c7/library_hero_2x.jpg",
+          "community_icon": "195cfd006af0fc4ab13b35bbb0c1a4f46416d303",
+          "page_background_path": "app/2807960?t=1784839791",
+          "raw_page_background": "d127c8b4a1c85122b8aeffdd00163b318b8c2a41/page_bg_raw.jpg",
+          "edition_comparison": "56985b610a0151a92743c279b50b28e371169148/edition_comparision.png"
+        }
+      },
+      {
+        "item_type": 0,
+        "id": 2001760,
+        "success": 1,
+        "visible": true,
+        "name": "Beast of Reincarnation",
+        "store_url_path": "app/2001760/Beast_of_Reincarnation",
+        "appid": 2001760,
+        "type": 0,
+        "categories": {
+          "supported_player_categoryids": [
+            2
+          ],
+          "feature_categoryids": [
+            22,
+            65,
+            68,
+            69,
+            78,
+            23,
+            62
+          ],
+          "controller_categoryids": [
+            28,
+            55,
+            57,
+            58,
+            60
+          ]
+        },
+        "assets": {
+          "asset_url_format": "steam/apps/2001760/${FILENAME}?t=1785194490",
+          "main_capsule": "e50e4f7fb9d08195d624890bf811951e86f1cfb1/capsule_616x353.jpg",
+          "main_capsule_2x": "e50e4f7fb9d08195d624890bf811951e86f1cfb1/capsule_616x353_2x.jpg",
+          "small_capsule": "8051f36f9874f82c4d998354409343346b5f6b3f/capsule_231x87.jpg",
+          "small_capsule_2x": "8051f36f9874f82c4d998354409343346b5f6b3f/capsule_231x87_2x.jpg",
+          "header": "d068139fe039e26a6a9d9f57ac5d89785b984d33/header.jpg",
+          "header_2x": "d068139fe039e26a6a9d9f57ac5d89785b984d33/header_2x.jpg",
+          "page_background": "6d720759ede8376d46a481720df273c93865cacb/page_bg_v6.jpg",
+          "hero_capsule": "354a24d21cd675abf0f11a90158725881f8ae278/hero_capsule.jpg",
+          "hero_capsule_2x": "354a24d21cd675abf0f11a90158725881f8ae278/hero_capsule_2x.jpg",
+          "library_capsule": "f257ca2dc23c5590ade297fca68f3cab2e4edb4e/library_capsule.jpg",
+          "library_capsule_2x": "f257ca2dc23c5590ade297fca68f3cab2e4edb4e/library_capsule_2x.jpg",
+          "library_hero": "45f65df57f45bf4870cf74e296c22ac4c1720070/library_hero.jpg",
+          "library_hero_2x": "45f65df57f45bf4870cf74e296c22ac4c1720070/library_hero_2x.jpg",
+          "community_icon": "3d930058c06ffe1c1235b0cda73d55328237e436",
+          "page_background_path": "app/2001760?t=1785194490",
+          "raw_page_background": "6d720759ede8376d46a481720df273c93865cacb/page_bg_raw.jpg"
+        },
+        "is_coming_soon": true,
+        "best_purchase_option": {
+          "packageid": 1615096,
+          "purchase_option_name": "Beast of Reincarnation",
+          "final_price_in_cents": "5999",
+          "formatted_final_price": "$59.99",
+          "user_can_purchase_as_gift": true,
+          "hide_discount_pct_for_compliance": false,
+          "included_game_count": 1,
+          "must_purchase_as_set": false,
+          "package_group": "default",
+          "price_cannot_be_displayed_as_discount": false
+        },
+        "assets_without_overrides": {
+          "asset_url_format": "steam/apps/2001760/${FILENAME}?t=1785194490",
+          "main_capsule": "e50e4f7fb9d08195d624890bf811951e86f1cfb1/capsule_616x353.jpg",
+          "main_capsule_2x": "e50e4f7fb9d08195d624890bf811951e86f1cfb1/capsule_616x353_2x.jpg",
+          "small_capsule": "8051f36f9874f82c4d998354409343346b5f6b3f/capsule_231x87.jpg",
+          "small_capsule_2x": "8051f36f9874f82c4d998354409343346b5f6b3f/capsule_231x87_2x.jpg",
+          "header": "d068139fe039e26a6a9d9f57ac5d89785b984d33/header.jpg",
+          "header_2x": "d068139fe039e26a6a9d9f57ac5d89785b984d33/header_2x.jpg",
+          "page_background": "6d720759ede8376d46a481720df273c93865cacb/page_bg_v6.jpg",
+          "hero_capsule": "354a24d21cd675abf0f11a90158725881f8ae278/hero_capsule.jpg",
+          "hero_capsule_2x": "354a24d21cd675abf0f11a90158725881f8ae278/hero_capsule_2x.jpg",
+          "library_capsule": "f257ca2dc23c5590ade297fca68f3cab2e4edb4e/library_capsule.jpg",
+          "library_capsule_2x": "f257ca2dc23c5590ade297fca68f3cab2e4edb4e/library_capsule_2x.jpg",
+          "library_hero": "45f65df57f45bf4870cf74e296c22ac4c1720070/library_hero.jpg",
+          "library_hero_2x": "45f65df57f45bf4870cf74e296c22ac4c1720070/library_hero_2x.jpg",
+          "community_icon": "3d930058c06ffe1c1235b0cda73d55328237e436",
+          "page_background_path": "app/2001760?t=1785194490",
+          "raw_page_background": "6d720759ede8376d46a481720df273c93865cacb/page_bg_raw.jpg"
+        }
+      },
+      {
+        "item_type": 0,
+        "id": 4570720,
+        "success": 1,
+        "visible": true,
+        "name": "DragonSword : Awakening",
+        "store_url_path": "app/4570720/DragonSword__Awakening",
+        "appid": 4570720,
+        "type": 0,
+        "categories": {
+          "supported_player_categoryids": [
+            2,
+            1,
+            9,
+            38
+          ],
+          "feature_categoryids": [
+            22,
+            67,
+            68,
+            69,
+            70,
+            78,
+            82,
+            23,
+            15,
+            62
+          ],
+          "controller_categoryids": [
+            55,
+            56,
+            57,
+            58,
+            18
+          ]
+        },
+        "assets": {
+          "asset_url_format": "steam/apps/4570720/${FILENAME}?t=1785492030",
+          "main_capsule": "2b80e22ce77b81a4705683c2c14488a336e4e38d/capsule_616x353.jpg",
+          "main_capsule_2x": "2b80e22ce77b81a4705683c2c14488a336e4e38d/capsule_616x353_2x.jpg",
+          "small_capsule": "ad4778acc2facf46b58f6c66492e925c9efd5cb7/capsule_231x87.jpg",
+          "small_capsule_2x": "ad4778acc2facf46b58f6c66492e925c9efd5cb7/capsule_231x87_2x.jpg",
+          "header": "96a897e98f4472e656fbe6681191b3066cab6056/header.jpg",
+          "header_2x": "96a897e98f4472e656fbe6681191b3066cab6056/header_2x.jpg",
+          "hero_capsule": "73004510d852e737bcff2af4d372e25155e878ea/hero_capsule.jpg",
+          "hero_capsule_2x": "73004510d852e737bcff2af4d372e25155e878ea/hero_capsule_2x.jpg",
+          "library_capsule": "e329632d57fa570d0771a9c64fec5bb4a61b6e6d/library_capsule.jpg",
+          "library_capsule_2x": "e329632d57fa570d0771a9c64fec5bb4a61b6e6d/library_capsule_2x.jpg",
+          "library_hero": "a38bcd252faf83c70e24dd9f17731bfd0c0aaa6f/library_hero.jpg",
+          "library_hero_2x": "a38bcd252faf83c70e24dd9f17731bfd0c0aaa6f/library_hero_2x.jpg",
+          "community_icon": "23da6b4b1b886c9254a8b066301e8880f5c7f0c8",
+          "page_background_path": "app/4570720?t=1785492030"
+        },
+        "best_purchase_option": {
+          "packageid": 1593365,
+          "purchase_option_name": "DragonSword : Awakening",
+          "final_price_in_cents": "2999",
+          "formatted_final_price": "$29.99",
+          "user_can_purchase_as_gift": true,
+          "hide_discount_pct_for_compliance": false,
+          "included_game_count": 1,
+          "must_purchase_as_set": false,
+          "package_group": "default",
+          "price_cannot_be_displayed_as_discount": false
+        },
+        "assets_without_overrides": {
+          "asset_url_format": "steam/apps/4570720/${FILENAME}?t=1785492030",
+          "main_capsule": "2b80e22ce77b81a4705683c2c14488a336e4e38d/capsule_616x353.jpg",
+          "main_capsule_2x": "2b80e22ce77b81a4705683c2c14488a336e4e38d/capsule_616x353_2x.jpg",
+          "small_capsule": "ad4778acc2facf46b58f6c66492e925c9efd5cb7/capsule_231x87.jpg",
+          "small_capsule_2x": "ad4778acc2facf46b58f6c66492e925c9efd5cb7/capsule_231x87_2x.jpg",
+          "header": "96a897e98f4472e656fbe6681191b3066cab6056/header.jpg",
+          "header_2x": "96a897e98f4472e656fbe6681191b3066cab6056/header_2x.jpg",
+          "hero_capsule": "73004510d852e737bcff2af4d372e25155e878ea/hero_capsule.jpg",
+          "hero_capsule_2x": "73004510d852e737bcff2af4d372e25155e878ea/hero_capsule_2x.jpg",
+          "library_capsule": "e329632d57fa570d0771a9c64fec5bb4a61b6e6d/library_capsule.jpg",
+          "library_capsule_2x": "e329632d57fa570d0771a9c64fec5bb4a61b6e6d/library_capsule_2x.jpg",
+          "library_hero": "a38bcd252faf83c70e24dd9f17731bfd0c0aaa6f/library_hero.jpg",
+          "library_hero_2x": "a38bcd252faf83c70e24dd9f17731bfd0c0aaa6f/library_hero_2x.jpg",
+          "community_icon": "23da6b4b1b886c9254a8b066301e8880f5c7f0c8",
+          "page_background_path": "app/4570720?t=1785492030"
+        }
+      }
+    ]
+  }
+}

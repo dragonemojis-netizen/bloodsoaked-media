@@ -1,0 +1,32 @@
+{
+  "slug": "toplitz-productions",
+  "authorityId": "AUTH-0118",
+  "type": "publisher",
+  "preferredName": "Toplitz Productions",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "mehuman-games"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:20:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:20:00.000Z-toplitz-productions",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0118 — controlled identity for Toplitz Productions."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:20:00.000Z-toplitz-productions",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Toplitz Productions — publisher of record for Vampires: Bloodlord Rising in this archive’s PC Steam holding.",
+  "curatorialRevisionAt": "2026-08-08T18:20:00.000Z"
+}

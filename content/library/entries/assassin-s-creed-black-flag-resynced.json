@@ -1,0 +1,171 @@
+{
+  "slug": "assassin-s-creed-black-flag-resynced",
+  "title": "Assassin's Creed Black Flag Resynced",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T17:59:35.700Z",
+  "shelfMark": "LIB-0071",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-3751950",
+    "reconciledAt": "2026-08-08T17:59:35.700Z"
+  },
+  "catalog": {
+    "release": "July 9, 2026",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "Open World",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Ubisoft build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Assassin's Creed Black Flag Resynced as the archive’s Black Flag remaster filing.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from curated portrait key art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account, Steam’s support for the title, and Ubisoft Connect services where the client requires them.",
+    "concerns": "Account-bound digital holdings face platform dependency and launcher requirements. Always-online checks and Ubisoft service policy remain principal risks. No offline installer is held.",
+    "knownRevisions": "Assassin's Creed IV: Black Flag originally released in 2013. The Resynced remaster is dated July 9, 2026 on Steam. This accession records the licensed Resynced digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and the required services remain intact."
+  },
+  "connections": {
+    "series": "Assassin's Creed",
+    "collectionIds": [
+      "steam-3751950"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T17:59:35.700Z",
+      "at": "2026-08-08T17:59:35.700Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0071."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:20:00.000Z-assassin-s-creed-black-flag-resynced",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:20:00.000Z-assassin-s-creed-black-flag-resynced",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:20:00.000Z-assassin-s-creed-black-flag-resynced",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:20:00.000Z-assassin-s-creed-black-flag-resynced",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:20:00.000Z-assassin-s-creed-black-flag-resynced",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:20:00.000Z-assassin-s-creed-black-flag-resynced",
+      "at": "2026-08-08T18:20:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:04:46.123Z-assassin-s-creed-black-flag-resynced",
+      "at": "2026-08-08T18:04:46.123Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Primary cover replaced with curated official portrait key art."
+    }
+  ],
+  "steam": {
+    "appId": 3751950,
+    "title": "Assassin's Creed Black Flag Resynced",
+    "owned": true,
+    "playtimeMinutes": 1706,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 1706,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-07-12T23:05:03.000Z",
+    "storeUrl": "https://store.steampowered.com/app/3751950/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Ubisoft Singapore",
+      "Ubisoft Barcelona",
+      "Ubisoft Bordeaux",
+      "Ubisoft Belgrade",
+      "Ubisoft Chengdu",
+      "Ubisoft India",
+      "Ubisoft Kyiv",
+      "Ubisoft Montpellier",
+      "Ubisoft Philippines",
+      "Ubisoft Quebec",
+      "Ubisoft Shanghai",
+      "Ubisoft Montreal",
+      "Ubisoft Romania"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ],
+    "releaseDate": "2026-07-09",
+    "releaseDateRaw": "Jul 9, 2026",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:20:00.000Z"
+  },
+  "year": 2026,
+  "synopsis": "Ubisoft’s Assassin's Creed Black Flag Resynced on Steam — the 2026 remastered edition retained as a permanent digital holding in the Assassin's Creed series.",
+  "coverImage": "/images/library/assassin-s-creed-black-flag-resynced/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:04:46.123Z",
+  "authorities": {
+    "developers": [
+      "ubisoft"
+    ],
+    "publishers": [
+      "ubisoft"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "assassins-creed"
+    ]
+  }
+}

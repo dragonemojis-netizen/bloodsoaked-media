@@ -1,0 +1,36 @@
+{
+  "slug": "halo",
+  "authorityId": "AUTH-0099",
+  "type": "series",
+  "preferredName": "Halo",
+  "alternativeNames": [
+    "Halo: The Master Chief Collection"
+  ],
+  "relatedAuthoritySlugs": [
+    "343-industries",
+    "bungie",
+    "xbox-game-studios"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:10:00.000Z-halo",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0099 — controlled identity for Halo."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:10:00.000Z-halo",
+      "at": "2026-08-08T18:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Halo — series identity for Bungie / 343 Industries titles retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:10:00.000Z"
+}

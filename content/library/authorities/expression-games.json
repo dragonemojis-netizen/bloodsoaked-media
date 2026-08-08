@@ -1,0 +1,33 @@
+{
+  "slug": "expression-games",
+  "authorityId": "AUTH-0088",
+  "type": "developer",
+  "preferredName": "Expression Games",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "team17",
+    "hell-let-loose"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:00:00.000Z-expression-games",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0088 — controlled identity for Expression Games."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:00:00.000Z-expression-games",
+      "at": "2026-08-08T18:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Expression Games — developer of record for Hell Let Loose: Vietnam in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:00:00.000Z"
+}

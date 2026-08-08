@@ -1,0 +1,33 @@
+{
+  "id": "steam-3010850",
+  "origin": "steam",
+  "title": "Gears of War: E-Day",
+  "eventType": "acquisition",
+  "status": "Filed",
+  "catalogued": "2026-08-08T17:35:45.984Z",
+  "visibility": "hidden",
+  "source": {
+    "platform": "steam",
+    "steamAppId": 3010850,
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
+  },
+  "steam": {
+    "appId": 3010850,
+    "title": "Gears of War: E-Day",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/3010850/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api"
+  },
+  "filing": {
+    "librarySlug": "gears-of-war-e-day",
+    "shelfMark": "LIB-0048",
+    "filedAt": "2026-08-08T17:40:43.204Z"
+  }
+}

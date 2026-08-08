@@ -3,13 +3,13 @@
   "origin": "steam",
   "title": "Metaphor: ReFantazio",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
     "platform": "steam",
     "steamAppId": 2679460,
-    "lastSyncedAt": "2026-07-26T03:12:32.243Z"
+    "lastSyncedAt": "2026-08-08T17:35:45.984Z"
   },
   "steam": {
     "appId": 2679460,
@@ -22,7 +22,12 @@
     "playtimeLinuxMinutes": 0,
     "lastPlayedAt": "2026-04-06T22:55:14.000Z",
     "storeUrl": "https://store.steampowered.com/app/2679460/",
-    "lastSynced": "2026-07-26T03:12:32.243Z",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api"
+  },
+  "filing": {
+    "librarySlug": "metaphor-refantazio",
+    "shelfMark": "LIB-0063",
+    "filedAt": "2026-08-08T17:54:35.851Z"
   }
 }
