@@ -1,0 +1,147 @@
+{
+  "slug": "crimson-desert",
+  "title": "Crimson Desert",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:35:05.348Z",
+  "shelfMark": "LIB-0100",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-3321460",
+    "reconciledAt": "2026-08-08T18:35:05.348Z"
+  },
+  "catalog": {
+    "release": "March 19, 2026",
+    "developer": "Pearl Abyss",
+    "publisher": "Pearl Abyss",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Pearl Abyss build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Crimson Desert once a fuller critical record is prepared.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows and macOS PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title on the retained platforms.",
+    "concerns": "Account-bound digital holdings face platform dependency. Online features and patch revision risk remain principal concerns. No offline installer is held.",
+    "knownRevisions": "Steam release dated March 19, 2026. Live updates revise the licensed client in place; this accession records the account-bound digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-3321460"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:35:05.348Z",
+      "at": "2026-08-08T18:35:05.348Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0100."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:40:00.000Z-crimson-desert",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:40:00.000Z-crimson-desert",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:40:00.000Z-crimson-desert",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:40:00.000Z-crimson-desert",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:40:00.000Z-crimson-desert",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:40:00.000Z-crimson-desert",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 3321460,
+    "title": "Crimson Desert",
+    "owned": true,
+    "playtimeMinutes": 2084,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 2084,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-04-14T19:14:29.000Z",
+    "storeUrl": "https://store.steampowered.com/app/3321460/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Pearl Abyss"
+    ],
+    "publishers": [
+      "Pearl Abyss"
+    ],
+    "releaseDate": "2026-03-19",
+    "releaseDateRaw": "Mar 19, 2026",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:40:00.000Z"
+  },
+  "year": 2026,
+  "synopsis": "Pearl Abyss’s Crimson Desert on Steam — retained as a permanent digital holding under archive custody.",
+  "coverImage": "/images/library/crimson-desert/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:40:00.000Z",
+  "authorities": {
+    "developers": [
+      "pearl-abyss"
+    ],
+    "publishers": [
+      "pearl-abyss"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

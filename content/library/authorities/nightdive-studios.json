@@ -1,0 +1,39 @@
+{
+  "slug": "nightdive-studios",
+  "authorityId": "AUTH-0144",
+  "type": "developer",
+  "preferredName": "Nightdive Studios",
+  "alternativeNames": [
+    "Night Dive Studios"
+  ],
+  "relatedAuthoritySlugs": [
+    "monolith-productions",
+    "atari",
+    "blood",
+    "quake",
+    "id-software",
+    "bethesda-softworks"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:35:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:35:00.000Z-nightdive-studios",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0144 — controlled identity for Nightdive Studios."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:35:00.000Z-nightdive-studios",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Nightdive Studios — remaster developer of record for Blood: Fresh Supply and co-developer for Quake in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z"
+}

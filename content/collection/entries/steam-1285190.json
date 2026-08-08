@@ -3,7 +3,7 @@
   "origin": "steam",
   "title": "Borderlands® 4",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
@@ -24,5 +24,10 @@
     "storeUrl": "https://store.steampowered.com/app/1285190/",
     "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api"
+  },
+  "filing": {
+    "librarySlug": "borderlands-4",
+    "shelfMark": "LIB-0076",
+    "filedAt": "2026-08-08T18:23:22.723Z"
   }
 }

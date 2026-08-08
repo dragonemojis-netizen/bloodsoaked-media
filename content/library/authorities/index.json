@@ -1,15 +1,20 @@
 {
   "schemaVersion": 1,
   "authoritySlugs": [
+    "11-bit-studios",
+    "2k",
     "343-industries",
     "505-games",
     "aardvark-software",
     "access-games",
     "activision",
     "alkimia-interactive",
+    "antimatter-games",
     "arrowhead-game-studios",
     "assassins-creed",
+    "atari",
     "atlus",
+    "baldurs-gate",
     "bandai-namco-entertainment",
     "battlefield",
     "battlefield-studios",
@@ -21,22 +26,32 @@
     "bethesda-softworks",
     "blizzard-entertainment",
     "bloober-team",
+    "blood",
+    "borderlands",
+    "bulkhead",
+    "bun-muen",
     "bungie",
     "call-of-duty",
     "camelot-software-planning",
     "capcom",
     "cavia",
     "cd-projekt-red",
+    "claytechworks",
     "climax-studios",
     "clock-tower",
+    "coffee-stain-publishing",
     "counter-strike",
     "crema",
     "cyberconnect2",
     "cyberpunk",
+    "cygames",
     "daybreak-game-company",
+    "dead-by-daylight",
     "deep-silver",
     "destiny",
     "diablo",
+    "digital-sun",
+    "doom",
     "dragons-dogma",
     "drakengard-nier-lineage",
     "duke-nukem",
@@ -51,27 +66,40 @@
     "fromsoftware",
     "fruitbat-factory",
     "game-freak",
+    "game-science",
+    "game-studio-inc",
+    "gearbox-software",
     "gears-of-war",
     "giant-squid",
     "gothic",
+    "granblue-fantasy",
     "gsc-game-world",
     "gt-interactive",
+    "gungho-online-entertainment-america",
     "hack",
     "halo",
+    "halo-studios",
+    "hamuno",
     "hekate",
     "hell-let-loose",
     "helldivers",
     "hound13",
     "hypetrain-digital",
+    "id-software",
+    "infinity-ward",
     "ink-stains-games",
     "interplay",
     "io-interactive",
+    "iron-gate-ab",
     "kingdom-come-deliverance",
     "konami",
     "krafton",
     "krisalis-software",
     "kuro-games",
+    "kwalee",
+    "larian-studios",
     "localthunk",
+    "machinegames",
     "media-vision",
     "mehuman-games",
     "metaphor-refantazio",
@@ -80,27 +108,37 @@
     "n-space",
     "nacon",
     "neem-interactive",
+    "nightdive-studios",
+    "nihon-falcom",
     "npc-studio",
     "obsidian-entertainment",
     "orange-juice",
     "orange-juice-franchise",
     "parasite-eve",
     "pc",
+    "pearl-abyss",
     "persona",
     "playstack",
     "playstation",
     "playstation-2",
     "playstation-3",
     "playstation-publishing",
+    "pocketpair",
     "pubg-corporation",
+    "quake",
     "radical-entertainment",
     "red-dead",
+    "redruins-softworks",
+    "resident-evil",
+    "rising-storm",
     "rockstar-games",
     "s-t-a-l-k-e-r",
     "sega",
+    "sgtokidoki",
     "shiny-entertainment",
     "silent-hill",
     "skystone-games",
+    "soleil-ltd",
     "sony-computer-entertainment-america",
     "space-hulk",
     "square",
@@ -109,35 +147,51 @@
     "starfield",
     "steam",
     "sting",
+    "sword-art-online",
     "team-silent",
     "team17",
     "the-coalition",
+    "the-elder-scrolls",
     "the-fun-pimps",
     "thq",
     "thq-nordic",
     "toplitz-productions",
+    "trails-in-the-sky",
     "treyarch",
+    "tripwire-interactive",
+    "tvgs",
     "ubisoft",
     "ubisoft-montreal",
+    "ubisoft-quebec",
+    "valkyrie-profile",
     "valve",
+    "vedinad",
+    "virtuos",
     "vivendi-universal-games",
+    "void-interactive",
     "volition",
     "warhorse-studios",
     "warner-bros-games",
     "wild-arms",
     "xbox-game-studios",
-    "yoko-taro"
+    "yoko-taro",
+    "zenimax-online-studios"
   ],
   "publishedSlugs": [
+    "11-bit-studios",
+    "2k",
     "343-industries",
     "505-games",
     "aardvark-software",
     "access-games",
     "activision",
     "alkimia-interactive",
+    "antimatter-games",
     "arrowhead-game-studios",
     "assassins-creed",
+    "atari",
     "atlus",
+    "baldurs-gate",
     "bandai-namco-entertainment",
     "battlefield",
     "battlefield-studios",
@@ -149,22 +203,32 @@
     "bethesda-softworks",
     "blizzard-entertainment",
     "bloober-team",
+    "blood",
+    "borderlands",
+    "bulkhead",
+    "bun-muen",
     "bungie",
     "call-of-duty",
     "camelot-software-planning",
     "capcom",
     "cavia",
     "cd-projekt-red",
+    "claytechworks",
     "climax-studios",
     "clock-tower",
+    "coffee-stain-publishing",
     "counter-strike",
     "crema",
     "cyberconnect2",
     "cyberpunk",
+    "cygames",
     "daybreak-game-company",
+    "dead-by-daylight",
     "deep-silver",
     "destiny",
     "diablo",
+    "digital-sun",
+    "doom",
     "dragons-dogma",
     "drakengard-nier-lineage",
     "duke-nukem",
@@ -179,27 +243,40 @@
     "fromsoftware",
     "fruitbat-factory",
     "game-freak",
+    "game-science",
+    "game-studio-inc",
+    "gearbox-software",
     "gears-of-war",
     "giant-squid",
     "gothic",
+    "granblue-fantasy",
     "gsc-game-world",
     "gt-interactive",
+    "gungho-online-entertainment-america",
     "hack",
     "halo",
+    "halo-studios",
+    "hamuno",
     "hekate",
     "hell-let-loose",
     "helldivers",
     "hound13",
     "hypetrain-digital",
+    "id-software",
+    "infinity-ward",
     "ink-stains-games",
     "interplay",
     "io-interactive",
+    "iron-gate-ab",
     "kingdom-come-deliverance",
     "konami",
     "krafton",
     "krisalis-software",
     "kuro-games",
+    "kwalee",
+    "larian-studios",
     "localthunk",
+    "machinegames",
     "media-vision",
     "mehuman-games",
     "metaphor-refantazio",
@@ -208,27 +285,37 @@
     "n-space",
     "nacon",
     "neem-interactive",
+    "nightdive-studios",
+    "nihon-falcom",
     "npc-studio",
     "obsidian-entertainment",
     "orange-juice",
     "orange-juice-franchise",
     "parasite-eve",
     "pc",
+    "pearl-abyss",
     "persona",
     "playstack",
     "playstation",
     "playstation-2",
     "playstation-3",
     "playstation-publishing",
+    "pocketpair",
     "pubg-corporation",
+    "quake",
     "radical-entertainment",
     "red-dead",
+    "redruins-softworks",
+    "resident-evil",
+    "rising-storm",
     "rockstar-games",
     "s-t-a-l-k-e-r",
     "sega",
+    "sgtokidoki",
     "shiny-entertainment",
     "silent-hill",
     "skystone-games",
+    "soleil-ltd",
     "sony-computer-entertainment-america",
     "space-hulk",
     "square",
@@ -237,26 +324,57 @@
     "starfield",
     "steam",
     "sting",
+    "sword-art-online",
     "team-silent",
     "team17",
     "the-coalition",
+    "the-elder-scrolls",
     "the-fun-pimps",
     "thq",
     "thq-nordic",
     "toplitz-productions",
+    "trails-in-the-sky",
     "treyarch",
+    "tripwire-interactive",
+    "tvgs",
     "ubisoft",
     "ubisoft-montreal",
+    "ubisoft-quebec",
+    "valkyrie-profile",
     "valve",
+    "vedinad",
+    "virtuos",
     "vivendi-universal-games",
+    "void-interactive",
     "volition",
     "warhorse-studios",
     "warner-bros-games",
     "wild-arms",
     "xbox-game-studios",
-    "yoko-taro"
+    "yoko-taro",
+    "zenimax-online-studios"
   ],
   "shelf": {
+    "11-bit-studios": {
+      "slug": "11-bit-studios",
+      "authorityId": "AUTH-0136",
+      "type": "publisher",
+      "preferredName": "11 bit studios",
+      "visibility": "published",
+      "alternativeNames": [
+        "11 Bit Studios"
+      ]
+    },
+    "2k": {
+      "slug": "2k",
+      "authorityId": "AUTH-0128",
+      "type": "publisher",
+      "preferredName": "2K",
+      "visibility": "published",
+      "alternativeNames": [
+        "2K Games"
+      ]
+    },
     "343-industries": {
       "slug": "343-industries",
       "authorityId": "AUTH-0098",
@@ -311,6 +429,14 @@
       "visibility": "published",
       "alternativeNames": []
     },
+    "antimatter-games": {
+      "slug": "antimatter-games",
+      "authorityId": "AUTH-0157",
+      "type": "developer",
+      "preferredName": "Antimatter Games",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "arrowhead-game-studios": {
       "slug": "arrowhead-game-studios",
       "authorityId": "AUTH-0103",
@@ -331,6 +457,16 @@
         "Assassins Creed"
       ]
     },
+    "atari": {
+      "slug": "atari",
+      "authorityId": "AUTH-0145",
+      "type": "publisher",
+      "preferredName": "Atari",
+      "visibility": "published",
+      "alternativeNames": [
+        "Atari SA"
+      ]
+    },
     "atlus": {
       "slug": "atlus",
       "authorityId": "AUTH-0047",
@@ -339,6 +475,17 @@
       "visibility": "published",
       "alternativeNames": [
         "Atlus"
+      ]
+    },
+    "baldurs-gate": {
+      "slug": "baldurs-gate",
+      "authorityId": "AUTH-0141",
+      "type": "series",
+      "preferredName": "Baldur's Gate",
+      "visibility": "published",
+      "alternativeNames": [
+        "Baldurs Gate",
+        "Baldur's Gate 3"
       ]
     },
     "bandai-namco-entertainment": {
@@ -447,6 +594,45 @@
         "Bloober Team SA"
       ]
     },
+    "blood": {
+      "slug": "blood",
+      "authorityId": "AUTH-0146",
+      "type": "series",
+      "preferredName": "Blood",
+      "visibility": "published",
+      "alternativeNames": [
+        "Blood: Fresh Supply"
+      ]
+    },
+    "borderlands": {
+      "slug": "borderlands",
+      "authorityId": "AUTH-0129",
+      "type": "series",
+      "preferredName": "Borderlands",
+      "visibility": "published",
+      "alternativeNames": [
+        "Borderlands 4"
+      ]
+    },
+    "bulkhead": {
+      "slug": "bulkhead",
+      "authorityId": "AUTH-0139",
+      "type": "developer",
+      "preferredName": "BULKHEAD",
+      "visibility": "published",
+      "alternativeNames": [
+        "Bulkhead Interactive",
+        "Bulkhead"
+      ]
+    },
+    "bun-muen": {
+      "slug": "bun-muen",
+      "authorityId": "AUTH-0164",
+      "type": "developer",
+      "preferredName": "Bun Muen",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "bungie": {
       "slug": "bungie",
       "authorityId": "AUTH-0001",
@@ -513,6 +699,14 @@
         "CDPR"
       ]
     },
+    "claytechworks": {
+      "slug": "claytechworks",
+      "authorityId": "AUTH-0161",
+      "type": "developer",
+      "preferredName": "Claytechworks",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "climax-studios": {
       "slug": "climax-studios",
       "authorityId": "AUTH-0076",
@@ -531,6 +725,16 @@
       "visibility": "published",
       "alternativeNames": [
         "Clock Tower series"
+      ]
+    },
+    "coffee-stain-publishing": {
+      "slug": "coffee-stain-publishing",
+      "authorityId": "AUTH-0170",
+      "type": "publisher",
+      "preferredName": "Coffee Stain Publishing",
+      "visibility": "published",
+      "alternativeNames": [
+        "Coffee Stain"
       ]
     },
     "counter-strike": {
@@ -573,6 +777,16 @@
         "Cyberpunk 2077"
       ]
     },
+    "cygames": {
+      "slug": "cygames",
+      "authorityId": "AUTH-0151",
+      "type": "developer",
+      "preferredName": "Cygames",
+      "visibility": "published",
+      "alternativeNames": [
+        "Cygames, Inc."
+      ]
+    },
     "daybreak-game-company": {
       "slug": "daybreak-game-company",
       "authorityId": "AUTH-0097",
@@ -582,6 +796,16 @@
       "alternativeNames": [
         "Daybreak",
         "Daybreak Games"
+      ]
+    },
+    "dead-by-daylight": {
+      "slug": "dead-by-daylight",
+      "authorityId": "AUTH-0148",
+      "type": "series",
+      "preferredName": "Dead by Daylight",
+      "visibility": "published",
+      "alternativeNames": [
+        "DbD"
       ]
     },
     "deep-silver": {
@@ -610,6 +834,25 @@
       "visibility": "published",
       "alternativeNames": [
         "Diablo IV"
+      ]
+    },
+    "digital-sun": {
+      "slug": "digital-sun",
+      "authorityId": "AUTH-0135",
+      "type": "developer",
+      "preferredName": "Digital Sun",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "doom": {
+      "slug": "doom",
+      "authorityId": "AUTH-0138",
+      "type": "series",
+      "preferredName": "DOOM",
+      "visibility": "published",
+      "alternativeNames": [
+        "Doom",
+        "DOOM: The Dark Ages"
       ]
     },
     "dragons-dogma": {
@@ -748,6 +991,34 @@
         "GAME FREAK"
       ]
     },
+    "game-science": {
+      "slug": "game-science",
+      "authorityId": "AUTH-0163",
+      "type": "developer",
+      "preferredName": "Game Science",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "game-studio-inc": {
+      "slug": "game-studio-inc",
+      "authorityId": "AUTH-0153",
+      "type": "developer",
+      "preferredName": "Game Studio Inc.",
+      "visibility": "published",
+      "alternativeNames": [
+        "Game Studio"
+      ]
+    },
+    "gearbox-software": {
+      "slug": "gearbox-software",
+      "authorityId": "AUTH-0127",
+      "type": "developer",
+      "preferredName": "Gearbox Software",
+      "visibility": "published",
+      "alternativeNames": [
+        "Gearbox"
+      ]
+    },
     "gears-of-war": {
       "slug": "gears-of-war",
       "authorityId": "AUTH-0085",
@@ -776,6 +1047,14 @@
         "Gothic 1 Remake"
       ]
     },
+    "granblue-fantasy": {
+      "slug": "granblue-fantasy",
+      "authorityId": "AUTH-0155",
+      "type": "series",
+      "preferredName": "Granblue Fantasy",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "gsc-game-world": {
       "slug": "gsc-game-world",
       "authorityId": "AUTH-0050",
@@ -793,6 +1072,17 @@
       "alternativeNames": [
         "GT Interactive Software",
         "GT Interactive Software Corp."
+      ]
+    },
+    "gungho-online-entertainment-america": {
+      "slug": "gungho-online-entertainment-america",
+      "authorityId": "AUTH-0172",
+      "type": "publisher",
+      "preferredName": "GungHo Online Entertainment America",
+      "visibility": "published",
+      "alternativeNames": [
+        "GungHo Online Entertainment America, Inc.",
+        "GungHo"
       ]
     },
     "hack": {
@@ -816,6 +1106,22 @@
       "alternativeNames": [
         "Halo: The Master Chief Collection"
       ]
+    },
+    "halo-studios": {
+      "slug": "halo-studios",
+      "authorityId": "AUTH-0130",
+      "type": "developer",
+      "preferredName": "Halo Studios",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "hamuno": {
+      "slug": "hamuno",
+      "authorityId": "AUTH-0168",
+      "type": "developer",
+      "preferredName": "Hamuno",
+      "visibility": "published",
+      "alternativeNames": []
     },
     "hekate": {
       "slug": "hekate",
@@ -862,6 +1168,25 @@
       "visibility": "published",
       "alternativeNames": []
     },
+    "id-software": {
+      "slug": "id-software",
+      "authorityId": "AUTH-0137",
+      "type": "developer",
+      "preferredName": "id Software",
+      "visibility": "published",
+      "alternativeNames": [
+        "id Software LLC",
+        "id"
+      ]
+    },
+    "infinity-ward": {
+      "slug": "infinity-ward",
+      "authorityId": "AUTH-0160",
+      "type": "developer",
+      "preferredName": "Infinity Ward",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "ink-stains-games": {
       "slug": "ink-stains-games",
       "authorityId": "AUTH-0039",
@@ -890,6 +1215,16 @@
       "visibility": "published",
       "alternativeNames": [
         "IO Interactive A/S"
+      ]
+    },
+    "iron-gate-ab": {
+      "slug": "iron-gate-ab",
+      "authorityId": "AUTH-0169",
+      "type": "developer",
+      "preferredName": "Iron Gate AB",
+      "visibility": "published",
+      "alternativeNames": [
+        "Iron Gate"
       ]
     },
     "kingdom-come-deliverance": {
@@ -947,11 +1282,37 @@
         "Kuro Game"
       ]
     },
+    "kwalee": {
+      "slug": "kwalee",
+      "authorityId": "AUTH-0165",
+      "type": "publisher",
+      "preferredName": "Kwalee",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "larian-studios": {
+      "slug": "larian-studios",
+      "authorityId": "AUTH-0140",
+      "type": "developer",
+      "preferredName": "Larian Studios",
+      "visibility": "published",
+      "alternativeNames": [
+        "Larian"
+      ]
+    },
     "localthunk": {
       "slug": "localthunk",
       "authorityId": "AUTH-0022",
       "type": "developer",
       "preferredName": "LocalThunk",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "machinegames": {
+      "slug": "machinegames",
+      "authorityId": "AUTH-0175",
+      "type": "developer",
+      "preferredName": "MachineGames",
       "visibility": "published",
       "alternativeNames": []
     },
@@ -1029,6 +1390,26 @@
       "visibility": "published",
       "alternativeNames": []
     },
+    "nightdive-studios": {
+      "slug": "nightdive-studios",
+      "authorityId": "AUTH-0144",
+      "type": "developer",
+      "preferredName": "Nightdive Studios",
+      "visibility": "published",
+      "alternativeNames": [
+        "Night Dive Studios"
+      ]
+    },
+    "nihon-falcom": {
+      "slug": "nihon-falcom",
+      "authorityId": "AUTH-0171",
+      "type": "developer",
+      "preferredName": "Nihon Falcom",
+      "visibility": "published",
+      "alternativeNames": [
+        "Falcom"
+      ]
+    },
     "npc-studio": {
       "slug": "npc-studio",
       "authorityId": "AUTH-0082",
@@ -1085,6 +1466,14 @@
         "Personal Computer",
         "Windows"
       ]
+    },
+    "pearl-abyss": {
+      "slug": "pearl-abyss",
+      "authorityId": "AUTH-0152",
+      "type": "developer",
+      "preferredName": "Pearl Abyss",
+      "visibility": "published",
+      "alternativeNames": []
     },
     "persona": {
       "slug": "persona",
@@ -1151,6 +1540,14 @@
         "Sony Interactive Entertainment"
       ]
     },
+    "pocketpair": {
+      "slug": "pocketpair",
+      "authorityId": "AUTH-0147",
+      "type": "developer",
+      "preferredName": "Pocketpair",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "pubg-corporation": {
       "slug": "pubg-corporation",
       "authorityId": "AUTH-0106",
@@ -1160,6 +1557,14 @@
       "alternativeNames": [
         "PUBG Studios"
       ]
+    },
+    "quake": {
+      "slug": "quake",
+      "authorityId": "AUTH-0176",
+      "type": "series",
+      "preferredName": "Quake",
+      "visibility": "published",
+      "alternativeNames": []
     },
     "radical-entertainment": {
       "slug": "radical-entertainment",
@@ -1180,6 +1585,35 @@
       "alternativeNames": [
         "Red Dead Redemption",
         "Red Dead Redemption 2"
+      ]
+    },
+    "redruins-softworks": {
+      "slug": "redruins-softworks",
+      "authorityId": "AUTH-0142",
+      "type": "developer",
+      "preferredName": "RedRuins Softworks",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "resident-evil": {
+      "slug": "resident-evil",
+      "authorityId": "AUTH-0154",
+      "type": "series",
+      "preferredName": "Resident Evil",
+      "visibility": "published",
+      "alternativeNames": [
+        "Biohazard"
+      ]
+    },
+    "rising-storm": {
+      "slug": "rising-storm",
+      "authorityId": "AUTH-0159",
+      "type": "series",
+      "preferredName": "Rising Storm",
+      "visibility": "published",
+      "alternativeNames": [
+        "RS2",
+        "Rising Storm 2"
       ]
     },
     "rockstar-games": {
@@ -1213,6 +1647,14 @@
         "Sega"
       ]
     },
+    "sgtokidoki": {
+      "slug": "sgtokidoki",
+      "authorityId": "AUTH-0134",
+      "type": "developer",
+      "preferredName": "SgtOkiDoki",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "shiny-entertainment": {
       "slug": "shiny-entertainment",
       "authorityId": "AUTH-0069",
@@ -1238,6 +1680,16 @@
       "preferredName": "Skystone Games",
       "visibility": "published",
       "alternativeNames": []
+    },
+    "soleil-ltd": {
+      "slug": "soleil-ltd",
+      "authorityId": "AUTH-0166",
+      "type": "developer",
+      "preferredName": "Soleil Ltd.",
+      "visibility": "published",
+      "alternativeNames": [
+        "Soleil"
+      ]
     },
     "sony-computer-entertainment-america": {
       "slug": "sony-computer-entertainment-america",
@@ -1324,6 +1776,16 @@
         "Sting, Inc."
       ]
     },
+    "sword-art-online": {
+      "slug": "sword-art-online",
+      "authorityId": "AUTH-0156",
+      "type": "series",
+      "preferredName": "Sword Art Online",
+      "visibility": "published",
+      "alternativeNames": [
+        "SAO"
+      ]
+    },
     "team-silent": {
       "slug": "team-silent",
       "authorityId": "AUTH-0059",
@@ -1353,6 +1815,18 @@
       "preferredName": "The Coalition",
       "visibility": "published",
       "alternativeNames": []
+    },
+    "the-elder-scrolls": {
+      "slug": "the-elder-scrolls",
+      "authorityId": "AUTH-0132",
+      "type": "series",
+      "preferredName": "The Elder Scrolls",
+      "visibility": "published",
+      "alternativeNames": [
+        "Elder Scrolls",
+        "ESO",
+        "The Elder Scrolls Online"
+      ]
     },
     "the-fun-pimps": {
       "slug": "the-fun-pimps",
@@ -1392,11 +1866,38 @@
       "visibility": "published",
       "alternativeNames": []
     },
+    "trails-in-the-sky": {
+      "slug": "trails-in-the-sky",
+      "authorityId": "AUTH-0173",
+      "type": "series",
+      "preferredName": "Trails in the Sky",
+      "visibility": "published",
+      "alternativeNames": [
+        "The Legend of Heroes: Trails in the Sky",
+        "Sora no Kiseki"
+      ]
+    },
     "treyarch": {
       "slug": "treyarch",
       "authorityId": "AUTH-0100",
       "type": "developer",
       "preferredName": "Treyarch",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "tripwire-interactive": {
+      "slug": "tripwire-interactive",
+      "authorityId": "AUTH-0158",
+      "type": "publisher",
+      "preferredName": "Tripwire Interactive",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "tvgs": {
+      "slug": "tvgs",
+      "authorityId": "AUTH-0150",
+      "type": "developer",
+      "preferredName": "TVGS",
       "visibility": "published",
       "alternativeNames": []
     },
@@ -1420,6 +1921,27 @@
         "Ubisoft Montréal"
       ]
     },
+    "ubisoft-quebec": {
+      "slug": "ubisoft-quebec",
+      "authorityId": "AUTH-0133",
+      "type": "developer",
+      "preferredName": "Ubisoft Quebec",
+      "visibility": "published",
+      "alternativeNames": [
+        "Ubisoft Québec"
+      ]
+    },
+    "valkyrie-profile": {
+      "slug": "valkyrie-profile",
+      "authorityId": "AUTH-0167",
+      "type": "series",
+      "preferredName": "Valkyrie Profile",
+      "visibility": "published",
+      "alternativeNames": [
+        "Valkyrie Elysium",
+        "Valkyrie"
+      ]
+    },
     "valve": {
       "slug": "valve",
       "authorityId": "AUTH-0016",
@@ -1430,6 +1952,22 @@
         "Valve Corporation"
       ]
     },
+    "vedinad": {
+      "slug": "vedinad",
+      "authorityId": "AUTH-0162",
+      "type": "developer",
+      "preferredName": "vedinad",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "virtuos": {
+      "slug": "virtuos",
+      "authorityId": "AUTH-0149",
+      "type": "developer",
+      "preferredName": "Virtuos",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "vivendi-universal-games": {
       "slug": "vivendi-universal-games",
       "authorityId": "AUTH-0075",
@@ -1439,6 +1977,16 @@
       "alternativeNames": [
         "Vivendi Games",
         "VU Games"
+      ]
+    },
+    "void-interactive": {
+      "slug": "void-interactive",
+      "authorityId": "AUTH-0143",
+      "type": "developer",
+      "preferredName": "VOID Interactive",
+      "visibility": "published",
+      "alternativeNames": [
+        "Void Interactive"
       ]
     },
     "volition": {
@@ -1501,7 +2049,17 @@
         "横尾太郎",
         "Taro Yoko"
       ]
+    },
+    "zenimax-online-studios": {
+      "slug": "zenimax-online-studios",
+      "authorityId": "AUTH-0131",
+      "type": "developer",
+      "preferredName": "ZeniMax Online Studios",
+      "visibility": "published",
+      "alternativeNames": [
+        "Zenimax Online Studios"
+      ]
     }
   },
-  "updatedAt": "2026-08-08T18:02:36.305Z"
+  "updatedAt": "2026-08-08T18:41:52.644Z"
 }

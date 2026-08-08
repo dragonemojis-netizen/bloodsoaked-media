@@ -1,0 +1,32 @@
+{
+  "slug": "bun-muen",
+  "authorityId": "AUTH-0164",
+  "type": "developer",
+  "preferredName": "Bun Muen",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "kwalee"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:45:00.000Z-bun-muen",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0164 — controlled identity for Bun Muen."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:45:00.000Z-bun-muen",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Bun Muen — developer of record for Shift At Midnight in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z"
+}

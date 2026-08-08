@@ -1,0 +1,33 @@
+{
+  "slug": "quake",
+  "authorityId": "AUTH-0176",
+  "type": "series",
+  "preferredName": "Quake",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "id-software",
+    "bethesda-softworks"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:45:00.000Z-quake",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0176 — controlled identity for Quake."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:45:00.000Z-quake",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Quake — series identity for id Software Quake holdings retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z"
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "black-myth-wukong",
+  "title": "Black Myth: Wukong",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:39:05.380Z",
+  "shelfMark": "LIB-0105",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-2358720",
+    "reconciledAt": "2026-08-08T18:39:05.380Z"
+  },
+  "catalog": {
+    "developer": "Game Science",
+    "publisher": "Game Science",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "release": "August 19, 2024"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Game Science build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Black Myth: Wukong once a fuller critical record is prepared.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title.",
+    "concerns": "Account-bound digital holdings face platform dependency. Online features and patch revision risk remain principal concerns. No offline installer is held.",
+    "knownRevisions": "Steam release dated August 19, 2024. Live updates revise the licensed client in place; this accession records the account-bound digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-2358720"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:39:05.380Z",
+      "at": "2026-08-08T18:39:05.380Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0105."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:45:00.000Z-black-myth-wukong",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:45:00.000Z-black-myth-wukong",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:45:00.000Z-black-myth-wukong",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:45:00.000Z-black-myth-wukong",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:45:00.000Z-black-myth-wukong",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:45:00.000Z-black-myth-wukong",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 2358720,
+    "title": "Black Myth: Wukong",
+    "owned": true,
+    "playtimeMinutes": 2187,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 2187,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2024-10-14T23:02:17.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2358720/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Game Science"
+    ],
+    "publishers": [
+      "Game Science"
+    ],
+    "releaseDate": "2024-08-19",
+    "releaseDateRaw": "Aug 19, 2024",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:45:00.000Z"
+  },
+  "year": 2024,
+  "synopsis": "Game Science’s Black Myth: Wukong on Steam — retained as a permanent digital holding under archive custody.",
+  "coverImage": "/images/library/black-myth-wukong/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z",
+  "authorities": {
+    "developers": [
+      "game-science"
+    ],
+    "publishers": [
+      "game-science"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

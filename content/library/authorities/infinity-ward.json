@@ -1,0 +1,33 @@
+{
+  "slug": "infinity-ward",
+  "authorityId": "AUTH-0160",
+  "type": "developer",
+  "preferredName": "Infinity Ward",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "activision",
+    "call-of-duty"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:45:00.000Z-infinity-ward",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0160 — controlled identity for Infinity Ward."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:45:00.000Z-infinity-ward",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Infinity Ward — developer of record for Call of Duty: Modern Warfare 2 (2009) in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z"
+}

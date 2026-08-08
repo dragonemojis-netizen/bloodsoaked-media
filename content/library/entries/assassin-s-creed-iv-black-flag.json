@@ -1,0 +1,167 @@
+{
+  "slug": "assassin-s-creed-iv-black-flag",
+  "title": "Assassin's Creed IV Black Flag",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:34:58.726Z",
+  "shelfMark": "LIB-0098",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-242050",
+    "reconciledAt": "2026-08-08T18:34:58.726Z"
+  },
+  "catalog": {
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Ubisoft Montreal build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Assassin's Creed IV Black Flag. Steam store metadata did not return a structured release date for this SKU; release dating is flagged for manual confirmation against the 2013 original release record.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account, Steam’s support for the title, and Ubisoft Connect services where the client requires them.",
+    "concerns": "Account-bound digital holdings face platform dependency and launcher requirements. Always-online checks and Ubisoft service policy remain principal risks. No offline installer is held.",
+    "knownRevisions": "Steam store API returned no structured release date for app 242050 at curation. Steam store copy identifies the title as the classic 2013 pirate action-adventure. This accession records the licensed digital edition in custody, distinct from Assassin's Creed Black Flag Resynced (LIB-0071).",
+    "availability": "Playable from the archive Steam library for as long as that license and the required services remain intact."
+  },
+  "connections": {
+    "series": "Assassin's Creed",
+    "relatedEntrySlugs": [
+      "assassin-s-creed-black-flag-resynced",
+      "assassin-s-creed-shadows"
+    ],
+    "collectionIds": [
+      "steam-242050"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:34:58.726Z",
+      "at": "2026-08-08T18:34:58.726Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0098."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:40:00.000Z-assassin-s-creed-iv-black-flag",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:40:00.000Z-assassin-s-creed-iv-black-flag",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:40:00.000Z-assassin-s-creed-iv-black-flag",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:40:00.000Z-assassin-s-creed-iv-black-flag",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:40:00.000Z-assassin-s-creed-iv-black-flag",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:40:00.000Z-assassin-s-creed-iv-black-flag",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 242050,
+    "title": "Assassin’s Creed® IV Black Flag™",
+    "owned": true,
+    "playtimeMinutes": 2127,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 2127,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-05-07T14:39:39.000Z",
+    "storeUrl": "https://store.steampowered.com/app/242050/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Ubisoft Montreal"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ],
+    "releaseDate": null,
+    "releaseDateRaw": null,
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Stereo Sound",
+      "Surround Sound"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Discover Assassin's Creed IV Black Flag, the classic pirate action-adventure game from 2013. Command your ship, hunt Templars and carve your legend as Edward Kenway across the Caribbean's Golden Age of Piracy.",
+    "metadataSyncedAt": "2026-08-08T18:40:00.000Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/242050/header.jpg",
+      "capsule": "/images/collection/steam/242050/capsule.jpg",
+      "hero": "/images/collection/steam/242050/hero.jpg"
+    }
+  },
+  "synopsis": "Ubisoft Montreal’s Assassin's Creed IV Black Flag on Steam — retained as a permanent digital holding in the Assassin's Creed series, filed alongside the later Resynced remaster.",
+  "coverImage": "/images/library/assassin-s-creed-iv-black-flag/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:40:00.000Z",
+  "authorities": {
+    "developers": [
+      "ubisoft-montreal"
+    ],
+    "publishers": [
+      "ubisoft"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "assassins-creed"
+    ]
+  }
+}

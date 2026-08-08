@@ -3,7 +3,7 @@
   "origin": "steam",
   "title": "Prospice Playtest",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-08-08T17:35:45.984Z",
   "visibility": "hidden",
   "source": {
@@ -24,5 +24,10 @@
     "storeUrl": "https://store.steampowered.com/app/4515810/",
     "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api"
+  },
+  "filing": {
+    "librarySlug": "prospice-playtest",
+    "shelfMark": "LIB-0079",
+    "filedAt": "2026-08-08T18:23:37.592Z"
   }
 }

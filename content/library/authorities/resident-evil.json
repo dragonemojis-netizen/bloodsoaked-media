@@ -1,0 +1,34 @@
+{
+  "slug": "resident-evil",
+  "authorityId": "AUTH-0154",
+  "type": "series",
+  "preferredName": "Resident Evil",
+  "alternativeNames": [
+    "Biohazard"
+  ],
+  "relatedAuthoritySlugs": [
+    "capcom"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:40:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:40:00.000Z-resident-evil",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0154 — controlled identity for Resident Evil."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:40:00.000Z-resident-evil",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Resident Evil — series identity for Capcom survival-horror holdings retained in the Bloodsoaked Library, beginning with the 2023 Resident Evil 4 remake.",
+  "curatorialRevisionAt": "2026-08-08T18:40:00.000Z"
+}

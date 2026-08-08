@@ -1,0 +1,36 @@
+{
+  "slug": "blood",
+  "authorityId": "AUTH-0146",
+  "type": "series",
+  "preferredName": "Blood",
+  "alternativeNames": [
+    "Blood: Fresh Supply"
+  ],
+  "relatedAuthoritySlugs": [
+    "nightdive-studios",
+    "monolith-productions",
+    "atari"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:35:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:35:00.000Z-blood",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0146 — controlled identity for Blood."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:35:00.000Z-blood",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Blood — series identity for Monolith / Nightdive Blood titles retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:35:00.000Z"
+}

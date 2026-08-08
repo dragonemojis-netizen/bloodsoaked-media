@@ -1,0 +1,153 @@
+{
+  "slug": "breathedge",
+  "title": "Breathedge",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:29:40.028Z",
+  "shelfMark": "LIB-0089",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-738520",
+    "reconciledAt": "2026-08-08T18:29:40.028Z"
+  },
+  "catalog": {
+    "release": "February 25, 2021",
+    "developer": "RedRuins Softworks",
+    "publisher": "HypeTrain Digital · RedRuins Softworks",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · HypeTrain Digital build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · August 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Breathedge as a digital indie survival-simulation holding.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title.",
+    "concerns": "As with other account-bound Steam holdings: platform dependency, policy change, and the absence of a retained offline installer.",
+    "knownRevisions": "Steam release dated February 25, 2021. This accession records the licensed digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-738520"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:29:40.028Z",
+      "at": "2026-08-08T18:29:40.028Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0089."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:35:00.000Z-breathedge",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:35:00.000Z-breathedge",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:35:00.000Z-breathedge",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:35:00.000Z-breathedge",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:35:00.000Z-breathedge",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:35:00.000Z-breathedge",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 738520,
+    "title": "Breathedge",
+    "owned": true,
+    "playtimeMinutes": 0,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 0,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": null,
+    "storeUrl": "https://store.steampowered.com/app/738520/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "RedRuins Softworks"
+    ],
+    "publishers": [
+      "HypeTrain Digital",
+      "RedRuins Softworks"
+    ],
+    "releaseDate": "2021-02-25",
+    "releaseDateRaw": "25 Feb, 2021",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:35:00.000Z"
+  },
+  "year": 2021,
+  "synopsis": "RedRuins Softworks’ Breathedge on Steam — retained as a permanent digital holding under the archive Steam account.",
+  "coverImage": "/images/library/breathedge/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:35:00.000Z",
+  "authorities": {
+    "developers": [
+      "redruins-softworks"
+    ],
+    "publishers": [
+      "hypetrain-digital",
+      "redruins-softworks"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

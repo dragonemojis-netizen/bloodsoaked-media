@@ -46,7 +46,11 @@
     "collectionIds": [
       "steam-3751950"
     ],
-    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media.",
+    "relatedEntrySlugs": [
+      "assassin-s-creed-iv-black-flag",
+      "assassin-s-creed-shadows"
+    ]
   },
   "artifacts": [],
   "stewardshipHistory": [
@@ -102,6 +106,13 @@
       "kind": "editorial-revision",
       "summary": "Editorial revision",
       "note": "Primary cover replaced with curated official portrait key art."
+    },
+    {
+      "id": "connections-established-2026-08-08T18:40:00.000Z-assassin-s-creed-black-flag-resynced-black-flag",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Linked to Assassin's Creed IV Black Flag (LIB-0098)."
     }
   ],
   "steam": {
@@ -152,7 +163,7 @@
   "year": 2026,
   "synopsis": "Ubisoft’s Assassin's Creed Black Flag Resynced on Steam — the 2026 remastered edition retained as a permanent digital holding in the Assassin's Creed series.",
   "coverImage": "/images/library/assassin-s-creed-black-flag-resynced/cover-official.jpg",
-  "curatorialRevisionAt": "2026-08-08T18:04:46.123Z",
+  "curatorialRevisionAt": "2026-08-08T18:40:00.000Z",
   "authorities": {
     "developers": [
       "ubisoft"

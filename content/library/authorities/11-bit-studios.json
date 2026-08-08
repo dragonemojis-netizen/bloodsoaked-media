@@ -1,0 +1,34 @@
+{
+  "slug": "11-bit-studios",
+  "authorityId": "AUTH-0136",
+  "type": "publisher",
+  "preferredName": "11 bit studios",
+  "alternativeNames": [
+    "11 Bit Studios"
+  ],
+  "relatedAuthoritySlugs": [
+    "digital-sun"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:30:00.000Z-11-bit-studios",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0136 — controlled identity for 11 bit studios."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:30:00.000Z-11-bit-studios",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "11 bit studios — publisher of record for Moonlighter in this archive’s PC Steam holding.",
+  "curatorialRevisionAt": "2026-08-08T18:30:00.000Z"
+}

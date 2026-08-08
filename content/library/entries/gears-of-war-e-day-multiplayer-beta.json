@@ -1,0 +1,137 @@
+{
+  "slug": "gears-of-war-e-day-multiplayer-beta",
+  "title": "Gears of War: E-Day Multiplayer Beta",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:23:32.826Z",
+  "shelfMark": "LIB-0078",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-4059240",
+    "reconciledAt": "2026-08-08T18:23:32.826Z"
+  },
+  "catalog": {
+    "release": "August 3, 2026",
+    "subjects": [
+      "Action",
+      "Third-Person Shooter",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Xbox Game Studios beta package",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · August 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Steam storefront metadata for this beta package does not expose developer or publisher credits. Series linkage to Gears of War and related filing LIB-0048 is retained from the title string; studio authorities left unset pending confirmation.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official Steam storefront header artwork has been entered pending a portrait library capsule; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody while the beta package remains available to the account",
+    "originalHardware": "PC · Steam beta package",
+    "compatibility": "Beta packages may close or convert without preserving this AppID as a permanent retail path.",
+    "concerns": "Beta holdings are short-lived relative to retail Steam licenses. Access may end when the beta window closes. No offline installer is held.",
+    "knownRevisions": "Steam lists August 3, 2026 for this multiplayer beta package. Related to Gears of War: E-Day (LIB-0048 / AppID 3010850). Studio credits were not published on the storefront payload used for this filing.",
+    "availability": "Held on the archive Steam account only while Steam continues to expose this beta package to the license."
+  },
+  "connections": {
+    "series": "Gears of War",
+    "relatedEntrySlugs": [
+      "gears-of-war-e-day"
+    ],
+    "collectionIds": [
+      "steam-4059240"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:23:32.826Z",
+      "at": "2026-08-08T18:23:32.826Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0078."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:30:00.000Z-gears-of-war-e-day-multiplayer-beta",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:30:00.000Z-gears-of-war-e-day-multiplayer-beta",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:30:00.000Z-gears-of-war-e-day-multiplayer-beta",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:30:00.000Z-gears-of-war-e-day-multiplayer-beta",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:30:00.000Z-gears-of-war-e-day-multiplayer-beta",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:30:00.000Z-gears-of-war-e-day-multiplayer-beta",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 4059240,
+    "title": "Gears of War: E-Day Multiplayer Beta",
+    "owned": true,
+    "playtimeMinutes": 306,
+    "playtime2Weeks": 306,
+    "playtimeWindowsMinutes": 306,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-08-07T21:48:21.000Z",
+    "storeUrl": "https://store.steampowered.com/app/4059240/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "releaseDate": "2026-08-03",
+    "releaseDateRaw": "Aug 3, 2026",
+    "comingSoon": false,
+    "genres": [],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:30:00.000Z"
+  },
+  "year": 2026,
+  "synopsis": "Gears of War: E-Day Multiplayer Beta on Steam — a limited multiplayer beta package retained alongside the main Gears of War: E-Day filing.",
+  "coverImage": "/images/library/gears-of-war-e-day-multiplayer-beta/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:30:00.000Z",
+  "authorities": {
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "gears-of-war"
+    ]
+  }
+}

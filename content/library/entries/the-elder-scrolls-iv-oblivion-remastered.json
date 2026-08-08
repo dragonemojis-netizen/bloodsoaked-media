@@ -1,0 +1,162 @@
+{
+  "slug": "the-elder-scrolls-iv-oblivion-remastered",
+  "title": "The Elder Scrolls IV: Oblivion Remastered",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:29:59.316Z",
+  "shelfMark": "LIB-0094",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-2623190",
+    "reconciledAt": "2026-08-08T18:29:59.316Z"
+  },
+  "catalog": {
+    "release": "April 22, 2025",
+    "developer": "Bethesda Game Studios · Virtuos",
+    "publisher": "Bethesda Softworks",
+    "subjects": [
+      "RPG",
+      "Open World",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Bethesda Softworks build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Oblivion Remastered as the archive’s contemporary remaster filing within The Elder Scrolls series.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from curated portrait key art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title.",
+    "concerns": "As with other account-bound Steam holdings: platform dependency, policy change, and the absence of a retained offline installer.",
+    "knownRevisions": "Remaster of The Elder Scrolls IV: Oblivion (2006). Steam release dated April 22, 2025. Virtuos is credited as co-developer. This accession records the licensed remaster digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "series": "The Elder Scrolls",
+    "relatedEntrySlugs": [
+      "the-elder-scrolls-online"
+    ],
+    "collectionIds": [
+      "steam-2623190"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:29:59.316Z",
+      "at": "2026-08-08T18:29:59.316Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0094."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:35:00.000Z-the-elder-scrolls-iv-oblivion-remastered",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:35:00.000Z-the-elder-scrolls-iv-oblivion-remastered",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:35:00.000Z-the-elder-scrolls-iv-oblivion-remastered",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:35:00.000Z-the-elder-scrolls-iv-oblivion-remastered",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:35:00.000Z-the-elder-scrolls-iv-oblivion-remastered",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:35:00.000Z-the-elder-scrolls-iv-oblivion-remastered",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:34:08.468Z-the-elder-scrolls-iv-oblivion-remastered",
+      "at": "2026-08-08T18:34:08.468Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Primary cover replaced with curated official portrait key art."
+    }
+  ],
+  "steam": {
+    "appId": 2623190,
+    "title": "The Elder Scrolls IV: Oblivion Remastered",
+    "owned": true,
+    "playtimeMinutes": 2294,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 2245,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 49,
+    "lastPlayedAt": "2026-04-26T23:38:09.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2623190/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Bethesda Game Studios",
+      "Virtuos"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "releaseDate": "2025-04-22",
+    "releaseDateRaw": "Apr 22, 2025",
+    "comingSoon": false,
+    "genres": [
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:35:00.000Z"
+  },
+  "year": 2025,
+  "synopsis": "Bethesda Game Studios’ The Elder Scrolls IV: Oblivion Remastered on Steam — retained as a permanent digital holding in The Elder Scrolls series.",
+  "coverImage": "/images/library/the-elder-scrolls-iv-oblivion-remastered/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:34:08.468Z",
+  "authorities": {
+    "developers": [
+      "bethesda-game-studios",
+      "virtuos"
+    ],
+    "publishers": [
+      "bethesda-softworks"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "the-elder-scrolls"
+    ]
+  }
+}

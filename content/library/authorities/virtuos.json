@@ -1,0 +1,33 @@
+{
+  "slug": "virtuos",
+  "authorityId": "AUTH-0149",
+  "type": "developer",
+  "preferredName": "Virtuos",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "bethesda-game-studios",
+    "the-elder-scrolls"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:35:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:35:00.000Z-virtuos",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0149 — controlled identity for Virtuos."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:35:00.000Z-virtuos",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Virtuos — co-developer of record for The Elder Scrolls IV: Oblivion Remastered in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:35:00.000Z"
+}

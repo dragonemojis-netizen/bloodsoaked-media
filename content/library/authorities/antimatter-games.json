@@ -1,0 +1,33 @@
+{
+  "slug": "antimatter-games",
+  "authorityId": "AUTH-0157",
+  "type": "developer",
+  "preferredName": "Antimatter Games",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "tripwire-interactive",
+    "rising-storm"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:45:00.000Z-antimatter-games",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0157 — controlled identity for Antimatter Games."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:45:00.000Z-antimatter-games",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Antimatter Games — co-developer of record for Rising Storm 2: Vietnam in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z"
+}

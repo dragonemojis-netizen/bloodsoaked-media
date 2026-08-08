@@ -1,0 +1,37 @@
+{
+  "slug": "the-elder-scrolls",
+  "authorityId": "AUTH-0132",
+  "type": "series",
+  "preferredName": "The Elder Scrolls",
+  "alternativeNames": [
+    "Elder Scrolls",
+    "ESO",
+    "The Elder Scrolls Online"
+  ],
+  "relatedAuthoritySlugs": [
+    "zenimax-online-studios",
+    "bethesda-softworks"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:30:00.000Z-the-elder-scrolls",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0132 — controlled identity for The Elder Scrolls."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:30:00.000Z-the-elder-scrolls",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "The Elder Scrolls — series identity for Bethesda / ZeniMax titles retained in the Bloodsoaked Library, including The Elder Scrolls Online and Oblivion Remastered.",
+  "curatorialRevisionAt": "2026-08-08T18:35:00.000Z"
+}

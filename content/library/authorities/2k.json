@@ -1,0 +1,35 @@
+{
+  "slug": "2k",
+  "authorityId": "AUTH-0128",
+  "type": "publisher",
+  "preferredName": "2K",
+  "alternativeNames": [
+    "2K Games"
+  ],
+  "relatedAuthoritySlugs": [
+    "gearbox-software",
+    "borderlands"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:30:00.000Z-2k",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0128 — controlled identity for 2K."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:30:00.000Z-2k",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "2K — publisher of record for Borderlands 4 in this archive’s PC Steam holding.",
+  "curatorialRevisionAt": "2026-08-08T18:30:00.000Z"
+}

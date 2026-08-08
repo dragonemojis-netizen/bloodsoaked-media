@@ -1,0 +1,32 @@
+{
+  "slug": "granblue-fantasy",
+  "authorityId": "AUTH-0155",
+  "type": "series",
+  "preferredName": "Granblue Fantasy",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "cygames"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:40:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:40:00.000Z-granblue-fantasy",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0155 — controlled identity for Granblue Fantasy."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:40:00.000Z-granblue-fantasy",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Granblue Fantasy — series identity for Cygames titles retained in the Bloodsoaked Library, including Granblue Fantasy: Relink.",
+  "curatorialRevisionAt": "2026-08-08T18:40:00.000Z"
+}

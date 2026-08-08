@@ -3,7 +3,7 @@
   "origin": "steam",
   "title": "Call of Duty®: Modern Warfare® 2 (2009)",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
@@ -55,5 +55,10 @@
     "artwork": {
       "headerCapsule": "/images/collection/steam/10190/header.jpg"
     }
+  },
+  "filing": {
+    "librarySlug": "call-of-duty-modern-warfare-2-2009",
+    "shelfMark": "LIB-0102",
+    "filedAt": "2026-08-08T18:38:51.373Z"
   }
 }

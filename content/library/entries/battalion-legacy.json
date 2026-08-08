@@ -1,0 +1,146 @@
+{
+  "slug": "battalion-legacy",
+  "title": "BATTALION: Legacy",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:29:33.677Z",
+  "shelfMark": "LIB-0087",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-489940",
+    "reconciledAt": "2026-08-08T18:29:33.677Z"
+  },
+  "catalog": {
+    "release": "May 23, 2019",
+    "developer": "BULKHEAD",
+    "publisher": "BULKHEAD",
+    "subjects": [
+      "Action",
+      "First-Person Shooter",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · BULKHEAD build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on BATTALION: Legacy as a free-to-play multiplayer digital holding descended from the Battalion lineage.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account, Steam’s support for the title, and BULKHEAD online services.",
+    "concerns": "Free-to-play multiplayer holdings face elevated server and service-retirement risk. No offline installer is held.",
+    "knownRevisions": "Steam release dated May 23, 2019 under the Legacy branding. This accession records the licensed digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and the required online services remain intact."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-489940"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:29:33.677Z",
+      "at": "2026-08-08T18:29:33.677Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0087."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:35:00.000Z-battalion-legacy",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:35:00.000Z-battalion-legacy",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:35:00.000Z-battalion-legacy",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:35:00.000Z-battalion-legacy",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:35:00.000Z-battalion-legacy",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:35:00.000Z-battalion-legacy",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 489940,
+    "title": "BATTALION: Legacy",
+    "owned": true,
+    "playtimeMinutes": 3335,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 12,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2022-08-19T18:19:01.000Z",
+    "storeUrl": "https://store.steampowered.com/app/489940/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "BULKHEAD"
+    ],
+    "publishers": [
+      "BULKHEAD"
+    ],
+    "releaseDate": "2019-05-23",
+    "releaseDateRaw": "May 23, 2019",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:35:00.000Z"
+  },
+  "year": 2019,
+  "synopsis": "BULKHEAD’s BATTALION: Legacy on Steam — retained as a permanent digital holding under the archive Steam account.",
+  "coverImage": "/images/library/battalion-legacy/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:35:00.000Z",
+  "authorities": {
+    "developers": [
+      "bulkhead"
+    ],
+    "publishers": [
+      "bulkhead"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

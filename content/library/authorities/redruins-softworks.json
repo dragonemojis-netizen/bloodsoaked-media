@@ -1,0 +1,32 @@
+{
+  "slug": "redruins-softworks",
+  "authorityId": "AUTH-0142",
+  "type": "developer",
+  "preferredName": "RedRuins Softworks",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "hypetrain-digital"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:35:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:35:00.000Z-redruins-softworks",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0142 — controlled identity for RedRuins Softworks."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:35:00.000Z-redruins-softworks",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "RedRuins Softworks — developer of record for Breathedge in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:35:00.000Z"
+}

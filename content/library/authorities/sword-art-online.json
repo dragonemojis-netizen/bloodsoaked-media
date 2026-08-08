@@ -1,0 +1,34 @@
+{
+  "slug": "sword-art-online",
+  "authorityId": "AUTH-0156",
+  "type": "series",
+  "preferredName": "Sword Art Online",
+  "alternativeNames": [
+    "SAO"
+  ],
+  "relatedAuthoritySlugs": [
+    "bandai-namco-entertainment"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:40:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:40:00.000Z-sword-art-online",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0156 — controlled identity for Sword Art Online."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:40:00.000Z-sword-art-online",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Sword Art Online — series identity for Bandai Namco licensed holdings retained in the Bloodsoaked Library, including Echoes of Aincrad.",
+  "curatorialRevisionAt": "2026-08-08T18:40:00.000Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "kwalee",
+  "authorityId": "AUTH-0165",
+  "type": "publisher",
+  "preferredName": "Kwalee",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "bun-muen"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:45:00.000Z-kwalee",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0165 — controlled identity for Kwalee."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:45:00.000Z-kwalee",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Kwalee — publisher of record for Shift At Midnight in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z"
+}

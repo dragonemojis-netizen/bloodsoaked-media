@@ -1,0 +1,30 @@
+{
+  "slug": "vedinad",
+  "authorityId": "AUTH-0162",
+  "type": "developer",
+  "preferredName": "vedinad",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:45:00.000Z-vedinad",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0162 — controlled identity for vedinad."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:45:00.000Z-vedinad",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "vedinad — developer and publisher of record for Megabonk in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z"
+}

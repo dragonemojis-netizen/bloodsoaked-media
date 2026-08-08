@@ -1,0 +1,35 @@
+{
+  "slug": "trails-in-the-sky",
+  "authorityId": "AUTH-0173",
+  "type": "series",
+  "preferredName": "Trails in the Sky",
+  "alternativeNames": [
+    "The Legend of Heroes: Trails in the Sky",
+    "Sora no Kiseki"
+  ],
+  "relatedAuthoritySlugs": [
+    "nihon-falcom"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:45:00.000Z-trails-in-the-sky",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0173 — controlled identity for Trails in the Sky."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:45:00.000Z-trails-in-the-sky",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Trails in the Sky — series identity for Nihon Falcom Trails holdings retained in the Bloodsoaked Library, including Trails in the Sky 1st Chapter.",
+  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z"
+}

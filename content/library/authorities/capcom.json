@@ -10,7 +10,8 @@
   ],
   "relatedAuthoritySlugs": [
     "clock-tower",
-    "playstation-2"
+    "playstation-2",
+    "resident-evil"
   ],
   "relatedHoldingIds": [],
   "externalReferences": [],
@@ -32,6 +33,6 @@
       "note": "Archival description entered."
     }
   ],
-  "description": "Capcom — publisher and developer of record for holdings including Dragon's Dogma 2 in the Bloodsoaked Library.",
-  "curatorialRevisionAt": "2026-08-08T18:20:00.000Z"
+  "description": "Capcom — publisher and developer of record for holdings including Dragon's Dogma 2 and Resident Evil 4 in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:40:00.000Z"
 }

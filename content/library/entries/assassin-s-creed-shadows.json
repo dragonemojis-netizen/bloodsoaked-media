@@ -1,0 +1,177 @@
+{
+  "slug": "assassin-s-creed-shadows",
+  "title": "Assassin's Creed Shadows",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:23:56.937Z",
+  "shelfMark": "LIB-0083",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-3159330",
+    "reconciledAt": "2026-08-08T18:23:56.937Z"
+  },
+  "catalog": {
+    "release": "March 19, 2025",
+    "developer": "Ubisoft Quebec",
+    "publisher": "Ubisoft",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Open World",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Ubisoft build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Assassin's Creed Shadows as a contemporary Assassin's Creed digital filing.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account, Steam’s support for the title, and Ubisoft Connect services where the client requires them.",
+    "concerns": "Account-bound digital holdings face platform dependency and launcher requirements. Always-online checks and Ubisoft service policy remain principal risks. No offline installer is held.",
+    "knownRevisions": "Steam release dated March 19, 2025. This accession records the licensed digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and the required services remain intact."
+  },
+  "connections": {
+    "series": "Assassin's Creed",
+    "relatedEntrySlugs": [
+      "assassin-s-creed-black-flag-resynced",
+      "assassin-s-creed-iv-black-flag"
+    ],
+    "collectionIds": [
+      "steam-3159330"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:23:56.937Z",
+      "at": "2026-08-08T18:23:56.937Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0083."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:30:00.000Z-assassin-s-creed-shadows",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:30:00.000Z-assassin-s-creed-shadows",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:30:00.000Z-assassin-s-creed-shadows",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:30:00.000Z-assassin-s-creed-shadows",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:30:00.000Z-assassin-s-creed-shadows",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:30:00.000Z-assassin-s-creed-shadows",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    },
+    {
+      "id": "connections-established-2026-08-08T18:40:00.000Z-assassin-s-creed-shadows-black-flag",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Linked to Assassin's Creed IV Black Flag (LIB-0098)."
+    }
+  ],
+  "steam": {
+    "appId": 3159330,
+    "title": "Assassin’s Creed Shadows",
+    "owned": true,
+    "playtimeMinutes": 3478,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 3478,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2025-12-05T02:31:31.000Z",
+    "storeUrl": "https://store.steampowered.com/app/3159330/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Ubisoft Quebec",
+      "Ubisoft Belgrade",
+      "Ubisoft Bordeaux",
+      "Ubisoft Bucharest & Craiova",
+      "Ubisoft Chengdu",
+      "Ubisoft Montpellier",
+      "Ubisoft Montreal",
+      "Ubisoft Osaka",
+      "Ubisoft Philippines",
+      "Ubisoft Shanghai",
+      "Ubisoft Singapore",
+      "Ubisoft Sofia",
+      "Ubisoft Ukraine"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ],
+    "releaseDate": "2025-03-19",
+    "releaseDateRaw": "Mar 19, 2025",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:30:00.000Z"
+  },
+  "year": 2025,
+  "synopsis": "Ubisoft Quebec’s Assassin's Creed Shadows on Steam — retained as a permanent digital holding in the Assassin's Creed series.",
+  "coverImage": "/images/library/assassin-s-creed-shadows/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:40:00.000Z",
+  "authorities": {
+    "developers": [
+      "ubisoft-quebec"
+    ],
+    "publishers": [
+      "ubisoft"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "assassins-creed"
+    ]
+  }
+}

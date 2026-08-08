@@ -3,7 +3,7 @@
   "origin": "steam",
   "title": "Rising Storm 2: Vietnam",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
@@ -24,5 +24,10 @@
     "storeUrl": "https://store.steampowered.com/app/418460/",
     "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api"
+  },
+  "filing": {
+    "librarySlug": "rising-storm-2-vietnam",
+    "shelfMark": "LIB-0101",
+    "filedAt": "2026-08-08T18:38:47.484Z"
   }
 }

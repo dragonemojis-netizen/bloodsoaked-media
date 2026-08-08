@@ -3,7 +3,7 @@
   "origin": "steam",
   "title": "VALKYRIE ELYSIUM",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
@@ -24,5 +24,10 @@
     "storeUrl": "https://store.steampowered.com/app/1963210/",
     "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api"
+  },
+  "filing": {
+    "librarySlug": "valkyrie-elysium",
+    "shelfMark": "LIB-0107",
+    "filedAt": "2026-08-08T18:39:14.409Z"
   }
 }

@@ -1,0 +1,36 @@
+{
+  "slug": "doom",
+  "authorityId": "AUTH-0138",
+  "type": "series",
+  "preferredName": "DOOM",
+  "alternativeNames": [
+    "Doom",
+    "DOOM: The Dark Ages"
+  ],
+  "relatedAuthoritySlugs": [
+    "id-software",
+    "bethesda-softworks"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:35:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:35:00.000Z-doom",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0138 — controlled identity for DOOM."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:35:00.000Z-doom",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "DOOM — series identity for id Software titles retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:35:00.000Z"
+}

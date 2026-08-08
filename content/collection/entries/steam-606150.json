@@ -3,7 +3,7 @@
   "origin": "steam",
   "title": "Moonlighter",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-08-08T17:35:45.984Z",
   "visibility": "hidden",
   "source": {
@@ -24,5 +24,10 @@
     "storeUrl": "https://store.steampowered.com/app/606150/",
     "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api"
+  },
+  "filing": {
+    "librarySlug": "moonlighter",
+    "shelfMark": "LIB-0085",
+    "filedAt": "2026-08-08T18:24:05.296Z"
   }
 }

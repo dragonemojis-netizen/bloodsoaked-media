@@ -1,0 +1,151 @@
+{
+  "slug": "palworld",
+  "title": "Palworld",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:29:52.003Z",
+  "shelfMark": "LIB-0092",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-1623730",
+    "reconciledAt": "2026-08-08T18:29:52.003Z"
+  },
+  "catalog": {
+    "release": "July 9, 2026",
+    "developer": "Pocketpair",
+    "publisher": "Pocketpair",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Pocketpair build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Palworld as a digital open-world creature-collection holding.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title. Online multiplayer components depend on Pocketpair services.",
+    "concerns": "Account-bound digital holdings face platform dependency and policy change. Multiplayer services increase long-term access risk. No offline installer is held.",
+    "knownRevisions": "Entered Steam Early Access in January 2024. Steam storefront date for the current edition is July 9, 2026. This accession records the licensed digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-1623730"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:29:52.003Z",
+      "at": "2026-08-08T18:29:52.003Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0092."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:35:00.000Z-palworld",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:35:00.000Z-palworld",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:35:00.000Z-palworld",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:35:00.000Z-palworld",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:35:00.000Z-palworld",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:35:00.000Z-palworld",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 1623730,
+    "title": "Palworld",
+    "owned": true,
+    "playtimeMinutes": 862,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 862,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-07-21T00:53:48.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1623730/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Pocketpair"
+    ],
+    "publishers": [
+      "Pocketpair"
+    ],
+    "releaseDate": "2026-07-09",
+    "releaseDateRaw": "Jul 9, 2026",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:35:00.000Z"
+  },
+  "year": 2026,
+  "synopsis": "Pocketpair’s Palworld on Steam — retained as a permanent digital holding under the archive Steam account.",
+  "coverImage": "/images/library/palworld/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:35:00.000Z",
+  "authorities": {
+    "developers": [
+      "pocketpair"
+    ],
+    "publishers": [
+      "pocketpair"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

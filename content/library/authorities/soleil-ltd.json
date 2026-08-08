@@ -1,0 +1,35 @@
+{
+  "slug": "soleil-ltd",
+  "authorityId": "AUTH-0166",
+  "type": "developer",
+  "preferredName": "Soleil Ltd.",
+  "alternativeNames": [
+    "Soleil"
+  ],
+  "relatedAuthoritySlugs": [
+    "square-enix",
+    "valkyrie-profile"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:45:00.000Z-soleil-ltd",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0166 — controlled identity for Soleil Ltd.."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:45:00.000Z-soleil-ltd",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Soleil Ltd. — co-developer of record for Valkyrie Elysium in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z"
+}

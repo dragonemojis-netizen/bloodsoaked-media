@@ -46,7 +46,10 @@
     "collectionIds": [
       "steam-311210"
     ],
-    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media.",
+    "relatedEntrySlugs": [
+      "call-of-duty-modern-warfare-2-2009"
+    ]
   },
   "artifacts": [],
   "stewardshipHistory": [
@@ -95,6 +98,13 @@
       "kind": "published",
       "summary": "Published to the Bloodsoaked Library",
       "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    },
+    {
+      "id": "connections-established-2026-08-08T18:45:00.000Z-call-of-duty-black-ops-iii-mw2",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Linked to Call of Duty: Modern Warfare 2 (2009) (LIB-0102)."
     }
   ],
   "steam": {
@@ -158,7 +168,7 @@
   "year": 2015,
   "synopsis": "Treyarch’s Call of Duty: Black Ops III on Steam — retained as a permanent digital holding in the Call of Duty series.",
   "coverImage": "/images/library/call-of-duty-black-ops-iii/cover-official.jpg",
-  "curatorialRevisionAt": "2026-08-08T18:20:00.000Z",
+  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z",
   "authorities": {
     "developers": [
       "treyarch"

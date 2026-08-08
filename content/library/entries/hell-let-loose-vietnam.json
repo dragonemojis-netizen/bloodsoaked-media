@@ -47,7 +47,10 @@
     "collectionIds": [
       "steam-3079210"
     ],
-    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media.",
+    "relatedEntrySlugs": [
+      "rising-storm-2-vietnam"
+    ]
   },
   "artifacts": [],
   "stewardshipHistory": [
@@ -103,6 +106,13 @@
       "kind": "editorial-revision",
       "summary": "Editorial revision",
       "note": "Primary cover replaced with curated official portrait key art."
+    },
+    {
+      "id": "connections-established-2026-08-08T18:45:00.000Z-hell-let-loose-vietnam-rs2",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Linked to Rising Storm 2: Vietnam (LIB-0101)."
     }
   ],
   "steam": {
@@ -143,7 +153,7 @@
   "year": 2026,
   "synopsis": "Expression Games’ Hell Let Loose: Vietnam on Steam — a pre-release digital holding retained under the archive Steam account within the Hell Let Loose series.",
   "coverImage": "/images/library/hell-let-loose-vietnam/cover-official.jpg",
-  "curatorialRevisionAt": "2026-08-08T17:52:32.944Z",
+  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z",
   "authorities": {
     "developers": [
       "expression-games"

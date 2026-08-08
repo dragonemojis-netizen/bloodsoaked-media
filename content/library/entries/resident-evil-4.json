@@ -1,0 +1,151 @@
+{
+  "slug": "resident-evil-4",
+  "title": "Resident Evil 4",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:34:51.980Z",
+  "shelfMark": "LIB-0096",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-2050650",
+    "reconciledAt": "2026-08-08T18:34:51.980Z"
+  },
+  "catalog": {
+    "release": "March 23, 2023",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Capcom build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on the 2023 Resident Evil 4 remake once a fuller critical record is prepared.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account, Steam’s support for the title, and Capcom / RE Engine services where the client requires them.",
+    "concerns": "Account-bound digital holdings face platform dependency. Always-online checks and Capcom service policy remain principal risks. No offline installer is held.",
+    "knownRevisions": "Steam remake release dated March 23, 2023. This accession records the licensed digital remake edition in custody, distinct from earlier Resident Evil 4 SKUs.",
+    "availability": "Playable from the archive Steam library for as long as that license and the required services remain intact."
+  },
+  "connections": {
+    "series": "Resident Evil",
+    "collectionIds": [
+      "steam-2050650"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:34:51.980Z",
+      "at": "2026-08-08T18:34:51.980Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0096."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:40:00.000Z-resident-evil-4",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:40:00.000Z-resident-evil-4",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:40:00.000Z-resident-evil-4",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:40:00.000Z-resident-evil-4",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:40:00.000Z-resident-evil-4",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:40:00.000Z-resident-evil-4",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 2050650,
+    "title": "Resident Evil 4",
+    "owned": true,
+    "playtimeMinutes": 2264,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 1939,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 324,
+    "lastPlayedAt": "2026-03-03T00:43:00.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2050650/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "publishers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "releaseDate": "2023-03-23",
+    "releaseDateRaw": "Mar 23, 2023",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:40:00.000Z"
+  },
+  "year": 2023,
+  "synopsis": "Capcom’s 2023 Resident Evil 4 remake on Steam — retained as a permanent digital holding in the Resident Evil series.",
+  "coverImage": "/images/library/resident-evil-4/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:40:00.000Z",
+  "authorities": {
+    "developers": [
+      "capcom"
+    ],
+    "publishers": [
+      "capcom"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "resident-evil"
+    ]
+  }
+}

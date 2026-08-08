@@ -1,0 +1,163 @@
+{
+  "slug": "halo-campaign-evolved",
+  "title": "Halo: Campaign Evolved",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:23:46.469Z",
+  "shelfMark": "LIB-0080",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-2806050",
+    "reconciledAt": "2026-08-08T18:23:46.469Z"
+  },
+  "catalog": {
+    "release": "July 28, 2026",
+    "developer": "Halo Studios",
+    "publisher": "Xbox Game Studios",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "First-Person Shooter",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Xbox Game Studios build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Halo: Campaign Evolved as a contemporary Halo campaign digital filing.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from curated portrait key art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account, Steam’s support for the title, and Xbox / Microsoft services where the client requires them.",
+    "concerns": "Account-bound digital holdings face platform dependency and online-service requirements. No offline installer is held.",
+    "knownRevisions": "Steam release dated July 28, 2026. This accession records the licensed digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and the required services remain intact."
+  },
+  "connections": {
+    "series": "Halo",
+    "relatedEntrySlugs": [
+      "halo-the-master-chief-collection",
+      "halo-infinite"
+    ],
+    "collectionIds": [
+      "steam-2806050"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:23:46.469Z",
+      "at": "2026-08-08T18:23:46.469Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0080."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:30:00.000Z-halo-campaign-evolved",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:30:00.000Z-halo-campaign-evolved",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:30:00.000Z-halo-campaign-evolved",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:30:00.000Z-halo-campaign-evolved",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:30:00.000Z-halo-campaign-evolved",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:30:00.000Z-halo-campaign-evolved",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:28:35.188Z-halo-campaign-evolved",
+      "at": "2026-08-08T18:28:35.188Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Primary cover replaced with curated official portrait key art."
+    }
+  ],
+  "steam": {
+    "appId": 2806050,
+    "title": "Halo: Campaign Evolved",
+    "owned": true,
+    "playtimeMinutes": 615,
+    "playtime2Weeks": 161,
+    "playtimeWindowsMinutes": 615,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-07-26T00:09:06.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2806050/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Halo Studios"
+    ],
+    "publishers": [
+      "Xbox Game Studios"
+    ],
+    "releaseDate": "2026-07-28",
+    "releaseDateRaw": "Jul 28, 2026",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:30:00.000Z"
+  },
+  "year": 2026,
+  "synopsis": "Halo Studios’ Halo: Campaign Evolved on Steam — retained as a permanent digital holding in the Halo series.",
+  "coverImage": "/images/library/halo-campaign-evolved/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:28:35.188Z",
+  "authorities": {
+    "developers": [
+      "halo-studios"
+    ],
+    "publishers": [
+      "xbox-game-studios"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "halo"
+    ]
+  }
+}

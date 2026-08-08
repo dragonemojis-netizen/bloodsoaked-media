@@ -9,7 +9,9 @@
   ],
   "relatedAuthoritySlugs": [
     "fromsoftware",
-    "elden-ring"
+    "elden-ring",
+    "sword-art-online",
+    "game-studio-inc"
   ],
   "relatedHoldingIds": [],
   "externalReferences": [],
@@ -31,6 +33,6 @@
       "note": "Archival description entered."
     }
   ],
-  "description": "Bandai Namco Entertainment — publisher of record for ELDEN RING and .hack//G.U. Last Recode in this archive’s PC Steam holdings.",
-  "curatorialRevisionAt": "2026-08-08T18:00:00.000Z"
+  "description": "Bandai Namco Entertainment — publisher of record for ELDEN RING and .hack//G.U. Last Recode in this archive’s PC Steam holdings; also publisher of record for Echoes of Aincrad.",
+  "curatorialRevisionAt": "2026-08-08T18:40:00.000Z"
 }

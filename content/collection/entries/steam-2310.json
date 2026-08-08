@@ -3,7 +3,7 @@
   "origin": "steam",
   "title": "Quake",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
@@ -66,5 +66,10 @@
       "capsule": "/images/collection/steam/2310/capsule.jpg",
       "hero": "/images/collection/steam/2310/hero.jpg"
     }
+  },
+  "filing": {
+    "librarySlug": "quake",
+    "shelfMark": "LIB-0111",
+    "filedAt": "2026-08-08T18:39:30.991Z"
   }
 }

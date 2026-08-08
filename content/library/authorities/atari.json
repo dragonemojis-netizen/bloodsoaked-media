@@ -1,0 +1,35 @@
+{
+  "slug": "atari",
+  "authorityId": "AUTH-0145",
+  "type": "publisher",
+  "preferredName": "Atari",
+  "alternativeNames": [
+    "Atari SA"
+  ],
+  "relatedAuthoritySlugs": [
+    "nightdive-studios",
+    "blood"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:35:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:35:00.000Z-atari",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0145 — controlled identity for Atari."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:35:00.000Z-atari",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Atari — publisher of record for Blood: Fresh Supply in this archive’s PC Steam holding.",
+  "curatorialRevisionAt": "2026-08-08T18:35:00.000Z"
+}

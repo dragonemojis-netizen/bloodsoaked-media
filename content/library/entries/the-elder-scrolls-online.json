@@ -1,0 +1,181 @@
+{
+  "slug": "the-elder-scrolls-online",
+  "title": "The Elder Scrolls Online",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:23:53.192Z",
+  "shelfMark": "LIB-0082",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-306130",
+    "reconciledAt": "2026-08-08T18:23:53.192Z"
+  },
+  "catalog": {
+    "release": "May 22, 2017",
+    "developer": "ZeniMax Online Studios",
+    "publisher": "Bethesda Softworks",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Massively Multiplayer",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Bethesda Softworks build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on The Elder Scrolls Online as an MMO digital holding within The Elder Scrolls series.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows or macOS through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account, Steam’s support for the title, and Bethesda / ZeniMax online services.",
+    "concerns": "Always-online MMO structure creates high preservation risk: server dependency, chapter/DLC rotation, and account authentication. No offline installer is held.",
+    "knownRevisions": "The Elder Scrolls Online originally launched in 2014 outside Steam. The Steam storefront date for this edition is May 22, 2017. This accession records the licensed digital edition in custody under the Steam distribution path.",
+    "availability": "Held as a permanent digital license on the archive Steam account while that custody and the required online services continue."
+  },
+  "connections": {
+    "series": "The Elder Scrolls",
+    "collectionIds": [
+      "steam-306130"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:23:53.192Z",
+      "at": "2026-08-08T18:23:53.192Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0082."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:30:00.000Z-the-elder-scrolls-online",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:30:00.000Z-the-elder-scrolls-online",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:30:00.000Z-the-elder-scrolls-online",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:30:00.000Z-the-elder-scrolls-online",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:30:00.000Z-the-elder-scrolls-online",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:30:00.000Z-the-elder-scrolls-online",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 306130,
+    "title": "The Elder Scrolls® Online",
+    "owned": true,
+    "playtimeMinutes": 3613,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 22,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2023-02-02T03:17:30.000Z",
+    "storeUrl": "https://store.steampowered.com/app/306130/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "ZeniMax Online Studios"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "releaseDate": "2017-05-22",
+    "releaseDateRaw": "May 22, 2017",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Trading Cards",
+      "Captions available",
+      "In-App Purchases",
+      "Camera Comfort",
+      "Chat Text-to-speech",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "shortDescription": "Every legend starts somewhere and in The Elder Scrolls Online, it starts with you. Join millions of players in an online, fantasy RPG set in a vast living Elder Scrolls world.",
+    "metadataSyncedAt": "2026-08-08T18:30:00.000Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/306130/header.jpg",
+      "capsule": "/images/collection/steam/306130/capsule.jpg",
+      "hero": "/images/collection/steam/306130/hero.jpg"
+    }
+  },
+  "year": 2017,
+  "synopsis": "ZeniMax Online Studios’ The Elder Scrolls Online on Steam — retained as a permanent digital holding in The Elder Scrolls series.",
+  "coverImage": "/images/library/the-elder-scrolls-online/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:30:00.000Z",
+  "authorities": {
+    "developers": [
+      "zenimax-online-studios"
+    ],
+    "publishers": [
+      "bethesda-softworks"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "the-elder-scrolls"
+    ]
+  }
+}

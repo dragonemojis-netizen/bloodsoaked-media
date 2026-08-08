@@ -1,0 +1,35 @@
+{
+  "slug": "game-studio-inc",
+  "authorityId": "AUTH-0153",
+  "type": "developer",
+  "preferredName": "Game Studio Inc.",
+  "alternativeNames": [
+    "Game Studio"
+  ],
+  "relatedAuthoritySlugs": [
+    "bandai-namco-entertainment",
+    "sword-art-online"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:40:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:40:00.000Z-game-studio-inc",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0153 — controlled identity for Game Studio Inc.."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:40:00.000Z-game-studio-inc",
+      "at": "2026-08-08T18:40:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Game Studio Inc. — developer of record for Echoes of Aincrad in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:40:00.000Z"
+}

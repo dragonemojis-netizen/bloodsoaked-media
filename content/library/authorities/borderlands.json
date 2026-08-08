@@ -1,0 +1,35 @@
+{
+  "slug": "borderlands",
+  "authorityId": "AUTH-0129",
+  "type": "series",
+  "preferredName": "Borderlands",
+  "alternativeNames": [
+    "Borderlands 4"
+  ],
+  "relatedAuthoritySlugs": [
+    "gearbox-software",
+    "2k"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:30:00.000Z-borderlands",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0129 — controlled identity for Borderlands."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:30:00.000Z-borderlands",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Borderlands — series identity for Gearbox Software titles retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:30:00.000Z"
+}

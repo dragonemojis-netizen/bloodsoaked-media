@@ -1,0 +1,36 @@
+{
+  "slug": "rising-storm",
+  "authorityId": "AUTH-0159",
+  "type": "series",
+  "preferredName": "Rising Storm",
+  "alternativeNames": [
+    "RS2",
+    "Rising Storm 2"
+  ],
+  "relatedAuthoritySlugs": [
+    "tripwire-interactive",
+    "antimatter-games"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:45:00.000Z-rising-storm",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0159 — controlled identity for Rising Storm."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:45:00.000Z-rising-storm",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Rising Storm — series identity for Tripwire Interactive tactical shooter holdings retained in the Bloodsoaked Library, including Rising Storm 2: Vietnam.",
+  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z"
+}

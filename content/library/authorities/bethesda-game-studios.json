@@ -3,14 +3,19 @@
   "authorityId": "AUTH-0013",
   "type": "studio",
   "preferredName": "Bethesda Game Studios",
-  "alternativeNames": ["BGS"],
-  "description": "Bethesda Game Studios — studio identity used by the archive for Fallout titles developed in-house and filed as digital holdings.",
-  "relatedAuthoritySlugs": ["bethesda-softworks", "fallout"],
+  "alternativeNames": [
+    "BGS"
+  ],
+  "description": "Bethesda Game Studios — developer of record for Starfield and co-developer of Oblivion Remastered in the Bloodsoaked Library.",
+  "relatedAuthoritySlugs": [
+    "bethesda-softworks",
+    "fallout"
+  ],
   "relatedHoldingIds": [],
   "externalReferences": [],
   "visibility": "published",
   "filedAt": "2026-07-26T05:00:00.000Z",
-  "curatorialRevisionAt": "2026-07-26T06:00:00.000Z",
+  "curatorialRevisionAt": "2026-08-08T18:35:00.000Z",
   "stewardshipHistory": [
     {
       "id": "filed-2026-07-26T05:00:00.000Z",

@@ -1,0 +1,179 @@
+{
+  "slug": "quake",
+  "title": "Quake",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2007,
+  "coverImage": "/images/library/quake/cover-official.jpg",
+  "filedAt": "2026-08-08T18:39:30.991Z",
+  "shelfMark": "LIB-0111",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-2310",
+    "reconciledAt": "2026-08-08T18:39:30.991Z"
+  },
+  "catalog": {
+    "developer": "id Software / Nightdive Studios / MachineGames",
+    "publisher": "Bethesda Softworks",
+    "subjects": [
+      "Action",
+      "First-Person Shooter",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "release": "August 3, 2007"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Bethesda Softworks build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Quake. Steam’s structured release date reflects the digital storefront listing (2007), not the 1996 original retail launch; original release dating remains available for a later curator note if needed.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title. Enhanced / remastered clients may depend on additional services.",
+    "concerns": "Account-bound digital holdings face platform dependency. Storefront SKUs for classic titles may revise the licensed client in place. No offline installer is held.",
+    "knownRevisions": "Steam store release dated August 3, 2007 for this SKU. Quake originally launched in 1996; this accession records the licensed Steam digital edition in custody (id Software / Nightdive Studios / MachineGames).",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "series": "Quake",
+    "relatedEntrySlugs": [
+      "doom-the-dark-ages"
+    ],
+    "collectionIds": [
+      "steam-2310"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:39:30.991Z",
+      "at": "2026-08-08T18:39:30.991Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0111."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:45:00.000Z-quake",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:45:00.000Z-quake",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:45:00.000Z-quake",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:45:00.000Z-quake",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:45:00.000Z-quake",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:45:00.000Z-quake",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 2310,
+    "title": "Quake",
+    "owned": true,
+    "playtimeMinutes": 48,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 27,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 21,
+    "lastPlayedAt": "2026-07-06T23:46:41.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2310/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "id Software",
+      "Nightdive Studios",
+      "MachineGames"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "releaseDate": "2007-08-03",
+    "releaseDateRaw": "Aug 3, 2007",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Full controller support",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Developed by the award-winning id Software, Quake® is the ground-breaking, original dark fantasy first-person shooter that inspires today’s retro-style FPS games. With Quake (Enhanced), experience the authentic, updated, and visually enhanced version of the original.",
+    "metadataSyncedAt": "2026-08-08T18:45:00.000Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/2310/header.jpg",
+      "capsule": "/images/collection/steam/2310/capsule.jpg",
+      "hero": "/images/collection/steam/2310/hero.jpg"
+    }
+  },
+  "synopsis": "id Software’s Quake on Steam — retained as a permanent digital holding in the Quake series under Bethesda Softworks publication.",
+  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z",
+  "authorities": {
+    "developers": [
+      "id-software",
+      "nightdive-studios",
+      "machinegames"
+    ],
+    "publishers": [
+      "bethesda-softworks"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "quake"
+    ]
+  }
+}

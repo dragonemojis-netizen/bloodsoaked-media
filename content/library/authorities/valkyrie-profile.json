@@ -1,0 +1,36 @@
+{
+  "slug": "valkyrie-profile",
+  "authorityId": "AUTH-0167",
+  "type": "series",
+  "preferredName": "Valkyrie Profile",
+  "alternativeNames": [
+    "Valkyrie Elysium",
+    "Valkyrie"
+  ],
+  "relatedAuthoritySlugs": [
+    "square-enix",
+    "soleil-ltd"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:45:00.000Z-valkyrie-profile",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0167 — controlled identity for Valkyrie Profile."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:45:00.000Z-valkyrie-profile",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Valkyrie Profile — series identity for Square Enix Valkyrie holdings retained in the Bloodsoaked Library, including Valkyrie Elysium.",
+  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z"
+}

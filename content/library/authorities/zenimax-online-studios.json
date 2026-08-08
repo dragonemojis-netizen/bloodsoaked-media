@@ -1,0 +1,35 @@
+{
+  "slug": "zenimax-online-studios",
+  "authorityId": "AUTH-0131",
+  "type": "developer",
+  "preferredName": "ZeniMax Online Studios",
+  "alternativeNames": [
+    "Zenimax Online Studios"
+  ],
+  "relatedAuthoritySlugs": [
+    "bethesda-softworks",
+    "the-elder-scrolls"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:30:00.000Z-zenimax-online-studios",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0131 — controlled identity for ZeniMax Online Studios."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:30:00.000Z-zenimax-online-studios",
+      "at": "2026-08-08T18:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "ZeniMax Online Studios — developer of record for The Elder Scrolls Online in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:30:00.000Z"
+}

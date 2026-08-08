@@ -3,7 +3,7 @@
   "origin": "steam",
   "title": "Assassin's Creed IV Black Flag",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
@@ -57,5 +57,10 @@
       "capsule": "/images/collection/steam/242050/capsule.jpg",
       "hero": "/images/collection/steam/242050/hero.jpg"
     }
+  },
+  "filing": {
+    "librarySlug": "assassin-s-creed-iv-black-flag",
+    "shelfMark": "LIB-0098",
+    "filedAt": "2026-08-08T18:34:58.726Z"
   }
 }

@@ -3,7 +3,7 @@
   "origin": "steam",
   "title": "The Elder Scrolls Online",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
@@ -71,5 +71,10 @@
       "capsule": "/images/collection/steam/306130/capsule.jpg",
       "hero": "/images/collection/steam/306130/hero.jpg"
     }
+  },
+  "filing": {
+    "librarySlug": "the-elder-scrolls-online",
+    "shelfMark": "LIB-0082",
+    "filedAt": "2026-08-08T18:23:53.192Z"
   }
 }

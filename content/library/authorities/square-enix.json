@@ -12,7 +12,10 @@
     "drakengard-nier-lineage",
     "cavia",
     "square",
-    "parasite-eve"
+    "parasite-eve",
+    "claytechworks",
+    "soleil-ltd",
+    "valkyrie-profile"
   ],
   "relatedHoldingIds": [],
   "externalReferences": [],
@@ -26,5 +29,6 @@
       "summary": "Filed into the Library",
       "note": "Established as AUTH-0003 — controlled identity for Square Enix."
     }
-  ]
+  ],
+  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z"
 }

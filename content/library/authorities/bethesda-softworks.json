@@ -3,14 +3,22 @@
   "authorityId": "AUTH-0014",
   "type": "publisher",
   "preferredName": "Bethesda Softworks",
-  "alternativeNames": ["Bethesda"],
-  "description": "Bethesda Softworks — publisher of record for the Fallout digital accessions held by Bloodsoaked Media.",
-  "relatedAuthoritySlugs": ["bethesda-game-studios", "fallout", "obsidian-entertainment"],
+  "alternativeNames": [
+    "Bethesda"
+  ],
+  "description": "Bethesda Softworks — publisher of record for DOOM: The Dark Ages, Oblivion Remastered, Starfield, and The Elder Scrolls Online in this archive’s PC Steam holdings.",
+  "relatedAuthoritySlugs": [
+    "bethesda-game-studios",
+    "fallout",
+    "obsidian-entertainment",
+    "quake",
+    "id-software"
+  ],
   "relatedHoldingIds": [],
   "externalReferences": [],
   "visibility": "published",
   "filedAt": "2026-07-26T05:00:00.000Z",
-  "curatorialRevisionAt": "2026-07-26T06:00:00.000Z",
+  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z",
   "stewardshipHistory": [
     {
       "id": "filed-2026-07-26T05:00:00.000Z",

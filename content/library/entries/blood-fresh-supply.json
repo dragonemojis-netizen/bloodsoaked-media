@@ -1,0 +1,152 @@
+{
+  "slug": "blood-fresh-supply",
+  "title": "Blood: Fresh Supply",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:29:47.994Z",
+  "shelfMark": "LIB-0091",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-1010750",
+    "reconciledAt": "2026-08-08T18:29:47.994Z"
+  },
+  "catalog": {
+    "release": "May 9, 2019",
+    "developer": "Nightdive Studios",
+    "publisher": "Atari",
+    "subjects": [
+      "Action",
+      "First-Person Shooter",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Atari build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Blood: Fresh Supply as a remastered classic FPS digital filing. Monolith Productions remains credited on the Steam block as the original developer.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title.",
+    "concerns": "As with other account-bound Steam holdings: platform dependency, policy change, and the absence of a retained offline installer.",
+    "knownRevisions": "Remaster of the 1997 Blood. Steam release dated May 9, 2019. This accession records the licensed Fresh Supply digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "series": "Blood",
+    "collectionIds": [
+      "steam-1010750"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:29:47.994Z",
+      "at": "2026-08-08T18:29:47.994Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0091."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:35:00.000Z-blood-fresh-supply",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:35:00.000Z-blood-fresh-supply",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:35:00.000Z-blood-fresh-supply",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:35:00.000Z-blood-fresh-supply",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:35:00.000Z-blood-fresh-supply",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:35:00.000Z-blood-fresh-supply",
+      "at": "2026-08-08T18:35:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 1010750,
+    "title": "Blood™ Fresh Supply",
+    "owned": true,
+    "playtimeMinutes": 2412,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 2034,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 378,
+    "lastPlayedAt": "2026-05-04T17:03:00.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1010750/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Nightdive Studios",
+      "Monolith Productions"
+    ],
+    "publishers": [
+      "Atari"
+    ],
+    "releaseDate": "2019-05-09",
+    "releaseDateRaw": "May 9, 2019",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:35:00.000Z"
+  },
+  "year": 2019,
+  "synopsis": "Nightdive Studios’ Blood: Fresh Supply on Steam — the remastered digital holding of Monolith’s Blood, retained under the archive Steam account.",
+  "coverImage": "/images/library/blood-fresh-supply/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:35:00.000Z",
+  "authorities": {
+    "developers": [
+      "nightdive-studios",
+      "monolith-productions"
+    ],
+    "publishers": [
+      "atari"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "blood"
+    ]
+  }
+}

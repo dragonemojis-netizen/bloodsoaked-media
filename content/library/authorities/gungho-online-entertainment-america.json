@@ -1,0 +1,36 @@
+{
+  "slug": "gungho-online-entertainment-america",
+  "authorityId": "AUTH-0172",
+  "type": "publisher",
+  "preferredName": "GungHo Online Entertainment America",
+  "alternativeNames": [
+    "GungHo Online Entertainment America, Inc.",
+    "GungHo"
+  ],
+  "relatedAuthoritySlugs": [
+    "nihon-falcom",
+    "trails-in-the-sky"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:45:00.000Z-gungho-online-entertainment-america",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0172 — controlled identity for GungHo Online Entertainment America."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:45:00.000Z-gungho-online-entertainment-america",
+      "at": "2026-08-08T18:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "GungHo Online Entertainment America — publisher of record for Trails in the Sky 1st Chapter in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z"
+}
