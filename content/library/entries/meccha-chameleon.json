@@ -1,0 +1,152 @@
+{
+  "slug": "meccha-chameleon",
+  "title": "Meccha Chameleon",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:50:02.666Z",
+  "shelfMark": "LIB-0113",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-4704690",
+    "reconciledAt": "2026-08-08T18:50:02.666Z"
+  },
+  "catalog": {
+    "developer": "lemorion_1224",
+    "publisher": "lemorion_1224",
+    "subjects": [
+      "Casual",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "release": "June 10, 2026"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · lemorion_1224 build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Meccha Chameleon once a fuller critical record is prepared.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from curated portrait key art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title.",
+    "concerns": "Account-bound digital holdings face platform dependency. Patch revision risk and the absence of a retained offline installer remain principal concerns.",
+    "knownRevisions": "Steam release dated June 10, 2026. This accession records the licensed digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-4704690"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:50:02.666Z",
+      "at": "2026-08-08T18:50:02.666Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0113."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:55:00.000Z-meccha-chameleon",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam header artwork filed under the Library accession path (landscape fallback; no library_600x900 available)."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:55:00.000Z-meccha-chameleon",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:55:00.000Z-meccha-chameleon",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:55:00.000Z-meccha-chameleon",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:55:00.000Z-meccha-chameleon",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:55:00.000Z-meccha-chameleon",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:58:00.000Z-meccha-chameleon-replace",
+      "at": "2026-08-08T18:58:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Curated portrait key art replaced the landscape Steam header under the Library accession path."
+    }
+  ],
+  "steam": {
+    "appId": 4704690,
+    "title": "MECCHA CHAMELEON",
+    "owned": true,
+    "playtimeMinutes": 127,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 127,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-07-09T01:41:19.000Z",
+    "storeUrl": "https://store.steampowered.com/app/4704690/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "lemorion_1224"
+    ],
+    "publishers": [
+      "lemorion_1224"
+    ],
+    "releaseDate": "2026-06-10",
+    "releaseDateRaw": "10 Jun, 2026",
+    "comingSoon": false,
+    "genres": [
+      "Casual"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:55:00.000Z"
+  },
+  "year": 2026,
+  "synopsis": "lemorion_1224’s Meccha Chameleon on Steam — retained as a permanent digital holding under archive custody.",
+  "coverImage": "/images/library/meccha-chameleon/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:58:00.000Z",
+  "authorities": {
+    "developers": [
+      "lemorion-1224"
+    ],
+    "publishers": [
+      "lemorion-1224"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

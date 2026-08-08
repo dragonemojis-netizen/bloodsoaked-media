@@ -1,0 +1,33 @@
+{
+  "slug": "mundfish",
+  "authorityId": "AUTH-0178",
+  "type": "developer",
+  "preferredName": "Mundfish",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "focus-entertainment",
+    "4divinity"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:55:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:55:00.000Z-mundfish",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0178 — controlled identity for Mundfish."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:55:00.000Z-mundfish",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Mundfish — developer of record for Atomic Heart in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:55:00.000Z"
+}

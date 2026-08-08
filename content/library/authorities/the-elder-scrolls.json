@@ -10,7 +10,8 @@
   ],
   "relatedAuthoritySlugs": [
     "zenimax-online-studios",
-    "bethesda-softworks"
+    "bethesda-softworks",
+    "bethesda-game-studios"
   ],
   "relatedHoldingIds": [],
   "externalReferences": [],
@@ -32,6 +33,6 @@
       "note": "Archival description entered."
     }
   ],
-  "description": "The Elder Scrolls — series identity for Bethesda / ZeniMax titles retained in the Bloodsoaked Library, including The Elder Scrolls Online and Oblivion Remastered.",
-  "curatorialRevisionAt": "2026-08-08T18:35:00.000Z"
+  "description": "The Elder Scrolls — series identity for Bethesda / ZeniMax titles retained in the Bloodsoaked Library, including Skyrim Special Edition, Oblivion Remastered, and The Elder Scrolls Online.",
+  "curatorialRevisionAt": "2026-08-08T18:55:00.000Z"
 }

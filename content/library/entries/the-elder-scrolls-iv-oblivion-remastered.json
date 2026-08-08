@@ -43,7 +43,8 @@
   "connections": {
     "series": "The Elder Scrolls",
     "relatedEntrySlugs": [
-      "the-elder-scrolls-online"
+      "the-elder-scrolls-online",
+      "the-elder-scrolls-v-skyrim-special-edition"
     ],
     "collectionIds": [
       "steam-2623190"
@@ -104,6 +105,13 @@
       "kind": "editorial-revision",
       "summary": "Editorial revision",
       "note": "Primary cover replaced with curated official portrait key art."
+    },
+    {
+      "id": "connections-established-2026-08-08T18:55:00.000Z-the-elder-scrolls-iv-oblivion-remastered-skyrim",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Linked to The Elder Scrolls V: Skyrim Special Edition (LIB-0112)."
     }
   ],
   "steam": {
@@ -142,7 +150,7 @@
   "year": 2025,
   "synopsis": "Bethesda Game Studios’ The Elder Scrolls IV: Oblivion Remastered on Steam — retained as a permanent digital holding in The Elder Scrolls series.",
   "coverImage": "/images/library/the-elder-scrolls-iv-oblivion-remastered/cover-official.jpg",
-  "curatorialRevisionAt": "2026-08-08T18:34:08.468Z",
+  "curatorialRevisionAt": "2026-08-08T18:55:00.000Z",
   "authorities": {
     "developers": [
       "bethesda-game-studios",

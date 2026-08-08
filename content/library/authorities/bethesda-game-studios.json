@@ -9,13 +9,14 @@
   "description": "Bethesda Game Studios — developer of record for Starfield and co-developer of Oblivion Remastered in the Bloodsoaked Library.",
   "relatedAuthoritySlugs": [
     "bethesda-softworks",
-    "fallout"
+    "fallout",
+    "the-elder-scrolls"
   ],
   "relatedHoldingIds": [],
   "externalReferences": [],
   "visibility": "published",
   "filedAt": "2026-07-26T05:00:00.000Z",
-  "curatorialRevisionAt": "2026-08-08T18:35:00.000Z",
+  "curatorialRevisionAt": "2026-08-08T18:55:00.000Z",
   "stewardshipHistory": [
     {
       "id": "filed-2026-07-26T05:00:00.000Z",

@@ -1,0 +1,32 @@
+{
+  "slug": "nino-games",
+  "authorityId": "AUTH-0182",
+  "type": "publisher",
+  "preferredName": "Nino Games",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "0x0real-studio"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:55:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:55:00.000Z-nino-games",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0182 — controlled identity for Nino Games."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:55:00.000Z-nino-games",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Nino Games — publisher of record for The NOexistenceN of you AND me in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:55:00.000Z"
+}

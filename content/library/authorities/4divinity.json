@@ -1,0 +1,33 @@
+{
+  "slug": "4divinity",
+  "authorityId": "AUTH-0180",
+  "type": "publisher",
+  "preferredName": "4Divinity",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "mundfish",
+    "focus-entertainment"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:55:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:55:00.000Z-4divinity",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0180 — controlled identity for 4Divinity."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:55:00.000Z-4divinity",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "4Divinity — co-publisher of record for Atomic Heart in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T18:55:00.000Z"
+}

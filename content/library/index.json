@@ -12,6 +12,7 @@
     "assassin-s-creed-black-flag-resynced",
     "assassin-s-creed-iv-black-flag",
     "assassin-s-creed-shadows",
+    "atomic-heart",
     "balatro",
     "baldur-s-gate-3",
     "baroque",
@@ -70,6 +71,7 @@
     "kingdom-come-deliverance",
     "kingdom-come-deliverance-ii",
     "marathon",
+    "meccha-chameleon",
     "megabonk",
     "metaphor-refantazio",
     "mistfall-hunter",
@@ -101,6 +103,8 @@
     "the-adventures-of-elliot-the-millennium-tales",
     "the-elder-scrolls-iv-oblivion-remastered",
     "the-elder-scrolls-online",
+    "the-elder-scrolls-v-skyrim-special-edition",
+    "the-noexistencen-of-you-and-me",
     "the-punisher",
     "the-simpsons-hit-and-run",
     "trails-in-the-sky-1st-chapter",
@@ -125,6 +129,7 @@
     "assassin-s-creed-black-flag-resynced",
     "assassin-s-creed-iv-black-flag",
     "assassin-s-creed-shadows",
+    "atomic-heart",
     "balatro",
     "baldur-s-gate-3",
     "baroque",
@@ -183,6 +188,7 @@
     "kingdom-come-deliverance",
     "kingdom-come-deliverance-ii",
     "marathon",
+    "meccha-chameleon",
     "megabonk",
     "metaphor-refantazio",
     "mistfall-hunter",
@@ -214,6 +220,8 @@
     "the-adventures-of-elliot-the-millennium-tales",
     "the-elder-scrolls-iv-oblivion-remastered",
     "the-elder-scrolls-online",
+    "the-elder-scrolls-v-skyrim-special-edition",
+    "the-noexistencen-of-you-and-me",
     "the-punisher",
     "the-simpsons-hit-and-run",
     "trails-in-the-sky-1st-chapter",
@@ -477,6 +485,29 @@
       "series": "Assassin's Creed",
       "accessionSource": "digital-library",
       "steamAppId": 3159330
+    },
+    "atomic-heart": {
+      "slug": "atomic-heart",
+      "title": "Atomic Heart",
+      "mediaType": "game",
+      "status": "catalogued",
+      "visibility": "published",
+      "year": 2023,
+      "synopsis": "Mundfish’s Atomic Heart on Steam — retained as a permanent digital holding under Focus Entertainment / 4Divinity publication.",
+      "coverImage": "/images/library/atomic-heart/cover-official.jpg",
+      "filedAt": "2026-08-08T18:50:07.449Z",
+      "shelfMark": "LIB-0114",
+      "platform": "PC",
+      "subjects": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Digital Preservation"
+      ],
+      "developer": "Mundfish",
+      "publisher": "Focus Entertainment / 4Divinity",
+      "accessionSource": "digital-library",
+      "steamAppId": 668580
     },
     "balatro": {
       "slug": "balatro",
@@ -1821,6 +1852,27 @@
       "accessionSource": "digital-library",
       "steamAppId": 3065800
     },
+    "meccha-chameleon": {
+      "slug": "meccha-chameleon",
+      "title": "Meccha Chameleon",
+      "mediaType": "game",
+      "status": "catalogued",
+      "visibility": "published",
+      "year": 2026,
+      "synopsis": "lemorion_1224’s Meccha Chameleon on Steam — retained as a permanent digital holding under archive custody.",
+      "coverImage": "/images/library/meccha-chameleon/cover-official.jpg",
+      "filedAt": "2026-08-08T18:50:02.666Z",
+      "shelfMark": "LIB-0113",
+      "platform": "PC",
+      "subjects": [
+        "Casual",
+        "Digital Preservation"
+      ],
+      "developer": "lemorion_1224",
+      "publisher": "lemorion_1224",
+      "accessionSource": "digital-library",
+      "steamAppId": 4704690
+    },
     "megabonk": {
       "slug": "megabonk",
       "title": "Megabonk",
@@ -2555,6 +2607,52 @@
       "accessionSource": "digital-library",
       "steamAppId": 306130
     },
+    "the-elder-scrolls-v-skyrim-special-edition": {
+      "slug": "the-elder-scrolls-v-skyrim-special-edition",
+      "title": "The Elder Scrolls V: Skyrim Special Edition",
+      "mediaType": "game",
+      "status": "catalogued",
+      "visibility": "published",
+      "year": 2016,
+      "synopsis": "Bethesda Game Studios’ The Elder Scrolls V: Skyrim Special Edition on Steam — retained as a permanent digital holding in The Elder Scrolls series.",
+      "coverImage": "/images/library/the-elder-scrolls-v-skyrim-special-edition/cover-official.jpg",
+      "filedAt": "2026-08-08T18:49:57.637Z",
+      "shelfMark": "LIB-0112",
+      "platform": "PC",
+      "subjects": [
+        "RPG",
+        "Open World",
+        "Digital Preservation"
+      ],
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda Softworks",
+      "series": "The Elder Scrolls",
+      "accessionSource": "digital-library",
+      "steamAppId": 489830
+    },
+    "the-noexistencen-of-you-and-me": {
+      "slug": "the-noexistencen-of-you-and-me",
+      "title": "The NOexistenceN of you AND me",
+      "mediaType": "game",
+      "status": "catalogued",
+      "visibility": "published",
+      "year": 2024,
+      "synopsis": "0x0Real Studio’s The NOexistenceN of you AND me on Steam — retained as a permanent digital holding under Nino Games publication.",
+      "coverImage": "/images/library/the-noexistencen-of-you-and-me/cover-official.jpg",
+      "filedAt": "2026-08-08T18:50:11.796Z",
+      "shelfMark": "LIB-0115",
+      "platform": "PC",
+      "subjects": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Digital Preservation"
+      ],
+      "developer": "0x0Real Studio",
+      "publisher": "Nino Games",
+      "accessionSource": "digital-library",
+      "steamAppId": 2873080
+    },
     "the-punisher": {
       "slug": "the-punisher",
       "title": "The Punisher",
@@ -2806,5 +2904,5 @@
       "steamAppId": 433850
     }
   },
-  "updatedAt": "2026-08-08T18:41:52.987Z"
+  "updatedAt": "2026-08-08T18:51:42.100Z"
 }

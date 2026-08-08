@@ -47,7 +47,10 @@
     "collectionIds": [
       "steam-306130"
     ],
-    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media.",
+    "relatedEntrySlugs": [
+      "the-elder-scrolls-v-skyrim-special-edition"
+    ]
   },
   "artifacts": [],
   "stewardshipHistory": [
@@ -96,6 +99,13 @@
       "kind": "published",
       "summary": "Published to the Bloodsoaked Library",
       "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    },
+    {
+      "id": "connections-established-2026-08-08T18:55:00.000Z-the-elder-scrolls-online-skyrim",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Linked to The Elder Scrolls V: Skyrim Special Edition (LIB-0112)."
     }
   ],
   "steam": {
@@ -162,7 +172,7 @@
   "year": 2017,
   "synopsis": "ZeniMax Online Studios’ The Elder Scrolls Online on Steam — retained as a permanent digital holding in The Elder Scrolls series.",
   "coverImage": "/images/library/the-elder-scrolls-online/cover-official.jpg",
-  "curatorialRevisionAt": "2026-08-08T18:30:00.000Z",
+  "curatorialRevisionAt": "2026-08-08T18:55:00.000Z",
   "authorities": {
     "developers": [
       "zenimax-online-studios"

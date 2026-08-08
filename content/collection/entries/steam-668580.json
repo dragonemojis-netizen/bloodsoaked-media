@@ -3,7 +3,7 @@
   "origin": "steam",
   "title": "Atomic Heart",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
@@ -24,5 +24,10 @@
     "storeUrl": "https://store.steampowered.com/app/668580/",
     "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api"
+  },
+  "filing": {
+    "librarySlug": "atomic-heart",
+    "shelfMark": "LIB-0114",
+    "filedAt": "2026-08-08T18:50:07.449Z"
   }
 }

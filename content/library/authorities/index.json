@@ -1,9 +1,11 @@
 {
   "schemaVersion": 1,
   "authoritySlugs": [
+    "0x0real-studio",
     "11-bit-studios",
     "2k",
     "343-industries",
+    "4divinity",
     "505-games",
     "aardvark-software",
     "access-games",
@@ -63,6 +65,7 @@
     "fallout",
     "far-cry",
     "fictions",
+    "focus-entertainment",
     "fromsoftware",
     "fruitbat-factory",
     "game-freak",
@@ -98,6 +101,7 @@
     "kuro-games",
     "kwalee",
     "larian-studios",
+    "lemorion-1224",
     "localthunk",
     "machinegames",
     "media-vision",
@@ -105,11 +109,13 @@
     "metaphor-refantazio",
     "monolith-productions",
     "morefun-studios",
+    "mundfish",
     "n-space",
     "nacon",
     "neem-interactive",
     "nightdive-studios",
     "nihon-falcom",
+    "nino-games",
     "npc-studio",
     "obsidian-entertainment",
     "orange-juice",
@@ -178,9 +184,11 @@
     "zenimax-online-studios"
   ],
   "publishedSlugs": [
+    "0x0real-studio",
     "11-bit-studios",
     "2k",
     "343-industries",
+    "4divinity",
     "505-games",
     "aardvark-software",
     "access-games",
@@ -240,6 +248,7 @@
     "fallout",
     "far-cry",
     "fictions",
+    "focus-entertainment",
     "fromsoftware",
     "fruitbat-factory",
     "game-freak",
@@ -275,6 +284,7 @@
     "kuro-games",
     "kwalee",
     "larian-studios",
+    "lemorion-1224",
     "localthunk",
     "machinegames",
     "media-vision",
@@ -282,11 +292,13 @@
     "metaphor-refantazio",
     "monolith-productions",
     "morefun-studios",
+    "mundfish",
     "n-space",
     "nacon",
     "neem-interactive",
     "nightdive-studios",
     "nihon-falcom",
+    "nino-games",
     "npc-studio",
     "obsidian-entertainment",
     "orange-juice",
@@ -355,6 +367,16 @@
     "zenimax-online-studios"
   ],
   "shelf": {
+    "0x0real-studio": {
+      "slug": "0x0real-studio",
+      "authorityId": "AUTH-0181",
+      "type": "developer",
+      "preferredName": "0x0Real Studio",
+      "visibility": "published",
+      "alternativeNames": [
+        "0x0Real"
+      ]
+    },
     "11-bit-studios": {
       "slug": "11-bit-studios",
       "authorityId": "AUTH-0136",
@@ -384,6 +406,14 @@
       "alternativeNames": [
         "343 Industries LLC"
       ]
+    },
+    "4divinity": {
+      "slug": "4divinity",
+      "authorityId": "AUTH-0180",
+      "type": "publisher",
+      "preferredName": "4Divinity",
+      "visibility": "published",
+      "alternativeNames": []
     },
     "505-games": {
       "slug": "505-games",
@@ -961,6 +991,16 @@
         "Fictions, Inc."
       ]
     },
+    "focus-entertainment": {
+      "slug": "focus-entertainment",
+      "authorityId": "AUTH-0179",
+      "type": "publisher",
+      "preferredName": "Focus Entertainment",
+      "visibility": "published",
+      "alternativeNames": [
+        "Focus Home Interactive"
+      ]
+    },
     "fromsoftware": {
       "slug": "fromsoftware",
       "authorityId": "AUTH-0017",
@@ -1300,6 +1340,14 @@
         "Larian"
       ]
     },
+    "lemorion-1224": {
+      "slug": "lemorion-1224",
+      "authorityId": "AUTH-0177",
+      "type": "developer",
+      "preferredName": "lemorion_1224",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "localthunk": {
       "slug": "localthunk",
       "authorityId": "AUTH-0022",
@@ -1363,6 +1411,14 @@
       "visibility": "published",
       "alternativeNames": []
     },
+    "mundfish": {
+      "slug": "mundfish",
+      "authorityId": "AUTH-0178",
+      "type": "developer",
+      "preferredName": "Mundfish",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "n-space": {
       "slug": "n-space",
       "authorityId": "AUTH-0055",
@@ -1409,6 +1465,14 @@
       "alternativeNames": [
         "Falcom"
       ]
+    },
+    "nino-games": {
+      "slug": "nino-games",
+      "authorityId": "AUTH-0182",
+      "type": "publisher",
+      "preferredName": "Nino Games",
+      "visibility": "published",
+      "alternativeNames": []
     },
     "npc-studio": {
       "slug": "npc-studio",
@@ -2061,5 +2125,5 @@
       ]
     }
   },
-  "updatedAt": "2026-08-08T18:41:52.644Z"
+  "updatedAt": "2026-08-08T18:51:41.766Z"
 }

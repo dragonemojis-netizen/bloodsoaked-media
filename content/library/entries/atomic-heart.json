@@ -1,0 +1,151 @@
+{
+  "slug": "atomic-heart",
+  "title": "Atomic Heart",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:50:07.449Z",
+  "shelfMark": "LIB-0114",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-668580",
+    "reconciledAt": "2026-08-08T18:50:07.449Z"
+  },
+  "catalog": {
+    "developer": "Mundfish",
+    "publisher": "Focus Entertainment / 4Divinity",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "release": "February 20, 2023"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Focus Entertainment build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Atomic Heart once a fuller critical record is prepared.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title. Online features may depend on publisher services.",
+    "concerns": "Account-bound digital holdings face platform dependency. Always-online checks and patch revision risk remain principal concerns. No offline installer is held.",
+    "knownRevisions": "Steam release dated February 20, 2023. Live updates revise the licensed client in place; this accession records the account-bound digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and the required services remain intact."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-668580"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:50:07.449Z",
+      "at": "2026-08-08T18:50:07.449Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0114."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T18:55:00.000Z-atomic-heart",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T18:55:00.000Z-atomic-heart",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T18:55:00.000Z-atomic-heart",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T18:55:00.000Z-atomic-heart",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T18:55:00.000Z-atomic-heart",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T18:55:00.000Z-atomic-heart",
+      "at": "2026-08-08T18:55:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 668580,
+    "title": "Atomic Heart",
+    "owned": true,
+    "playtimeMinutes": 96,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 96,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-07-06T03:25:55.000Z",
+    "storeUrl": "https://store.steampowered.com/app/668580/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Mundfish"
+    ],
+    "publishers": [
+      "Focus Entertainment",
+      "4Divinity"
+    ],
+    "releaseDate": "2023-02-20",
+    "releaseDateRaw": "Feb 20, 2023",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T18:55:00.000Z"
+  },
+  "year": 2023,
+  "synopsis": "Mundfish’s Atomic Heart on Steam — retained as a permanent digital holding under Focus Entertainment / 4Divinity publication.",
+  "coverImage": "/images/library/atomic-heart/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T18:55:00.000Z",
+  "authorities": {
+    "developers": [
+      "mundfish"
+    ],
+    "publishers": [
+      "focus-entertainment",
+      "4divinity"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}
