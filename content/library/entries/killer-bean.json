@@ -1,0 +1,151 @@
+{
+  "slug": "killer-bean",
+  "title": "Killer Bean",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:01:50.742Z",
+  "shelfMark": "LIB-0126",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-1597080",
+    "reconciledAt": "2026-08-08T19:01:50.742Z"
+  },
+  "catalog": {
+    "developer": "Killer Bean Studios LLC",
+    "publisher": "Killer Bean Studios LLC",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Early Access",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "release": "June 8, 2026"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Killer Bean Studios LLC build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Killer Bean once the Early Access edition stabilizes toward a fuller critical record.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title.",
+    "concerns": "Early Access holdings carry additional revision risk as builds change in place. Account-bound licensing and the absence of a retained offline installer remain principal concerns.",
+    "knownRevisions": "Entered Steam Early Access on June 8, 2026. This accession records the licensed Early Access digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-1597080"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:01:50.742Z",
+      "at": "2026-08-08T19:01:50.742Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0126."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T19:10:00.000Z-killer-bean",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T19:10:00.000Z-killer-bean",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T19:10:00.000Z-killer-bean",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T19:10:00.000Z-killer-bean",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:10:00.000Z-killer-bean",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T19:10:00.000Z-killer-bean",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 1597080,
+    "title": "Killer Bean",
+    "owned": true,
+    "playtimeMinutes": 4,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 4,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-06-21T02:37:12.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1597080/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Killer Bean Studios LLC"
+    ],
+    "publishers": [
+      "Killer Bean Studios LLC"
+    ],
+    "releaseDate": "2026-06-08",
+    "releaseDateRaw": "8 Jun, 2026",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Early Access"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T19:10:00.000Z"
+  },
+  "year": 2026,
+  "synopsis": "Killer Bean Studios LLC’s Killer Bean on Steam — an Early Access digital holding retained under archive custody.",
+  "coverImage": "/images/library/killer-bean/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z",
+  "authorities": {
+    "developers": [
+      "killer-bean-studios-llc"
+    ],
+    "publishers": [
+      "killer-bean-studios-llc"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

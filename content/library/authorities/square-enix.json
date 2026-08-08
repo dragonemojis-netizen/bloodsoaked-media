@@ -15,7 +15,8 @@
     "parasite-eve",
     "claytechworks",
     "soleil-ltd",
-    "valkyrie-profile"
+    "valkyrie-profile",
+    "final-fantasy"
   ],
   "relatedHoldingIds": [],
   "externalReferences": [],
@@ -30,5 +31,5 @@
       "note": "Established as AUTH-0003 — controlled identity for Square Enix."
     }
   ],
-  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z"
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z"
 }

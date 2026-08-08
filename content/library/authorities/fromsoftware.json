@@ -9,7 +9,8 @@
   ],
   "relatedAuthoritySlugs": [
     "bandai-namco-entertainment",
-    "elden-ring"
+    "elden-ring",
+    "dark-souls"
   ],
   "relatedHoldingIds": [],
   "externalReferences": [],
@@ -32,5 +33,5 @@
     }
   ],
   "description": "FromSoftware, Inc. — developer of record for ELDEN RING as retained in the Bloodsoaked Library.",
-  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z"
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z"
 }

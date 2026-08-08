@@ -1,0 +1,35 @@
+{
+  "slug": "arma",
+  "authorityId": "AUTH-0185",
+  "type": "series",
+  "preferredName": "Arma",
+  "alternativeNames": [
+    "ARMA",
+    "Armed Assault"
+  ],
+  "relatedAuthoritySlugs": [
+    "bohemia-interactive"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:05:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:05:00.000Z-arma",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0185 — controlled identity for Arma."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:05:00.000Z-arma",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Arma — series identity for Bohemia Interactive military simulation holdings retained in the Bloodsoaked Library, including Arma 3.",
+  "curatorialRevisionAt": "2026-08-08T19:05:00.000Z"
+}

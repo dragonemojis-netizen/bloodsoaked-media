@@ -8,7 +8,9 @@
   ],
   "relatedAuthoritySlugs": [
     "treyarch",
-    "call-of-duty"
+    "call-of-duty",
+    "troika-games",
+    "vampire-the-masquerade"
   ],
   "relatedHoldingIds": [],
   "externalReferences": [],
@@ -31,5 +33,5 @@
     }
   ],
   "description": "Activision — publisher of record for Call of Duty: World at War in this archive’s PC Steam holding.",
-  "curatorialRevisionAt": "2026-08-08T18:10:00.000Z"
+  "curatorialRevisionAt": "2026-08-08T19:05:00.000Z"
 }

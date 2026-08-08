@@ -3,7 +3,7 @@
   "origin": "steam",
   "title": "Vampire: The Masquerade - Bloodlines",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
@@ -52,5 +52,10 @@
       "capsule": "/images/collection/steam/2600/capsule.jpg",
       "hero": "/images/collection/steam/2600/hero.jpg"
     }
+  },
+  "filing": {
+    "librarySlug": "vampire-the-masquerade-bloodlines",
+    "shelfMark": "LIB-0125",
+    "filedAt": "2026-08-08T18:58:26.595Z"
   }
 }

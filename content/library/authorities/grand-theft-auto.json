@@ -1,0 +1,35 @@
+{
+  "slug": "grand-theft-auto",
+  "authorityId": "AUTH-0204",
+  "type": "series",
+  "preferredName": "Grand Theft Auto",
+  "alternativeNames": [
+    "GTA"
+  ],
+  "relatedAuthoritySlugs": [
+    "rockstar-games",
+    "rockstar-north"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:10:00.000Z-grand-theft-auto",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0204 — controlled identity for Grand Theft Auto."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:10:00.000Z-grand-theft-auto",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Grand Theft Auto — series identity for Rockstar Games holdings retained in the Bloodsoaked Library, including Grand Theft Auto IV: The Complete Edition.",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z"
+}

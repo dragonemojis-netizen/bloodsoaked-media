@@ -1,0 +1,32 @@
+{
+  "slug": "noquarter",
+  "authorityId": "AUTH-0194",
+  "type": "publisher",
+  "preferredName": "NoQuarter",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "joeveno"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:05:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:05:00.000Z-noquarter",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0194 — controlled identity for NoQuarter."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:05:00.000Z-noquarter",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "NoQuarter — co-publisher of record for BRAZILIAN DRUG DEALER 3 in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T19:05:00.000Z"
+}

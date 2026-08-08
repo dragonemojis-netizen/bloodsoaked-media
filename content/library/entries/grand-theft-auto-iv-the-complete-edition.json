@@ -1,0 +1,166 @@
+{
+  "slug": "grand-theft-auto-iv-the-complete-edition",
+  "title": "Grand Theft Auto IV: The Complete Edition",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2020,
+  "coverImage": "/images/library/grand-theft-auto-iv-the-complete-edition/cover-official.jpg",
+  "filedAt": "2026-08-08T19:01:58.251Z",
+  "shelfMark": "LIB-0128",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-12210",
+    "reconciledAt": "2026-08-08T19:01:58.251Z"
+  },
+  "catalog": {
+    "developer": "Rockstar North / Rockstar Toronto",
+    "publisher": "Rockstar Games",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "release": "March 24, 2020"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Rockstar Games build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Grand Theft Auto IV: The Complete Edition. Steam’s structured release date reflects the Complete Edition storefront listing (2020), not the 2008 original retail launch.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account, Steam’s support for the title, and Rockstar / Take-Two services where the client requires them.",
+    "concerns": "Account-bound digital holdings face platform dependency and launcher requirements. Older online components face elevated service risk. No offline installer is held.",
+    "knownRevisions": "Steam Complete Edition listing dated March 24, 2020. Grand Theft Auto IV originally launched in 2008; this accession records the licensed Complete Edition digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and the required services remain intact."
+  },
+  "connections": {
+    "series": "Grand Theft Auto",
+    "collectionIds": [
+      "steam-12210"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:01:58.251Z",
+      "at": "2026-08-08T19:01:58.251Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0128."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T19:10:00.000Z-grand-theft-auto-iv-the-complete-edition",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T19:10:00.000Z-grand-theft-auto-iv-the-complete-edition",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T19:10:00.000Z-grand-theft-auto-iv-the-complete-edition",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T19:10:00.000Z-grand-theft-auto-iv-the-complete-edition",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:10:00.000Z-grand-theft-auto-iv-the-complete-edition",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T19:10:00.000Z-grand-theft-auto-iv-the-complete-edition",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 12210,
+    "title": "Grand Theft Auto IV: The Complete Edition",
+    "owned": true,
+    "playtimeMinutes": 1917,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 1136,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 781,
+    "lastPlayedAt": "2025-12-20T05:08:29.000Z",
+    "storeUrl": "https://store.steampowered.com/app/12210/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Rockstar North",
+      "Rockstar Toronto"
+    ],
+    "publishers": [
+      "Rockstar Games"
+    ],
+    "releaseDate": "2020-03-24",
+    "releaseDateRaw": "Mar 24, 2020",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Partial Controller Support",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "Niko Bellic, Johnny Klebitz and Luis Lopez all have one thing in common - they live in the worst city in America. Liberty City worships money and status, and is heaven for those who have them and a living nightmare for those who don't.",
+    "metadataSyncedAt": "2026-08-08T19:10:00.000Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/12210/header.jpg",
+      "capsule": "/images/collection/steam/12210/capsule.jpg",
+      "hero": "/images/collection/steam/12210/hero.jpg"
+    }
+  },
+  "synopsis": "Rockstar North and Rockstar Toronto’s Grand Theft Auto IV: The Complete Edition on Steam — retained as a permanent digital holding in the Grand Theft Auto series.",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z",
+  "authorities": {
+    "developers": [
+      "rockstar-north",
+      "rockstar-toronto"
+    ],
+    "publishers": [
+      "rockstar-games"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "grand-theft-auto"
+    ]
+  }
+}

@@ -3,7 +3,7 @@
   "origin": "steam",
   "title": "Arma 3",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
@@ -68,5 +68,10 @@
       "capsule": "/images/collection/steam/107410/capsule.jpg",
       "hero": "/images/collection/steam/107410/hero.jpg"
     }
+  },
+  "filing": {
+    "librarySlug": "arma-3",
+    "shelfMark": "LIB-0117",
+    "filedAt": "2026-08-08T18:57:54.214Z"
   }
 }

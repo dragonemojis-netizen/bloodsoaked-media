@@ -1,0 +1,33 @@
+{
+  "slug": "troika-games",
+  "authorityId": "AUTH-0199",
+  "type": "developer",
+  "preferredName": "Troika Games",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "activision",
+    "vampire-the-masquerade"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:05:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:05:00.000Z-troika-games",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0199 — controlled identity for Troika Games."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:05:00.000Z-troika-games",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Troika Games — developer of record for Vampire: The Masquerade - Bloodlines in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T19:05:00.000Z"
+}

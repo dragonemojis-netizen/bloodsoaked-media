@@ -3,14 +3,21 @@
   "authorityId": "AUTH-0015",
   "type": "developer",
   "preferredName": "Obsidian Entertainment",
-  "alternativeNames": ["Obsidian"],
+  "alternativeNames": [
+    "Obsidian"
+  ],
   "description": "Obsidian Entertainment — developer of record for Fallout: New Vegas in this archive’s Fallout shelf.",
-  "relatedAuthoritySlugs": ["fallout", "bethesda-softworks"],
+  "relatedAuthoritySlugs": [
+    "fallout",
+    "bethesda-softworks",
+    "the-outer-worlds",
+    "xbox-game-studios"
+  ],
   "relatedHoldingIds": [],
   "externalReferences": [],
   "visibility": "published",
   "filedAt": "2026-07-26T05:00:00.000Z",
-  "curatorialRevisionAt": "2026-07-26T06:00:00.000Z",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z",
   "stewardshipHistory": [
     {
       "id": "filed-2026-07-26T05:00:00.000Z",

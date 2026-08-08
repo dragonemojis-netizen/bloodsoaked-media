@@ -1,0 +1,32 @@
+{
+  "slug": "dreadxp",
+  "authorityId": "AUTH-0196",
+  "type": "publisher",
+  "preferredName": "DreadXP",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "lovely-hellplace"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:05:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:05:00.000Z-dreadxp",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0196 — controlled identity for DreadXP."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:05:00.000Z-dreadxp",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "DreadXP — publisher of record for Dread Delusion in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T19:05:00.000Z"
+}

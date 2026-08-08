@@ -1,0 +1,33 @@
+{
+  "slug": "sunflower-ocean",
+  "authorityId": "AUTH-0188",
+  "type": "publisher",
+  "preferredName": "Sunflower Ocean",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "mangagamer",
+    "07th-expansion"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:05:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:05:00.000Z-sunflower-ocean",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0188 — controlled identity for Sunflower Ocean."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:05:00.000Z-sunflower-ocean",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Sunflower Ocean — co-publisher of record for Higurashi When They Cry Hou - Ch.1 Onikakushi in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T19:05:00.000Z"
+}

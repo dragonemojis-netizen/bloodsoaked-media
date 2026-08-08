@@ -1,0 +1,34 @@
+{
+  "slug": "rockstar-toronto",
+  "authorityId": "AUTH-0203",
+  "type": "developer",
+  "preferredName": "Rockstar Toronto",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "rockstar-games",
+    "grand-theft-auto",
+    "rockstar-north"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:10:00.000Z-rockstar-toronto",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0203 — controlled identity for Rockstar Toronto."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:10:00.000Z-rockstar-toronto",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Rockstar Toronto — co-developer of record for Grand Theft Auto IV: The Complete Edition in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z"
+}

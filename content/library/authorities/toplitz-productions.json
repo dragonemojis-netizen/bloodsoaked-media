@@ -5,7 +5,8 @@
   "preferredName": "Toplitz Productions",
   "alternativeNames": [],
   "relatedAuthoritySlugs": [
-    "mehuman-games"
+    "mehuman-games",
+    "render-cube"
   ],
   "relatedHoldingIds": [],
   "externalReferences": [],
@@ -27,6 +28,6 @@
       "note": "Archival description entered."
     }
   ],
-  "description": "Toplitz Productions — publisher of record for Vampires: Bloodlord Rising in this archive’s PC Steam holding.",
-  "curatorialRevisionAt": "2026-08-08T18:20:00.000Z"
+  "description": "Toplitz Productions — publisher of record for Vampires: Bloodlord Rising and Medieval Dynasty in this archive’s PC Steam holdings.",
+  "curatorialRevisionAt": "2026-08-08T19:05:00.000Z"
 }

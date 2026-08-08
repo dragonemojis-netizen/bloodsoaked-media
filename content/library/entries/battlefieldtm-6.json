@@ -44,7 +44,10 @@
     "collectionIds": [
       "steam-2807960"
     ],
-    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media.",
+    "relatedEntrySlugs": [
+      "battlefieldtm-2042"
+    ]
   },
   "artifacts": [],
   "stewardshipHistory": [
@@ -100,6 +103,13 @@
       "kind": "editorial-revision",
       "summary": "Editorial revision",
       "note": "Primary cover replaced with official Steam library capsule (portrait)."
+    },
+    {
+      "id": "connections-established-2026-08-08T19:10:00.000Z-battlefieldtm-6-2042",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Linked to Battlefield 2042 (LIB-0129)."
     }
   ],
   "steam": {
@@ -137,7 +147,7 @@
   "year": 2025,
   "synopsis": "Battlefield 6 on Steam — a Battlefield Studios title published by Electronic Arts, retained in account-bound digital custody.",
   "coverImage": "/images/library/battlefieldtm-6/cover-official.jpg",
-  "curatorialRevisionAt": "2026-08-03T23:05:55.705Z",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z",
   "authorities": {
     "developers": [
       "battlefield-studios"

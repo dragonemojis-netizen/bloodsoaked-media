@@ -1,0 +1,36 @@
+{
+  "slug": "vampire-the-masquerade",
+  "authorityId": "AUTH-0200",
+  "type": "series",
+  "preferredName": "Vampire: The Masquerade",
+  "alternativeNames": [
+    "VtM",
+    "World of Darkness"
+  ],
+  "relatedAuthoritySlugs": [
+    "troika-games",
+    "activision"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:05:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:05:00.000Z-vampire-the-masquerade",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0200 — controlled identity for Vampire: The Masquerade."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:05:00.000Z-vampire-the-masquerade",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Vampire: The Masquerade — series identity for World of Darkness licensed holdings retained in the Bloodsoaked Library, including Bloodlines.",
+  "curatorialRevisionAt": "2026-08-08T19:05:00.000Z"
+}

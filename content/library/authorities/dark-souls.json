@@ -1,0 +1,33 @@
+{
+  "slug": "dark-souls",
+  "authorityId": "AUTH-0208",
+  "type": "series",
+  "preferredName": "Dark Souls",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "fromsoftware",
+    "bandai-namco-entertainment"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:10:00.000Z-dark-souls",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0208 — controlled identity for Dark Souls."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:10:00.000Z-dark-souls",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Dark Souls — series identity for FromSoftware holdings retained in the Bloodsoaked Library, including Dark Souls III.",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z"
+}

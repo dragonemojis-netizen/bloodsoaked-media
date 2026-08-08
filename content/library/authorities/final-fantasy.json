@@ -1,0 +1,35 @@
+{
+  "slug": "final-fantasy",
+  "authorityId": "AUTH-0211",
+  "type": "series",
+  "preferredName": "Final Fantasy",
+  "alternativeNames": [
+    "FF",
+    "FINAL FANTASY"
+  ],
+  "relatedAuthoritySlugs": [
+    "square-enix"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:10:00.000Z-final-fantasy",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0211 — controlled identity for Final Fantasy."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:10:00.000Z-final-fantasy",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Final Fantasy — series identity for Square Enix holdings retained in the Bloodsoaked Library, including Final Fantasy VII Rebirth.",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "the-witcher",
+  "authorityId": "AUTH-0209",
+  "type": "series",
+  "preferredName": "The Witcher",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "cd-projekt-red"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:10:00.000Z-the-witcher",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0209 — controlled identity for The Witcher."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:10:00.000Z-the-witcher",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "The Witcher — series identity for CD PROJEKT RED holdings retained in the Bloodsoaked Library, including The Witcher 3: Wild Hunt.",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z"
+}

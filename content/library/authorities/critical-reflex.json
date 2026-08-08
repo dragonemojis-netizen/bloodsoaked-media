@@ -1,0 +1,34 @@
+{
+  "slug": "critical-reflex",
+  "authorityId": "AUTH-0192",
+  "type": "publisher",
+  "preferredName": "CRITICAL REFLEX",
+  "alternativeNames": [
+    "Critical Reflex"
+  ],
+  "relatedAuthoritySlugs": [
+    "kira-llc"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:05:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:05:00.000Z-critical-reflex",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0192 — controlled identity for CRITICAL REFLEX."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:05:00.000Z-critical-reflex",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "CRITICAL REFLEX — co-publisher of record for Lunacid in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T19:05:00.000Z"
+}

@@ -1,0 +1,151 @@
+{
+  "slug": "labyrinth-of-the-demon-king",
+  "title": "Labyrinth of the Demon King",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T18:58:22.734Z",
+  "shelfMark": "LIB-0124",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-1804010",
+    "reconciledAt": "2026-08-08T18:58:22.734Z"
+  },
+  "catalog": {
+    "developer": "J. R. Hudepohl",
+    "publisher": "Top Hat Studios",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "release": "May 13, 2025"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Top Hat Studios build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Labyrinth of the Demon King once a fuller critical record is prepared.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title.",
+    "concerns": "Account-bound digital holdings face platform dependency. Patch revision risk and the absence of a retained offline installer remain principal concerns.",
+    "knownRevisions": "Steam release dated May 13, 2025. This accession records the licensed digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "collectionIds": [
+      "steam-1804010"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:58:22.734Z",
+      "at": "2026-08-08T18:58:22.734Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0124."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T19:05:00.000Z-labyrinth-of-the-demon-king",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T19:05:00.000Z-labyrinth-of-the-demon-king",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T19:05:00.000Z-labyrinth-of-the-demon-king",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T19:05:00.000Z-labyrinth-of-the-demon-king",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:05:00.000Z-labyrinth-of-the-demon-king",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T19:05:00.000Z-labyrinth-of-the-demon-king",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 1804010,
+    "title": "Labyrinth Of The Demon King",
+    "owned": true,
+    "playtimeMinutes": 4,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 4,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-06-28T17:14:42.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1804010/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "J. R. Hudepohl"
+    ],
+    "publishers": [
+      "Top Hat Studios, Inc."
+    ],
+    "releaseDate": "2025-05-13",
+    "releaseDateRaw": "May 13, 2025",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T19:05:00.000Z"
+  },
+  "year": 2025,
+  "synopsis": "J. R. Hudepohl’s Labyrinth of the Demon King on Steam — retained as a permanent digital holding under Top Hat Studios publication.",
+  "coverImage": "/images/library/labyrinth-of-the-demon-king/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T19:05:00.000Z",
+  "authorities": {
+    "developers": [
+      "j-r-hudepohl"
+    ],
+    "publishers": [
+      "top-hat-studios"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ]
+  }
+}

@@ -3,7 +3,7 @@
   "origin": "steam",
   "title": "Grand Theft Auto IV: The Complete Edition",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
@@ -57,5 +57,10 @@
       "capsule": "/images/collection/steam/12210/capsule.jpg",
       "hero": "/images/collection/steam/12210/hero.jpg"
     }
+  },
+  "filing": {
+    "librarySlug": "grand-theft-auto-iv-the-complete-edition",
+    "shelfMark": "LIB-0128",
+    "filedAt": "2026-08-08T19:01:58.251Z"
   }
 }

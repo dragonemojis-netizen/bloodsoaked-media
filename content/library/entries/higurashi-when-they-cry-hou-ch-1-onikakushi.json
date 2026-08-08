@@ -1,0 +1,163 @@
+{
+  "slug": "higurashi-when-they-cry-hou-ch-1-onikakushi",
+  "title": "Higurashi When They Cry Hou - Ch.1 Onikakushi",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2015,
+  "coverImage": "/images/library/higurashi-when-they-cry-hou-ch-1-onikakushi/cover-official.jpg",
+  "filedAt": "2026-08-08T18:57:57.374Z",
+  "shelfMark": "LIB-0118",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-310360",
+    "reconciledAt": "2026-08-08T18:57:57.374Z"
+  },
+  "catalog": {
+    "developer": "07th Expansion",
+    "publisher": "MangaGamer / Sunflower Ocean",
+    "subjects": [
+      "Adventure",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "release": "May 15, 2015"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · MangaGamer build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Higurashi When They Cry Hou - Ch.1 Onikakushi once a fuller critical record is prepared.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title.",
+    "concerns": "Account-bound digital holdings face platform dependency. Patch revision risk and the absence of a retained offline installer remain principal concerns.",
+    "knownRevisions": "Steam Hou release dated May 15, 2015. This accession records the licensed Ch.1 Onikakushi digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "series": "Higurashi When They Cry",
+    "collectionIds": [
+      "steam-310360"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:57:57.374Z",
+      "at": "2026-08-08T18:57:57.374Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0118."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T19:05:00.000Z-higurashi-when-they-cry-hou-ch-1-onikakushi",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T19:05:00.000Z-higurashi-when-they-cry-hou-ch-1-onikakushi",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T19:05:00.000Z-higurashi-when-they-cry-hou-ch-1-onikakushi",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T19:05:00.000Z-higurashi-when-they-cry-hou-ch-1-onikakushi",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:05:00.000Z-higurashi-when-they-cry-hou-ch-1-onikakushi",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T19:05:00.000Z-higurashi-when-they-cry-hou-ch-1-onikakushi",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 310360,
+    "title": "Higurashi When They Cry Hou - Ch.1 Onikakushi",
+    "owned": true,
+    "playtimeMinutes": 26,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 26,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-07-04T03:26:38.000Z",
+    "storeUrl": "https://store.steampowered.com/app/310360/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "07th Expansion"
+    ],
+    "publishers": [
+      "MangaGamer",
+      "Sunflower Ocean"
+    ],
+    "releaseDate": "2015-05-15",
+    "releaseDateRaw": "May 15, 2015",
+    "comingSoon": false,
+    "genres": [
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": true
+    },
+    "shortDescription": "Higurashi When They Cry is a sound novel. The music, backgrounds and characters work together to create a world that is the stage of a novel for the user to read. They laugh and cry and get angry. The user takes the point of view of the protagonist to experience the story.",
+    "metadataSyncedAt": "2026-08-08T19:05:00.000Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/310360/header.jpg",
+      "capsule": "/images/collection/steam/310360/capsule.jpg"
+    }
+  },
+  "synopsis": "07th Expansion’s Higurashi When They Cry Hou - Ch.1 Onikakushi on Steam — retained as a permanent digital holding under MangaGamer / Sunflower Ocean publication.",
+  "curatorialRevisionAt": "2026-08-08T19:05:00.000Z",
+  "authorities": {
+    "developers": [
+      "07th-expansion"
+    ],
+    "publishers": [
+      "mangagamer",
+      "sunflower-ocean"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "higurashi-when-they-cry"
+    ]
+  }
+}

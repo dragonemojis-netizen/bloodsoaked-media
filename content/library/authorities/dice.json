@@ -1,0 +1,36 @@
+{
+  "slug": "dice",
+  "authorityId": "AUTH-0205",
+  "type": "developer",
+  "preferredName": "DICE",
+  "alternativeNames": [
+    "EA DICE",
+    "Digital Illusions CE"
+  ],
+  "relatedAuthoritySlugs": [
+    "electronic-arts",
+    "battlefield"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:10:00.000Z-dice",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0205 — controlled identity for DICE."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:10:00.000Z-dice",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "DICE — developer of record for Battlefield 2042 in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z"
+}

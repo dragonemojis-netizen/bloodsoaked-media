@@ -1,0 +1,32 @@
+{
+  "slug": "j-r-hudepohl",
+  "authorityId": "AUTH-0197",
+  "type": "developer",
+  "preferredName": "J. R. Hudepohl",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "top-hat-studios"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:05:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:05:00.000Z-j-r-hudepohl",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0197 — controlled identity for J. R. Hudepohl."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:05:00.000Z-j-r-hudepohl",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "J. R. Hudepohl — developer of record for Labyrinth of the Demon King in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T19:05:00.000Z"
+}

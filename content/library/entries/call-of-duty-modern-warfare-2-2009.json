@@ -46,7 +46,8 @@
     "series": "Call of Duty",
     "relatedEntrySlugs": [
       "call-of-duty-world-at-war",
-      "call-of-duty-black-ops-iii"
+      "call-of-duty-black-ops-iii",
+      "call-of-duty-4-modern-warfare-2007"
     ],
     "collectionIds": [
       "steam-10190"
@@ -107,6 +108,13 @@
       "kind": "cover-artwork-entered",
       "summary": "Official artwork entered",
       "note": "Curated portrait key art replaced the landscape Steam header under the Library accession path."
+    },
+    {
+      "id": "connections-established-2026-08-08T19:10:00.000Z-call-of-duty-modern-warfare-2-2009-cod4",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Linked to Call of Duty 4: Modern Warfare (2007) (LIB-0127)."
     }
   ],
   "steam": {
@@ -155,7 +163,7 @@
     }
   },
   "synopsis": "Infinity Ward’s Call of Duty: Modern Warfare 2 (2009) on Steam — retained as a permanent digital holding in the Call of Duty series.",
-  "curatorialRevisionAt": "2026-08-08T18:50:00.000Z",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z",
   "authorities": {
     "developers": [
       "infinity-ward"

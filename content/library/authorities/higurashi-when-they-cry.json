@@ -1,0 +1,36 @@
+{
+  "slug": "higurashi-when-they-cry",
+  "authorityId": "AUTH-0189",
+  "type": "series",
+  "preferredName": "Higurashi When They Cry",
+  "alternativeNames": [
+    "Higurashi no Naku Koro ni",
+    "When They Cry"
+  ],
+  "relatedAuthoritySlugs": [
+    "07th-expansion",
+    "mangagamer"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:05:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:05:00.000Z-higurashi-when-they-cry",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0189 — controlled identity for Higurashi When They Cry."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:05:00.000Z-higurashi-when-they-cry",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Higurashi When They Cry — series identity for 07th Expansion visual novel holdings retained in the Bloodsoaked Library, beginning with Hou Ch.1 Onikakushi.",
+  "curatorialRevisionAt": "2026-08-08T19:05:00.000Z"
+}

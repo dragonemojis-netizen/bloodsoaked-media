@@ -1,0 +1,32 @@
+{
+  "slug": "compulsion-games",
+  "authorityId": "AUTH-0183",
+  "type": "developer",
+  "preferredName": "Compulsion Games",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "xbox-game-studios"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:05:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:05:00.000Z-compulsion-games",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0183 — controlled identity for Compulsion Games."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:05:00.000Z-compulsion-games",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Compulsion Games — developer of record for South of Midnight in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T19:05:00.000Z"
+}

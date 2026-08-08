@@ -3,7 +3,7 @@
   "origin": "steam",
   "title": "Higurashi When They Cry Hou - Ch.1 Onikakushi",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
@@ -55,5 +55,10 @@
       "headerCapsule": "/images/collection/steam/310360/header.jpg",
       "capsule": "/images/collection/steam/310360/capsule.jpg"
     }
+  },
+  "filing": {
+    "librarySlug": "higurashi-when-they-cry-hou-ch-1-onikakushi",
+    "shelfMark": "LIB-0118",
+    "filedAt": "2026-08-08T18:57:57.374Z"
   }
 }

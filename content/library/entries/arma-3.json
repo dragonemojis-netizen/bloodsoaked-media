@@ -1,0 +1,177 @@
+{
+  "slug": "arma-3",
+  "title": "Arma 3",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2013,
+  "coverImage": "/images/library/arma-3/cover-official.jpg",
+  "filedAt": "2026-08-08T18:57:54.214Z",
+  "shelfMark": "LIB-0117",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-107410",
+    "reconciledAt": "2026-08-08T18:57:54.214Z"
+  },
+  "catalog": {
+    "developer": "Bohemia Interactive",
+    "publisher": "Bohemia Interactive",
+    "subjects": [
+      "Action",
+      "Simulation",
+      "Strategy",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "release": "September 12, 2013"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Bohemia Interactive build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Arma 3 as a large-scale military simulation digital filing.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account, Steam’s support for the title, and Bohemia multiplayer services where the client requires them.",
+    "concerns": "Multiplayer and mod-dependent holdings face elevated server and community-service risk. Account-bound licensing and the absence of a retained offline installer remain principal concerns.",
+    "knownRevisions": "Steam release dated September 12, 2013. Live updates and DLC revise the licensed client in place; this accession records the account-bound digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and the required services remain intact."
+  },
+  "connections": {
+    "series": "Arma",
+    "collectionIds": [
+      "steam-107410"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T18:57:54.214Z",
+      "at": "2026-08-08T18:57:54.214Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0117."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T19:05:00.000Z-arma-3",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T19:05:00.000Z-arma-3",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T19:05:00.000Z-arma-3",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T19:05:00.000Z-arma-3",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:05:00.000Z-arma-3",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T19:05:00.000Z-arma-3",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 107410,
+    "title": "Arma 3",
+    "owned": true,
+    "playtimeMinutes": 2027,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 25,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2020-01-10T00:53:30.000Z",
+    "storeUrl": "https://store.steampowered.com/app/107410/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Bohemia Interactive"
+    ],
+    "publishers": [
+      "Bohemia Interactive"
+    ],
+    "releaseDate": "2013-09-12",
+    "releaseDateRaw": "Sep 12, 2013",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "Stats",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Steam Timeline"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": true,
+      "linux": false
+    },
+    "shortDescription": "Experience true combat gameplay in a massive military sandbox. Deploy with a wide variety of single- and multiplayer content, a massive arsenal of modern weapons and vehicles, and limitless opportunities for content creation. Authentic, diverse, open - Arma 3 sends you to war.",
+    "metadataSyncedAt": "2026-08-08T19:05:00.000Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/107410/header.jpg",
+      "capsule": "/images/collection/steam/107410/capsule.jpg",
+      "hero": "/images/collection/steam/107410/hero.jpg"
+    }
+  },
+  "synopsis": "Bohemia Interactive’s Arma 3 on Steam — retained as a permanent digital holding in the Arma series.",
+  "curatorialRevisionAt": "2026-08-08T19:05:00.000Z",
+  "authorities": {
+    "developers": [
+      "bohemia-interactive"
+    ],
+    "publishers": [
+      "bohemia-interactive"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "arma"
+    ]
+  }
+}

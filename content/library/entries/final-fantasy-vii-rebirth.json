@@ -1,0 +1,153 @@
+{
+  "slug": "final-fantasy-vii-rebirth",
+  "title": "Final Fantasy VII Rebirth",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:02:24.465Z",
+  "shelfMark": "LIB-0134",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-2909400",
+    "reconciledAt": "2026-08-08T19:02:24.465Z"
+  },
+  "catalog": {
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "release": "January 23, 2025"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Square Enix build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Final Fantasy VII Rebirth once a fuller critical record is prepared.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account, Steam’s support for the title, and Square Enix services where the client requires them.",
+    "concerns": "Account-bound digital holdings face platform dependency. Always-online checks and patch revision risk remain principal concerns. No offline installer is held.",
+    "knownRevisions": "Steam release dated January 23, 2025. This accession records the licensed digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and the required services remain intact."
+  },
+  "connections": {
+    "series": "Final Fantasy",
+    "collectionIds": [
+      "steam-2909400"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:02:24.465Z",
+      "at": "2026-08-08T19:02:24.465Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0134."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T19:10:00.000Z-final-fantasy-vii-rebirth",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T19:10:00.000Z-final-fantasy-vii-rebirth",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T19:10:00.000Z-final-fantasy-vii-rebirth",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T19:10:00.000Z-final-fantasy-vii-rebirth",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:10:00.000Z-final-fantasy-vii-rebirth",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T19:10:00.000Z-final-fantasy-vii-rebirth",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 2909400,
+    "title": "FINAL FANTASY VII REBIRTH",
+    "owned": true,
+    "playtimeMinutes": 1787,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 1787,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2025-11-05T03:27:32.000Z",
+    "storeUrl": "https://store.steampowered.com/app/2909400/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Square Enix"
+    ],
+    "publishers": [
+      "Square Enix"
+    ],
+    "releaseDate": "2025-01-23",
+    "releaseDateRaw": "Jan 23, 2025",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T19:10:00.000Z"
+  },
+  "year": 2025,
+  "synopsis": "Square Enix’s Final Fantasy VII Rebirth on Steam — retained as a permanent digital holding in the Final Fantasy series.",
+  "coverImage": "/images/library/final-fantasy-vii-rebirth/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z",
+  "authorities": {
+    "developers": [
+      "square-enix"
+    ],
+    "publishers": [
+      "square-enix"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "final-fantasy"
+    ]
+  }
+}

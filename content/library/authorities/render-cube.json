@@ -1,0 +1,32 @@
+{
+  "slug": "render-cube",
+  "authorityId": "AUTH-0190",
+  "type": "developer",
+  "preferredName": "Render Cube",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "toplitz-productions"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:05:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:05:00.000Z-render-cube",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0190 — controlled identity for Render Cube."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:05:00.000Z-render-cube",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Render Cube — developer of record for Medieval Dynasty in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T19:05:00.000Z"
+}

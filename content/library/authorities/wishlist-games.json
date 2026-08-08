@@ -1,0 +1,32 @@
+{
+  "slug": "wishlist-games",
+  "authorityId": "AUTH-0207",
+  "type": "publisher",
+  "preferredName": "Wishlist Games",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "new-generation-games"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:10:00.000Z-wishlist-games",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0207 — controlled identity for Wishlist Games."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:10:00.000Z-wishlist-games",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Wishlist Games — publisher of record for World War 3 in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z"
+}

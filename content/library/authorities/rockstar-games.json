@@ -7,7 +7,10 @@
     "Rockstar"
   ],
   "relatedAuthoritySlugs": [
-    "red-dead"
+    "red-dead",
+    "rockstar-north",
+    "rockstar-toronto",
+    "grand-theft-auto"
   ],
   "relatedHoldingIds": [],
   "externalReferences": [],
@@ -30,5 +33,5 @@
     }
   ],
   "description": "Rockstar Games — developer and publisher of record for Red Dead Redemption 2 in the Bloodsoaked Library.",
-  "curatorialRevisionAt": "2026-08-08T18:00:00.000Z"
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z"
 }

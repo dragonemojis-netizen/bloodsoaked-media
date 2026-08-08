@@ -48,7 +48,8 @@
     ],
     "futureReview": "Reserved for future critical writing in Bloodsoaked Media.",
     "relatedEntrySlugs": [
-      "call-of-duty-modern-warfare-2-2009"
+      "call-of-duty-modern-warfare-2-2009",
+      "call-of-duty-4-modern-warfare-2007"
     ]
   },
   "artifacts": [],
@@ -105,6 +106,13 @@
       "kind": "connections-established",
       "summary": "Connections established",
       "note": "Linked to Call of Duty: Modern Warfare 2 (2009) (LIB-0102)."
+    },
+    {
+      "id": "connections-established-2026-08-08T19:10:00.000Z-call-of-duty-black-ops-iii-cod4",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Linked to Call of Duty 4: Modern Warfare (2007) (LIB-0127)."
     }
   ],
   "steam": {
@@ -168,7 +176,7 @@
   "year": 2015,
   "synopsis": "Treyarch’s Call of Duty: Black Ops III on Steam — retained as a permanent digital holding in the Call of Duty series.",
   "coverImage": "/images/library/call-of-duty-black-ops-iii/cover-official.jpg",
-  "curatorialRevisionAt": "2026-08-08T18:45:00.000Z",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z",
   "authorities": {
     "developers": [
       "treyarch"

@@ -1,0 +1,32 @@
+{
+  "slug": "killer-bean-studios-llc",
+  "authorityId": "AUTH-0201",
+  "type": "developer",
+  "preferredName": "Killer Bean Studios LLC",
+  "alternativeNames": [
+    "Killer Bean Studios"
+  ],
+  "relatedAuthoritySlugs": [],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:10:00.000Z-killer-bean-studios-llc",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0201 — controlled identity for Killer Bean Studios LLC."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:10:00.000Z-killer-bean-studios-llc",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Killer Bean Studios LLC — developer and publisher of record for Killer Bean in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z"
+}

@@ -45,7 +45,10 @@
     "collectionIds": [
       "steam-1245620"
     ],
-    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media.",
+    "relatedEntrySlugs": [
+      "dark-soulstm-iii"
+    ]
   },
   "artifacts": [],
   "stewardshipHistory": [
@@ -94,6 +97,13 @@
       "kind": "published",
       "summary": "Published to the Bloodsoaked Library",
       "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    },
+    {
+      "id": "connections-established-2026-08-08T19:10:00.000Z-elden-ring-ds3",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Linked to Dark Souls III (LIB-0131)."
     }
   ],
   "steam": {
@@ -133,7 +143,7 @@
   "year": 2022,
   "synopsis": "FromSoftware’s ELDEN RING on Steam — retained as a permanent digital holding under the archive Steam account.",
   "coverImage": "/images/library/elden-ring/cover-official.jpg",
-  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z",
   "authorities": {
     "developers": [
       "fromsoftware"

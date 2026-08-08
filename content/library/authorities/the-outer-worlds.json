@@ -1,0 +1,33 @@
+{
+  "slug": "the-outer-worlds",
+  "authorityId": "AUTH-0210",
+  "type": "series",
+  "preferredName": "The Outer Worlds",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "obsidian-entertainment",
+    "xbox-game-studios"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:10:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:10:00.000Z-the-outer-worlds",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0210 — controlled identity for The Outer Worlds."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:10:00.000Z-the-outer-worlds",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "The Outer Worlds — series identity for Obsidian Entertainment holdings retained in the Bloodsoaked Library, including The Outer Worlds 2.",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z"
+}

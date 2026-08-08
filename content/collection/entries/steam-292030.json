@@ -3,7 +3,7 @@
   "origin": "steam",
   "title": "The Witcher 3: Wild Hunt",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
@@ -69,5 +69,10 @@
       "capsule": "/images/collection/steam/292030/capsule.jpg",
       "hero": "/images/collection/steam/292030/hero.jpg"
     }
+  },
+  "filing": {
+    "librarySlug": "the-witcher-3-wild-hunt",
+    "shelfMark": "LIB-0132",
+    "filedAt": "2026-08-08T19:02:15.997Z"
   }
 }

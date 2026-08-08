@@ -1,0 +1,32 @@
+{
+  "slug": "joeveno",
+  "authorityId": "AUTH-0193",
+  "type": "developer",
+  "preferredName": "Joeveno",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "noquarter"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:05:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:05:00.000Z-joeveno",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0193 — controlled identity for Joeveno."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:05:00.000Z-joeveno",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Joeveno — developer and co-publisher of record for BRAZILIAN DRUG DEALER 3 in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T19:05:00.000Z"
+}

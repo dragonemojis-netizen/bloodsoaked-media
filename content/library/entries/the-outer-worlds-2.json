@@ -1,0 +1,153 @@
+{
+  "slug": "the-outer-worlds-2",
+  "title": "The Outer Worlds 2",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:02:20.194Z",
+  "shelfMark": "LIB-0133",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-1449110",
+    "reconciledAt": "2026-08-08T19:02:20.194Z"
+  },
+  "catalog": {
+    "developer": "Obsidian Entertainment",
+    "publisher": "Xbox Game Studios",
+    "subjects": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "release": "October 29, 2025"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Xbox Game Studios build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on The Outer Worlds 2 once a fuller critical record is prepared.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account, Steam’s support for the title, and Xbox / Microsoft services where the client requires them.",
+    "concerns": "Account-bound digital holdings face platform dependency and launcher requirements. No offline installer is held.",
+    "knownRevisions": "Steam release dated October 29, 2025. Live updates revise the licensed client in place; this accession records the account-bound digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and the required services remain intact."
+  },
+  "connections": {
+    "series": "The Outer Worlds",
+    "collectionIds": [
+      "steam-1449110"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:02:20.194Z",
+      "at": "2026-08-08T19:02:20.194Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0133."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T19:10:00.000Z-the-outer-worlds-2",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T19:10:00.000Z-the-outer-worlds-2",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T19:10:00.000Z-the-outer-worlds-2",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T19:10:00.000Z-the-outer-worlds-2",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:10:00.000Z-the-outer-worlds-2",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T19:10:00.000Z-the-outer-worlds-2",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 1449110,
+    "title": "The Outer Worlds 2",
+    "owned": true,
+    "playtimeMinutes": 1351,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 1351,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 0,
+    "lastPlayedAt": "2026-04-21T03:03:25.000Z",
+    "storeUrl": "https://store.steampowered.com/app/1449110/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "Obsidian Entertainment"
+    ],
+    "publishers": [
+      "Xbox Game Studios"
+    ],
+    "releaseDate": "2025-10-29",
+    "releaseDateRaw": "Oct 29, 2025",
+    "comingSoon": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T19:10:00.000Z"
+  },
+  "year": 2025,
+  "synopsis": "Obsidian Entertainment’s The Outer Worlds 2 on Steam — retained as a permanent digital holding in The Outer Worlds series under Xbox Game Studios publication.",
+  "coverImage": "/images/library/the-outer-worlds-2/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z",
+  "authorities": {
+    "developers": [
+      "obsidian-entertainment"
+    ],
+    "publishers": [
+      "xbox-game-studios"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "the-outer-worlds"
+    ]
+  }
+}

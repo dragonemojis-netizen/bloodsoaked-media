@@ -1,0 +1,34 @@
+{
+  "slug": "kira-llc",
+  "authorityId": "AUTH-0191",
+  "type": "developer",
+  "preferredName": "KIRA LLC",
+  "alternativeNames": [
+    "KIRA"
+  ],
+  "relatedAuthoritySlugs": [
+    "critical-reflex"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:05:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:05:00.000Z-kira-llc",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0191 — controlled identity for KIRA LLC."
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:05:00.000Z-kira-llc",
+      "at": "2026-08-08T19:05:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "KIRA LLC — developer and co-publisher of record for Lunacid in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-08-08T19:05:00.000Z"
+}

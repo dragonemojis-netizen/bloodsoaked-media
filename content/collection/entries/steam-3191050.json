@@ -3,7 +3,7 @@
   "origin": "steam",
   "title": "BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
@@ -24,5 +24,10 @@
     "storeUrl": "https://store.steampowered.com/app/3191050/",
     "lastSynced": "2026-08-08T17:35:45.984Z",
     "source": "steam-web-api"
+  },
+  "filing": {
+    "librarySlug": "brazilian-drug-dealer-3-i-opened-a-portal-to-hell-in-the-favela-trying-to-revive",
+    "shelfMark": "LIB-0122",
+    "filedAt": "2026-08-08T18:58:14.175Z"
   }
 }

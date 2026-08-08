@@ -8,7 +8,8 @@
   ],
   "relatedAuthoritySlugs": [
     "battlefield-studios",
-    "electronic-arts"
+    "electronic-arts",
+    "dice"
   ],
   "relatedHoldingIds": [],
   "externalReferences": [],
@@ -31,5 +32,5 @@
     }
   ],
   "description": "The Battlefield series as retained in the Bloodsoaked Library — linking successive digital holdings published by Electronic Arts.",
-  "curatorialRevisionAt": "2026-08-03T23:03:32.851Z"
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z"
 }

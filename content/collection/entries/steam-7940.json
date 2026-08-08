@@ -3,7 +3,7 @@
   "origin": "steam",
   "title": "Call of Duty® 4: Modern Warfare® (2007)",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
@@ -53,5 +53,10 @@
       "capsule": "/images/collection/steam/7940/capsule.jpg",
       "hero": "/images/collection/steam/7940/hero.jpg"
     }
+  },
+  "filing": {
+    "librarySlug": "call-of-duty-4-modern-warfare-2007",
+    "shelfMark": "LIB-0127",
+    "filedAt": "2026-08-08T19:01:54.737Z"
   }
 }

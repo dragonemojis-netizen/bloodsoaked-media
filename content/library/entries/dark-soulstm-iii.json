@@ -1,0 +1,154 @@
+{
+  "slug": "dark-soulstm-iii",
+  "title": "Dark Souls III",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "filedAt": "2026-08-08T19:02:12.360Z",
+  "shelfMark": "LIB-0131",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-374320",
+    "reconciledAt": "2026-08-08T19:02:12.360Z"
+  },
+  "catalog": {
+    "developer": "FromSoftware, Inc.",
+    "publisher": "FromSoftware, Inc. / Bandai Namco Entertainment",
+    "subjects": [
+      "Action",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "release": "April 11, 2016"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · Bandai Namco Entertainment build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on Dark Souls III as a FromSoftware series digital filing.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title. Online features may depend on Bandai Namco / FromSoftware services.",
+    "concerns": "Account-bound digital holdings face platform dependency. Online co-op and matchmaking face elevated service risk. No offline installer is held.",
+    "knownRevisions": "Steam release dated April 11, 2016. This accession records the licensed digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and the required services remain intact."
+  },
+  "connections": {
+    "series": "Dark Souls",
+    "relatedEntrySlugs": [
+      "elden-ring"
+    ],
+    "collectionIds": [
+      "steam-374320"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:02:12.360Z",
+      "at": "2026-08-08T19:02:12.360Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0131."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T19:10:00.000Z-dark-soulstm-iii",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T19:10:00.000Z-dark-soulstm-iii",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T19:10:00.000Z-dark-soulstm-iii",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T19:10:00.000Z-dark-soulstm-iii",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:10:00.000Z-dark-soulstm-iii",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T19:10:00.000Z-dark-soulstm-iii",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 374320,
+    "title": "DARK SOULS™ III",
+    "owned": true,
+    "playtimeMinutes": 1807,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 1797,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 9,
+    "lastPlayedAt": "2025-03-02T22:32:34.000Z",
+    "storeUrl": "https://store.steampowered.com/app/374320/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "FromSoftware, Inc."
+    ],
+    "publishers": [
+      "FromSoftware, Inc.",
+      "Bandai Namco Entertainment"
+    ],
+    "releaseDate": "2016-04-11",
+    "releaseDateRaw": "Apr 11, 2016",
+    "comingSoon": false,
+    "genres": [
+      "Action"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "metadataSyncedAt": "2026-08-08T19:10:00.000Z"
+  },
+  "year": 2016,
+  "synopsis": "FromSoftware’s Dark Souls III on Steam — retained as a permanent digital holding in the Dark Souls series under Bandai Namco Entertainment publication.",
+  "coverImage": "/images/library/dark-soulstm-iii/cover-official.jpg",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z",
+  "authorities": {
+    "developers": [
+      "fromsoftware"
+    ],
+    "publishers": [
+      "fromsoftware",
+      "bandai-namco-entertainment"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "dark-souls"
+    ]
+  }
+}

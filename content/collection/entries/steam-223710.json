@@ -3,7 +3,7 @@
   "origin": "steam",
   "title": "Cry of Fear",
   "eventType": "acquisition",
-  "status": "Pipeline",
+  "status": "Filed",
   "catalogued": "2026-07-26T03:12:32.243Z",
   "visibility": "hidden",
   "source": {
@@ -56,5 +56,10 @@
     "artwork": {
       "headerCapsule": "/images/collection/steam/223710/header.jpg"
     }
+  },
+  "filing": {
+    "librarySlug": "cry-of-fear",
+    "shelfMark": "LIB-0135",
+    "filedAt": "2026-08-08T19:02:36.973Z"
   }
 }

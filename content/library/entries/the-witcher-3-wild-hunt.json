@@ -1,0 +1,176 @@
+{
+  "slug": "the-witcher-3-wild-hunt",
+  "title": "The Witcher 3: Wild Hunt",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2015,
+  "coverImage": "/images/library/the-witcher-3-wild-hunt/cover-official.jpg",
+  "filedAt": "2026-08-08T19:02:15.997Z",
+  "shelfMark": "LIB-0132",
+  "accession": {
+    "source": "digital-library",
+    "sourceReference": "steam-292030",
+    "reconciledAt": "2026-08-08T19:02:15.997Z"
+  },
+  "catalog": {
+    "developer": "CD PROJEKT RED",
+    "publisher": "CD PROJEKT RED",
+    "subjects": [
+      "RPG",
+      "Digital Preservation"
+    ],
+    "platform": "PC",
+    "mediumForm": "Digital edition · Steam",
+    "release": "May 18, 2015"
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Steam digital edition · CD PROJEKT RED build",
+    "condition": "Account-bound license on the archive Steam account. No physical media is part of this accession.",
+    "acquired": "Digital acquisition · July 2026",
+    "filed": "August 8, 2026"
+  },
+  "curatorNotes": "Reserved for curator writing on The Witcher 3: Wild Hunt once a fuller critical record is prepared.",
+  "collectionNotes": "Ownership is digital only. The retained object is the Steam license. Official cover artwork has been entered from Steam library art; collection photography does not apply.",
+  "preservation": {
+    "playableOn": "Windows PC through Steam under archive custody",
+    "originalHardware": "PC · Steam digital edition",
+    "compatibility": "Continued access requires the archive account and Steam’s ongoing support for the title. GOG / CD PROJEKT account features may apply where the client requires them.",
+    "concerns": "Account-bound digital holdings face platform dependency. Next-gen / update revisions change the licensed client in place. No offline installer is held.",
+    "knownRevisions": "Steam release dated May 18, 2015. Subsequent next-gen and content updates revise the licensed client in place; this accession records the account-bound digital edition in custody.",
+    "availability": "Playable from the archive Steam library for as long as that license and storefront path remain intact."
+  },
+  "connections": {
+    "series": "The Witcher",
+    "collectionIds": [
+      "steam-292030"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-08-08T19:02:15.997Z",
+      "at": "2026-08-08T19:02:15.997Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0132."
+    },
+    {
+      "id": "cover-artwork-2026-08-08T19:10:00.000Z-the-witcher-3-wild-hunt",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Steam library artwork filed under the Library accession path."
+    },
+    {
+      "id": "collection-documentation-2026-08-08T19:10:00.000Z-the-witcher-3-wild-hunt",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-2026-08-08T19:10:00.000Z-the-witcher-3-wild-hunt",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-08-08T19:10:00.000Z-the-witcher-3-wild-hunt",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "editorial-revision-2026-08-08T19:10:00.000Z-the-witcher-3-wild-hunt",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Catalog identity, authority references, and digital-holding documentation aligned for publication."
+    },
+    {
+      "id": "published-2026-08-08T19:10:00.000Z-the-witcher-3-wild-hunt",
+      "at": "2026-08-08T19:10:00.000Z",
+      "kind": "published",
+      "summary": "Published to the Bloodsoaked Library",
+      "note": "Digital accession curated from Steam custody and set to Catalogued · Permanent Record."
+    }
+  ],
+  "steam": {
+    "appId": 292030,
+    "title": "The Witcher 3: Wild Hunt",
+    "owned": true,
+    "playtimeMinutes": 1866,
+    "playtime2Weeks": null,
+    "playtimeWindowsMinutes": 1559,
+    "playtimeMacMinutes": 0,
+    "playtimeLinuxMinutes": 307,
+    "lastPlayedAt": "2026-01-30T06:36:47.000Z",
+    "storeUrl": "https://store.steampowered.com/app/292030/",
+    "lastSynced": "2026-08-08T17:35:45.984Z",
+    "source": "steam-web-api",
+    "developers": [
+      "CD PROJEKT RED"
+    ],
+    "publishers": [
+      "CD PROJEKT RED"
+    ],
+    "releaseDate": "2015-05-18",
+    "releaseDateRaw": "May 18, 2015",
+    "comingSoon": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "platforms": {
+      "windows": true,
+      "mac": false,
+      "linux": false
+    },
+    "shortDescription": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down Ciri — the Child of Prophecy, a living weapon that can alter the shape of the world.",
+    "metadataSyncedAt": "2026-08-08T19:10:00.000Z",
+    "artwork": {
+      "headerCapsule": "/images/collection/steam/292030/header.jpg",
+      "capsule": "/images/collection/steam/292030/capsule.jpg",
+      "hero": "/images/collection/steam/292030/hero.jpg"
+    }
+  },
+  "synopsis": "CD PROJEKT RED’s The Witcher 3: Wild Hunt on Steam — retained as a permanent digital holding in The Witcher series.",
+  "curatorialRevisionAt": "2026-08-08T19:10:00.000Z",
+  "authorities": {
+    "developers": [
+      "cd-projekt-red"
+    ],
+    "publishers": [
+      "cd-projekt-red"
+    ],
+    "platforms": [
+      "pc",
+      "steam"
+    ],
+    "series": [
+      "the-witcher"
+    ]
+  }
+}
