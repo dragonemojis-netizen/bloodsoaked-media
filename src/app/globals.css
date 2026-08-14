@@ -2610,8 +2610,8 @@ a {
 
 /*
  * Curator’s Workshop chrome — when Workbench is active, public archive chrome
- * must not appear. PageShell also strips these when x-pathname is available;
- * :has() covers cases where the request header is absent.
+ * must not appear. Workbench lives outside publication route groups; :has()
+ * remains a CSS safety net if chrome ever leaked into the tree.
  */
 body:has(.workbench-world) .site-masthead,
 body:has(.workbench-world) .publication-footer,

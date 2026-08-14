@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Libre_Baskerville, IBM_Plex_Mono, Source_Serif_4 } from "next/font/google";
 import { site } from "@/config/site";
-import { PageShell } from "@/components/layout/PageShell";
 import "./globals.css";
 
 const display = Libre_Baskerville({
@@ -65,7 +64,7 @@ export default function RootLayout({
       data-scroll-behavior="smooth"
     >
       <body className="relative min-h-full flex flex-col antialiased">
-        <PageShell>{children}</PageShell>
+        {children}
       </body>
     </html>
   );

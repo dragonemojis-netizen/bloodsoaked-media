@@ -180,7 +180,7 @@ This archive distinguishes **recovered**, **known to have existed**, and **curre
 
 1. Do not import archive JSON into the modern post pipeline.
 2. Do not share mutable design tokens that force archive redesign.
-3. Keep `PageShell` immersive skip for `/the-archives/metal-lifestyle*`.
+3. Keep Metal Lifestyle outside the `(publication)` route group so it stays immersive (no Bloodsoaked chrome).
 4. Do not add recovery scripts to `npm run build` or CI.
 5. Prefer PR review when `content/archives/metal-lifestyle/**` or
    `public/images/archives/metal-lifestyle/**` change.

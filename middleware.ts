@@ -7,31 +7,21 @@ function isCuratorMode(): boolean {
   return false;
 }
 
-function isWorkbenchPath(pathname: string): boolean {
-  return pathname === "/workbench" || pathname.startsWith("/workbench/");
-}
-
+/**
+ * Workbench gating only. Public HTML routes must not pay Middleware Active CPU.
+ * Chrome is chosen by App Router layouts — not request headers.
+ */
 export function middleware(request: NextRequest) {
-  const pathname = request.nextUrl.pathname;
-  const requestHeaders = new Headers(request.headers);
-
-  // Public deployments: Workbench does not exist.
-  if (isWorkbenchPath(pathname) && !isCuratorMode()) {
-    const rewriteUrl = request.nextUrl.clone();
-    // Non-disclosing 404 — same surface as any missing public route.
-    rewriteUrl.pathname = "/__not-found";
-    requestHeaders.set("x-pathname", rewriteUrl.pathname);
-    return NextResponse.rewrite(rewriteUrl, {
-      request: { headers: requestHeaders },
-    });
+  if (isCuratorMode()) {
+    return NextResponse.next();
   }
 
-  requestHeaders.set("x-pathname", pathname);
-  return NextResponse.next({
-    request: { headers: requestHeaders },
-  });
+  const rewriteUrl = request.nextUrl.clone();
+  // Non-disclosing 404 — same surface as any missing public route.
+  rewriteUrl.pathname = "/__not-found";
+  return NextResponse.rewrite(rewriteUrl);
 }
 
 export const config = {
-  matcher: ["/((?!_next/static|_next/image|favicon.ico|.*\\..*).*)"],
+  matcher: ["/workbench", "/workbench/:path*"],
 };
