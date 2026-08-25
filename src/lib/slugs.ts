@@ -9,7 +9,12 @@ export function moodFromSlug(slug: string): Mood | null {
 }
 
 export function slugifyTag(tag: string): string {
-  return tag.toLowerCase().replace(/\s+/g, "-");
+  return tag
+    .toLowerCase()
+    .replace(/\s+/g, "-")
+    .replace(/[:/\\?*|"<>]/g, "-")
+    .replace(/-+/g, "-")
+    .replace(/^-|-$/g, "");
 }
 
 export function tagFromSlug(slug: string): string {

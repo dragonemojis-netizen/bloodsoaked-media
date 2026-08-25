@@ -455,6 +455,32 @@ a {
   color: #fff;
 }
 
+/* Download CTAs in longform features — strong+link markdown pattern */
+.prose-article p > strong > a[href*="/downloads/"] {
+  display: inline-block;
+  margin-top: 0.35rem;
+  border: 1px solid var(--accent);
+  background: color-mix(in srgb, var(--accent) 20%, transparent);
+  padding: 0.65rem 1.15rem;
+  font-family: var(--font-label), ui-monospace, monospace;
+  font-size: 0.65rem;
+  font-weight: 500;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--foreground);
+  transition:
+    background-color var(--transition-vhs),
+    color var(--transition-vhs),
+    border-color var(--transition-vhs);
+}
+
+.prose-article p > strong > a[href*="/downloads/"]:hover {
+  background: var(--accent);
+  color: #fff;
+  text-decoration: none;
+}
+
 .prose-article blockquote {
   border-left: 2px solid var(--accent);
   padding-left: 1.25rem;

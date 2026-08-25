@@ -36,8 +36,9 @@ export default async function HomePage() {
 
       <div className="lg:grid lg:grid-cols-[1fr_280px] lg:gap-12 xl:grid-cols-[1fr_300px]">
         <div>
-          {editor && <FromTheEditor data={editor} />}
-
+          {/* Featured Stories sits directly under the cover so continuing
+              featured work (e.g. Fallout Sonora) stays discoverable when a
+              newer cover feature takes the hero slot. */}
           {featuredRest.length > 0 && (
             <section className="mb-16" aria-labelledby="featured-heading">
               <div className="mb-8 flex items-end justify-between gap-4 border-b border-border-subtle pb-4">
@@ -48,13 +49,21 @@ export default async function HomePage() {
                   {publication.featured}
                 </h2>
               </div>
-              <div className="grid gap-6 md:grid-cols-2">
+              <div
+                className={
+                  featuredRest.length === 1
+                    ? "grid gap-6"
+                    : "grid gap-6 md:grid-cols-2"
+                }
+              >
                 {featuredRest.map((post) => (
                   <PostCard key={post.slug} post={post} featured />
                 ))}
               </div>
             </section>
           )}
+
+          {editor && <FromTheEditor data={editor} />}
 
           <SectionKnifeDivider />
 
