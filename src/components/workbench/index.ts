@@ -5,6 +5,7 @@ export { WorkbenchBatchesList } from "./WorkbenchBatchesList";
 export { WorkbenchBatchDetailView } from "./WorkbenchBatchDetailView";
 export { WorkbenchEditorialList } from "./WorkbenchEditorialList";
 export { WorkbenchActivityLog } from "./WorkbenchActivityLog";
+export { WorkbenchSearchClient } from "./WorkbenchSearchClient";
 export { WorkbenchSearch } from "./WorkbenchSearch";
 export {
   FileHoldingButton,

@@ -3,13 +3,23 @@ import { notFound } from "next/navigation";
 import { workbenchVoice } from "@/config/workbench-voice";
 import { getBatchNeighbors } from "@/lib/editorial-batches";
 import { formatDate } from "@/lib/format";
-import { getLibraryRecord } from "@/lib/library";
+import { getAllLibraryRecords, getLibraryRecord } from "@/lib/library";
 import { getEditorialWork } from "@/lib/workbench";
+import {
+  workbenchStaticParams,
+} from "@/lib/workbench-deploy";
 import type { Metadata } from "next";
+
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  return workbenchStaticParams(
+    getAllLibraryRecords().map((record) => ({ slug: record.slug })),
+  );
+}
 
 interface AccessionPageProps {
   params: Promise<{ slug: string }>;
-  searchParams: Promise<{ batch?: string }>;
 }
 
 export async function generateMetadata({
@@ -33,10 +43,8 @@ function laneForRecord(
 
 export default async function WorkbenchAccessionPage({
   params,
-  searchParams,
 }: AccessionPageProps) {
   const { slug } = await params;
-  const query = await searchParams;
   const record = getLibraryRecord(decodeURIComponent(slug));
   if (!record) notFound();
 
@@ -44,7 +52,7 @@ export default async function WorkbenchAccessionPage({
   const editorial = getEditorialWork().find((row) => row.slug === record.slug);
   const collectionId = record.accession?.sourceReference;
   const neighbors = getBatchNeighbors(record.slug);
-  const batchId = query.batch ?? neighbors?.batchId;
+  const batchId = neighbors?.batchId;
 
   return (
     <article className="workbench-detail">

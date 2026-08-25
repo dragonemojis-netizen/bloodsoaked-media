@@ -5,9 +5,23 @@ import {
   StarHoldingButton,
 } from "@/components/workbench";
 import { workbenchVoice } from "@/config/workbench-voice";
+import { getAllCollectionArchiveRecords } from "@/lib/collection-archive";
 import { formatDate } from "@/lib/format";
 import { formatPlaytime, getWorkbenchHolding } from "@/lib/workbench";
+import {
+  workbenchStaticParams,
+} from "@/lib/workbench-deploy";
 import type { Metadata } from "next";
+
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  return workbenchStaticParams(
+    getAllCollectionArchiveRecords()
+      .filter((record) => record.origin !== "development")
+      .map((record) => ({ id: record.id })),
+  );
+}
 
 interface HoldingPageProps {
   params: Promise<{ id: string }>;

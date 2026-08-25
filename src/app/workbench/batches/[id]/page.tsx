@@ -1,9 +1,18 @@
 import { notFound } from "next/navigation";
 import { WorkbenchBatchDetailView } from "@/components/workbench/WorkbenchBatchDetailView";
-import { getEditorialBatchDetail } from "@/lib/editorial-batches";
+import { listEditorialBatchSummaries, getEditorialBatchDetail } from "@/lib/editorial-batches";
+import {
+  workbenchStaticParams,
+} from "@/lib/workbench-deploy";
 import type { Metadata } from "next";
 
-export const dynamic = "force-dynamic";
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  return workbenchStaticParams(
+    listEditorialBatchSummaries().map((batch) => ({ id: batch.id })),
+  );
+}
 
 interface BatchPageProps {
   params: Promise<{ id: string }>;

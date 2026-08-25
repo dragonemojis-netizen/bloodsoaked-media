@@ -4,9 +4,6 @@ import { WorkbenchChrome } from "@/components/workbench";
 import { workbenchVoice } from "@/config/workbench-voice";
 import { isCuratorMode } from "@/lib/curator-gate";
 
-/** Always request-time — Curator Mode must not be baked at build. */
-export const dynamic = "force-dynamic";
-
 export const metadata: Metadata = {
   title: workbenchVoice.name,
   robots: {

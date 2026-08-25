@@ -403,10 +403,10 @@ export function getRecentActivity(limit = 20): WorkbenchActivityEvent[] {
 }
 
 /** Universal workbench search across holdings and accessions. */
-export function searchWorkbench(query: string, limit = 24): WorkbenchSearchResult[] {
-  const q = query.trim().toLowerCase();
-  if (!q) return [];
-
+function buildWorkbenchSearchResults(
+  matches: (haystack: string) => boolean,
+  limit = 24,
+): WorkbenchSearchResult[] {
   const results: WorkbenchSearchResult[] = [];
   const starred = new Set(readWorkbenchState().starredIds);
 
@@ -424,7 +424,7 @@ export function searchWorkbench(query: string, limit = 24): WorkbenchSearchResul
       .join(" ")
       .toLowerCase();
 
-    if (!haystack.includes(q)) continue;
+    if (!matches(haystack)) continue;
 
     const lane = collectionLane(record);
     results.push({
@@ -461,7 +461,7 @@ export function searchWorkbench(query: string, limit = 24): WorkbenchSearchResul
       .join(" ")
       .toLowerCase();
 
-    if (!haystack.includes(q)) continue;
+    if (!matches(haystack)) continue;
 
     const lane = libraryLane(record);
     results.push({
@@ -484,6 +484,16 @@ export function searchWorkbench(query: string, limit = 24): WorkbenchSearchResul
   }
 
   return results.slice(0, limit);
+}
+
+export function getWorkbenchSearchIndex(limit = 500): WorkbenchSearchResult[] {
+  return buildWorkbenchSearchResults(() => true, limit);
+}
+
+export function searchWorkbench(query: string, limit = 24): WorkbenchSearchResult[] {
+  const q = query.trim().toLowerCase();
+  if (!q) return [];
+  return buildWorkbenchSearchResults((haystack) => haystack.includes(q), limit);
 }
 
 export function getWorkbenchHolding(

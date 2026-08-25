@@ -4,7 +4,7 @@ import {
   WorkbenchEditorialList,
   WorkbenchHoldingsList,
   WorkbenchOverview,
-  WorkbenchSearch,
+  WorkbenchSearchClient,
 } from "@/components/workbench";
 import { workbenchVoice } from "@/config/workbench-voice";
 import { listEditorialBatchSummaries } from "@/lib/editorial-batches";
@@ -14,31 +14,22 @@ import {
   getRecentActivity,
   getRecentSteamAcquisitions,
   getWorkbenchOverview,
-  searchWorkbench,
+  getWorkbenchSearchIndex,
 } from "@/lib/workbench";
 
-export const dynamic = "force-dynamic";
-
-interface WorkbenchPageProps {
-  searchParams: Promise<{ q?: string }>;
-}
-
-export default async function WorkbenchPage({ searchParams }: WorkbenchPageProps) {
-  const params = await searchParams;
-  const query = params.q?.trim() ?? "";
-
+export default function WorkbenchPage() {
   const overview = getWorkbenchOverview();
   const recent = getRecentSteamAcquisitions(12);
   const ready = getReadyToFile(16);
   const editorial = getEditorialWork();
   const batches = listEditorialBatchSummaries();
   const activity = getRecentActivity(20);
-  const results = query ? searchWorkbench(query) : [];
+  const searchIndex = getWorkbenchSearchIndex();
 
   return (
     <div className="workbench-grid">
       <WorkbenchOverview overview={overview} />
-      <WorkbenchSearch query={query} results={results} />
+      <WorkbenchSearchClient index={searchIndex} />
       <WorkbenchHoldingsList
         id="workbench-recent"
         title={workbenchVoice.recentAcquisitions.title}
