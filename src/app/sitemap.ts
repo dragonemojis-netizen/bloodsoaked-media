@@ -8,18 +8,7 @@ import { isArchivesLocal } from "@/lib/archives-gate";
 import { getPublishedCollectionSpecimenIds } from "@/lib/collection-archive";
 import { getPublishedAuthoritySlugs } from "@/lib/authority";
 import { getPublishedLibrarySlugs } from "@/lib/library";
-import { ARCHIVE_SLUGS } from "@/config/archives";
-import {
-  METAL_LIFESTYLE_BASE,
-  metalLifestyleNav,
-} from "@/config/metal-lifestyle";
 import { site } from "@/config/site";
-import {
-  hasMetalLifestyleArchive,
-  listMetalLifestylePageSlugs,
-  listMetalLifestylePostSlugs,
-} from "@/lib/metal-lifestyle-archive";
-import { getMetalLifestylePosts } from "@/lib/metal-lifestyle";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const posts = await getAllPostMeta();
@@ -29,13 +18,36 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const collectionSpecimens = getPublishedCollectionSpecimenIds();
   const libraryEntries = getPublishedLibrarySlugs();
   const authoritySlugs = getPublishedAuthoritySlugs();
-  const mlArchive = archivesLocal && hasMetalLifestyleArchive();
-  const metalLifestylePosts = mlArchive
-    ? listMetalLifestylePostSlugs()
-    : archivesLocal
-      ? (await getMetalLifestylePosts()).map((p) => p.slug)
-      : [];
-  const metalLifestylePages = mlArchive ? listMetalLifestylePageSlugs() : [];
+
+  let archiveStaticRoutes: string[] = [];
+  let metalLifestylePosts: string[] = [];
+  let metalLifestylePages: string[] = [];
+  let metalLifestyleBase = "";
+
+  if (archivesLocal) {
+    const { ARCHIVE_SLUGS } = await import("@/config/archives");
+    const { metalLifestyleNav, METAL_LIFESTYLE_BASE } = await import(
+      "@/config/metal-lifestyle"
+    );
+    const {
+      hasMetalLifestyleArchive,
+      listMetalLifestylePageSlugs,
+      listMetalLifestylePostSlugs,
+    } = await import("@/lib/metal-lifestyle-archive");
+    const { getMetalLifestylePosts } = await import("@/lib/metal-lifestyle");
+
+    metalLifestyleBase = METAL_LIFESTYLE_BASE;
+    const mlArchive = hasMetalLifestyleArchive();
+    metalLifestylePosts = mlArchive
+      ? listMetalLifestylePostSlugs()
+      : (await getMetalLifestylePosts()).map((p) => p.slug);
+    metalLifestylePages = mlArchive ? listMetalLifestylePageSlugs() : [];
+    archiveStaticRoutes = [
+      ...metalLifestyleNav.filter((item) => item.hub).map((item) => item.href),
+      "/the-archives",
+      ...ARCHIVE_SLUGS.map((slug) => `/the-archives/${slug}`),
+    ];
+  }
 
   const staticRoutes = [
     "",
@@ -49,15 +61,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     "/archive",
     "/archive/mood",
     "/timeline",
-    ...(archivesLocal
-      ? [
-          ...metalLifestyleNav
-            .filter((item) => item.hub)
-            .map((item) => item.href),
-          "/the-archives",
-          ...ARCHIVE_SLUGS.map((slug) => `/the-archives/${slug}`),
-        ]
-      : []),
+    ...archiveStaticRoutes,
     "/vault",
     "/about",
     "/search",
@@ -133,13 +137,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.55,
     })),
     ...metalLifestylePosts.map((slug) => ({
-      url: `${site.url}${METAL_LIFESTYLE_BASE}/post/${slug}`,
+      url: `${site.url}${metalLifestyleBase}/post/${slug}`,
       lastModified: new Date(),
       changeFrequency: "yearly" as const,
       priority: 0.4,
     })),
     ...metalLifestylePages.map((slug) => ({
-      url: `${site.url}${METAL_LIFESTYLE_BASE}/page/${slug}`,
+      url: `${site.url}${metalLifestyleBase}/page/${slug}`,
       lastModified: new Date(),
       changeFrequency: "yearly" as const,
       priority: 0.35,

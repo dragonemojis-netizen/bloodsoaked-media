@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node scripts/prepare-vercel-production.mjs prepare && next build",
+    "postbuild": "node scripts/prepare-vercel-production.mjs restore",
     "start": "next start",
     "lint": "eslint",
     "recovery:ml:crawl": "node scripts/recovery/metal-lifestyle/crawl.mjs",

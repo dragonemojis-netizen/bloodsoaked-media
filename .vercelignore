@@ -1,0 +1,5 @@
+# Local-only Archives preservation workspace — not served on production Vercel.
+.build-stash/
+content/archives/
+public/images/archives/
+recovery/metal-lifestyle/
