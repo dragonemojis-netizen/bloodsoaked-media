@@ -4,8 +4,7 @@ import { getAllMediaLogEntries } from "@/lib/media-log";
 import { MOODS, CATEGORIES } from "@/types/content";
 import { getAllTags } from "@/lib/content";
 import { slugifyTag } from "@/lib/slugs";
-import { isLegacyArchivePublic } from "@/lib/legacy-gate";
-import { isMetalLifestyleLocal } from "@/lib/metal-lifestyle-gate";
+import { isArchivesLocal } from "@/lib/archives-gate";
 import { getPublishedCollectionSpecimenIds } from "@/lib/collection-archive";
 import { getPublishedAuthoritySlugs } from "@/lib/authority";
 import { getPublishedLibrarySlugs } from "@/lib/library";
@@ -24,16 +23,16 @@ import { getMetalLifestylePosts } from "@/lib/metal-lifestyle";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const posts = await getAllPostMeta();
-  const legacyPublic = isLegacyArchivePublic();
+  const archivesLocal = isArchivesLocal();
   const mediaLog = getAllMediaLogEntries();
   const tags = getAllTags(posts);
   const collectionSpecimens = getPublishedCollectionSpecimenIds();
   const libraryEntries = getPublishedLibrarySlugs();
   const authoritySlugs = getPublishedAuthoritySlugs();
-  const mlArchive = isMetalLifestyleLocal() && hasMetalLifestyleArchive();
+  const mlArchive = archivesLocal && hasMetalLifestyleArchive();
   const metalLifestylePosts = mlArchive
     ? listMetalLifestylePostSlugs()
-    : isMetalLifestyleLocal()
+    : archivesLocal
       ? (await getMetalLifestylePosts()).map((p) => p.slug)
       : [];
   const metalLifestylePages = mlArchive ? listMetalLifestylePageSlugs() : [];
@@ -50,19 +49,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     "/archive",
     "/archive/mood",
     "/timeline",
-    ...(legacyPublic && isMetalLifestyleLocal()
+    ...(archivesLocal
       ? [
           ...metalLifestyleNav
             .filter((item) => item.hub)
             .map((item) => item.href),
-        ]
-      : []),
-    ...(legacyPublic
-      ? [
           "/the-archives",
-          ...ARCHIVE_SLUGS.filter((slug) => slug !== "metal-lifestyle").map(
-            (slug) => `/the-archives/${slug}`,
-          ),
+          ...ARCHIVE_SLUGS.map((slug) => `/the-archives/${slug}`),
         ]
       : []),
     "/vault",

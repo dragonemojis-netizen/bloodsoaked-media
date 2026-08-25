@@ -1,6 +1,4 @@
 import { Lora, Raleway } from "next/font/google";
-import { isMetalLifestyleLocal } from "@/lib/metal-lifestyle-gate";
-import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import "./metal-lifestyle.css";
 
@@ -35,10 +33,6 @@ export default function MetalLifestyleLayout({
 }: {
   children: React.ReactNode;
 }) {
-  if (!isMetalLifestyleLocal()) {
-    notFound();
-  }
-
   return (
     <div className={`${mlSans.variable} ${mlSerif.variable}`}>{children}</div>
   );

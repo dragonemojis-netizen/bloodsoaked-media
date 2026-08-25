@@ -1,9 +1,9 @@
 /**
- * Legacy / recovered archive visibility.
+ * Legacy / recovered writing visibility on the main publication site.
  *
- * Set NEXT_PUBLIC_LEGACY_ARCHIVE_PUBLIC=true when Metal Lifestyle recovery
- * is reviewed and ready for the live site. Until then, production builds
- * omit legacy articles, The Archives, and related collections from public output.
+ * Set NEXT_PUBLIC_LEGACY_ARCHIVE_PUBLIC=true when recovered historical articles
+ * at /articles/* are reviewed and ready for the live site. This does not control
+ * /the-archives routes — those follow isArchivesLocal() (local dev only).
  */
 export function isLegacyArchivePublic(): boolean {
   return process.env.NEXT_PUBLIC_LEGACY_ARCHIVE_PUBLIC === "true";

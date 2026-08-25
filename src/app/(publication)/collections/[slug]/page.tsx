@@ -4,9 +4,9 @@ import { CollectionExhibit } from "@/components/collections/CollectionExhibit";
 import { CollectionLinked } from "@/components/collections/CollectionLinked";
 import { publication } from "@/config/publication";
 import {
-  isLegacyArchivePublic,
   isLegacyOnlyCollection,
 } from "@/lib/legacy-gate";
+import { isArchivesLocal } from "@/lib/archives-gate";
 import { getAllCollections, getCollection } from "@/lib/collections";
 import type { Metadata } from "next";
 
@@ -35,7 +35,7 @@ export default async function CollectionDetailPage({
   params,
 }: CollectionPageProps) {
   const { slug } = await params;
-  if (!isLegacyArchivePublic() && isLegacyOnlyCollection(slug)) notFound();
+  if (isLegacyOnlyCollection(slug) && !isArchivesLocal()) notFound();
   const collection = getCollection(slug);
   if (!collection) notFound();
 

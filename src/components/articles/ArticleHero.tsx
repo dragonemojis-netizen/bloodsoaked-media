@@ -11,6 +11,7 @@ import {
 } from "@/config/publication";
 import { site } from "@/config/site";
 import { formatDate, formatPublishedAt } from "@/lib/format";
+import { isArchivesLocal } from "@/lib/archives-gate";
 import type { Post } from "@/types/content";
 import type { Collection } from "@/types/collection";
 
@@ -62,10 +63,12 @@ export function ArticleHero({ post, inVault, collections }: ArticleHeroProps) {
 
       <div className="article-hero-content">
         <Link
-          href={post.legacy ? "/the-archives" : "/articles"}
+          href={post.legacy && isArchivesLocal() ? "/the-archives" : "/articles"}
           className="article-back-link font-mono text-[0.6rem] uppercase tracking-[0.22em] text-foreground-muted transition-colors hover:text-accent-bright"
         >
-          {post.legacy ? `← ${publication.theArchives}` : "← The Desk"}
+          {post.legacy && isArchivesLocal()
+            ? `← ${publication.theArchives}`
+            : "← The Desk"}
         </Link>
 
         <div className="mt-8 flex flex-wrap items-center gap-x-3 gap-y-1 font-mono text-[0.6rem] uppercase tracking-[0.2em] text-foreground-muted">

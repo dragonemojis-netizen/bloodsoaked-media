@@ -23,7 +23,7 @@ export const site = {
 } as const;
 
 /** Primary navigation — reader-facing destinations only. */
-import { isLegacyArchivePublic } from "@/lib/legacy-gate";
+import { isArchivesLocal } from "@/lib/archives-gate";
 
 const allNavLinks = [
   { href: "/", label: "Home" },
@@ -36,9 +36,9 @@ const allNavLinks = [
   { href: "/about", label: "About" },
 ] as const;
 
-/** Nav entries visible on the live site (legacy archive hidden until enabled). */
+/** Nav entries visible on the live site (The Archives is local-only). */
 export function getNavLinks() {
-  if (isLegacyArchivePublic()) return [...allNavLinks];
+  if (isArchivesLocal()) return [...allNavLinks];
   return allNavLinks.filter((link) => link.href !== "/the-archives");
 }
 

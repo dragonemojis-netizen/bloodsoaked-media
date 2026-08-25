@@ -15,7 +15,7 @@ import {
   getAllMoodsUsed,
   getAllTags,
 } from "@/lib/content";
-import { isLegacyArchivePublic } from "@/lib/legacy-gate";
+import { isArchivesLocal } from "@/lib/archives-gate";
 import { CATEGORIES } from "@/types/content";
 import { slugifyMood, slugifyTag } from "@/lib/slugs";
 import type { Metadata } from "next";
@@ -53,7 +53,7 @@ export default async function ArchiveHubPage() {
         description={publication.catalogDescription}
       />
 
-      {isLegacyArchivePublic() && (
+      {isArchivesLocal() && (
         <p className="relative z-10 -mt-4 mb-10 max-w-2xl text-sm leading-relaxed text-foreground-muted">
           Recovered writing from earlier eras lives in{" "}
           <Link

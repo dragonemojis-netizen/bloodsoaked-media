@@ -6,7 +6,7 @@ import { SectionHeader } from "@/components/content/SectionHeader";
 import { PublicationTimeline } from "@/components/legacy/PublicationTimeline";
 import { publication } from "@/config/publication";
 import { site } from "@/config/site";
-import { isLegacyArchivePublic } from "@/lib/legacy-gate";
+import { isArchivesLocal } from "@/lib/archives-gate";
 import { getPublicationTimeline } from "@/lib/timeline";
 import type { Metadata } from "next";
 
@@ -29,7 +29,7 @@ export default function TimelinePage() {
       <SectionBreadcrumb
         className="relative z-10 mb-8"
         items={
-          isLegacyArchivePublic()
+          isArchivesLocal()
             ? [
                 { label: publication.theArchives, href: "/the-archives" },
                 { label: publication.publicationTimeline },
@@ -56,7 +56,7 @@ export default function TimelinePage() {
           events={timeline.events}
         />
 
-        {isLegacyArchivePublic() && (
+        {isArchivesLocal() && (
           <p className="mt-12 border-t border-border-subtle pt-8 text-center">
             <Link
               href="/the-archives"

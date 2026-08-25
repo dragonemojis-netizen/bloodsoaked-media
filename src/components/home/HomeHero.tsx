@@ -5,7 +5,7 @@ import { MediaArtifact } from "@/components/brand/MediaArtifact";
 import { IssueMark } from "@/components/brand/IssueMark";
 import { CoverStory } from "@/components/home/CoverStory";
 import { publication } from "@/config/publication";
-import { isLegacyArchivePublic } from "@/lib/legacy-gate";
+import { isArchivesLocal } from "@/lib/archives-gate";
 import { site } from "@/config/site";
 import type { PostMeta } from "@/types/content";
 
@@ -65,7 +65,7 @@ export function HomeHero({ leadStory }: HomeHeroProps) {
           >
             {publication.browseArticles}
           </Link>
-          {isLegacyArchivePublic() && (
+          {isArchivesLocal() && (
             <Link
               href="/the-archives"
               className="border border-border px-5 py-2.5 text-foreground-muted transition-colors hover:border-accent/50 hover:text-foreground vhs-button"

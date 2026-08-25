@@ -2,7 +2,8 @@ import Link from "next/link";
 import { BrandWatermark } from "@/components/brand/BrandWatermark";
 import { getArchivePublication } from "@/config/archives";
 import { publication } from "@/config/publication";
-import { isLegacyArchivePublic } from "@/lib/legacy-gate";
+import { archivesStaticParams } from "@/lib/archives-deploy";
+import { isArchivesLocal } from "@/lib/archives-gate";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
@@ -14,7 +15,9 @@ interface ArchiveRoomPageProps {
 }
 
 export function generateStaticParams() {
-  return PLACEHOLDER_SLUGS.map((slug) => ({ slug }));
+  return archivesStaticParams(
+    PLACEHOLDER_SLUGS.map((slug) => ({ slug })),
+  );
 }
 
 export async function generateMetadata({
@@ -31,7 +34,7 @@ export async function generateMetadata({
 }
 
 export default async function ArchiveRoomPage({ params }: ArchiveRoomPageProps) {
-  if (!isLegacyArchivePublic()) {
+  if (!isArchivesLocal()) {
     notFound();
   }
 

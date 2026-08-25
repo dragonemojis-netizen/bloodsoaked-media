@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { publication } from "@/config/publication";
 import { formatDate } from "@/lib/format";
+import { isArchivesLocal } from "@/lib/archives-gate";
 import type { Post } from "@/types/content";
 
 interface LegacyArchiveBannerProps {
@@ -42,12 +43,14 @@ export function LegacyArchiveBanner({ post }: LegacyArchiveBannerProps) {
         This article has been preserved as part of the Bloodsoaked Media archive
         project. Wording and opinions reflect the era in which they were written.
       </p>
-      <Link
-        href="/the-archives"
-        className="mt-3 inline-block font-mono text-[0.58rem] uppercase tracking-[0.15em] text-accent-bright/80 transition-colors hover:text-accent-bright"
-      >
-        Explore {publication.theArchives} →
-      </Link>
+      {isArchivesLocal() && (
+        <Link
+          href="/the-archives"
+          className="mt-3 inline-block font-mono text-[0.58rem] uppercase tracking-[0.15em] text-accent-bright/80 transition-colors hover:text-accent-bright"
+        >
+          Explore {publication.theArchives} →
+        </Link>
+      )}
     </aside>
   );
 }
