@@ -1,7 +1,7 @@
 import Link from "next/link";
 import type { MetalLifestyleManifestEntry } from "@/lib/metal-lifestyle-archive";
 import { METAL_LIFESTYLE_BASE } from "@/config/metal-lifestyle";
-import { formatMetalLifestyleDate } from "@/lib/metal-lifestyle";
+import { formatMetalLifestyleDate } from "@/lib/metal-lifestyle-format";
 
 interface Props {
   post: MetalLifestyleManifestEntry;

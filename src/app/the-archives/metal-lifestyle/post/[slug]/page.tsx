@@ -9,14 +9,19 @@ import {
   getMetalLifestylePost,
   listMetalLifestylePostSlugs,
 } from "@/lib/metal-lifestyle-archive";
+import { metalLifestyleStaticParams } from "@/lib/metal-lifestyle-deploy";
 import { getRelatedReading } from "@/lib/metal-lifestyle-discovery";
 
 interface Props {
   params: Promise<{ slug: string }>;
 }
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
-  return listMetalLifestylePostSlugs().map((slug) => ({ slug }));
+  return metalLifestyleStaticParams(
+    listMetalLifestylePostSlugs().map((slug) => ({ slug })),
+  );
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

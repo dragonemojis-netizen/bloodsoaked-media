@@ -10,13 +10,18 @@ import {
 } from "@/config/metal-lifestyle-context";
 import { METAL_LIFESTYLE_BASE } from "@/config/metal-lifestyle";
 import { getSpecialCollection } from "@/lib/metal-lifestyle-context";
+import { metalLifestyleStaticParams } from "@/lib/metal-lifestyle-deploy";
 
 interface Props {
   params: Promise<{ slug: string }>;
 }
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
-  return SPECIAL_COLLECTIONS.map((c) => ({ slug: c.slug }));
+  return metalLifestyleStaticParams(
+    SPECIAL_COLLECTIONS.map((collection) => ({ slug: collection.slug })),
+  );
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

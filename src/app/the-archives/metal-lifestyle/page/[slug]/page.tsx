@@ -12,13 +12,18 @@ import {
   getMetalLifestylePage,
   listMetalLifestylePageSlugs,
 } from "@/lib/metal-lifestyle-archive";
+import { metalLifestyleStaticParams } from "@/lib/metal-lifestyle-deploy";
 
 interface Props {
   params: Promise<{ slug: string }>;
 }
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
-  return listMetalLifestylePageSlugs().map((slug) => ({ slug }));
+  return metalLifestyleStaticParams(
+    listMetalLifestylePageSlugs().map((slug) => ({ slug })),
+  );
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

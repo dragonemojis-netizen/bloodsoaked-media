@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import { isLegacyArchivePublic, isLegacyOnlyCollection } from "@/lib/legacy-gate";
+import { isMetalLifestyleLocal } from "@/lib/metal-lifestyle-gate";
 import type { Collection } from "@/types/collection";
 
 const COLLECTIONS_DIR = path.join(process.cwd(), "content", "collections");
@@ -39,7 +40,12 @@ export function getAllCollections(): Collection[] {
   return getSlugs()
     .map((slug) => getCollection(slug))
     .filter((c): c is Collection => c !== null)
-    .filter((c) => isLegacyArchivePublic() || !isLegacyOnlyCollection(c.slug))
+    .filter((c) => {
+      if (c.slug === "metal-lifestyle-era" && !isMetalLifestyleLocal()) {
+        return false;
+      }
+      return isLegacyArchivePublic() || !isLegacyOnlyCollection(c.slug);
+    })
     .sort((a, b) => {
       const dateA = a.catalogued ? new Date(a.catalogued).getTime() : 0;
       const dateB = b.catalogued ? new Date(b.catalogued).getTime() : 0;

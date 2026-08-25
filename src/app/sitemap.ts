@@ -5,6 +5,7 @@ import { MOODS, CATEGORIES } from "@/types/content";
 import { getAllTags } from "@/lib/content";
 import { slugifyTag } from "@/lib/slugs";
 import { isLegacyArchivePublic } from "@/lib/legacy-gate";
+import { isMetalLifestyleLocal } from "@/lib/metal-lifestyle-gate";
 import { getPublishedCollectionSpecimenIds } from "@/lib/collection-archive";
 import { getPublishedAuthoritySlugs } from "@/lib/authority";
 import { getPublishedLibrarySlugs } from "@/lib/library";
@@ -29,10 +30,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const collectionSpecimens = getPublishedCollectionSpecimenIds();
   const libraryEntries = getPublishedLibrarySlugs();
   const authoritySlugs = getPublishedAuthoritySlugs();
-  const mlArchive = legacyPublic && hasMetalLifestyleArchive();
+  const mlArchive = isMetalLifestyleLocal() && hasMetalLifestyleArchive();
   const metalLifestylePosts = mlArchive
     ? listMetalLifestylePostSlugs()
-    : legacyPublic
+    : isMetalLifestyleLocal()
       ? (await getMetalLifestylePosts()).map((p) => p.slug)
       : [];
   const metalLifestylePages = mlArchive ? listMetalLifestylePageSlugs() : [];
@@ -49,13 +50,19 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     "/archive",
     "/archive/mood",
     "/timeline",
-    ...(legacyPublic
+    ...(legacyPublic && isMetalLifestyleLocal()
       ? [
-          "/the-archives",
-          ...ARCHIVE_SLUGS.map((slug) => `/the-archives/${slug}`),
           ...metalLifestyleNav
             .filter((item) => item.hub)
             .map((item) => item.href),
+        ]
+      : []),
+    ...(legacyPublic
+      ? [
+          "/the-archives",
+          ...ARCHIVE_SLUGS.filter((slug) => slug !== "metal-lifestyle").map(
+            (slug) => `/the-archives/${slug}`,
+          ),
         ]
       : []),
     "/vault",

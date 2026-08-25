@@ -1,27 +1,29 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { MetalLifestyleArchiveTeaser } from "@/components/archives/metal-lifestyle/MetalLifestyleArchiveTeaser";
-import { MetalLifestylePagination } from "@/components/archives/metal-lifestyle/MetalLifestylePagination";
+import { MetalLifestylePaginatedArchive } from "@/components/archives/metal-lifestyle/MetalLifestylePaginatedArchive";
 import { MetalLifestyleShell } from "@/components/archives/metal-lifestyle/MetalLifestyleShell";
 import { METAL_LIFESTYLE_BASE } from "@/config/metal-lifestyle";
 import {
   getMetalLifestyleAuthor,
   getMetalLifestyleAuthors,
-  paginateSlugs,
   resolveManifestPosts,
 } from "@/lib/metal-lifestyle-archive";
+import { metalLifestyleStaticParams } from "@/lib/metal-lifestyle-deploy";
 import { expandMetalLifestyleAuthor } from "@/lib/metal-lifestyle-discovery";
 import { formatMetalLifestyleDate } from "@/lib/metal-lifestyle";
 import { slugifyMetalLifestyleCategory } from "@/lib/metal-lifestyle-archive";
 
-interface Props {
-  params: Promise<{ slug: string }>;
-  searchParams: Promise<{ page?: string }>;
-}
+export const dynamicParams = false;
 
 export function generateStaticParams() {
-  return getMetalLifestyleAuthors().map((a) => ({ slug: a.slug }));
+  return metalLifestyleStaticParams(
+    getMetalLifestyleAuthors().map((author) => ({ slug: author.slug })),
+  );
+}
+
+interface Props {
+  params: Promise<{ slug: string }>;
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -30,21 +32,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return { title: author ? author.name : "Author" };
 }
 
-export default async function MetalLifestyleAuthorPage({
-  params,
-  searchParams,
-}: Props) {
+export default async function MetalLifestyleAuthorPage({ params }: Props) {
   const { slug } = await params;
   const author = getMetalLifestyleAuthor(slug);
   if (!author) notFound();
 
   const expanded = expandMetalLifestyleAuthor(author);
-  const pageNum = Number((await searchParams).page ?? "1") || 1;
-  const { slugs, page, totalPages, total } = paginateSlugs(
-    author.articleSlugs,
-    pageNum,
-  );
-  const posts = resolveManifestPosts(slugs);
+  const posts = resolveManifestPosts(author.articleSlugs);
 
   return (
     <MetalLifestyleShell activeHref={`${METAL_LIFESTYLE_BASE}/author/${slug}`}>
@@ -62,7 +56,7 @@ export default async function MetalLifestyleAuthorPage({
         <dl className="ml-author-meta">
           <div>
             <dt>Publications</dt>
-            <dd>{total}</dd>
+            <dd>{posts.length}</dd>
           </div>
           <div>
             <dt>First publication</dt>
@@ -84,13 +78,13 @@ export default async function MetalLifestyleAuthorPage({
             <dt>Categories contributed</dt>
             <dd>
               {expanded.categories.length
-                ? expanded.categories.map((c, i) => (
-                    <span key={c}>
-                      {i > 0 ? ", " : ""}
+                ? expanded.categories.map((category, index) => (
+                    <span key={category}>
+                      {index > 0 ? ", " : ""}
                       <Link
-                        href={`${METAL_LIFESTYLE_BASE}/category/${slugifyMetalLifestyleCategory(c)}`}
+                        href={`${METAL_LIFESTYLE_BASE}/category/${slugifyMetalLifestyleCategory(category)}`}
                       >
-                        {c}
+                        {category}
                       </Link>
                     </span>
                   ))
@@ -104,12 +98,8 @@ export default async function MetalLifestyleAuthorPage({
       </header>
 
       <h2 className="ml-bib-heading">Chronological bibliography</h2>
-      {posts.map((post) => (
-        <MetalLifestyleArchiveTeaser key={post.slug} post={post} />
-      ))}
-      <MetalLifestylePagination
-        page={page}
-        totalPages={totalPages}
+      <MetalLifestylePaginatedArchive
+        posts={posts}
         basePath={`${METAL_LIFESTYLE_BASE}/author/${slug}`}
       />
     </MetalLifestyleShell>

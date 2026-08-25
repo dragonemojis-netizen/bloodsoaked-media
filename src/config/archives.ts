@@ -38,4 +38,12 @@ export function getArchivePublication(
   return archivePublications.find((entry) => entry.slug === slug);
 }
 
+export function getVisibleArchivePublications(
+  metalLifestyleLocal: boolean,
+): ArchivePublication[] {
+  return archivePublications.filter(
+    (entry) => entry.slug !== "metal-lifestyle" || metalLifestyleLocal,
+  );
+}
+
 export const ARCHIVE_SLUGS = archivePublications.map((entry) => entry.slug);

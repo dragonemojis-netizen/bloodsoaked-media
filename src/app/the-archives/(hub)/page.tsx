@@ -1,8 +1,9 @@
 import { BrandWatermark } from "@/components/brand/BrandWatermark";
 import { ArchiveCaseFile } from "@/components/legacy/ArchiveCaseFile";
-import { archivePublications } from "@/config/archives";
+import { getVisibleArchivePublications } from "@/config/archives";
 import { publication } from "@/config/publication";
 import { isLegacyArchivePublic } from "@/lib/legacy-gate";
+import { isMetalLifestyleLocal } from "@/lib/metal-lifestyle-gate";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
@@ -16,6 +17,10 @@ export default function TheArchivesPage() {
   if (!isLegacyArchivePublic()) {
     notFound();
   }
+
+  const archivePublications = getVisibleArchivePublications(
+    isMetalLifestyleLocal(),
+  );
 
   return (
     <div className="the-archives-world relative mx-auto max-w-3xl px-6 py-16 md:py-24">

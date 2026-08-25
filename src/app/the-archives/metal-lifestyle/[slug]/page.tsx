@@ -13,14 +13,17 @@ import { getPostBySlug } from "@/lib/content";
 import {
   getMetalLifestylePosts,
 } from "@/lib/metal-lifestyle";
+import { metalLifestyleStaticParams } from "@/lib/metal-lifestyle-deploy";
 
 interface MetalLifestyleArticlePageProps {
   params: Promise<{ slug: string }>;
 }
 
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   const posts = await getMetalLifestylePosts();
-  return posts.map((post) => ({ slug: post.slug }));
+  return metalLifestyleStaticParams(posts.map((post) => ({ slug: post.slug })));
 }
 
 export async function generateMetadata({

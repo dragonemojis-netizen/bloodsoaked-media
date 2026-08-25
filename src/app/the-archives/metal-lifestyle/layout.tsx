@@ -1,5 +1,5 @@
 import { Lora, Raleway } from "next/font/google";
-import { isLegacyArchivePublic } from "@/lib/legacy-gate";
+import { isMetalLifestyleLocal } from "@/lib/metal-lifestyle-gate";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import "./metal-lifestyle.css";
@@ -35,7 +35,7 @@ export default function MetalLifestyleLayout({
 }: {
   children: React.ReactNode;
 }) {
-  if (!isLegacyArchivePublic()) {
+  if (!isMetalLifestyleLocal()) {
     notFound();
   }
 

@@ -1,19 +1,17 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { MetalLifestyleArchiveTeaser } from "@/components/archives/metal-lifestyle/MetalLifestyleArchiveTeaser";
 import { MetalLifestyleSearchForm } from "@/components/archives/metal-lifestyle/MetalLifestyleSearchForm";
+import { MetalLifestyleSearchResults } from "@/components/archives/metal-lifestyle/MetalLifestyleSearchResults";
 import { MetalLifestyleShell } from "@/components/archives/metal-lifestyle/MetalLifestyleShell";
 import { METAL_LIFESTYLE_BASE } from "@/config/metal-lifestyle";
 import {
   getMetalLifestyleAuthors,
   getMetalLifestyleCategories,
+  getMetalLifestyleManifest,
   hasMetalLifestyleArchive,
 } from "@/lib/metal-lifestyle-archive";
-import {
-  getMetalLifestyleCatalogStats,
-  searchMetalLifestyleArchive,
-} from "@/lib/metal-lifestyle-discovery";
+import { getMetalLifestyleCatalogStats } from "@/lib/metal-lifestyle-discovery";
 
 export const metadata: Metadata = {
   title: "Archive Search",
@@ -21,25 +19,8 @@ export const metadata: Metadata = {
     "Search the preserved Metal Lifestyle publication by historical metadata.",
 };
 
-interface Props {
-  searchParams: Promise<{
-    q?: string;
-    author?: string;
-    category?: string;
-    year?: string;
-  }>;
-}
-
-export default async function MetalLifestyleSearchPage({ searchParams }: Props) {
+export default function MetalLifestyleSearchPage() {
   if (!hasMetalLifestyleArchive()) notFound();
-
-  const params = await searchParams;
-  const results = searchMetalLifestyleArchive({
-    q: params.q,
-    author: params.author,
-    category: params.category,
-    year: params.year,
-  });
 
   const authors = getMetalLifestyleAuthors().map((a) => a.name);
   const categories = getMetalLifestyleCategories().map((c) => c.name);
@@ -51,9 +32,10 @@ export default async function MetalLifestyleSearchPage({ searchParams }: Props) 
     }
   }
 
-  const hasQuery = Boolean(
-    params.q || params.author || params.category || params.year,
-  );
+  const posts =
+    getMetalLifestyleManifest()?.posts.filter(
+      (post) => post.status !== "unavailable",
+    ) ?? [];
 
   return (
     <MetalLifestyleShell activeHref={`${METAL_LIFESTYLE_BASE}/search`}>
@@ -70,25 +52,12 @@ export default async function MetalLifestyleSearchPage({ searchParams }: Props) 
       </header>
 
       <MetalLifestyleSearchForm
-        initialQuery={params.q}
-        initialAuthor={params.author}
-        initialCategory={params.category}
-        initialYear={params.year}
         authors={authors}
         categories={categories}
         years={years}
       />
 
-      {hasQuery && (
-        <p className="ml-tax-count">
-          {results.length} result{results.length === 1 ? "" : "s"}
-        </p>
-      )}
-
-      {hasQuery &&
-        results.map((post) => (
-          <MetalLifestyleArchiveTeaser key={post.slug} post={post} />
-        ))}
+      <MetalLifestyleSearchResults posts={posts} />
     </MetalLifestyleShell>
   );
 }

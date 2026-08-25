@@ -2,6 +2,8 @@ import { getLegacyPosts } from "@/lib/content";
 import type { PostMeta } from "@/types/content";
 import { METAL_LIFESTYLE_ORIGIN } from "@/config/metal-lifestyle";
 
+export { formatMetalLifestyleDate } from "@/lib/metal-lifestyle-format";
+
 const PUBLICATION = "Metal Lifestyle";
 
 export async function getMetalLifestylePosts(): Promise<PostMeta[]> {
@@ -12,13 +14,6 @@ export async function getMetalLifestylePosts(): Promise<PostMeta[]> {
       post.originalSite === PUBLICATION ||
       post.slug.startsWith("metal-lifestyle-"),
   );
-}
-
-/** Weebly-style date: M/D/YYYY */
-export function formatMetalLifestyleDate(isoDate: string): string {
-  const d = new Date(isoDate.includes("T") ? isoDate : `${isoDate}T12:00:00`);
-  if (Number.isNaN(d.getTime())) return isoDate;
-  return `${d.getMonth() + 1}/${d.getDate()}/${d.getFullYear()}`;
 }
 
 /** Point relative Weebly upload paths at the original host so images still resolve. */
