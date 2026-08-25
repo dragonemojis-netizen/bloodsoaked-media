@@ -69,21 +69,17 @@ So these releases are labeled **PROTOTYPE** and **BETA** on purpose. They are pl
 
 ## How I'm Actually Making These
 
-I want to be upfront about this because it is part of the story, and it connects directly to the rabbit hole above. I have been using AI coding and analysis tools, especially through Cursor, as a major part of this reverse-engineering and patching workflow while I learn how these games actually work.
-
-The AI analysis workflow I use for that work is locally hosted. The models and tools run on my own hardware rather than sending game files, ISOs, binaries, dumps, or other project data to a third-party cloud AI service. That matters to me both for privacy and because this kind of work involves poking around locally stored game binaries and extracted technical data. I am not claiming every tool involved in the broader project is local, only that the AI-assisted reverse-engineering and coding analysis itself stays on my machine.
-
 The actual loop looks roughly like this:
 
 1. I play and test the games myself.
 2. I notice something that looks wrong, or something I want to change.
 3. I direct the investigation and decide what questions need answering.
-4. Locally hosted AI tools help with the repetitive technical work: scanning binaries, tracing references, comparing addresses and constants, writing analysis scripts, organizing experiments, and documenting results.
+4. I do the repetitive technical work: scanning binaries, tracing references, comparing addresses and constants, writing analysis scripts, organizing experiments, and documenting results.
 5. I review the findings, form hypotheses, decide what to try, and test the results in the actual game.
 6. Bad results get rejected and documented.
-7. Nothing is considered finished simply because an AI tool says it should work.
+7. Nothing is considered finished simply because a theory looks good on paper.
 
-That does not mean I pressed a button and generated finished patches. It means I have a very patient assistant for the kind of grunt work that would otherwise eat weeks of my life. AI is part of the toolbox, not a magic author. Using it this way has made hobbyist reverse-engineering experiments like these dramatically more accessible to me, but the work is still iterative and still requires human judgment and real-world testing.
+That does not mean I figured everything out overnight. It means a lot of grunt work, iteration, and real-world testing. The work still requires human judgment and patience.
 
 That pairs naturally with actually playing the games. I notice something feels wrong in a talk scene, I capture a screenshot, I go back to the patch work, I test again, and I learn a little more about how that specific game separates field rendering from dialogue presentation. Over time I have been picking up projection math, aspect ratios, camera systems, PNACH patches, PPC/MIPS assembly patterns, rendering paths, UI behavior, and how these games keep their different presentation systems apart.
 
