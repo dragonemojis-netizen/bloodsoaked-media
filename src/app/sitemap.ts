@@ -64,7 +64,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ...archiveStaticRoutes,
     "/vault",
     "/about",
-    "/search",
   ];
 
   const archiveYears = new Set(

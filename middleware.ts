@@ -1,37 +1,26 @@
 import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
-import { isArchivesLocal, isArchivesPath } from "@/lib/archives-gate";
 import { isCuratorMode, isWorkbenchPath } from "@/lib/curator-gate";
 
 /**
- * Workbench and Archives gating only. Public HTML routes must not pay Middleware Active CPU.
- * Chrome is chosen by App Router layouts — not request headers.
+ * Workbench gating only. Archives are omitted from the production build and
+ * already 404 as missing routes — do not pay Middleware Active CPU for the
+ * leftover crawl of /the-archives/*.
  */
 export function middleware(request: NextRequest) {
-  const pathname = request.nextUrl.pathname;
-
-  if (isWorkbenchPath(pathname)) {
-    if (isCuratorMode()) return NextResponse.next();
-    const rewriteUrl = request.nextUrl.clone();
-    rewriteUrl.pathname = "/__not-found";
-    return NextResponse.rewrite(rewriteUrl);
+  if (!isWorkbenchPath(request.nextUrl.pathname)) {
+    return NextResponse.next();
   }
 
-  if (isArchivesPath(pathname)) {
-    if (isArchivesLocal()) return NextResponse.next();
-    const rewriteUrl = request.nextUrl.clone();
-    rewriteUrl.pathname = "/__not-found";
-    return NextResponse.rewrite(rewriteUrl);
+  if (isCuratorMode()) {
+    return NextResponse.next();
   }
 
-  return NextResponse.next();
+  const rewriteUrl = request.nextUrl.clone();
+  rewriteUrl.pathname = "/__not-found";
+  return NextResponse.rewrite(rewriteUrl);
 }
 
 export const config = {
-  matcher: [
-    "/workbench",
-    "/workbench/:path*",
-    "/the-archives",
-    "/the-archives/:path*",
-  ],
+  matcher: ["/workbench", "/workbench/:path*"],
 };

@@ -10,6 +10,10 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Search",
   description: "Search the Bloodsoaked Media catalog.",
+  robots: {
+    index: false,
+    follow: true,
+  },
 };
 
 interface SearchPageProps {
