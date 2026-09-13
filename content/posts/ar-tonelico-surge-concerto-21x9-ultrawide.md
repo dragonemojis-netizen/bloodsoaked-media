@@ -106,7 +106,7 @@ Three downloadable releases. Each is version-specific. Each ships only a user-cr
 **Platform:** PlayStation 2 / PCSX2  
 **Status:** PROTOTYPE
 
-![Ar tonelico — 21:9 field hallway](/images/articles/ar-tonelico-surge-concerto-21x9-ultrawide/at1-field-hallway.png)
+![Ar tonelico — 21:9 field hallway](/images/articles/ar-tonelico-surge-concerto-21x9-ultrawide/at1-field-hallway.jpg)
 
 This was the first one I really dug into. The goal was simple: make the game use the extra width of a 21:9 screen without just taking the original image and pulling it sideways until everyone looks like they have been hit with a rolling pin. This prototype adapts shared 3D presentation for 21:9 without simply stretching the whole image.
 
@@ -125,9 +125,9 @@ This was the first one I really dug into. The goal was simple: make the game use
 - Field, battle, and world-map framing are playable
 - Correct 3D proportions rather than whole-image stretching
 
-![Ar tonelico — shop interior at 21:9](/images/articles/ar-tonelico-surge-concerto-21x9-ultrawide/at1-field-shop.png)
+![Ar tonelico — shop interior at 21:9](/images/articles/ar-tonelico-surge-concerto-21x9-ultrawide/at1-field-shop.jpg)
 
-![Ar tonelico — world map (Em Pheyna)](/images/articles/ar-tonelico-surge-concerto-21x9-ultrawide/at1-worldmap-em-pheyna.png)
+![Ar tonelico — world map (Em Pheyna)](/images/articles/ar-tonelico-surge-concerto-21x9-ultrawide/at1-worldmap-em-pheyna.jpg)
 
 **Known limitations**
 
@@ -226,7 +226,7 @@ This is explicitly **BETA v0.1**. It is not a complete UI correction.
 **Platform:** PlayStation 3 / RPCS3  
 **Status:** BETA
 
-![Ar nosurge — field / dialogue presentation (FINAL beta)](/images/articles/ar-tonelico-surge-concerto-21x9-ultrawide/anosurge-field-dialogue-final.png)
+![Ar nosurge — field / dialogue presentation (FINAL beta)](/images/articles/ar-tonelico-surge-concerto-21x9-ultrawide/anosurge-field-dialogue-final.jpg)
 
 Moving to PS3 did not make the problem smaller. It just moved the seams somewhere else. I am genuinely excited about where this one landed: the current BETA packages five compatible patches meant to be enabled together, each targeting a different part of the presentation stack. That said, several of those patches were verified in specific scenes, not across the entire game. Coverage is real where tested, and incomplete everywhere else.
 
@@ -246,11 +246,11 @@ Moving to PS3 did not make the problem smaller. It just moved the seams somewher
 4. **Ar Nosurge 21:9 - Cutscene Camera 1.0** — required — Hor+ type-6 engine/scripted cutscene 3D (one tested scene)  
 5. **Ar Nosurge 21:9 - Field HUD 1.0** — required — top-left encounter bar layout for 21:9  
 
-![Ar nosurge — combat at 21:9](/images/articles/ar-tonelico-surge-concerto-21x9-ultrawide/anosurge-combat.png)
+![Ar nosurge — combat at 21:9](/images/articles/ar-tonelico-surge-concerto-21x9-ultrawide/anosurge-combat.jpg)
 
 ![Ar nosurge — Dialogue UI 1.0 (Bios Shop message window)](/images/articles/ar-tonelico-surge-concerto-21x9-ultrawide/anosurge-dialogue-ui-bios-shop.png)
 
-![Ar nosurge — cutscene FOV](/images/articles/ar-tonelico-surge-concerto-21x9-ultrawide/anosurge-cutscene.png)
+![Ar nosurge — cutscene FOV](/images/articles/ar-tonelico-surge-concerto-21x9-ultrawide/anosurge-cutscene.jpg)
 
 **Known limitations**
 
@@ -261,7 +261,7 @@ Moving to PS3 did not make the problem smaller. It just moved the seams somewher
 - Dialogue UI work covers the message window only; Log, Send, title, and other UI are not comprehensively covered
 - Menus, FMVs, other regions, and most of the game have not been exhaustively tested
 
-![Known limitation — field dialogue stretch reference (Ar nosurge)](/images/articles/ar-tonelico-surge-concerto-21x9-ultrawide/anosurge-limitation-field-dialogue-stretch.png)
+![Known limitation — field dialogue stretch reference (Ar nosurge)](/images/articles/ar-tonelico-surge-concerto-21x9-ultrawide/anosurge-limitation-field-dialogue-stretch.jpg)
 
 *Limitation / research reference — not a claim that every dialogue path is finished.*
 
