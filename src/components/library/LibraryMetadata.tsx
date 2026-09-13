@@ -1,6 +1,6 @@
 import type { LibraryCatalogInformation, LibraryEntry } from "@/types/library";
 import { libraryFields, libraryVoice } from "@/config/library-voice";
-import { formatLibraryFiledDate } from "@/lib/library";
+import { formatLibraryFiledDate } from "@/lib/library-browse";
 
 export interface LibraryMetadataItem {
   label: string;

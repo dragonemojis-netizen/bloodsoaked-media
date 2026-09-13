@@ -39,9 +39,7 @@ function findLocalCoverFile(slug: string): string | undefined {
   return undefined;
 }
 
-export function isRemoteCoverUrl(src: string): boolean {
-  return /^https?:\/\//i.test(src);
-}
+export { isRemoteCoverUrl } from "@/lib/cover-url";
 
 function normalizePublicPath(src: string): string {
   return src.startsWith("/") ? src : `/${src}`;

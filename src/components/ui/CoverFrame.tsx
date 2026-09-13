@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { isRemoteCoverUrl } from "@/lib/media-log-cover";
+import { isRemoteCoverUrl } from "@/lib/cover-url";
 
 interface CoverFrameProps {
   src?: string;

@@ -45,6 +45,14 @@ function moveBack(srcRel, destRel) {
 }
 
 function prepare() {
+  // Local `next dev` leaves .next/dev route types that include Archives.
+  // A Vercel-style build stashes those routes and then TypeScript fails
+  // comparing the two generated maps. Production CI has no .next/dev.
+  const nextDevTypes = path.join(ROOT, ".next", "dev");
+  if (fs.existsSync(nextDevTypes)) {
+    fs.rmSync(nextDevTypes, { recursive: true, force: true });
+  }
+
   if (!shouldOmitArchivesFromBuild()) return;
 
   fs.mkdirSync(path.join(ROOT, ".build-stash"), { recursive: true });

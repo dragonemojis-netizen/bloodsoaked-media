@@ -1,7 +1,7 @@
 import Image from "next/image";
 import type { CSSProperties } from "react";
 import type { CollectionImageDimensions } from "@/lib/collection-cover";
-import { isRemoteCoverUrl } from "@/lib/media-log-cover";
+import { isRemoteCoverUrl } from "@/lib/cover-url";
 
 interface CollectionArtifactFrameProps {
   src?: string;

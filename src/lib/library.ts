@@ -26,6 +26,7 @@ import {
 
 export {
   filterLibraryShelfCards,
+  formatLibraryFiledDate,
   getLibraryBrowseHref,
   libraryBrowseQueryHasFacets,
   parseLibraryBrowseParamList,
@@ -432,14 +433,3 @@ export function getLibraryFilterTaxonomy() {
   };
 }
 
-/** Format ISO filed date for museum placards. */
-export function formatLibraryFiledDate(iso: string): string {
-  const date = new Date(iso);
-  if (Number.isNaN(date.getTime())) return iso;
-  return date.toLocaleDateString("en-US", {
-    year: "numeric",
-    month: "short",
-    day: "numeric",
-    timeZone: "UTC",
-  });
-}

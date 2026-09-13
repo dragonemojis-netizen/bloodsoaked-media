@@ -1,15 +1,13 @@
 "use client";
 
 import { useSearchParams } from "next/navigation";
-import {
-  LibraryBrowseShell,
-  LibraryEmpty,
-  LibraryGrid,
-  LibraryShelfContinuation,
-} from "@/components/library";
 import { LibraryActiveFilters } from "@/components/library/LibraryActiveFilters";
+import { LibraryBrowseShell } from "@/components/library/LibraryBrowseShell";
 import { LibraryCatalogLookupExtras } from "@/components/library/LibraryCatalogLookupExtras";
+import { LibraryEmpty } from "@/components/library/LibraryEmpty";
+import { LibraryGrid } from "@/components/library/LibraryGrid";
 import type { LibraryFilterTaxonomy } from "@/components/library/LibraryFilterSidebar";
+import { LibraryShelfContinuation } from "@/components/library/LibraryShelfContinuation";
 import { libraryVoice } from "@/config/library-voice";
 import {
   libraryBrowseQueryHasFacets,
