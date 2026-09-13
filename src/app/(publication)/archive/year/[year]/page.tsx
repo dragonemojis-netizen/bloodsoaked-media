@@ -7,6 +7,8 @@ interface YearPageProps {
   params: Promise<{ year: string }>;
 }
 
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   const { getAllPostMeta, getArchiveYears } = await import("@/lib/content");
   const posts = await getAllPostMeta();

@@ -7,6 +7,8 @@ interface MonthPageProps {
   params: Promise<{ year: string; month: string }>;
 }
 
+export const dynamicParams = false;
+
 const monthNames = [
   "January",
   "February",

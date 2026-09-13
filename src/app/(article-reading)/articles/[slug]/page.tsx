@@ -21,6 +21,8 @@ interface ArticlePageProps {
   params: Promise<{ slug: string }>;
 }
 
+export const dynamicParams = false;
+
 function resolveCollections(
   slug: string,
   explicitSlugs: string[] = [],

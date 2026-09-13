@@ -12,6 +12,8 @@ interface AuthorityPageProps {
   params: Promise<{ slug: string }>;
 }
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return getPublishedAuthoritySlugs().map((slug) => ({ slug }));
 }

@@ -19,6 +19,8 @@ interface MediaLogEntryPageProps {
   params: Promise<{ slug: string }>;
 }
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return getAllMediaLogEntries().map((entry) => ({ slug: entry.slug }));
 }

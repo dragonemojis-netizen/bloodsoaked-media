@@ -10,6 +10,8 @@ interface MoodPageProps {
   params: Promise<{ mood: string }>;
 }
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return MOODS.map((mood) => ({
     mood: mood.toLowerCase().replace(/\s+/g, "-"),

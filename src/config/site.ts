@@ -12,10 +12,10 @@ export const site = {
   mission:
     "Bloodsoaked Media is an independent publication dedicated to games, film, music, television, and the stories we carry away from them. Part review outlet, part personal journal, and part cultural scrapbook, it explores the media that stays with us long after the credits roll.",
   logo: {
-    src: "/images/logo-mark.png",
+    src: "/images/logo-mark.webp",
     alt: "Bloodsoaked Media",
-    width: 1529,
-    height: 699,
+    width: 1200,
+    height: 549,
   },
   social: {
     facebook: "https://www.facebook.com/profile.php?id=61590606155212",

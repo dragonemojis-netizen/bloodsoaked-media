@@ -10,6 +10,8 @@ interface TagPageProps {
   params: Promise<{ tag: string }>;
 }
 
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   const posts = await getAllPostMeta();
   return getAllTags(posts).map((tag) => ({ tag: slugifyTag(tag) }));

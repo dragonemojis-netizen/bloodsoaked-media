@@ -12,7 +12,7 @@ tags: ["fallout", "fallout sonora", "fallout 2", "mods", "rpg", "review"]
 featured: true
 editorPick: true
 author: "Dakota G."
-coverImage: "/images/articles/fallout-sonora/fallout-sonora-cover-banner.png"
+coverImage: "/images/articles/fallout-sonora/fallout-sonora-cover-banner.jpg"
 resourceLink:
   label: "Download Fallout Sonora"
   href: "https://cambragol.github.io/Fallout-Sonora/"
@@ -33,7 +33,7 @@ If the IP holders won't do it justice, the fans will. Or at least a group of inc
 
 When I played Sonora, I played a seriously rough, sometimes barely-there AI translation of the game. Thankfully, there's a complete English translation available now, so your experience may be completely different from mine. Despite the rough translation and missing patches, the vibe of a wasteland south of the United States in Mexico was astonishing. It was filled to the brim with new places to explore, travel encounters left entirely up to luck, and random discoveries that would make you stop and question your morality, much like the original games.
 
-![Fallout: Sonora — in-game scene](/images/articles/fallout-sonora/fallout-sonora-talking-heads.gif)
+![Fallout: Sonora — in-game scene](/images/articles/fallout-sonora/fallout-sonora-talking-heads.webp)
 
 For instance, I don't want to completely spoil this game for anyone. It's a masterclass and deserves to be experienced firsthand. However, I can't leave out the one location that has been stuck in my head ever since I finished it.
 

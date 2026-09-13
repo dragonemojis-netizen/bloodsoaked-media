@@ -11,6 +11,8 @@ interface LibraryEntryPageProps {
   params: Promise<{ slug: string }>;
 }
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return getPublishedLibrarySlugs().map((slug) => ({ slug }));
 }
