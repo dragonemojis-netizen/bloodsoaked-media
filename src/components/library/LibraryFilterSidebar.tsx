@@ -4,16 +4,21 @@ import { LibrarySearch } from "@/components/library/LibrarySearch";
 import { libraryFields, libraryVoice } from "@/config/library-voice";
 import {
   getLibraryBrowseHref,
-  getLibraryFilterTaxonomy,
   toggleLibraryBrowseValue,
-} from "@/lib/library";
+} from "@/lib/library-browse";
 import type {
   LibraryBrowsePlatform,
   LibraryBrowseQuery,
 } from "@/types/library";
 
+export interface LibraryFilterTaxonomy {
+  platforms: { value: LibraryBrowsePlatform; label: string }[];
+  genres: { value: string; label: string }[];
+}
+
 interface LibraryFilterSidebarProps {
   query: LibraryBrowseQuery;
+  taxonomy: LibraryFilterTaxonomy;
   className?: string;
 }
 
@@ -23,9 +28,9 @@ interface LibraryFilterSidebarProps {
  */
 export function LibraryFilterSidebar({
   query,
+  taxonomy,
   className = "",
 }: LibraryFilterSidebarProps) {
-  const taxonomy = getLibraryFilterTaxonomy();
   const activePlatforms = new Set(query.platforms ?? []);
   const activeGenres = new Set(query.genres ?? []);
 

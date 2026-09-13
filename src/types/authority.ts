@@ -141,4 +141,5 @@ export interface AuthorityLookupResult {
   typeLabel: string;
   href: string;
   kind: "authority";
+  searchHaystack?: string;
 }

@@ -373,28 +373,7 @@ export function getAllMoodsUsed(posts: PostMeta[]): Mood[] {
   return MOODS.filter((m) => used.has(m));
 }
 
-export function searchPosts(posts: PostMeta[], query: string): PostMeta[] {
-  const q = query.trim().toLowerCase();
-  if (!q) return posts;
-
-  return posts.filter((post) => {
-    const haystack = [
-      post.title,
-      post.excerpt,
-      post.category,
-      post.type,
-      post.medium,
-      post.era,
-      post.mood,
-      post.originalPublication,
-      post.originalSite,
-      ...post.tags,
-    ]
-      .join(" ")
-      .toLowerCase();
-    return haystack.includes(q);
-  });
-}
+export { searchPosts } from "@/lib/content-search";
 
 export function getAllTags(posts: PostMeta[]): string[] {
   const tags = new Set<string>();

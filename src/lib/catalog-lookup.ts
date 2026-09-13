@@ -14,6 +14,35 @@ export interface CatalogHoldingLookupResult {
   href: string;
   meta: string;
   kind: "holding";
+  searchHaystack?: string;
+}
+
+export function listPublishedCatalogHoldings(): CatalogHoldingLookupResult[] {
+  return getAllCollectionArchiveRecords()
+    .filter(
+      (record) =>
+        record.visibility === "published" &&
+        !record.tombstone &&
+        record.origin !== "development" &&
+        record.origin !== "steam",
+    )
+    .sort((a, b) => a.title.localeCompare(b.title))
+    .map((record) => ({
+      id: record.id,
+      title: record.title,
+      href: getCollectionSpecimenHref(record.id),
+      meta: "Collection holding",
+      kind: "holding" as const,
+      searchHaystack: [
+        record.id,
+        record.title,
+        record.filing?.shelfMark,
+        record.filing?.librarySlug,
+      ]
+        .filter(Boolean)
+        .join(" ")
+        .toLowerCase(),
+    }));
 }
 
 export function searchCatalogHoldings(
@@ -23,33 +52,9 @@ export function searchCatalogHoldings(
   const q = query.trim().toLowerCase();
   if (!q) return [];
 
-  return getAllCollectionArchiveRecords()
-    .filter(
-      (record) =>
-        record.visibility === "published" &&
-        !record.tombstone &&
-        record.origin !== "development" &&
-        record.origin !== "steam",
+  return listPublishedCatalogHoldings()
+    .filter((record) =>
+      (record.searchHaystack ?? record.title.toLowerCase()).includes(q),
     )
-    .filter((record) => {
-      const haystack = [
-        record.id,
-        record.title,
-        record.filing?.shelfMark,
-        record.filing?.librarySlug,
-      ]
-        .filter(Boolean)
-        .join(" ")
-        .toLowerCase();
-      return haystack.includes(q);
-    })
-    .sort((a, b) => a.title.localeCompare(b.title))
-    .slice(0, limit)
-    .map((record) => ({
-      id: record.id,
-      title: record.title,
-      href: getCollectionSpecimenHref(record.id),
-      meta: "Collection holding",
-      kind: "holding" as const,
-    }));
+    .slice(0, limit);
 }

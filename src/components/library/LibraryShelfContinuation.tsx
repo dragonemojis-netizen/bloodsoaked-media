@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { libraryVoice } from "@/config/library-voice";
-import { getLibraryBrowseHref } from "@/lib/library";
+import { getLibraryBrowseHref } from "@/lib/library-browse";
 import type { LibraryBrowseQuery, LibraryCatalog } from "@/types/library";
 
 interface LibraryShelfContinuationProps {

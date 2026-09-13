@@ -1,6 +1,8 @@
 import { getCurrentPostMeta } from "@/lib/content";
 import { site } from "@/config/site";
 
+export const dynamic = "force-static";
+
 function escapeXml(text: string): string {
   return text
     .replace(/&/g, "&amp;")

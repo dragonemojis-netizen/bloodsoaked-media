@@ -4,7 +4,7 @@ import {
   getLibraryBrowseHref,
   libraryBrowseQueryHasFacets,
   toggleLibraryBrowseValue,
-} from "@/lib/library";
+} from "@/lib/library-browse";
 import type {
   LibraryBrowsePlatform,
   LibraryBrowseQuery,

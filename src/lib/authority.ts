@@ -241,18 +241,18 @@ export function resolveAuthorityField(
   };
 }
 
-/** Catalog Lookup across Authority Records (published only). */
-export function searchAuthorityRecords(
-  query: string,
-  limit = 12,
-): AuthorityLookupResult[] {
-  const q = query.trim().toLowerCase();
-  if (!q) return [];
-
+export function listPublishedAuthorityLookups(): AuthorityLookupResult[] {
   return getAllAuthorityRecords()
     .filter(isPublishedAuthority)
-    .filter((record) => {
-      const haystack = [
+    .sort((a, b) => a.preferredName.localeCompare(b.preferredName))
+    .map((record) => ({
+      slug: record.slug,
+      authorityId: record.authorityId,
+      preferredName: record.preferredName,
+      typeLabel: getAuthorityTypeLabel(record.type),
+      href: getAuthorityHref(record.slug),
+      kind: "authority" as const,
+      searchHaystack: [
         record.preferredName,
         record.authorityId,
         record.slug,
@@ -261,19 +261,23 @@ export function searchAuthorityRecords(
         ...(record.alternativeNames ?? []),
       ]
         .join(" ")
-        .toLowerCase();
-      return haystack.includes(q);
-    })
-    .sort((a, b) => a.preferredName.localeCompare(b.preferredName))
-    .slice(0, limit)
-    .map((record) => ({
-      slug: record.slug,
-      authorityId: record.authorityId,
-      preferredName: record.preferredName,
-      typeLabel: getAuthorityTypeLabel(record.type),
-      href: getAuthorityHref(record.slug),
-      kind: "authority" as const,
+        .toLowerCase(),
     }));
+}
+
+/** Catalog Lookup across Authority Records (published only). */
+export function searchAuthorityRecords(
+  query: string,
+  limit = 12,
+): AuthorityLookupResult[] {
+  const q = query.trim().toLowerCase();
+  if (!q) return [];
+
+  return listPublishedAuthorityLookups()
+    .filter((record) =>
+      (record.searchHaystack ?? record.preferredName.toLowerCase()).includes(q),
+    )
+    .slice(0, limit);
 }
 
 export function rebuildAuthorityCatalogIndex(): AuthorityCatalogIndex {

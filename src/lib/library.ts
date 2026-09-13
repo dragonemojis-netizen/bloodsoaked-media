@@ -4,10 +4,8 @@ import {
   libraryMediumLabels,
   libraryStatusLabels,
 } from "@/config/library-voice";
-import { LIBRARY_SCALING_CONTRACT } from "@/config/library-stewardship";
 import { sortStewardshipHistory } from "@/lib/library-stewardship-history";
 import type {
-  LibraryBrowsePlatform,
   LibraryBrowseQuery,
   LibraryCatalog,
   LibraryCatalogIndex,
@@ -21,6 +19,19 @@ import type {
   LibraryStatus,
 } from "@/types/library";
 import { LIBRARY_BROWSE_PLATFORMS } from "@/types/library";
+import {
+  filterLibraryShelfCards,
+  paginateLibraryCatalog,
+} from "@/lib/library-browse";
+
+export {
+  filterLibraryShelfCards,
+  getLibraryBrowseHref,
+  libraryBrowseQueryHasFacets,
+  parseLibraryBrowseParamList,
+  resolveLibraryBrowsePlatform,
+  toggleLibraryBrowseValue,
+} from "@/lib/library-browse";
 
 export type {
   LibraryAccession,
@@ -316,114 +327,6 @@ export function getPublishedShelfCards(): LibraryShelfCard[] {
     .sort(sortShelfCards);
 }
 
-/**
- * Map a shelf card onto the curated browse-platform taxonomy.
- * Steam holdings are identified by Steam provenance, not by catalog "PC".
- * Values outside LIBRARY_BROWSE_PLATFORMS are never invented.
- */
-export function resolveLibraryBrowsePlatform(
-  card: Pick<LibraryShelfCard, "platform" | "steamAppId">,
-): LibraryBrowsePlatform | undefined {
-  if (card.steamAppId != null || card.platform === "Steam") {
-    return "Steam";
-  }
-  if (
-    card.platform &&
-    (LIBRARY_BROWSE_PLATFORMS as readonly string[]).includes(card.platform)
-  ) {
-    return card.platform as LibraryBrowsePlatform;
-  }
-  return undefined;
-}
-
-function normalizeBrowseList(values: string[] | undefined): string[] {
-  if (!values?.length) return [];
-  const seen = new Set<string>();
-  const out: string[] = [];
-  for (const raw of values) {
-    const value = raw.trim();
-    if (!value || seen.has(value)) continue;
-    seen.add(value);
-    out.push(value);
-  }
-  return out;
-}
-
-/** Toggle a value in a multi-select facet list (order preserved). */
-export function toggleLibraryBrowseValue(
-  values: string[] | undefined,
-  value: string,
-): string[] {
-  const current = normalizeBrowseList(values);
-  if (current.includes(value)) {
-    return current.filter((entry) => entry !== value);
-  }
-  return [...current, value];
-}
-
-export function libraryBrowseQueryHasFacets(query: LibraryBrowseQuery): boolean {
-  return Boolean(
-    query.q?.trim() ||
-      query.platforms?.length ||
-      query.genres?.length,
-  );
-}
-
-/**
- * Catalog lookup and facets operate on shelf fields only —
- * never full curator notes or preservation prose.
- */
-export function filterLibraryShelfCards(
-  cards: LibraryShelfCard[],
-  query: LibraryBrowseQuery = {},
-): LibraryShelfCard[] {
-  let result = cards;
-
-  const q = query.q?.trim().toLowerCase();
-  if (q) {
-    result = result.filter((card) => {
-      const haystack = [
-        card.title,
-        card.synopsis,
-        card.originalTitle,
-        card.developer,
-        card.publisher,
-        card.platform,
-        resolveLibraryBrowsePlatform(card),
-        card.director,
-        card.artist,
-        card.shelfMark,
-        card.steamAppId != null ? String(card.steamAppId) : "",
-        ...card.subjects,
-      ]
-        .filter(Boolean)
-        .join(" ")
-        .toLowerCase();
-      return haystack.includes(q);
-    });
-  }
-
-  const platforms = normalizeBrowseList(query.platforms).filter((platform) =>
-    (LIBRARY_BROWSE_PLATFORMS as readonly string[]).includes(platform),
-  );
-  if (platforms.length > 0) {
-    const allowed = new Set(platforms);
-    result = result.filter((card) => {
-      const browsePlatform = resolveLibraryBrowsePlatform(card);
-      return browsePlatform != null && allowed.has(browsePlatform);
-    });
-  }
-
-  const genres = normalizeBrowseList(query.genres);
-  if (genres.length > 0) {
-    const allowed = new Set(genres.map((genre) => genre.toLowerCase()));
-    result = result.filter((card) =>
-      card.subjects.some((subject) => allowed.has(subject.toLowerCase())),
-    );
-  }
-
-  return result;
-}
 
 /** @deprecated Prefer filterLibraryShelfCards — retained for transitional callers. */
 export function filterLibraryEntries(
@@ -460,67 +363,13 @@ export function filterLibraryEntries(
 }
 
 /**
- * Build a browse URL that preserves lookup / facet state.
- * Page 1 omits the page param so the first shelf stays clean.
- * Multi-select facets serialize as comma-separated values.
- */
-export function getLibraryBrowseHref(query: LibraryBrowseQuery = {}): string {
-  const params = new URLSearchParams();
-  if (query.q?.trim()) params.set("q", query.q.trim());
-
-  const platforms = normalizeBrowseList(query.platforms).filter((platform) =>
-    (LIBRARY_BROWSE_PLATFORMS as readonly string[]).includes(platform),
-  );
-  if (platforms.length > 0) params.set("platform", platforms.join(","));
-
-  const genres = normalizeBrowseList(query.genres);
-  if (genres.length > 0) params.set("genre", genres.join(","));
-
-  if (query.page && query.page > 1) params.set("page", String(query.page));
-  const serialized = params.toString();
-  return serialized ? `/library?${serialized}` : "/library";
-}
-
-/** Parse a single or repeated query param into a clean string list. */
-export function parseLibraryBrowseParamList(
-  value: string | string[] | undefined,
-): string[] {
-  if (value == null) return [];
-  const parts = Array.isArray(value) ? value : [value];
-  return normalizeBrowseList(
-    parts.flatMap((part) => part.split(",").map((entry) => entry.trim())),
-  );
-}
-
-/**
  * Paginated shelf catalog. Browse never opens full accession records
  * when the index carries shelf summaries.
  */
 export function getLibraryCatalog(
   query: LibraryBrowseQuery = {},
 ): LibraryCatalog {
-  const pageSize = LIBRARY_SCALING_CONTRACT.shelfPageSize;
-  const requestedPage = Math.max(1, query.page ?? 1);
-
-  const published = getPublishedShelfCards();
-  const filtered = filterLibraryShelfCards(published, query);
-  const pageCount =
-    filtered.length === 0 ? 0 : Math.ceil(filtered.length / pageSize);
-  const page =
-    pageCount === 0 ? 1 : Math.min(requestedPage, Math.max(1, pageCount));
-  const start = (page - 1) * pageSize;
-
-  return {
-    entries: filtered.slice(start, start + pageSize),
-    total: filtered.length,
-    publishedTotal: published.length,
-    isEmpty: published.length === 0,
-    page,
-    pageSize,
-    pageCount,
-    hasPreviousPage: pageCount > 0 && page > 1,
-    hasNextPage: pageCount > 0 && page < pageCount,
-  };
+  return paginateLibraryCatalog(getPublishedShelfCards(), query);
 }
 
 /**

@@ -1,25 +1,13 @@
 import { Suspense } from "react";
-import {
-  LibraryBrowseShell,
-  LibraryEmpty,
-  LibraryGrid,
-  LibraryHero,
-  LibraryShelfContinuation,
-} from "@/components/library";
-import { LibraryActiveFilters } from "@/components/library/LibraryActiveFilters";
-import { LibraryCatalogLookupExtras } from "@/components/library/LibraryCatalogLookupExtras";
+import { LibraryHero } from "@/components/library";
+import { LibraryBrowseClient } from "@/components/library/LibraryBrowseClient";
 import { libraryVoice } from "@/config/library-voice";
-import { searchAuthorityRecords } from "@/lib/authority";
-import { searchCatalogHoldings } from "@/lib/catalog-lookup";
+import { listPublishedAuthorityLookups } from "@/lib/authority";
+import { listPublishedCatalogHoldings } from "@/lib/catalog-lookup";
 import {
-  getLibraryCatalog,
   getLibraryFilterTaxonomy,
-  libraryBrowseQueryHasFacets,
-  parseLibraryBrowseParamList,
-  type LibraryBrowsePlatform,
-  type LibraryBrowseQuery,
+  getPublishedShelfCards,
 } from "@/lib/library";
-import { LIBRARY_BROWSE_PLATFORMS } from "@/types/library";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -27,64 +15,15 @@ export const metadata: Metadata = {
   description: libraryVoice.description.replace(/\n+/g, " "),
 };
 
-interface LibraryPageProps {
-  searchParams: Promise<{
-    q?: string | string[];
-    platform?: string | string[];
-    genre?: string | string[];
-    page?: string | string[];
-  }>;
-}
-
-function firstParam(value: string | string[] | undefined): string | undefined {
-  if (Array.isArray(value)) return value[0];
-  return value;
-}
-
-function parseBrowseQuery(
-  params: Awaited<LibraryPageProps["searchParams"]>,
-): LibraryBrowseQuery {
-  const pageRaw = firstParam(params.page)
-    ? Number.parseInt(firstParam(params.page)!, 10)
-    : undefined;
-
-  const platforms = parseLibraryBrowseParamList(params.platform).filter(
-    (platform): platform is LibraryBrowsePlatform =>
-      (LIBRARY_BROWSE_PLATFORMS as readonly string[]).includes(platform),
-  );
-
-  const genreTaxonomy = getLibraryFilterTaxonomy().genres;
-  const genreByLower = new Map(
-    genreTaxonomy.map((genre) => [genre.value.toLowerCase(), genre.value]),
-  );
-  const genres = parseLibraryBrowseParamList(params.genre)
-    .map((genre) => genreByLower.get(genre.toLowerCase()) ?? genre)
-    .filter((genre, index, all) => all.indexOf(genre) === index);
-
-  return {
-    q: firstParam(params.q),
-    platforms: platforms.length > 0 ? platforms : undefined,
-    genres: genres.length > 0 ? genres : undefined,
-    page:
-      pageRaw != null && !Number.isNaN(pageRaw) && pageRaw > 0
-        ? pageRaw
-        : undefined,
-  };
-}
-
-export default async function LibraryPage({ searchParams }: LibraryPageProps) {
-  const params = await searchParams;
-  const query = parseBrowseQuery(params);
-  const catalog = getLibraryCatalog(query);
-  const lookupQuery = query.q?.trim() ?? "";
-  const authorityHits = lookupQuery
-    ? searchAuthorityRecords(lookupQuery)
-    : [];
-  const holdingHits = lookupQuery ? searchCatalogHoldings(lookupQuery) : [];
-  const hasLookupExtras = authorityHits.length > 0 || holdingHits.length > 0;
-  const shelfEmpty = catalog.entries.length === 0;
-  const lookupMiss =
-    Boolean(lookupQuery) && shelfEmpty && !hasLookupExtras && !catalog.isEmpty;
+/**
+ * Prerender the Library shelf. Facets stay bookmarkable via the URL, but
+ * filtering runs in the browser so crawlers cannot force Fluid Active CPU.
+ */
+export default function LibraryPage() {
+  const cards = getPublishedShelfCards();
+  const taxonomy = getLibraryFilterTaxonomy();
+  const authorities = listPublishedAuthorityLookups();
+  const holdings = listPublishedCatalogHoldings();
 
   return (
     <div className="library-world archive-world relative mx-auto max-w-6xl px-6 py-10">
@@ -98,37 +37,12 @@ export default async function LibraryPage({ searchParams }: LibraryPageProps) {
             </div>
           }
         >
-          <LibraryBrowseShell query={query}>
-            <LibraryActiveFilters
-              query={query}
-              matchCount={catalog.total}
-            />
-            {catalog.isEmpty && !hasLookupExtras ? (
-              <LibraryEmpty />
-            ) : (
-              <>
-                <LibraryCatalogLookupExtras
-                  query={lookupQuery}
-                  authorities={authorityHits}
-                  holdings={holdingHits}
-                />
-                {lookupMiss || (shelfEmpty && !hasLookupExtras) ? (
-                  <p className="border border-border/70 bg-background-panel/50 px-8 py-10 font-serif text-base italic leading-relaxed text-foreground-muted">
-                    {libraryVoice.empty.noMatch}
-                  </p>
-                ) : shelfEmpty && hasLookupExtras ? null : (
-                  <>
-                    <LibraryGrid
-                      entries={catalog.entries}
-                      total={catalog.total}
-                      showHeader={!libraryBrowseQueryHasFacets(query)}
-                    />
-                    <LibraryShelfContinuation catalog={catalog} query={query} />
-                  </>
-                )}
-              </>
-            )}
-          </LibraryBrowseShell>
+          <LibraryBrowseClient
+            cards={cards}
+            taxonomy={taxonomy}
+            authorities={authorities}
+            holdings={holdings}
+          />
         </Suspense>
       </div>
     </div>

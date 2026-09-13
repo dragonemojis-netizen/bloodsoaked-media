@@ -1,6 +1,8 @@
 export { LibraryHero } from "./LibraryHero";
 export { LibrarySearch } from "./LibrarySearch";
 export { LibraryFilterSidebar } from "./LibraryFilterSidebar";
+export type { LibraryFilterTaxonomy } from "./LibraryFilterSidebar";
+export { LibraryBrowseClient } from "./LibraryBrowseClient";
 export { LibraryActiveFilters } from "./LibraryActiveFilters";
 export { LibraryEmpty } from "./LibraryEmpty";
 export { LibraryCard } from "./LibraryCard";
