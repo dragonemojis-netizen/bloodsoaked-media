@@ -22,7 +22,7 @@ tags:
     "widescreen",
   ]
 featured: true
-editorPick: false
+editorPick: true
 author: "Dakota G."
 coverImage: "/images/articles/ar-tonelico-surge-concerto-21x9-ultrawide/ar-nosurge-steam-library-hero.jpg"
 ---

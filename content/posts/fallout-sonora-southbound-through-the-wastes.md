@@ -10,7 +10,7 @@ era: "2020s"
 mood: Bleak
 tags: ["fallout", "fallout sonora", "fallout 2", "mods", "rpg", "review"]
 featured: true
-editorPick: true
+editorPick: false
 author: "Dakota G."
 coverImage: "/images/articles/fallout-sonora/fallout-sonora-cover-banner.jpg"
 resourceLink:
