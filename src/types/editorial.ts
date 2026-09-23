@@ -55,6 +55,8 @@ export interface FromTheEditorImage {
 export interface FromTheEditor {
   introduction: string;
   body: string[];
+  /** How many body paragraphs show before "Continue reading". */
+  previewParagraphs?: number;
   monthlyUpdate?: string;
   monthlyClosing?: string;
   updated?: string;

@@ -198,9 +198,17 @@ export function getFromTheEditor(): FromTheEditor | null {
 
   const images = parseFromTheEditorImages(data.images);
 
+  const previewParagraphs =
+    typeof data.previewParagraphs === "number" &&
+    Number.isFinite(data.previewParagraphs) &&
+    data.previewParagraphs > 0
+      ? Math.floor(data.previewParagraphs)
+      : undefined;
+
   return {
     introduction: data.introduction ?? "",
     body,
+    previewParagraphs,
     monthlyUpdate: data.monthlyUpdate,
     monthlyClosing: data.monthlyClosing,
     updated: data.updated,

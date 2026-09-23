@@ -3,6 +3,7 @@ import Link from "next/link";
 import { publication } from "@/config/publication";
 import type { FromTheEditor as FromTheEditorData } from "@/types/editorial";
 import { formatDate } from "@/lib/format";
+import { FromTheEditorExpandableBody } from "./FromTheEditorExpandableBody";
 
 interface FromTheEditorProps {
   data: FromTheEditorData;
@@ -28,30 +29,30 @@ export function FromTheEditor({ data }: FromTheEditorProps) {
       </p>
 
       {data.body.length > 0 && (
-        <div className="mt-6 space-y-4 text-foreground-muted leading-relaxed">
-          {data.body.map((paragraph) => (
-            <p key={paragraph}>{paragraph}</p>
-          ))}
-        </div>
+        <FromTheEditorExpandableBody
+          paragraphs={data.body}
+          previewCount={data.previewParagraphs}
+        />
       )}
 
       {images.length > 0 && (
         <div className="mt-8 border-t border-border-subtle pt-6">
           <p className="font-mono text-[0.6rem] uppercase tracking-[0.2em] text-foreground-muted">
-            Screenshots
+            From the shelf
           </p>
           <ul className="mt-4 grid gap-4">
             {images.map((image) => (
               <li
                 key={image.src}
-                className="relative aspect-[21/9] overflow-hidden border border-border bg-background-panel"
+                className="overflow-hidden border border-border bg-background-panel"
               >
                 <Image
                   src={image.src}
                   alt={image.alt}
-                  fill
+                  width={1600}
+                  height={1200}
                   sizes="(max-width: 1024px) 100vw, 720px"
-                  className="object-cover vhs-hover-image"
+                  className="h-auto w-full vhs-hover-image"
                 />
               </li>
             ))}
