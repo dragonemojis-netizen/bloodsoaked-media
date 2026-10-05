@@ -94,6 +94,26 @@
     "halo-campaign-evolved": {
       "local": "/images/media-log/halo-campaign-evolved.png",
       "source": "manual — official key art provided by Dakota"
+    },
+    "the-blood-of-dawnwalker": {
+      "local": "/images/media-log/the-blood-of-dawnwalker.png",
+      "source": "manual — PC cover art provided by Dakota"
+    },
+    "gears-of-war-e-day": {
+      "local": "/images/media-log/gears-of-war-e-day.png",
+      "source": "manual — official key art provided by Dakota"
+    },
+    "marvel-s-wolverine": {
+      "local": "/images/media-log/marvel-s-wolverine.png",
+      "source": "manual — official key art provided by Dakota"
+    },
+    "ar-tonelico-qoga-knell-of-ar-ciel": {
+      "local": "/images/media-log/ar-tonelico-qoga-knell-of-ar-ciel.png",
+      "source": "manual — PS3 box art provided by Dakota"
+    },
+    "atelier-iris-eternal-mana": {
+      "local": "/images/media-log/atelier-iris-eternal-mana.png",
+      "source": "manual — PS2 box art provided by Dakota"
     }
   }
 }

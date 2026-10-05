@@ -388,6 +388,41 @@
       "status": "finished",
       "score": 79,
       "logYear": 2026
+    },
+    {
+      "title": "The Blood of Dawnwalker",
+      "platform": "PC",
+      "status": "finished",
+      "score": 90,
+      "logYear": 2026
+    },
+    {
+      "title": "Marvel's Wolverine",
+      "platform": "PlayStation 5",
+      "status": "finished",
+      "score": 76,
+      "logYear": 2026
+    },
+    {
+      "title": "Ar tonelico Qoga: Knell of Ar Ciel",
+      "platform": "PlayStation 3",
+      "status": "finished",
+      "score": 81,
+      "logYear": 2026
+    },
+    {
+      "title": "Atelier Iris: Eternal Mana",
+      "platform": "PlayStation 2",
+      "status": "finished",
+      "score": 79,
+      "logYear": 2026
+    },
+    {
+      "title": "Gears of War: E-Day",
+      "platform": "PC",
+      "status": "finished",
+      "score": 88,
+      "logYear": 2026
     }
   ]
 }
