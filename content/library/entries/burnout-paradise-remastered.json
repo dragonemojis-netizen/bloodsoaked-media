@@ -1,0 +1,113 @@
+{
+  "slug": "burnout-paradise-remastered",
+  "title": "Burnout Paradise Remastered",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2020,
+  "synopsis": "Criterion’s open-world crash racer with its add-ons — retained as EA’s Nintendo Switch game card.",
+  "coverImage": "/images/library/burnout-paradise-remastered/cover-official.jpg",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z",
+  "shelfMark": "LIB-0177",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "criterion-games",
+      "stellar-entertainment"
+    ],
+    "publishers": [
+      "electronic-arts"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "burnout"
+    ]
+  },
+  "catalog": {
+    "release": "2008 (original, January 22) · 2018 (Remastered) · 2020 (Nintendo Switch, June 19)",
+    "developer": "Criterion Games · Remastered by Stellar Entertainment",
+    "publisher": "Electronic Arts",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-AWVAA",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Racing",
+      "Open World",
+      "Arcade",
+      "Burnout",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Burnout Paradise moved Criterion Games’ crash-focused racing series into the open roads of Paradise City, first released on January 22, 2008.\n\nThe Remastered edition, by Stellar Entertainment, gathers the original game with its later downloadable content, including Big Surf Island. EA released it on Nintendo Switch on June 19, 2020, as Burnout Paradise Remastered.\n\nThis filing opens the Burnout lineage on the shelf.",
+  "collectionNotes": "The retained object is Electronic Arts’ retail edition of Burnout Paradise Remastered on a Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Original release January 22, 2008 (PlayStation 3, Xbox 360). Remastered released in March 2018 on PlayStation 4 and Xbox One; the Nintendo Switch version (HAC-P-AWVAA) followed on June 19, 2020.",
+    "availability": "Distributed at retail by Electronic Arts, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Burnout",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-burnout-paradise-remastered",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0177."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:45:00.000Z-burnout-paradise-remastered",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:45:00.000Z-burnout-paradise-remastered",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:45:00.000Z-burnout-paradise-remastered",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:45:00.000Z-burnout-paradise-remastered",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:45:00.000Z-burnout-paradise-remastered",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Burnout recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:45:00.000Z-burnout-paradise-remastered",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

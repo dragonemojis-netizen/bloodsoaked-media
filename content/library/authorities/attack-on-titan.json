@@ -1,0 +1,36 @@
+{
+  "slug": "attack-on-titan",
+  "authorityId": "AUTH-0238",
+  "type": "series",
+  "preferredName": "Attack on Titan",
+  "alternativeNames": [
+    "Shingeki no Kyojin",
+    "A.O.T."
+  ],
+  "relatedAuthoritySlugs": [
+    "omega-force",
+    "koei-tecmo"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-attack-on-titan",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0238 — controlled identity for Attack on Titan."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:15:00.000Z-attack-on-titan",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Attack on Titan — series identity for Koei Tecmo’s games based on Hajime Isayama’s manga retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z"
+}

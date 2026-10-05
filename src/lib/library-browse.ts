@@ -55,9 +55,7 @@ export function toggleLibraryBrowseValue(
 }
 
 export function libraryBrowseQueryHasFacets(query: LibraryBrowseQuery): boolean {
-  return Boolean(
-    query.q?.trim() || query.platforms?.length || query.genres?.length,
-  );
+  return Boolean(query.q?.trim() || query.platforms?.length);
 }
 
 export function filterLibraryShelfCards(
@@ -101,14 +99,6 @@ export function filterLibraryShelfCards(
     });
   }
 
-  const genres = normalizeBrowseList(query.genres);
-  if (genres.length > 0) {
-    const allowed = new Set(genres.map((genre) => genre.toLowerCase()));
-    result = result.filter((card) =>
-      card.subjects.some((subject) => allowed.has(subject.toLowerCase())),
-    );
-  }
-
   return result;
 }
 
@@ -120,9 +110,6 @@ export function getLibraryBrowseHref(query: LibraryBrowseQuery = {}): string {
     (LIBRARY_BROWSE_PLATFORMS as readonly string[]).includes(platform),
   );
   if (platforms.length > 0) params.set("platform", platforms.join(","));
-
-  const genres = normalizeBrowseList(query.genres);
-  if (genres.length > 0) params.set("genre", genres.join(","));
 
   if (query.page && query.page > 1) params.set("page", String(query.page));
   const serialized = params.toString();
@@ -186,12 +173,10 @@ export function parseLibraryBrowseSearchParams(
   ).filter((platform): platform is LibraryBrowsePlatform =>
     (LIBRARY_BROWSE_PLATFORMS as readonly string[]).includes(platform),
   );
-  const genres = parseLibraryBrowseParamList(params.get("genre") ?? undefined);
 
   return {
     q: params.get("q") ?? undefined,
     platforms: platforms.length > 0 ? platforms : undefined,
-    genres: genres.length > 0 ? genres : undefined,
     page:
       pageNum != null && !Number.isNaN(pageNum) && pageNum > 0
         ? pageNum

@@ -1,0 +1,34 @@
+{
+  "slug": "bayonetta",
+  "authorityId": "AUTH-0248",
+  "type": "series",
+  "preferredName": "Bayonetta",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "platinumgames",
+    "nintendo",
+    "sega"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-bayonetta",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0248 — controlled identity for Bayonetta."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:30:00.000Z-bayonetta",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Bayonetta — series identity for PlatinumGames’ Bayonetta games retained in the Bloodsoaked Library: Bayonetta, Bayonetta 2, and Bayonetta 3.",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z"
+}

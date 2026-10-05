@@ -1,0 +1,35 @@
+{
+  "slug": "pqube",
+  "authorityId": "AUTH-0223",
+  "type": "publisher",
+  "preferredName": "PQube",
+  "alternativeNames": [
+    "PQube Ltd."
+  ],
+  "relatedAuthoritySlugs": [
+    "pyramid",
+    "alice-gear-aegis"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-pqube",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0223 — controlled identity for PQube."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:15:00.000Z-pqube",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "PQube — Western publisher of record for Alice Gear Aegis CS: Concerto of Simulatrix in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z"
+}

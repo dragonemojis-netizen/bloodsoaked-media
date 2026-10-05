@@ -1,0 +1,113 @@
+{
+  "slug": "abzu-nintendo-switch",
+  "title": "ABZÛ",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2018,
+  "synopsis": "Giant Squid’s wordless ocean descent — retained as Super Rare Games’ numbered #50 Nintendo Switch physical edition.",
+  "coverImage": "/images/library/abzu-nintendo-switch/cover-official.jpg",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z",
+  "shelfMark": "LIB-0143",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "giant-squid"
+    ],
+    "publishers": [
+      "505-games",
+      "super-rare-games"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ]
+  },
+  "catalog": {
+    "release": "2016 (PlayStation 4, PC) · 2018 (Nintendo Switch) · 2021 (Super Rare Games #50)",
+    "developer": "Giant Squid",
+    "publisher": "505 Games · physical edition by Super Rare Games",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Super Rare Games #50 · HAC-P-AQ7JA",
+    "mediumForm": "Nintendo Switch game card · Super Rare Games numbered edition",
+    "subjects": [
+      "Adventure",
+      "Exploration",
+      "Indie",
+      "Ocean",
+      "Super Rare Games",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case · Super Rare Games #50 edition",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "ABZÛ is Giant Squid’s first game: an underwater exploration piece without dialogue, built around schools of fish, ruined temples, and a diver descending through a living ocean. Studio founder Matt Nava had been art director on Journey and Flower, and Austin Wintory, Journey’s composer, scored it. The title joins the ancient words “AB” (ocean) and “ZÛ” (to know).\n\nIt launched on PlayStation 4 and PC on August 2, 2016. 505 Games brought it to Nintendo Switch as a digital release on November 29, 2018; Super Rare Games produced the physical edition as its fiftieth numbered release in 2021, with 5,000 copies made across standard and SteelBook editions.\n\nThe Library already holds ABZÛ as a Steam digital edition. This filing is a separate object — the numbered Switch game card — and the two records sit side by side rather than one replacing the other.",
+  "collectionNotes": "The retained object is Super Rare Games #50, the boutique physical Nintendo Switch edition of ABZÛ. Super Rare Games sold it directly from April 29, 2021, packaging the game card with interior artwork, a full-colour manual, a sticker, and trading cards.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "First released August 2, 2016 on PlayStation 4 and PC; Xbox One followed in December 2016. The Nintendo Switch version arrived digitally on November 29, 2018. Super Rare Games #50 (2021) is the Switch physical edition recorded here, issued in a standard edition and a SteelBook bundle.",
+    "availability": "The Super Rare Games print run of 5,000 copies sold out as a limited release; copies now circulate through the secondary market. The digital Switch edition was issued separately on the Nintendo eShop."
+  },
+  "connections": {
+    "relatedEntrySlugs": [
+      "abzu"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-abzu-nintendo-switch",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0143."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:15:00.000Z-abzu-nintendo-switch",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:15:00.000Z-abzu-nintendo-switch",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:15:00.000Z-abzu-nintendo-switch",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:15:00.000Z-abzu-nintendo-switch",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:15:00.000Z-abzu-nintendo-switch",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Related to the Steam digital filing of ABZÛ (abzu)."
+    },
+    {
+      "id": "published-2026-10-05T21:15:00.000Z-abzu-nintendo-switch",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "acquire",
+  "authorityId": "AUTH-0219",
+  "type": "developer",
+  "preferredName": "Acquire",
+  "alternativeNames": [
+    "Acquire Corp."
+  ],
+  "establishedDate": "1994",
+  "relatedAuthoritySlugs": [
+    "xseed-games",
+    "akibas-trip"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-acquire",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0219 — controlled identity for Acquire."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:15:00.000Z-acquire",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Acquire — developer of record for Akiba’s Trip: Undead & Undressed Director’s Cut in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z"
+}

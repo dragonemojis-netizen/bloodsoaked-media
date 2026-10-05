@@ -1,0 +1,39 @@
+{
+  "slug": "atelier",
+  "authorityId": "AUTH-0216",
+  "type": "series",
+  "preferredName": "Atelier",
+  "alternativeNames": [
+    "Atelier series",
+    "Atelier Iris",
+    "Mana Khemia"
+  ],
+  "relatedAuthoritySlugs": [
+    "gust",
+    "nis-america"
+  ],
+  "relatedHoldingIds": [
+    "ig-18101864138381265"
+  ],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:00:00.000Z-atelier",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0216 — controlled identity for Atelier."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:00:00.000Z-atelier",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Atelier — series identity for Gust’s alchemy RPGs retained in the Bloodsoaked Library: the Atelier Iris trilogy and the Mana Khemia spin-offs, Alchemists of Al-Revis and Fall of Alchemy.",
+  "curatorialRevisionAt": "2026-10-05T21:00:00.000Z"
+}

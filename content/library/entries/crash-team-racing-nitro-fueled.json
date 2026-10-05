@@ -1,0 +1,112 @@
+{
+  "slug": "crash-team-racing-nitro-fueled",
+  "title": "Crash Team Racing Nitro-Fueled",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2019,
+  "synopsis": "Beenox’s remake of the 1999 kart racer, expanded with Crash Nitro Kart content — retained as Activision’s Nintendo Switch game card.",
+  "coverImage": "/images/library/crash-team-racing-nitro-fueled/cover-official.jpg",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z",
+  "shelfMark": "LIB-0187",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "beenox"
+    ],
+    "publishers": [
+      "activision"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "crash-bandicoot"
+    ]
+  },
+  "catalog": {
+    "release": "1999 (Crash Team Racing) · 2019 (Nitro-Fueled, June 21)",
+    "developer": "Beenox",
+    "publisher": "Activision",
+    "platform": "Nintendo Switch",
+    "region": "Region-free Nintendo Switch software",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Kart Racing",
+      "Remake",
+      "Crash Bandicoot",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Crash Team Racing Nitro-Fueled remakes Naughty Dog’s 1999 PlayStation kart racer, adding the tracks and characters of Crash Nitro Kart. Beenox developed it, and Activision released it on June 21, 2019, on Nintendo Switch, PlayStation 4, and Xbox One.\n\nAfter launch, Beenox added tracks, characters, and karts through a series of free online Grand Prix seasons.\n\nThe filing follows the N. Sane Trilogy in the Crash Bandicoot lineage.",
+  "collectionNotes": "The retained object is Activision’s retail edition of Crash Team Racing Nitro-Fueled on a Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Tracks, characters, and karts added through the post-launch Grand Prix seasons arrive as updates and depend on Nintendo’s servers; they are not preserved by the card alone.",
+    "knownRevisions": "Crash Team Racing released on PlayStation in 1999. Nitro-Fueled released June 21, 2019; its Grand Prix seasons ran through 2020.",
+    "availability": "Distributed at retail by Activision, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Crash Bandicoot",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-crash-team-racing-nitro-fueled",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0187."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:45:00.000Z-crash-team-racing-nitro-fueled",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:45:00.000Z-crash-team-racing-nitro-fueled",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:45:00.000Z-crash-team-racing-nitro-fueled",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:45:00.000Z-crash-team-racing-nitro-fueled",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:45:00.000Z-crash-team-racing-nitro-fueled",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Crash Bandicoot recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:45:00.000Z-crash-team-racing-nitro-fueled",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

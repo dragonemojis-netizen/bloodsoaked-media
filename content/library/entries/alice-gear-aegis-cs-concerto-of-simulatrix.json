@@ -1,0 +1,113 @@
+{
+  "slug": "alice-gear-aegis-cs-concerto-of-simulatrix",
+  "title": "Alice Gear Aegis CS: Concerto of Simulatrix",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2023,
+  "synopsis": "Pyramid’s console arena-battle spin-off of the Alice Gear Aegis mobile game — retained as PQube’s Nintendo Switch physical edition.",
+  "coverImage": "/images/library/alice-gear-aegis-cs-concerto-of-simulatrix/cover-official.jpg",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z",
+  "shelfMark": "LIB-0145",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "pyramid"
+    ],
+    "publishers": [
+      "pqube"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "alice-gear-aegis"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "アリス・ギア・アイギスCS ～コンチェルト オブ シミュラトリックス～",
+    "release": "2022 (Japan) · 2023 (North America and Europe)",
+    "developer": "Pyramid",
+    "publisher": "PQube",
+    "platform": "Nintendo Switch",
+    "region": "Region-free Nintendo Switch software",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Action",
+      "Arena Battle",
+      "Mecha",
+      "Alice Gear Aegis",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Alice Gear Aegis began as a mobile game from Pyramid and Colopl, released in Japan in January 2018. Concerto of Simulatrix is its console spin-off: a 3D arena battle game with twenty-two playable characters, character designs by Fumikane Shimada, and music by Zuntata.\n\nMAGES. published it in Japan on September 8, 2022, for Switch, PlayStation 4, and PlayStation 5. PQube released it physically and digitally in North America and Europe on March 16, 2023.\n\nThis filing opens the Alice Gear Aegis lineage on the shelf.",
+  "collectionNotes": "The retained object is PQube’s Western physical edition for Nintendo Switch, published March 16, 2023.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Released in Japan by MAGES. on September 8, 2022, in standard and limited physical editions (TSA-HAC-A5HQA-JPN). PQube’s North American and European release followed on March 16, 2023. The mobile game Alice Gear Aegis is a separate work and is not this filing.",
+    "availability": "Distributed at retail as PQube’s physical edition, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Alice Gear Aegis",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-alice-gear-aegis-cs-concerto-of-simulatrix",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0145."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:15:00.000Z-alice-gear-aegis-cs-concerto-of-simulatrix",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:15:00.000Z-alice-gear-aegis-cs-concerto-of-simulatrix",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:15:00.000Z-alice-gear-aegis-cs-concerto-of-simulatrix",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:15:00.000Z-alice-gear-aegis-cs-concerto-of-simulatrix",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:15:00.000Z-alice-gear-aegis-cs-concerto-of-simulatrix",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Alice Gear Aegis recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:15:00.000Z-alice-gear-aegis-cs-concerto-of-simulatrix",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

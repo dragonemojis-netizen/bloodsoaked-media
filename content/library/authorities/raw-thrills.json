@@ -1,0 +1,33 @@
+{
+  "slug": "raw-thrills",
+  "authorityId": "AUTH-0299",
+  "type": "developer",
+  "preferredName": "Raw Thrills",
+  "alternativeNames": [],
+  "establishedDate": "2001",
+  "relatedAuthoritySlugs": [
+    "cruisn"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-raw-thrills",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0299 — controlled identity for Raw Thrills."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:45:00.000Z-raw-thrills",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Raw Thrills — developer and publisher of record for Cruis'n Blast in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z"
+}

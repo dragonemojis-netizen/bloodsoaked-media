@@ -1,0 +1,35 @@
+{
+  "slug": "alien",
+  "authorityId": "AUTH-0228",
+  "type": "series",
+  "preferredName": "Alien",
+  "alternativeNames": [
+    "Alien franchise"
+  ],
+  "relatedAuthoritySlugs": [
+    "creative-assembly",
+    "sega"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-alien",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0228 — controlled identity for Alien."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:15:00.000Z-alien",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Alien — series identity for games set in the Alien universe retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "corpse-party",
+  "authorityId": "AUTH-0293",
+  "type": "series",
+  "preferredName": "Corpse Party",
+  "alternativeNames": [
+    "コープスパーティー"
+  ],
+  "relatedAuthoritySlugs": [
+    "team-grisgris",
+    "mages"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-corpse-party",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0293 — controlled identity for Corpse Party."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:45:00.000Z-corpse-party",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Corpse Party — series identity for the Corpse Party games retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z"
+}

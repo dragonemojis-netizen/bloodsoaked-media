@@ -1,0 +1,114 @@
+{
+  "slug": "cadence-of-hyrule",
+  "title": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2020,
+  "synopsis": "Brace Yourself Games’ rhythm roguelike set in Hyrule — retained as Nintendo’s complete physical Nintendo Switch edition.",
+  "coverImage": "/images/library/cadence-of-hyrule/cover-official.jpg",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z",
+  "shelfMark": "LIB-0179",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "brace-yourself-games"
+    ],
+    "publishers": [
+      "nintendo"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "the-legend-of-zelda",
+      "crypt-of-the-necrodancer"
+    ]
+  },
+  "catalog": {
+    "release": "2019 (Nintendo Switch digital, June 13) · 2020 (physical edition, October 23)",
+    "developer": "Brace Yourself Games",
+    "publisher": "Nintendo",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-ASWBD",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Rhythm",
+      "Roguelike",
+      "Action-Adventure",
+      "The Legend of Zelda",
+      "Crypt of the NecroDancer",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Cadence of Hyrule combines Brace Yourself Games’ rhythm-roguelike Crypt of the NecroDancer with the world and music of The Legend of Zelda: every move and attack falls on the beat of remixed Zelda themes.\n\nNintendo released it on the Nintendo Switch eShop on June 13, 2019. The physical edition followed on October 23, 2020, with the full Season Pass — the Character Pack, the Melody Pack, and the Symphony of the Mask campaign — on the card.\n\nThis filing opens The Legend of Zelda lineage on the shelf.",
+  "collectionNotes": "The retained object is Nintendo’s physical edition of Cadence of Hyrule for Nintendo Switch, with the Season Pass content included on the card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Nintendo Switch eShop release June 13, 2019. The physical edition (HAC-P-ASWBD) released October 23, 2020, including all Season Pass content.",
+    "availability": "Distributed at retail by Nintendo, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "The Legend of Zelda",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-cadence-of-hyrule",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0179."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:45:00.000Z-cadence-of-hyrule",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:45:00.000Z-cadence-of-hyrule",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:45:00.000Z-cadence-of-hyrule",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:45:00.000Z-cadence-of-hyrule",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:45:00.000Z-cadence-of-hyrule",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "The Legend of Zelda recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:45:00.000Z-cadence-of-hyrule",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

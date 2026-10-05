@@ -56,18 +56,6 @@ export function LibraryActiveFilters({
     });
   }
 
-  for (const genre of query.genres ?? []) {
-    chips.push({
-      key: `genre:${genre}`,
-      label: `${libraryVoice.facets.genre}: ${genre}`,
-      href: getLibraryBrowseHref({
-        ...query,
-        genres: toggleLibraryBrowseValue(query.genres, genre),
-        page: undefined,
-      }),
-    });
-  }
-
   return (
     <div className={`library-active-filters mb-8 ${className}`}>
       <div className="flex flex-wrap items-baseline justify-between gap-x-6 gap-y-3">

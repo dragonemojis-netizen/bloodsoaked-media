@@ -1,0 +1,142 @@
+{
+  "slug": "mana-khemia-2-fall-of-alchemy",
+  "title": "Mana Khemia 2: Fall of Alchemy",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2009,
+  "synopsis": "The second Mana Khemia on PlayStation 2 — the NIS America Premium Box with its Japanese cover art, bought sealed and retained mint.",
+  "coverImage": "/images/library/mana-khemia-2-fall-of-alchemy/cover-official.jpg",
+  "filedAt": "2026-10-05T21:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:00:00.000Z",
+  "shelfMark": "LIB-0139",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "gust"
+    ],
+    "publishers": [
+      "nis-america"
+    ],
+    "platforms": [
+      "playstation-2"
+    ],
+    "series": [
+      "atelier"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "マナケミア2 ～おちた学園と錬金術士たち～",
+    "release": "2008 (Japan) · 2009 (North America)",
+    "developer": "Gust",
+    "publisher": "NIS America",
+    "platform": "PlayStation 2",
+    "region": "NTSC-U/C · North America · SLUS-21890 (Premium Box SLUS-21890CE)",
+    "mediumForm": "Pressed optical disc · PlayStation 2 Premium Box edition",
+    "subjects": [
+      "JRPG",
+      "Gust",
+      "Atelier",
+      "Mana Khemia",
+      "Alchemy",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Premium Box: outer box bearing the original Japanese package art, housing the keep case (pressed disc, manual, and North American cover insert), the Alchemic Symphony soundtrack CD, and the double-sided poster",
+    "condition": "Mint. Purchased factory sealed and opened for custody; disc, printed materials, and packaging show no handling wear. Preserved as a playable reference copy.",
+    "acquired": "Private acquisition · purchased factory sealed",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Mana Khemia 2 returns to Al-Revis Academy after the school has literally fallen, and splits its story between two protagonists so that the same years can be lived twice. It is the last of Gust’s PlayStation 2 alchemy games to reach North America, and it closes this era of the shelf.\n\nGust released it in Japan in May 2008. NIS America’s North American edition followed on August 25, 2009 in a Premium Box that doubles its own artwork: the Japanese package art on the outer box, the North American art on the game case inside, with the Alchemic Symphony soundtrack and a double-sided poster.\n\nThe filing follows Mana Khemia under the Atelier series authority. It was the most recent physical acquisition logged on Dakota’s Desk when the Gust shelf was filed.",
+  "collectionNotes": "Purchased factory sealed and opened for custody, completing the Gust PlayStation 2 shelf. The copy is mint and complete in its Premium Box.\n\nThe retained object is the North American NIS America Premium Box (SLUS-21890CE): the outer box with the Japanese package art, the standard keep case with pressed disc, manual, and North American cover insert, the Alchemic Symphony soundtrack CD, and the double-sided poster.\n\nThe reference photograph records the seven Gust PlayStation 2 holdings together, as filed in the Collection Hall under synthesis.",
+  "preservation": {
+    "playableOn": "Sony PlayStation 2; compatible North American PlayStation hardware",
+    "originalHardware": "Sony PlayStation 2 · NTSC-U/C",
+    "compatibility": "Pressed for North American PlayStation 2 consoles. The retained game disc remains the primary access copy; the soundtrack CD is retained as part of the edition.",
+    "concerns": "Optical-disc aging and surface damage remain the principal risks, alongside wear to the premium box itself. The game case is stored upright under stable, dry conditions; the box, printed extras, and any soundtrack disc remain housed together with the copy.",
+    "knownRevisions": "First issued in Japan by Gust on May 29, 2008 as マナケミア2 ～おちた学園と錬金術士たち～. The North American NIS America localization followed on August 25, 2009 (SLUS-21890) in the Premium Box. A Japan-only PlayStation Portable port in 2009 and the NIS America store’s Alchemic Art Collection bundle are separate objects and are not this filing.",
+    "availability": "The original physical edition is out of print and circulates through the secondary market. No current digital edition replaces this North American reference copy."
+  },
+  "connections": {
+    "series": "Atelier · Mana Khemia",
+    "collectionIds": [
+      "ig-18101864138381265"
+    ],
+    "instagramUrls": [
+      "https://www.instagram.com/reel/DeIE6xAs_3m/"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [
+    {
+      "id": "reference-01",
+      "src": "/images/library/ar-tonelico-melody-of-elemia/artifacts/01-reference-photograph.jpg",
+      "fullSrc": "/images/library/ar-tonelico-melody-of-elemia/artifacts/01-reference-photograph.jpg",
+      "view": "Collection Grouping",
+      "kind": "Reference Photograph",
+      "captured": "October 2026",
+      "resolution": "1024 × 622 pixels",
+      "edition": "North American retail copies · Gust PlayStation 2 holdings",
+      "region": "NTSC-U/C",
+      "note": "The seven Gust PlayStation 2 holdings together on the archive shelf — the Ar tonelico and Mana Khemia Premium Boxes beside the Atelier Iris trilogy — as filed in the Collection Hall under synthesis. Reference photograph, October 2026."
+    }
+  ],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:00:00.000Z-mana-khemia-2-fall-of-alchemy",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0139."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:00:00.000Z-mana-khemia-2-fall-of-alchemy",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official North American front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:00:00.000Z-mana-khemia-2-fall-of-alchemy",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:00:00.000Z-mana-khemia-2-fall-of-alchemy",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:00:00.000Z-mana-khemia-2-fall-of-alchemy",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:00:00.000Z-mana-khemia-2-fall-of-alchemy",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Atelier · Mana Khemia recorded. Collection Hall filing synthesis (ig-18101864138381265) linked."
+    },
+    {
+      "id": "artifact-documentation-added-2026-10-05T21:00:00.000Z-mana-khemia-2-fall-of-alchemy",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "artifact-documentation-added",
+      "summary": "Collection photography added"
+    },
+    {
+      "id": "published-2026-10-05T21:00:00.000Z-mana-khemia-2-fall-of-alchemy",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

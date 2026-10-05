@@ -1,0 +1,33 @@
+{
+  "slug": "iam8bit",
+  "authorityId": "AUTH-0268",
+  "type": "publisher",
+  "preferredName": "iam8bit",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "team-reptile",
+    "skybound-games"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-iam8bit",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0268 — controlled identity for iam8bit."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:45:00.000Z-iam8bit",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "iam8bit — physical publisher of record for Bomb Rush Cyberfunk on Nintendo Switch in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z"
+}

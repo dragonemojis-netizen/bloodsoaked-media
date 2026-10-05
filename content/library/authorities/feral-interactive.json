@@ -1,0 +1,36 @@
+{
+  "slug": "feral-interactive",
+  "authorityId": "AUTH-0226",
+  "type": "developer",
+  "preferredName": "Feral Interactive",
+  "alternativeNames": [
+    "Feral"
+  ],
+  "establishedDate": "1996",
+  "relatedAuthoritySlugs": [
+    "creative-assembly",
+    "alien"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-feral-interactive",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0226 — controlled identity for Feral Interactive."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:15:00.000Z-feral-interactive",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Feral Interactive — porting studio of record for the Nintendo Switch version of Alien: Isolation – The Collection in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z"
+}

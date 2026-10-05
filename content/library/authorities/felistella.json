@@ -1,0 +1,33 @@
+{
+  "slug": "felistella",
+  "authorityId": "AUTH-0241",
+  "type": "developer",
+  "preferredName": "Felistella",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "idea-factory",
+    "compile-heart"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-felistella",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0241 — controlled identity for Felistella."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:30:00.000Z-felistella",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Felistella — co-developer of record for Azur Lane: Crosswave in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z"
+}

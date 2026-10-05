@@ -1,0 +1,35 @@
+{
+  "slug": "bravely",
+  "authorityId": "AUTH-0270",
+  "type": "series",
+  "preferredName": "Bravely",
+  "alternativeNames": [
+    "Bravely Default"
+  ],
+  "relatedAuthoritySlugs": [
+    "claytechworks",
+    "square-enix"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-bravely",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0270 — controlled identity for Bravely."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:45:00.000Z-bravely",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Bravely — series identity for the Bravely games retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z"
+}

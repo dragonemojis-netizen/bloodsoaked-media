@@ -1,0 +1,36 @@
+{
+  "slug": "m2",
+  "authorityId": "AUTH-0286",
+  "type": "developer",
+  "preferredName": "M2",
+  "alternativeNames": [
+    "M2 Co., Ltd."
+  ],
+  "establishedDate": "1991",
+  "relatedAuthoritySlugs": [
+    "konami",
+    "castlevania"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-m2",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0286 — controlled identity for M2."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:45:00.000Z-m2",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "M2 — developer of record for the emulation in Castlevania Anniversary Collection in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z"
+}

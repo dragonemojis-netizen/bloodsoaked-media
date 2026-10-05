@@ -1,0 +1,112 @@
+{
+  "slug": "the-binding-of-isaac-afterbirth-plus",
+  "title": "The Binding of Isaac: Afterbirth+",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2017,
+  "synopsis": "Edmund McMillen’s roguelike in its Afterbirth+ form, delivered as a standalone game — retained as Nicalis’ Nintendo Switch game card.",
+  "coverImage": "/images/library/the-binding-of-isaac-afterbirth-plus/cover-official.jpg",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z",
+  "shelfMark": "LIB-0162",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "edmund-mcmillen"
+    ],
+    "publishers": [
+      "nicalis"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "the-binding-of-isaac"
+    ]
+  },
+  "catalog": {
+    "release": "2017 (Steam, January 3) · 2017 (Nintendo Switch, March 17)",
+    "developer": "Edmund McMillen · Nicalis",
+    "publisher": "Nicalis",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-BAAZA",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Roguelike",
+      "Twin-Stick Shooter",
+      "Indie",
+      "The Binding of Isaac",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "The Binding of Isaac is Edmund McMillen’s procedurally generated dungeon crawler; Afterbirth+ is the second expansion to its remake, Rebirth, released on Steam on January 3, 2017.\n\nNicalis released it on Nintendo Switch on March 17, 2017, physically and digitally, as a standalone game containing everything up to Afterbirth+. It had been planned as a launch title for the console and was held back by Nicalis.\n\nThis filing opens The Binding of Isaac lineage on the shelf.",
+  "collectionNotes": "The retained object is Nicalis’ retail edition of The Binding of Isaac: Afterbirth+ on a Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Afterbirth+ released on Steam on January 3, 2017 as an expansion requiring Rebirth and Afterbirth. The Nintendo Switch edition (HAC-P-BAAZA) released March 17, 2017 in North America as a standalone game; first prints carried a reversible cover, a colour manual, and a sticker sheet.",
+    "availability": "Distributed at retail by Nicalis in multiple printings, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "The Binding of Isaac",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-the-binding-of-isaac-afterbirth-plus",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0162."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:30:00.000Z-the-binding-of-isaac-afterbirth-plus",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:30:00.000Z-the-binding-of-isaac-afterbirth-plus",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:30:00.000Z-the-binding-of-isaac-afterbirth-plus",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:30:00.000Z-the-binding-of-isaac-afterbirth-plus",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:30:00.000Z-the-binding-of-isaac-afterbirth-plus",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "The Binding of Isaac recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:30:00.000Z-the-binding-of-isaac-afterbirth-plus",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

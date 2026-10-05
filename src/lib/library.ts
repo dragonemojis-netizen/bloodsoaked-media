@@ -52,12 +52,6 @@ export type {
 
 export { LIBRARY_BROWSE_PLATFORMS } from "@/types/library";
 
-/** Subjects that are archival meta-labels, not browse genres. */
-const LIBRARY_GENRE_EXCLUSIONS = new Set([
-  "Digital Preservation",
-  "Preservation",
-]);
-
 const LIBRARY_DIR = path.join(process.cwd(), "content", "library");
 const ENTRIES_DIR = path.join(LIBRARY_DIR, "entries");
 const INDEX_PATH = path.join(LIBRARY_DIR, "index.json");
@@ -403,33 +397,13 @@ export function rebuildLibraryCatalogIndex(): LibraryCatalogIndex {
   return index;
 }
 
-/**
- * Catalog Facets for the Library sidebar.
- * Platform is a fixed curated taxonomy; genre is derived from filed subjects.
- */
+/** Catalog Facets for the Library sidebar — a fixed curated platform taxonomy. */
 export function getLibraryFilterTaxonomy() {
-  const cards = getPublishedShelfCards();
-  const genreSet = new Set<string>();
-
-  for (const card of cards) {
-    for (const subject of card.subjects) {
-      const trimmed = subject.trim();
-      if (!trimmed || LIBRARY_GENRE_EXCLUSIONS.has(trimmed)) continue;
-      genreSet.add(trimmed);
-    }
-  }
-
   return {
     platforms: LIBRARY_BROWSE_PLATFORMS.map((value) => ({
       value,
       label: value,
     })),
-    genres: [...genreSet]
-      .sort((a, b) => a.localeCompare(b))
-      .map((value) => ({
-        value,
-        label: value,
-      })),
   };
 }
 

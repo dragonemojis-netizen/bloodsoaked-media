@@ -1,0 +1,36 @@
+{
+  "slug": "crash-bandicoot",
+  "authorityId": "AUTH-0297",
+  "type": "series",
+  "preferredName": "Crash Bandicoot",
+  "alternativeNames": [
+    "Crash"
+  ],
+  "relatedAuthoritySlugs": [
+    "activision",
+    "vicarious-visions",
+    "beenox"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-crash-bandicoot",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0297 — controlled identity for Crash Bandicoot."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:45:00.000Z-crash-bandicoot",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Crash Bandicoot — series identity for the Crash Bandicoot games retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z"
+}

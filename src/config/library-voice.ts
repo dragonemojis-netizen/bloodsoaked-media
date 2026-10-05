@@ -184,10 +184,8 @@ export const libraryVoice = {
   /** Catalog Facets / card catalog (formerly “filters”) */
   facets: {
     eyebrow: "Catalog Facets",
-    lead: "Open a platform or genre to narrow the shelves. Lookup works with every open drawer.",
+    lead: "Open a platform to narrow the shelves. Lookup works with every open drawer.",
     platform: libraryFields.platform,
-    genre: "Genre",
-    genreEmpty: "Genres appear as works are catalogued.",
     asideLabel: "Library card catalog",
     activeLabel: "Open catalog facets",
     clearAll: "Clear all",
@@ -326,7 +324,6 @@ export const libraryPublicationAliases = {
   libraryFiltersEyebrow: libraryVoice.facets.eyebrow,
   libraryFiltersLead: libraryVoice.facets.lead,
   libraryFilterPlatform: libraryVoice.facets.platform,
-  libraryFilterGenre: libraryVoice.facets.genre,
   libraryEmptyEyebrow: libraryVoice.empty.eyebrow,
   libraryEmptyTitle: libraryVoice.empty.title,
   libraryEmptyBody: libraryVoice.empty.body,

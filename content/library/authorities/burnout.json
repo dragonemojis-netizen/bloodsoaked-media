@@ -1,0 +1,33 @@
+{
+  "slug": "burnout",
+  "authorityId": "AUTH-0278",
+  "type": "series",
+  "preferredName": "Burnout",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "criterion-games",
+    "electronic-arts"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-burnout",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0278 — controlled identity for Burnout."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:45:00.000Z-burnout",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Burnout — series identity for Criterion’s Burnout games retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z"
+}

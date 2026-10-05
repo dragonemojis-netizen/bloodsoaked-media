@@ -1,0 +1,114 @@
+{
+  "slug": "bravely-default-ii",
+  "title": "Bravely Default II",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2021,
+  "synopsis": "Claytechworks’ return to the Bravely job-system RPG on a new continent — retained as the Nintendo Switch game card.",
+  "coverImage": "/images/library/bravely-default-ii/cover-official.jpg",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z",
+  "shelfMark": "LIB-0173",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "claytechworks"
+    ],
+    "publishers": [
+      "square-enix",
+      "nintendo"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "bravely"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "ブレイブリーデフォルトII",
+    "release": "2021 (Nintendo Switch, February 26)",
+    "developer": "Claytechworks",
+    "publisher": "Square Enix (Japan) · Nintendo (outside Japan)",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-AR5SB",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "JRPG",
+      "Turn-Based",
+      "Job System",
+      "Bravely",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Bravely Default II is a new story in the Bravely series, set on the continent of Excillant with four new Heroes of Light and the series’ Brave and Default turn system.\n\nDeveloped by Claytechworks, it released worldwide on Nintendo Switch on February 26, 2021, published by Square Enix in Japan and by Nintendo elsewhere.\n\nThis filing opens the Bravely lineage on the shelf.",
+  "collectionNotes": "The retained object is the retail edition of Bravely Default II on a Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Released worldwide on February 26, 2021 (HAC-P-AR5SB). A Windows version followed in September 2021.",
+    "availability": "Distributed at retail by Nintendo, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Bravely",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-bravely-default-ii",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0173."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:45:00.000Z-bravely-default-ii",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:45:00.000Z-bravely-default-ii",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:45:00.000Z-bravely-default-ii",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:45:00.000Z-bravely-default-ii",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:45:00.000Z-bravely-default-ii",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Bravely recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:45:00.000Z-bravely-default-ii",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

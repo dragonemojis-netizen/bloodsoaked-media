@@ -1,0 +1,142 @@
+{
+  "slug": "atelier-iris-eternal-mana",
+  "title": "Atelier Iris: Eternal Mana",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2005,
+  "synopsis": "The first Atelier game released in North America — Gust’s PlayStation 2 alchemy RPG, retained as the NIS America retail disc.",
+  "coverImage": "/images/library/atelier-iris-eternal-mana/cover-official.jpg",
+  "filedAt": "2026-10-05T21:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:00:00.000Z",
+  "shelfMark": "LIB-0140",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "gust"
+    ],
+    "publishers": [
+      "nis-america"
+    ],
+    "platforms": [
+      "playstation-2"
+    ],
+    "series": [
+      "atelier"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "イリスのアトリエ エターナルマナ",
+    "release": "2004 (Japan) · 2005 (North America)",
+    "developer": "Gust",
+    "publisher": "NIS America",
+    "platform": "PlayStation 2",
+    "region": "NTSC-U/C · North America · SLUS-21113",
+    "mediumForm": "Pressed optical disc · PlayStation 2 retail edition",
+    "subjects": [
+      "JRPG",
+      "Gust",
+      "Atelier",
+      "Atelier Iris",
+      "Alchemy",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Complete in box: case, pressed disc, manual, and original cover insert",
+    "condition": "Mint. Purchased factory sealed and opened for custody; disc, printed materials, and packaging show no handling wear. Preserved as a playable reference copy.",
+    "acquired": "Private acquisition · purchased factory sealed",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Atelier Iris: Eternal Mana is the game that brought Gust’s long-running Atelier series out of Japan. Earlier entries had stayed home; this one, with its Mana spirits and item synthesis woven into exploration, was the first to be localized for North America.\n\nGust published it in Japan in May 2004. NIS America released it in North America on June 28, 2005, beginning a partnership that carried Gust’s PlayStation 2 catalogue — Atelier Iris, Ar tonelico, and Mana Khemia — to this region over the following four years.\n\nThe filing opens the Atelier lineage on the shelf. Its two sequels sit beside it, and the Mana Khemia games share the same series authority.",
+  "collectionNotes": "Purchased factory sealed and opened for custody while assembling the Gust PlayStation 2 shelf. The copy is mint and complete in box.\n\nThe retained object is the standard North American PlayStation 2 edition published by NIS America (SLUS-21113), with manual and cover insert, kept as the reference copy for this filing.\n\nThe reference photograph records the seven Gust PlayStation 2 holdings together, as filed in the Collection Hall under synthesis.",
+  "preservation": {
+    "playableOn": "Sony PlayStation 2; compatible North American PlayStation hardware",
+    "originalHardware": "Sony PlayStation 2 · NTSC-U/C",
+    "compatibility": "Pressed for North American PlayStation 2 consoles. The retained disc remains the primary access copy.",
+    "concerns": "Optical-disc aging and surface damage remain the principal risks. The disc is stored upright in its original case under stable, dry conditions; printed materials remain housed with the copy.",
+    "knownRevisions": "First issued in Japan by Gust on May 27, 2004 as イリスのアトリエ エターナルマナ. The North American NIS America localization followed on June 28, 2005 (SLUS-21113). European and Australian releases by Koei and THQ in 2006 are separate editions and are not this filing.",
+    "availability": "The original physical edition is out of print and circulates through the secondary market. No current digital edition replaces this North American reference copy."
+  },
+  "connections": {
+    "series": "Atelier · Atelier Iris",
+    "collectionIds": [
+      "ig-18101864138381265"
+    ],
+    "instagramUrls": [
+      "https://www.instagram.com/reel/DeIE6xAs_3m/"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [
+    {
+      "id": "reference-01",
+      "src": "/images/library/ar-tonelico-melody-of-elemia/artifacts/01-reference-photograph.jpg",
+      "fullSrc": "/images/library/ar-tonelico-melody-of-elemia/artifacts/01-reference-photograph.jpg",
+      "view": "Collection Grouping",
+      "kind": "Reference Photograph",
+      "captured": "October 2026",
+      "resolution": "1024 × 622 pixels",
+      "edition": "North American retail copies · Gust PlayStation 2 holdings",
+      "region": "NTSC-U/C",
+      "note": "The seven Gust PlayStation 2 holdings together on the archive shelf — the Ar tonelico and Mana Khemia Premium Boxes beside the Atelier Iris trilogy — as filed in the Collection Hall under synthesis. Reference photograph, October 2026."
+    }
+  ],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:00:00.000Z-atelier-iris-eternal-mana",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0140."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:00:00.000Z-atelier-iris-eternal-mana",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official North American front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:00:00.000Z-atelier-iris-eternal-mana",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:00:00.000Z-atelier-iris-eternal-mana",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:00:00.000Z-atelier-iris-eternal-mana",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:00:00.000Z-atelier-iris-eternal-mana",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Atelier · Atelier Iris recorded. Collection Hall filing synthesis (ig-18101864138381265) linked."
+    },
+    {
+      "id": "artifact-documentation-added-2026-10-05T21:00:00.000Z-atelier-iris-eternal-mana",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "artifact-documentation-added",
+      "summary": "Collection photography added"
+    },
+    {
+      "id": "published-2026-10-05T21:00:00.000Z-atelier-iris-eternal-mana",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

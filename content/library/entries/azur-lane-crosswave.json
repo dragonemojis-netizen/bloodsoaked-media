@@ -1,0 +1,115 @@
+{
+  "slug": "azur-lane-crosswave",
+  "title": "Azur Lane: Crosswave",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2021,
+  "synopsis": "The console action spin-off of the Azur Lane mobile game — retained as Idea Factory International’s Nintendo Switch game card.",
+  "coverImage": "/images/library/azur-lane-crosswave/cover-official.jpg",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z",
+  "shelfMark": "LIB-0155",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "idea-factory",
+      "compile-heart",
+      "felistella"
+    ],
+    "publishers": [
+      "idea-factory"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "azur-lane"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "アズールレーン クロスウェーブ",
+    "release": "2019 (Japan, PlayStation 4) · 2020 (Japan, Nintendo Switch) · 2021 (North America, Nintendo Switch)",
+    "developer": "Idea Factory · Compile Heart · Felistella",
+    "publisher": "Idea Factory International",
+    "platform": "Nintendo Switch",
+    "region": "Region-free Nintendo Switch software",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Action",
+      "Shoot 'em Up",
+      "Naval",
+      "Azur Lane",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Azur Lane: Crosswave brings the shipgirls of Manjuu and Yongshi’s 2017 mobile game into a 3D naval action game, developed by Idea Factory and Compile Heart with Felistella.\n\nIt launched on PlayStation 4 in Japan on August 29, 2019. The Nintendo Switch version followed in Japan on September 17, 2020, and in North America on February 16, 2021, including the Taihou and Formidable episodes that had been paid downloadable content on other platforms.\n\nThis filing opens the Azur Lane lineage on the shelf.",
+  "collectionNotes": "The retained object is Idea Factory International’s North American retail edition of Azur Lane: Crosswave on a Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "PlayStation 4 release in Japan on August 29, 2019. Switch release in Japan on September 17, 2020; North America February 16, 2021 (HAC-P-AXSWD); Europe February 19, 2021. The Switch edition folds in the Taihou and Formidable episodes and an expanded photo mode.",
+    "availability": "Distributed at retail by Idea Factory International, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Azur Lane",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-azur-lane-crosswave",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0155."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:30:00.000Z-azur-lane-crosswave",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:30:00.000Z-azur-lane-crosswave",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:30:00.000Z-azur-lane-crosswave",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:30:00.000Z-azur-lane-crosswave",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:30:00.000Z-azur-lane-crosswave",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Azur Lane recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:30:00.000Z-azur-lane-crosswave",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

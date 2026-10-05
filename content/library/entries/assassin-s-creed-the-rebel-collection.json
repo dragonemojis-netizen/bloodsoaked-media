@@ -1,0 +1,114 @@
+{
+  "slug": "assassin-s-creed-the-rebel-collection",
+  "title": "Assassin's Creed: The Rebel Collection",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2019,
+  "synopsis": "Black Flag and Rogue together with their downloadable content — Ubisoft’s Nintendo Switch–exclusive collection, retained as the retail game card.",
+  "coverImage": "/images/library/assassin-s-creed-the-rebel-collection/cover-official.jpg",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z",
+  "shelfMark": "LIB-0150",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "ubisoft-montreal",
+      "ubisoft-sofia"
+    ],
+    "publishers": [
+      "ubisoft"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "assassins-creed"
+    ]
+  },
+  "catalog": {
+    "release": "2013 (Black Flag) · 2014 (Rogue) · 2019 (Nintendo Switch collection, December 6)",
+    "developer": "Ubisoft Montreal (Black Flag) · Ubisoft Sofia (Rogue)",
+    "publisher": "Ubisoft",
+    "platform": "Nintendo Switch",
+    "region": "Region-free Nintendo Switch software",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Action-Adventure",
+      "Open World",
+      "Pirates",
+      "Historical",
+      "Assassin's Creed",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "The Rebel Collection pairs two Assassin’s Creed games set in the eighteenth-century Atlantic. Assassin’s Creed IV Black Flag (Ubisoft Montreal, 2013) follows the pirate Edward Kenway; Assassin’s Creed Rogue (Ubisoft Sofia, 2014) was the first in the series told from a Templar’s side and the last made for the PlayStation 3 and Xbox 360 generation.\n\nUbisoft revealed the collection in the September 4, 2019 Nintendo Direct and released it exclusively on Nintendo Switch on December 6, 2019. It includes Black Flag’s single-player downloadable content — among it Freedom Cry and Aveline — Rogue with its downloadable content, and exclusive outfits.\n\nThe filing joins the Assassin’s Creed lineage already on the shelf, beside the Steam edition of Black Flag.",
+  "collectionNotes": "The retained object is Ubisoft’s retail edition of Assassin’s Creed: The Rebel Collection for Nintendo Switch.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Black Flag and its downloadable content are on the card, but Ubisoft distributes Assassin’s Creed Rogue as a free download from the Nintendo eShop — that half of the collection depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Black Flag first released in October 2013; Rogue on November 11, 2014. The Rebel Collection is a Nintendo Switch exclusive released December 6, 2019, porting the original Rogue rather than the 2018 Rogue Remastered.",
+    "availability": "Distributed at retail by Ubisoft, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Assassin's Creed",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-assassin-s-creed-the-rebel-collection",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0150."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:15:00.000Z-assassin-s-creed-the-rebel-collection",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:15:00.000Z-assassin-s-creed-the-rebel-collection",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:15:00.000Z-assassin-s-creed-the-rebel-collection",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:15:00.000Z-assassin-s-creed-the-rebel-collection",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:15:00.000Z-assassin-s-creed-the-rebel-collection",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Assassin's Creed recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:15:00.000Z-assassin-s-creed-the-rebel-collection",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

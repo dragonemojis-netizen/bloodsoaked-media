@@ -1,0 +1,117 @@
+{
+  "slug": "clock-tower-rewind",
+  "title": "Clock Tower: Rewind",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2025,
+  "synopsis": "WayForward’s restoration of the 1995 Super Famicom horror game — retained as Limited Run Games’ #243 PAX-exclusive cover edition.",
+  "coverImage": "/images/library/clock-tower-rewind/cover-official.jpg",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z",
+  "shelfMark": "LIB-0183",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "human-entertainment",
+      "wayforward"
+    ],
+    "publishers": [
+      "wayforward",
+      "limited-run-games"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "clock-tower"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "クロックタワー",
+    "release": "1995 (Super Famicom) · 2024 (Rewind digital, October 29) · 2025 (Limited Run Games #243)",
+    "developer": "Human Entertainment · Rewind by WayForward",
+    "publisher": "WayForward · physical edition by Limited Run Games",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Switch Limited Run #243 · convention-exclusive cover · HAC-P-BG4FA",
+    "mediumForm": "Nintendo Switch game card · Limited Run Games convention edition",
+    "subjects": [
+      "Survival Horror",
+      "Point-and-Click",
+      "Retro",
+      "Clock Tower",
+      "Lineage",
+      "Limited Run Games",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case · Limited Run Games #243 convention-exclusive cover",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Clock Tower is Human Entertainment’s 1995 Super Famicom horror game: the orphan Jennifer flees the shears-wielding Scissorman through the Barrows mansion. Clock Tower: Rewind, by WayForward, is the game’s first official English release, with the original mode, an enhanced Rewind mode, a new animated introduction, and theme songs by Mary Elizabeth McGlynn and Emi Evans.\n\nIt released digitally on October 29, 2024. Limited Run Games produced the Switch physical edition as Switch Limited Run #243; this copy carries the alternate cover sold as a convention exclusive at PAX West 2025.\n\nThe filing joins the Clock Tower lineage already on the shelf.",
+  "collectionNotes": "The retained object is Switch Limited Run #243, Limited Run Games’ physical edition of Clock Tower: Rewind, in the convention-exclusive alternate cover sold at PAX West 2025.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Original Super Famicom release in Japan in 1995. Clock Tower: Rewind released digitally on October 29, 2024 (October 31 in Japan). Limited Run Games issued the Switch physical edition (HAC-P-BG4FA) as Switch Limited Run #243 in standard and Collector’s editions, with a convention-exclusive cover variant in 2025.",
+    "availability": "Limited Run Games’s physical edition was a limited production and now circulates through the secondary market. The digital Switch edition was issued separately on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Clock Tower",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-clock-tower-rewind",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0183."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:45:00.000Z-clock-tower-rewind",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:45:00.000Z-clock-tower-rewind",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:45:00.000Z-clock-tower-rewind",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:45:00.000Z-clock-tower-rewind",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:45:00.000Z-clock-tower-rewind",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Clock Tower recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:45:00.000Z-clock-tower-rewind",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

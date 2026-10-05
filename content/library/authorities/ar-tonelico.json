@@ -1,0 +1,38 @@
+{
+  "slug": "ar-tonelico",
+  "authorityId": "AUTH-0215",
+  "type": "series",
+  "preferredName": "Ar tonelico",
+  "alternativeNames": [
+    "Ar Tonelico",
+    "Ar tonelico series"
+  ],
+  "relatedAuthoritySlugs": [
+    "gust",
+    "nis-america"
+  ],
+  "relatedHoldingIds": [
+    "ig-18101864138381265"
+  ],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:00:00.000Z-ar-tonelico",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0215 — controlled identity for Ar tonelico."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:00:00.000Z-ar-tonelico",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Ar tonelico — series identity for Gust’s Ar tonelico titles retained in the Bloodsoaked Library: Ar tonelico: Melody of Elemia and Ar tonelico II: Melody of Metafalica, both held as North American Premium Box editions.",
+  "curatorialRevisionAt": "2026-10-05T21:00:00.000Z"
+}

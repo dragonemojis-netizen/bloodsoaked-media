@@ -1,0 +1,110 @@
+{
+  "slug": "animal-well",
+  "title": "Animal Well",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2024,
+  "synopsis": "Billy Basso’s labyrinthine pixel-art exploration game — retained as Limited Run Games’ #234 Nintendo Switch physical edition.",
+  "coverImage": "/images/library/animal-well/cover-official.jpg",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z",
+  "shelfMark": "LIB-0147",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "shared-memory"
+    ],
+    "publishers": [
+      "bigmode",
+      "limited-run-games"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ]
+  },
+  "catalog": {
+    "release": "2024 (Nintendo Switch, PlayStation 5, PC) · 2024 (Limited Run Games #234)",
+    "developer": "Shared Memory",
+    "publisher": "Bigmode · physical edition by Limited Run Games",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Switch Limited Run #234 · HAC-P-BCCHA",
+    "mediumForm": "Nintendo Switch game card · Limited Run Games edition",
+    "subjects": [
+      "Exploration",
+      "Puzzle",
+      "Metroidvania",
+      "Pixel Art",
+      "Indie",
+      "Limited Run Games",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case · Limited Run Games #234 edition",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Animal Well is the work of Billy Basso, operating as Shared Memory, who built it from 2017 on a custom engine. It is a dense, interconnected labyrinth of puzzles and creatures, where items interact in unexpected ways and much of the well stays hidden until the player learns to look for it.\n\nIt launched simultaneously on Nintendo Switch, PlayStation 5, and PC on May 9, 2024 — the first game published by Bigmode. It received the D.I.C.E. Award for Outstanding Achievement in Game Direction and was nominated at The Game Awards 2024.\n\nLimited Run Games produced the Switch physical edition as Switch Limited Run #234, with pre-orders opening May 24, 2024.",
+  "collectionNotes": "The retained object is Switch Limited Run #234, Limited Run Games’ physical edition of Animal Well on a region-free game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Released May 9, 2024 on Nintendo Switch, PlayStation 5, and PC; Xbox Series X|S followed on October 17, 2024. Limited Run Games issued the Switch physical edition (HAC-P-BCCHA, LRS234) in standard and Collector’s editions.",
+    "availability": "Limited Run Games’ physical edition is sold out and circulates through the secondary market. The digital edition remains a separate Nintendo eShop release."
+  },
+  "connections": {
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-animal-well",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0147."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:15:00.000Z-animal-well",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:15:00.000Z-animal-well",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:15:00.000Z-animal-well",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:15:00.000Z-animal-well",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:15:00.000Z-animal-well",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "published-2026-10-05T21:15:00.000Z-animal-well",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

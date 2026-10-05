@@ -1,0 +1,115 @@
+{
+  "slug": "corpse-party-tetralogy-pack",
+  "title": "Corpse Party: Tetralogy Pack",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2025,
+  "synopsis": "Four Corpse Party games of Heavenly Host Elementary on one card — retained as MAGES.’ Japanese Nintendo Switch edition.",
+  "coverImage": "/images/library/corpse-party-tetralogy-pack/cover-official.jpg",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z",
+  "shelfMark": "LIB-0185",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "team-grisgris",
+      "mages"
+    ],
+    "publishers": [
+      "mages"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "corpse-party"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "コープスパーティー TETRALOGY PACK",
+    "release": "2025 (Japan, August 7)",
+    "developer": "Team GrisGris · MAGES.",
+    "publisher": "MAGES.",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Japanese edition with English language support · HAC-P-BPL8A",
+    "mediumForm": "Nintendo Switch game card · Japanese retail edition",
+    "subjects": [
+      "Horror",
+      "Adventure",
+      "Japanese",
+      "Corpse Party",
+      "Collection",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Corpse Party began as Makoto Kedōin’s 1996 PC-98 horror game for Team GrisGris, in which students trapped in the ghostly Heavenly Host Elementary School try to survive and escape. Its later remake, Blood Covered: Repeated Fear, became the base of the modern series.\n\nThe Tetralogy Pack gathers four games on one card: Corpse Party: Blood Covered Repeated Fear, Corpse Party: Book of Shadows, Corpse Party: Sweet Sachiko’s Hysteric Birthday Bash, and Corpse Party: Blood Drive. MAGES. released it in Japan on August 7, 2025, with English language support. A planned Western release by XSEED Games was cancelled in November 2025, leaving the Japanese edition as the physical source.\n\nThis filing opens the Corpse Party lineage on the shelf.",
+  "collectionNotes": "The retained object is MAGES.’ Japanese retail edition of Corpse Party: Tetralogy Pack on a Nintendo Switch game card, with English language support.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Original Corpse Party released on PC-98 in 1996. The Tetralogy Pack (HAC-P-BPL8A) released in Japan on August 7, 2025. XSEED Games’ announced Western edition was cancelled on November 14, 2025.",
+    "availability": "Physically distributed in Japan only."
+  },
+  "connections": {
+    "series": "Corpse Party",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-corpse-party-tetralogy-pack",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0185."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:45:00.000Z-corpse-party-tetralogy-pack",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:45:00.000Z-corpse-party-tetralogy-pack",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:45:00.000Z-corpse-party-tetralogy-pack",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:45:00.000Z-corpse-party-tetralogy-pack",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:45:00.000Z-corpse-party-tetralogy-pack",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Corpse Party recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:45:00.000Z-corpse-party-tetralogy-pack",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

@@ -13,7 +13,6 @@ import type {
 
 export interface LibraryFilterTaxonomy {
   platforms: { value: LibraryBrowsePlatform; label: string }[];
-  genres: { value: string; label: string }[];
 }
 
 interface LibraryFilterSidebarProps {
@@ -23,7 +22,7 @@ interface LibraryFilterSidebarProps {
 }
 
 /**
- * Catalog Facets — Search, Platform, and Genre.
+ * Catalog Facets — Search and Platform.
  * Every control writes the browse URL so shelves stay bookmarkable.
  */
 export function LibraryFilterSidebar({
@@ -32,7 +31,6 @@ export function LibraryFilterSidebar({
   className = "",
 }: LibraryFilterSidebarProps) {
   const activePlatforms = new Set(query.platforms ?? []);
-  const activeGenres = new Set(query.genres ?? []);
 
   return (
     <aside
@@ -72,33 +70,6 @@ export function LibraryFilterSidebar({
             />
           );
         })}
-      </IndexCard>
-
-      <IndexCard legend={libraryVoice.facets.genre}>
-        {taxonomy.genres.length === 0 ? (
-          <li className="py-2 font-serif text-[0.8rem] italic text-foreground-muted/55">
-            {libraryVoice.facets.genreEmpty}
-          </li>
-        ) : (
-          taxonomy.genres.map((option) => {
-            const selected = activeGenres.has(option.value);
-            const href = getLibraryBrowseHref({
-              ...query,
-              genres: toggleLibraryBrowseValue(query.genres, option.value),
-              page: undefined,
-            });
-
-            return (
-              <FacetRow
-                key={option.value}
-                href={href}
-                label={option.label}
-                selected={selected}
-                facet={libraryVoice.facets.genre}
-              />
-            );
-          })
-        )}
       </IndexCard>
     </aside>
   );

@@ -1,0 +1,33 @@
+{
+  "slug": "team-grisgris",
+  "authorityId": "AUTH-0291",
+  "type": "developer",
+  "preferredName": "Team GrisGris",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "mages",
+    "corpse-party"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-team-grisgris",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0291 — controlled identity for Team GrisGris."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:45:00.000Z-team-grisgris",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Team GrisGris — original developer of record for Corpse Party in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z"
+}

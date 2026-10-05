@@ -1,0 +1,37 @@
+{
+  "slug": "creative-assembly",
+  "authorityId": "AUTH-0225",
+  "type": "developer",
+  "preferredName": "Creative Assembly",
+  "alternativeNames": [
+    "The Creative Assembly"
+  ],
+  "establishedDate": "1987",
+  "relatedAuthoritySlugs": [
+    "sega",
+    "feral-interactive",
+    "alien"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-creative-assembly",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0225 — controlled identity for Creative Assembly."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:15:00.000Z-creative-assembly",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Creative Assembly — developer of record for Alien: Isolation in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z"
+}

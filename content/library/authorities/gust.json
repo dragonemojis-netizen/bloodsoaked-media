@@ -1,0 +1,41 @@
+{
+  "slug": "gust",
+  "authorityId": "AUTH-0213",
+  "type": "developer",
+  "preferredName": "Gust",
+  "alternativeNames": [
+    "Gust Co., Ltd.",
+    "Gust Co. Ltd."
+  ],
+  "establishedDate": "1993",
+  "relatedAuthoritySlugs": [
+    "nis-america",
+    "atelier",
+    "ar-tonelico",
+    "playstation-2"
+  ],
+  "relatedHoldingIds": [
+    "ig-18101864138381265"
+  ],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:00:00.000Z-gust",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0213 — controlled identity for Gust."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:00:00.000Z-gust",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Gust — developer of record for the Gust PlayStation 2 holdings in the Bloodsoaked Library: Ar tonelico: Melody of Elemia, Ar tonelico II: Melody of Metafalica, Mana Khemia: Alchemists of Al-Revis, Mana Khemia 2: Fall of Alchemy, and the Atelier Iris trilogy.",
+  "curatorialRevisionAt": "2026-10-05T21:00:00.000Z"
+}

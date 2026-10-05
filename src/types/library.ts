@@ -87,7 +87,7 @@ export const LIBRARY_BROWSE_PLATFORMS = [
 export type LibraryBrowsePlatform = (typeof LIBRARY_BROWSE_PLATFORMS)[number];
 
 /** Active Catalog Facets on the Library shelves. */
-export const LIBRARY_FILTER_FACETS = ["platform", "genre"] as const;
+export const LIBRARY_FILTER_FACETS = ["platform"] as const;
 
 export type LibraryFilterFacet = (typeof LIBRARY_FILTER_FACETS)[number];
 
@@ -405,8 +405,6 @@ export interface LibraryBrowseQuery {
   q?: string;
   /** Curated platform facets — OR within, AND with other dimensions. */
   platforms?: LibraryBrowsePlatform[];
-  /** Genre facets from catalog subjects — OR within, AND with other dimensions. */
-  genres?: string[];
   /** 1-based shelf page. Omitted or invalid values resolve to page 1. */
   page?: number;
 }

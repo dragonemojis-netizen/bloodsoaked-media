@@ -1,0 +1,35 @@
+{
+  "slug": "bioware",
+  "authorityId": "AUTH-0245",
+  "type": "developer",
+  "preferredName": "BioWare",
+  "alternativeNames": [],
+  "establishedDate": "1995",
+  "relatedAuthoritySlugs": [
+    "beamdog",
+    "interplay",
+    "baldurs-gate"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-bioware",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0245 — controlled identity for BioWare."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:30:00.000Z-bioware",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "BioWare — original developer of record for Baldur’s Gate and Baldur’s Gate II in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z"
+}

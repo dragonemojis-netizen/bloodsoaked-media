@@ -1,0 +1,114 @@
+{
+  "slug": "chrono-cross-the-radical-dreamers-edition",
+  "title": "Chrono Cross: The Radical Dreamers Edition",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2022,
+  "synopsis": "Square’s 1999 Chrono sequel with Radical Dreamers alongside — retained as the Asian Nintendo Switch physical edition with English text.",
+  "coverImage": "/images/library/chrono-cross-the-radical-dreamers-edition/cover-official.jpg",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z",
+  "shelfMark": "LIB-0184",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "square",
+      "square-enix"
+    ],
+    "publishers": [
+      "square-enix"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "chrono"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "クロノ・クロス：ラジカル・ドリーマーズ エディション",
+    "release": "1999 (Chrono Cross, Japan) · 2022 (Radical Dreamers Edition, April 7 · Asian physical, April 26)",
+    "developer": "Square · remaster by Square Enix",
+    "publisher": "Square Enix",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Asian physical edition with English text · HAC-P-AYZEA",
+    "mediumForm": "Nintendo Switch game card · Asian retail edition",
+    "subjects": [
+      "JRPG",
+      "Square",
+      "Chrono",
+      "Remaster",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Chrono Cross is Square’s 1999 PlayStation follow-up to Chrono Trigger, a story of parallel worlds directed by Masato Kato with music by Yasunori Mitsuda.\n\nThe Radical Dreamers Edition, released digitally on April 7, 2022, updates its character art and presentation and adds Radical Dreamers: Nusumenai Hōseki, the 1996 Satellaview text adventure that seeded Chrono Cross, in its first official English release. Outside Asia it was digital only; the physical card was released in Asia on April 26, 2022, with English text.\n\nThis filing opens the Chrono lineage on the shelf.",
+  "collectionNotes": "The retained object is the Asian physical edition of Chrono Cross: The Radical Dreamers Edition on a Nintendo Switch game card, with English text.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Chrono Cross released in Japan in November 1999 and North America in August 2000. The Radical Dreamers Edition released digitally on April 7, 2022; the Asian physical Switch edition (HAC-P-AYZEA) released April 26, 2022.",
+    "availability": "Physically distributed in Asia only; elsewhere the game was issued digitally on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Chrono",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-chrono-cross-the-radical-dreamers-edition",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0184."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:45:00.000Z-chrono-cross-the-radical-dreamers-edition",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:45:00.000Z-chrono-cross-the-radical-dreamers-edition",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:45:00.000Z-chrono-cross-the-radical-dreamers-edition",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:45:00.000Z-chrono-cross-the-radical-dreamers-edition",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:45:00.000Z-chrono-cross-the-radical-dreamers-edition",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Chrono recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:45:00.000Z-chrono-cross-the-radical-dreamers-edition",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

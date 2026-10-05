@@ -1,0 +1,33 @@
+{
+  "slug": "ubisoft-sofia",
+  "authorityId": "AUTH-0235",
+  "type": "developer",
+  "preferredName": "Ubisoft Sofia",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "ubisoft",
+    "assassins-creed"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-ubisoft-sofia",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0235 — controlled identity for Ubisoft Sofia."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:15:00.000Z-ubisoft-sofia",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Ubisoft Sofia — developer of record for Assassin’s Creed Rogue, held in the Bloodsoaked Library within Assassin’s Creed: The Rebel Collection.",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z"
+}

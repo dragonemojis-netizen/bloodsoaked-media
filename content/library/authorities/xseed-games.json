@@ -1,0 +1,37 @@
+{
+  "slug": "xseed-games",
+  "authorityId": "AUTH-0220",
+  "type": "publisher",
+  "preferredName": "XSEED Games",
+  "alternativeNames": [
+    "XSEED",
+    "Marvelous USA"
+  ],
+  "establishedDate": "2004",
+  "relatedAuthoritySlugs": [
+    "acquire",
+    "akibas-trip"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-xseed-games",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0220 — controlled identity for XSEED Games."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:15:00.000Z-xseed-games",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "XSEED Games — North American publisher of record for Akiba’s Trip: Undead & Undressed Director’s Cut in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z"
+}

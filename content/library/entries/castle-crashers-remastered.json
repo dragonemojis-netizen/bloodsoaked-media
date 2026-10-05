@@ -1,0 +1,113 @@
+{
+  "slug": "castle-crashers-remastered",
+  "title": "Castle Crashers Remastered",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2023,
+  "synopsis": "The Behemoth’s four-knight beat-’em-up — retained as the studio’s own store-exclusive Nintendo Switch physical edition.",
+  "coverImage": "/images/library/castle-crashers-remastered/cover-official.jpg",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z",
+  "shelfMark": "LIB-0180",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "the-behemoth"
+    ],
+    "publishers": [
+      "the-behemoth"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "castle-crashers"
+    ]
+  },
+  "catalog": {
+    "release": "2008 (Castle Crashers) · 2015 (Remastered) · 2019 (Nintendo Switch digital, September 17) · 2023 (physical edition)",
+    "developer": "The Behemoth",
+    "publisher": "The Behemoth",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-ASVGA",
+    "mediumForm": "Nintendo Switch game card · The Behemoth store edition",
+    "subjects": [
+      "Beat 'em Up",
+      "Co-op",
+      "Hand-Drawn",
+      "Indie",
+      "Castle Crashers",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case · The Behemoth store edition",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Castle Crashers is The Behemoth’s hand-drawn, four-player beat-’em-up with light role-playing growth, drawn by Dan Paladin. It first released on Xbox 360 on August 27, 2008, and was remastered in 2015.\n\nThe Remastered edition came to Nintendo Switch digitally on September 17, 2019. The Behemoth took pre-orders for a physical edition through its own store from September 18 to October 18, 2023, its first physical release in years, shipping with a character unlock guide and a sticker sheet.\n\nThis filing opens the Castle Crashers lineage on the shelf.",
+  "collectionNotes": "The retained object is The Behemoth’s store-exclusive physical edition of Castle Crashers Remastered for Nintendo Switch, shipped from November 2023.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Castle Crashers released on Xbox 360 on August 27, 2008; Remastered on Xbox One on September 9, 2015. Nintendo Switch eShop release September 17, 2019. The physical edition (HAC-P-ASVGA) was sold only through The Behemoth’s store.",
+    "availability": "Sold only through The Behemoth’s online store during a limited pre-order window; now circulates through the secondary market. The digital edition remains on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Castle Crashers",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-castle-crashers-remastered",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0180."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:45:00.000Z-castle-crashers-remastered",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:45:00.000Z-castle-crashers-remastered",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:45:00.000Z-castle-crashers-remastered",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:45:00.000Z-castle-crashers-remastered",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:45:00.000Z-castle-crashers-remastered",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Castle Crashers recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:45:00.000Z-castle-crashers-remastered",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

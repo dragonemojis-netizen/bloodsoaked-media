@@ -1,0 +1,32 @@
+{
+  "slug": "little-sewing-machine",
+  "authorityId": "AUTH-0279",
+  "type": "developer",
+  "preferredName": "Little Sewing Machine",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "maximum-entertainment"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-little-sewing-machine",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0279 — controlled identity for Little Sewing Machine."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:45:00.000Z-little-sewing-machine",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Little Sewing Machine — Italian developer of record for Bye Sweet Carole in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z"
+}

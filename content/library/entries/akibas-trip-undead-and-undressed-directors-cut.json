@@ -1,0 +1,114 @@
+{
+  "slug": "akibas-trip-undead-and-undressed-directors-cut",
+  "title": "Akiba's Trip: Undead & Undressed Director's Cut",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2023,
+  "synopsis": "Acquire’s Akihabara brawler, expanded with Kati’s Route — retained as XSEED’s North American Day One Edition for Nintendo Switch.",
+  "coverImage": "/images/library/akibas-trip-undead-and-undressed-directors-cut/cover-official.jpg",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z",
+  "shelfMark": "LIB-0144",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "acquire"
+    ],
+    "publishers": [
+      "xseed-games"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "akibas-trip"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "AKIBA'S TRIP2 ディレクターズカット",
+    "release": "2013 (Japan, original) · 2023 (Nintendo Switch Director’s Cut)",
+    "developer": "Acquire",
+    "publisher": "XSEED Games",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · North American Day One Edition · HAC-P-A87TB",
+    "mediumForm": "Nintendo Switch game card · Day One Edition box",
+    "subjects": [
+      "Action",
+      "Brawler",
+      "Akihabara",
+      "Akiba's Trip",
+      "Director's Cut",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card · Day One Edition",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Akiba’s Trip: Undead & Undressed sets its fights in a recreation of Akihabara, with more than a hundred real shops rebuilt as its streets. Acquire released the original in Japan on PlayStation 3 and Vita on November 7, 2013, as AKIBA’S TRIP2; XSEED Games brought it to North America in August 2014.\n\nThe Director’s Cut came to Nintendo Switch in Japan on April 20, 2023, and from XSEED in North America on August 1, 2023. It adds Kati’s Route, a new story path with new Japanese and English voice work, alongside the original game’s downloadable content and more than a dozen new side missions.\n\nThis filing opens the Akiba’s Trip lineage on the shelf.",
+  "collectionNotes": "The retained object is XSEED Games’ Day One Edition, the North American physical release issued on launch day, August 1, 2023. As issued, the Day One Edition packages the game with nine oversized art cards and a CD of selected music in a custom box.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Original release as AKIBA’S TRIP2 on PlayStation 3 and Vita in Japan (November 7, 2013); North American release by XSEED Games in August 2014. The Director’s Cut reached Switch in Japan on April 20, 2023 (HAC-P-A87TA) and North America on August 1, 2023; the Day One Edition (HAC-P-A87TB) is the edition recorded here.",
+    "availability": "The Day One Edition was a launch-window physical release; later copies circulate through retail remainder and the secondary market. A digital edition was issued on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Akiba's Trip",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-akibas-trip-undead-and-undressed-directors-cut",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0144."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:15:00.000Z-akibas-trip-undead-and-undressed-directors-cut",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:15:00.000Z-akibas-trip-undead-and-undressed-directors-cut",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:15:00.000Z-akibas-trip-undead-and-undressed-directors-cut",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:15:00.000Z-akibas-trip-undead-and-undressed-directors-cut",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:15:00.000Z-akibas-trip-undead-and-undressed-directors-cut",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Akiba's Trip recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:15:00.000Z-akibas-trip-undead-and-undressed-directors-cut",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

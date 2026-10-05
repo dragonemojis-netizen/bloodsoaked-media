@@ -1,0 +1,35 @@
+{
+  "slug": "the-binding-of-isaac",
+  "authorityId": "AUTH-0255",
+  "type": "series",
+  "preferredName": "The Binding of Isaac",
+  "alternativeNames": [
+    "Binding of Isaac"
+  ],
+  "relatedAuthoritySlugs": [
+    "edmund-mcmillen",
+    "nicalis"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-the-binding-of-isaac",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0255 — controlled identity for The Binding of Isaac."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:30:00.000Z-the-binding-of-isaac",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "The Binding of Isaac — series identity for Edmund McMillen’s roguelike retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z"
+}

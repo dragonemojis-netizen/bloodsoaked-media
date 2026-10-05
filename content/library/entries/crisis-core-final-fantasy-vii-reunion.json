@@ -1,0 +1,115 @@
+{
+  "slug": "crisis-core-final-fantasy-vii-reunion",
+  "title": "Crisis Core: Final Fantasy VII Reunion",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2022,
+  "synopsis": "The remaster of Zack Fair’s PSP prequel to Final Fantasy VII — retained as Square Enix’s Nintendo Switch game card.",
+  "coverImage": "/images/library/crisis-core-final-fantasy-vii-reunion/cover-official.jpg",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z",
+  "shelfMark": "LIB-0188",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "square-enix",
+      "tose"
+    ],
+    "publishers": [
+      "square-enix"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "final-fantasy"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "クライシス コア -ファイナルファンタジーVII- リユニオン",
+    "release": "2007 (Crisis Core, PSP) · 2022 (Reunion, December 13)",
+    "developer": "Square Enix · Tose",
+    "publisher": "Square Enix",
+    "platform": "Nintendo Switch",
+    "region": "Region-free Nintendo Switch software",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Action RPG",
+      "Final Fantasy",
+      "Final Fantasy VII",
+      "Remaster",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Crisis Core: Final Fantasy VII follows the SOLDIER Zack Fair in the years before Final Fantasy VII, first released on PlayStation Portable in Japan in September 2007.\n\nReunion, developed by Square Enix with Tose, rebuilds its visuals, fully voices the script, and reworks combat. It released on December 13, 2022, across platforms including Nintendo Switch.\n\nThe filing joins the Final Fantasy lineage already on the shelf, beside Final Fantasy VII Rebirth.",
+  "collectionNotes": "The retained object is Square Enix’s retail edition of Crisis Core: Final Fantasy VII Reunion on a Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Crisis Core released on PSP in Japan on September 13, 2007. Reunion released worldwide on December 13, 2022.",
+    "availability": "Distributed at retail by Square Enix, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Final Fantasy",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-crisis-core-final-fantasy-vii-reunion",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0188."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:45:00.000Z-crisis-core-final-fantasy-vii-reunion",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:45:00.000Z-crisis-core-final-fantasy-vii-reunion",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:45:00.000Z-crisis-core-final-fantasy-vii-reunion",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:45:00.000Z-crisis-core-final-fantasy-vii-reunion",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:45:00.000Z-crisis-core-final-fantasy-vii-reunion",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Final Fantasy recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:45:00.000Z-crisis-core-final-fantasy-vii-reunion",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "tose",
+  "authorityId": "AUTH-0298",
+  "type": "developer",
+  "preferredName": "Tose",
+  "alternativeNames": [
+    "TOSE Co., Ltd."
+  ],
+  "establishedDate": "1979",
+  "relatedAuthoritySlugs": [
+    "square-enix",
+    "final-fantasy"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-tose",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0298 — controlled identity for Tose."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:45:00.000Z-tose",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Tose — co-developer of record for Crisis Core: Final Fantasy VII Reunion in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z"
+}

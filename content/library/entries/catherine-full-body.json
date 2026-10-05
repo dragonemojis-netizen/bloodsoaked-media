@@ -1,0 +1,114 @@
+{
+  "slug": "catherine-full-body",
+  "title": "Catherine: Full Body",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2020,
+  "synopsis": "Atlus’ expanded puzzle-romance nightmare — retained as the Nintendo Switch game card.",
+  "coverImage": "/images/library/catherine-full-body/cover-official.jpg",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z",
+  "shelfMark": "LIB-0182",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "atlus"
+    ],
+    "publishers": [
+      "atlus"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "catherine"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "キャサリン・フルボディ",
+    "release": "2011 (Catherine) · 2019 (Full Body) · 2020 (Nintendo Switch; Japan, July 2 · North America, July 7)",
+    "developer": "Atlus (Studio Zero)",
+    "publisher": "Atlus",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-AJ2AC",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Puzzle",
+      "Adventure",
+      "Romance",
+      "Atlus",
+      "Catherine",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Catherine follows Vincent Brooks, caught between his long-time girlfriend and a stranger, through nights of nightmare block-climbing puzzles. Full Body, released in Japan on February 14, 2019, adds a third romantic lead, Rin, new stages, and new endings.\n\nThe Nintendo Switch version released in Japan on July 2, 2020, and in North America on July 7, 2020 — Atlus’ first self-published Switch game. It includes all add-on content from the earlier versions and new voice options for Catherine.\n\nThis filing opens the Catherine lineage on the shelf.",
+  "collectionNotes": "The retained object is Atlus’ retail edition of Catherine: Full Body on a Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Catherine released in 2011; Full Body on PlayStation 4 and PlayStation Vita in Japan on February 14, 2019. The Nintendo Switch version (HAC-P-AJ2AC) released July 2, 2020 in Japan and July 7, 2020 in North America and Europe.",
+    "availability": "Distributed at retail by Atlus, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Catherine",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-catherine-full-body",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0182."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:45:00.000Z-catherine-full-body",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:45:00.000Z-catherine-full-body",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:45:00.000Z-catherine-full-body",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:45:00.000Z-catherine-full-body",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:45:00.000Z-catherine-full-body",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Catherine recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:45:00.000Z-catherine-full-body",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

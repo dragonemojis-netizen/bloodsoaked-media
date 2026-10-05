@@ -1,0 +1,34 @@
+{
+  "slug": "eastasiasoft",
+  "authorityId": "AUTH-0272",
+  "type": "publisher",
+  "preferredName": "eastasiasoft",
+  "alternativeNames": [
+    "East Asia Soft"
+  ],
+  "relatedAuthoritySlugs": [
+    "softstar-entertainment"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-eastasiasoft",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0272 — controlled identity for eastasiasoft."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:45:00.000Z-eastasiasoft",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "eastasiasoft — publisher of record for The Bridge Curse: Road to Salvation and its numbered physical Switch edition in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z"
+}

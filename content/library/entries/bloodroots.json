@@ -1,0 +1,109 @@
+{
+  "slug": "bloodroots",
+  "title": "Bloodroots",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2020,
+  "synopsis": "Paper Cult’s one-hit-kill Weird West brawler — retained as Super Rare Games’ numbered #62 Nintendo Switch physical edition.",
+  "coverImage": "/images/library/bloodroots/cover-official.jpg",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z",
+  "shelfMark": "LIB-0169",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "paper-cult"
+    ],
+    "publishers": [
+      "paper-cult",
+      "super-rare-games"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ]
+  },
+  "catalog": {
+    "release": "2020 (February 28) · 2022 (Super Rare Games #62)",
+    "developer": "Paper Cult",
+    "publisher": "Paper Cult · physical edition by Super Rare Games",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Super Rare Games #62",
+    "mediumForm": "Nintendo Switch game card · Super Rare Games numbered edition",
+    "subjects": [
+      "Action",
+      "Hack and Slash",
+      "Western",
+      "Indie",
+      "Super Rare Games",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case · Super Rare Games #62 edition",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Bloodroots is Paper Cult’s top-down revenge game set in the Weird West: Mr. Wolf dies in a single hit and kills just as quickly, using whatever he picks up as a weapon.\n\nThe Montreal studio released it on February 28, 2020, on PlayStation 4, Nintendo Switch, and PC. Super Rare Games produced the Switch physical edition as SRG #62, on sale from January 13, 2022, limited to 4,000 copies.",
+  "collectionNotes": "The retained object is Super Rare Games #62, the boutique physical Nintendo Switch edition, sold from January 13, 2022 with interior artwork, a full-colour manual, a sticker, and trading cards.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Released February 28, 2020 on PlayStation 4, Nintendo Switch, and PC. Super Rare Games #62 is the Switch physical edition recorded here, printed in a run of 4,000.",
+    "availability": "Super Rare Games’s physical edition was a limited production and now circulates through the secondary market. The digital Switch edition was issued separately on the Nintendo eShop."
+  },
+  "connections": {
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-bloodroots",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0169."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:30:00.000Z-bloodroots",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:30:00.000Z-bloodroots",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:30:00.000Z-bloodroots",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:30:00.000Z-bloodroots",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:30:00.000Z-bloodroots",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "published-2026-10-05T21:30:00.000Z-bloodroots",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

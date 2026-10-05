@@ -1,0 +1,115 @@
+{
+  "slug": "atelier-lulua-the-scion-of-arland",
+  "title": "Atelier Lulua: The Scion of Arland",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2019,
+  "synopsis": "Gust’s fourth Arland alchemy RPG, made for the sub-series’ tenth anniversary — retained as the Koei Tecmo Nintendo Switch game card.",
+  "coverImage": "/images/library/atelier-lulua-the-scion-of-arland/cover-official.jpg",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z",
+  "shelfMark": "LIB-0152",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "gust"
+    ],
+    "publishers": [
+      "koei-tecmo"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "atelier"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "ルルアのアトリエ ～アーランドの錬金術士4～",
+    "release": "2019 (Japan, March 20 · North America, May 21)",
+    "developer": "Gust",
+    "publisher": "Koei Tecmo",
+    "platform": "Nintendo Switch",
+    "region": "Region-free Nintendo Switch software",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "JRPG",
+      "Gust",
+      "Atelier",
+      "Arland",
+      "Alchemy",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Atelier Lulua is the fourth game in Gust’s Arland sub-series, following Rorona, Totori, and Meruru. Set years after Atelier Meruru, it follows Lulua, the adopted daughter of the alchemist Rorona, and was made to mark Arland’s tenth anniversary and Gust’s twenty-fifth.\n\nKoei Tecmo released it in Japan on March 20, 2019, for Nintendo Switch and PlayStation 4, and in North America on May 21, 2019.\n\nThe filing extends the Atelier lineage on the shelf, joining the Atelier Iris trilogy and the Mana Khemia games under the same series authority.",
+  "collectionNotes": "The retained object is Koei Tecmo’s retail edition of Atelier Lulua on a Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Released in Japan on March 20, 2019 as ルルアのアトリエ ～アーランドの錬金術士4～, and in North America on May 21, 2019. A Limited Edition was sold separately through the NIS America Online Store; post-launch downloadable content added costumes and playable characters.",
+    "availability": "Distributed at retail by Koei Tecmo, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Atelier · Arland",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-atelier-lulua-the-scion-of-arland",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0152."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:15:00.000Z-atelier-lulua-the-scion-of-arland",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:15:00.000Z-atelier-lulua-the-scion-of-arland",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:15:00.000Z-atelier-lulua-the-scion-of-arland",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:15:00.000Z-atelier-lulua-the-scion-of-arland",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:15:00.000Z-atelier-lulua-the-scion-of-arland",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Atelier · Arland recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:15:00.000Z-atelier-lulua-the-scion-of-arland",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

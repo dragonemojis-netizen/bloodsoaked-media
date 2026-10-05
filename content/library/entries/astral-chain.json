@@ -1,0 +1,108 @@
+{
+  "slug": "astral-chain",
+  "title": "Astral Chain",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2019,
+  "synopsis": "PlatinumGames’ chained-partner police action game — a Nintendo Switch original, retained as the Nintendo retail game card.",
+  "coverImage": "/images/library/astral-chain/cover-official.jpg",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z",
+  "shelfMark": "LIB-0148",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "platinumgames"
+    ],
+    "publishers": [
+      "nintendo"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "アストラルチェイン",
+    "release": "2019 (Nintendo Switch)",
+    "developer": "PlatinumGames",
+    "publisher": "Nintendo",
+    "platform": "Nintendo Switch",
+    "region": "Region-free Nintendo Switch software",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Action",
+      "Character Action",
+      "Science Fiction",
+      "PlatinumGames",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Astral Chain is a PlatinumGames action game built for Nintendo Switch and published by Nintendo on August 30, 2019. The player commands a police officer and a Legion — a captured creature bound by a chain — fighting through two bodies at once.\n\nTakahisa Taura, lead game designer on NieR: Automata, directed it, with Hideki Kamiya supervising and character designs by manga artist Masakazu Katsura. It was announced in the February 2019 Nintendo Direct and nominated for Best Action Game at The Game Awards 2019.\n\nIt is a standalone work; the shelf records it without a series lineage.",
+  "collectionNotes": "The retained object is Nintendo’s retail edition of Astral Chain on a Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Released worldwide on August 30, 2019, exclusively for Nintendo Switch. A Collector’s Edition was issued alongside the standard retail edition recorded here.",
+    "availability": "Distributed at retail by Nintendo, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-astral-chain",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0148."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:15:00.000Z-astral-chain",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:15:00.000Z-astral-chain",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:15:00.000Z-astral-chain",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:15:00.000Z-astral-chain",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:15:00.000Z-astral-chain",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "published-2026-10-05T21:15:00.000Z-astral-chain",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

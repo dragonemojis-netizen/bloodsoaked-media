@@ -1,0 +1,33 @@
+{
+  "slug": "omega-force",
+  "authorityId": "AUTH-0236",
+  "type": "developer",
+  "preferredName": "Omega Force",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "koei-tecmo",
+    "attack-on-titan"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-omega-force",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0236 — controlled identity for Omega Force."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:15:00.000Z-omega-force",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Omega Force — Koei Tecmo’s development brand, developer of record for Attack on Titan 2 in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z"
+}

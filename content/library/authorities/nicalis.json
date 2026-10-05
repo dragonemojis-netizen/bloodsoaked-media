@@ -1,0 +1,35 @@
+{
+  "slug": "nicalis",
+  "authorityId": "AUTH-0253",
+  "type": "publisher",
+  "preferredName": "Nicalis",
+  "alternativeNames": [
+    "Nicalis, Inc."
+  ],
+  "relatedAuthoritySlugs": [
+    "edmund-mcmillen",
+    "the-binding-of-isaac"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-nicalis",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0253 — controlled identity for Nicalis."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:30:00.000Z-nicalis",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Nicalis — publisher and co-developer of record for The Binding of Isaac: Afterbirth+ on Nintendo Switch in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z"
+}

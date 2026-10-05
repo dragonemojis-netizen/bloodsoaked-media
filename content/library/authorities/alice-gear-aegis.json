@@ -1,0 +1,35 @@
+{
+  "slug": "alice-gear-aegis",
+  "authorityId": "AUTH-0224",
+  "type": "series",
+  "preferredName": "Alice Gear Aegis",
+  "alternativeNames": [
+    "Alice Gear Aegis CS"
+  ],
+  "relatedAuthoritySlugs": [
+    "pyramid",
+    "pqube"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-alice-gear-aegis",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0224 — controlled identity for Alice Gear Aegis."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:15:00.000Z-alice-gear-aegis",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Alice Gear Aegis — series identity for Pyramid and Colopl’s Alice Gear Aegis games retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z"
+}

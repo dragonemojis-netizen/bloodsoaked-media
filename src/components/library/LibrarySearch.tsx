@@ -10,7 +10,7 @@ interface LibrarySearchProps {
 
 /**
  * Catalog Lookup — archival terminal nested in the facet rail.
- * Preserves active platform / genre facets; clears the shelf page.
+ * Preserves active platform facets; clears the shelf page.
  */
 export function LibrarySearch({ className = "" }: LibrarySearchProps) {
   const router = useRouter();

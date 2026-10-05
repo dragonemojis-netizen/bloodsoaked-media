@@ -1,0 +1,36 @@
+{
+  "slug": "castlevania",
+  "authorityId": "AUTH-0287",
+  "type": "series",
+  "preferredName": "Castlevania",
+  "alternativeNames": [
+    "Akumajō Dracula",
+    "悪魔城ドラキュラ"
+  ],
+  "relatedAuthoritySlugs": [
+    "konami",
+    "m2"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-castlevania",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0287 — controlled identity for Castlevania."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:45:00.000Z-castlevania",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Castlevania — series identity for Konami’s Castlevania games retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z"
+}

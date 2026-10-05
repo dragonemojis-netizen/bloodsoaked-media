@@ -1,0 +1,35 @@
+{
+  "slug": "pyramid",
+  "authorityId": "AUTH-0222",
+  "type": "developer",
+  "preferredName": "Pyramid",
+  "alternativeNames": [
+    "Pyramid Inc."
+  ],
+  "relatedAuthoritySlugs": [
+    "pqube",
+    "alice-gear-aegis"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-pyramid",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0222 — controlled identity for Pyramid."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:15:00.000Z-pyramid",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Pyramid — developer of record for Alice Gear Aegis CS: Concerto of Simulatrix in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z"
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "the-bridge-curse-2-the-extrication",
+  "title": "The Bridge Curse 2: The Extrication",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2024,
+  "synopsis": "Softstar’s sequel to The Bridge Curse — retained as PQube’s Nintendo Switch game card.",
+  "coverImage": "/images/library/the-bridge-curse-2-the-extrication/cover-official.jpg",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z",
+  "shelfMark": "LIB-0175",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "softstar-entertainment"
+    ],
+    "publishers": [
+      "pqube"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "the-bridge-curse"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "女鬼橋二 釋魂路",
+    "release": "2024 (PC, May 9 · Nintendo Switch, October 24)",
+    "developer": "Softstar Entertainment",
+    "publisher": "PQube",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-BKP3A",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Horror",
+      "Survival Horror",
+      "Taiwanese",
+      "The Bridge Curse",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "The Bridge Curse 2: The Extrication returns to Softstar Entertainment’s haunted university, following a new group of students drawn into the legend of the ghost bride.\n\nIt released on PC on May 9, 2024, and on Nintendo Switch on October 24, 2024, with PQube handling the physical release in North America and Europe.\n\nThe filing follows Road to Salvation in The Bridge Curse lineage.",
+  "collectionNotes": "The retained object is PQube’s retail edition of The Bridge Curse 2: The Extrication on a Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "PC release May 9, 2024; Nintendo Switch release October 24, 2024 (HAC-P-BKP3A).",
+    "availability": "Distributed at retail by PQube, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "The Bridge Curse",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-the-bridge-curse-2-the-extrication",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0175."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:45:00.000Z-the-bridge-curse-2-the-extrication",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:45:00.000Z-the-bridge-curse-2-the-extrication",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:45:00.000Z-the-bridge-curse-2-the-extrication",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:45:00.000Z-the-bridge-curse-2-the-extrication",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:45:00.000Z-the-bridge-curse-2-the-extrication",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "The Bridge Curse recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:45:00.000Z-the-bridge-curse-2-the-extrication",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "bloodrayne-betrayal-fresh-bites",
+  "title": "BloodRayne Betrayal: Fresh Bites",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2021,
+  "synopsis": "WayForward’s side-scrolling BloodRayne, rebuilt with new voice work — retained as Limited Run Games’ #120 Nintendo Switch physical edition.",
+  "coverImage": "/images/library/bloodrayne-betrayal-fresh-bites/cover-official.jpg",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z",
+  "shelfMark": "LIB-0166",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "wayforward"
+    ],
+    "publishers": [
+      "ziggurat-interactive",
+      "limited-run-games"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "bloodrayne"
+    ]
+  },
+  "catalog": {
+    "release": "2011 (BloodRayne: Betrayal) · 2021 (Fresh Bites; Nintendo Switch, September 9)",
+    "developer": "WayForward",
+    "publisher": "Ziggurat Interactive · physical edition by Limited Run Games",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Switch Limited Run #120",
+    "mediumForm": "Nintendo Switch game card · Limited Run Games edition",
+    "subjects": [
+      "Action",
+      "Side-Scroller",
+      "Horror",
+      "BloodRayne",
+      "Lineage",
+      "Limited Run Games",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case · Limited Run Games #120 edition",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "BloodRayne: Betrayal reimagined the series as a hand-drawn side-scrolling action game by WayForward, released on PlayStation 3 and Xbox 360 in September 2011.\n\nFresh Bites, published by Ziggurat Interactive on September 9, 2021, is its revised edition and the game’s first appearance on a Nintendo platform, with new voice performances by Laura Bailey as Rayne and Troy Baker as Kagan. Limited Run Games produced the Switch physical edition as Switch Limited Run #120.\n\nThe filing joins the BloodRayne lineage beside the two ReVamped games.",
+  "collectionNotes": "The retained object is Switch Limited Run #120, Limited Run Games’ physical edition of BloodRayne Betrayal: Fresh Bites, taken on pre-order from September to October 2021.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "BloodRayne: Betrayal released in September 2011 on PlayStation 3 and Xbox 360. Fresh Bites released digitally on September 9, 2021; Limited Run Games issued the Switch physical edition as Switch Limited Run #120 in standard and Collector’s editions.",
+    "availability": "Limited Run Games’s physical edition was a limited production and now circulates through the secondary market. The digital Switch edition was issued separately on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "BloodRayne",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-bloodrayne-betrayal-fresh-bites",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0166."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:30:00.000Z-bloodrayne-betrayal-fresh-bites",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:30:00.000Z-bloodrayne-betrayal-fresh-bites",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:30:00.000Z-bloodrayne-betrayal-fresh-bites",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:30:00.000Z-bloodrayne-betrayal-fresh-bites",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:30:00.000Z-bloodrayne-betrayal-fresh-bites",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "BloodRayne recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:30:00.000Z-bloodrayne-betrayal-fresh-bites",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

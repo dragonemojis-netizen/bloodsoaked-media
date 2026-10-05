@@ -1,0 +1,35 @@
+{
+  "slug": "good-shepherd-entertainment",
+  "authorityId": "AUTH-0244",
+  "type": "publisher",
+  "preferredName": "Good Shepherd Entertainment",
+  "alternativeNames": [
+    "Good Shepherd",
+    "Gambitious Digital Entertainment"
+  ],
+  "relatedAuthoritySlugs": [
+    "thirtythree"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-good-shepherd-entertainment",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0244 — controlled identity for Good Shepherd Entertainment."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:30:00.000Z-good-shepherd-entertainment",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Good Shepherd Entertainment — publisher of record for Atomik: RunGunJumpGun in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z"
+}

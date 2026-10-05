@@ -1,0 +1,37 @@
+{
+  "slug": "iron-galaxy",
+  "authorityId": "AUTH-0295",
+  "type": "developer",
+  "preferredName": "Iron Galaxy",
+  "alternativeNames": [
+    "Iron Galaxy Studios"
+  ],
+  "establishedDate": "2008",
+  "relatedAuthoritySlugs": [
+    "vicarious-visions",
+    "activision",
+    "crash-bandicoot"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-iron-galaxy",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0295 — controlled identity for Iron Galaxy."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:45:00.000Z-iron-galaxy",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Iron Galaxy — Nintendo Switch port developer of record for Crash Bandicoot N. Sane Trilogy in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z"
+}

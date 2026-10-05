@@ -1,0 +1,36 @@
+{
+  "slug": "akibas-trip",
+  "authorityId": "AUTH-0221",
+  "type": "series",
+  "preferredName": "Akiba's Trip",
+  "alternativeNames": [
+    "Akiba’s Trip",
+    "AKIBA'S TRIP"
+  ],
+  "relatedAuthoritySlugs": [
+    "acquire",
+    "xseed-games"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-akibas-trip",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0221 — controlled identity for Akiba's Trip."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:15:00.000Z-akibas-trip",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Akiba’s Trip — series identity for Acquire’s Akihabara action games retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z"
+}

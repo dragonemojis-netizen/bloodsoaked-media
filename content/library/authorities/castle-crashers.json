@@ -1,0 +1,32 @@
+{
+  "slug": "castle-crashers",
+  "authorityId": "AUTH-0285",
+  "type": "series",
+  "preferredName": "Castle Crashers",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "the-behemoth"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-castle-crashers",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0285 — controlled identity for Castle Crashers."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:45:00.000Z-castle-crashers",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Castle Crashers — series identity for The Behemoth’s Castle Crashers retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z"
+}

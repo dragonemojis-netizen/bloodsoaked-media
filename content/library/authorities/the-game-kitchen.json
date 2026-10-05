@@ -1,0 +1,33 @@
+{
+  "slug": "the-game-kitchen",
+  "authorityId": "AUTH-0256",
+  "type": "developer",
+  "preferredName": "The Game Kitchen",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "team17",
+    "blasphemous"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-the-game-kitchen",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0256 — controlled identity for The Game Kitchen."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:30:00.000Z-the-game-kitchen",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "The Game Kitchen — developer of record for Blasphemous 2 in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z"
+}

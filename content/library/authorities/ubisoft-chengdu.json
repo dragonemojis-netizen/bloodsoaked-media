@@ -1,0 +1,33 @@
+{
+  "slug": "ubisoft-chengdu",
+  "authorityId": "AUTH-0233",
+  "type": "developer",
+  "preferredName": "Ubisoft Chengdu",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "ubisoft",
+    "assassins-creed"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-ubisoft-chengdu",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0233 — controlled identity for Ubisoft Chengdu."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:15:00.000Z-ubisoft-chengdu",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Ubisoft Chengdu — co-developer of record for the Nintendo Switch version of Assassin’s Creed III Remastered in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z"
+}

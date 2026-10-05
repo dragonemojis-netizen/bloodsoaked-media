@@ -1,0 +1,35 @@
+{
+  "slug": "super-rare-games",
+  "authorityId": "AUTH-0218",
+  "type": "publisher",
+  "preferredName": "Super Rare Games",
+  "alternativeNames": [
+    "SRG"
+  ],
+  "establishedDate": "2017",
+  "relatedAuthoritySlugs": [
+    "nintendo-switch"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-super-rare-games",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0218 — controlled identity for Super Rare Games."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:15:00.000Z-super-rare-games",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Super Rare Games — boutique physical-edition publisher of record for numbered Nintendo Switch releases in the Bloodsoaked Library, including ABZÛ (#50).",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z"
+}

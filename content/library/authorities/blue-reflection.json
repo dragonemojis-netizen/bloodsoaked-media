@@ -1,0 +1,33 @@
+{
+  "slug": "blue-reflection",
+  "authorityId": "AUTH-0266",
+  "type": "series",
+  "preferredName": "Blue Reflection",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "gust",
+    "koei-tecmo"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-blue-reflection",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0266 — controlled identity for Blue Reflection."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:30:00.000Z-blue-reflection",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Blue Reflection — series identity for Gust’s Blue Reflection games retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z"
+}

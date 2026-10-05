@@ -1,0 +1,116 @@
+{
+  "slug": "castlevania-anniversary-collection",
+  "title": "Castlevania Anniversary Collection",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2021,
+  "synopsis": "Eight classic Castlevania games prepared by M2 for Konami’s 50th anniversary — retained as Limited Run Games’ #106 Nintendo Switch physical edition.",
+  "coverImage": "/images/library/castlevania-anniversary-collection/cover-official.jpg",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z",
+  "shelfMark": "LIB-0181",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "konami",
+      "m2"
+    ],
+    "publishers": [
+      "konami",
+      "limited-run-games"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "castlevania"
+    ]
+  },
+  "catalog": {
+    "release": "2019 (digital, May 16) · 2021 (Limited Run Games #106)",
+    "developer": "Konami · collection by M2",
+    "publisher": "Konami · physical edition by Limited Run Games",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Switch Limited Run #106 · HAC-P-ATA9B",
+    "mediumForm": "Nintendo Switch game card · Limited Run Games edition",
+    "subjects": [
+      "Action",
+      "Platformer",
+      "Gothic",
+      "Castlevania",
+      "Collection",
+      "Limited Run Games",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case · Limited Run Games #106 edition",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Castlevania Anniversary Collection gathers eight games from the series’ 8- and 16-bit years: Castlevania, Castlevania II: Simon’s Quest, Castlevania III: Dracula’s Curse, Super Castlevania IV, Castlevania: The Adventure, Castlevania II: Belmont’s Revenge, Castlevania: Bloodlines, and Kid Dracula, the last in its first official English release. It adds the eBook History of Castlevania – Book of the Crescent Moon.\n\nKonami released it digitally on May 16, 2019, for its 50th anniversary, with emulation by M2. Limited Run Games produced the first physical Switch edition as Switch Limited Run #106.\n\nThis filing opens the Castlevania lineage on the shelf.",
+  "collectionNotes": "The retained object is Switch Limited Run #106, Limited Run Games’ standard physical edition of Castlevania Anniversary Collection.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Released digitally on May 16, 2019 on PlayStation 4, Nintendo Switch, Xbox One, and PC. Limited Run Games issued the Switch physical edition (HAC-P-ATA9B) as Switch Limited Run #106 in standard, Classic, Bloodlines, and Ultimate editions.",
+    "availability": "Limited Run Games’s physical edition was a limited production and now circulates through the secondary market. The digital Switch edition was issued separately on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Castlevania",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-castlevania-anniversary-collection",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0181."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:45:00.000Z-castlevania-anniversary-collection",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:45:00.000Z-castlevania-anniversary-collection",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:45:00.000Z-castlevania-anniversary-collection",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:45:00.000Z-castlevania-anniversary-collection",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:45:00.000Z-castlevania-anniversary-collection",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Castlevania recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:45:00.000Z-castlevania-anniversary-collection",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "beyond-good-and-evil-20th-anniversary-edition",
+  "title": "Beyond Good & Evil 20th Anniversary Edition",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2024,
+  "synopsis": "Michel Ancel’s 2003 adventure, remastered for its twentieth year — retained as Limited Run Games’ #247 Nintendo Switch physical edition.",
+  "coverImage": "/images/library/beyond-good-and-evil-20th-anniversary-edition/cover-official.jpg",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z",
+  "shelfMark": "LIB-0160",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "ubisoft-montpellier",
+      "virtuos"
+    ],
+    "publishers": [
+      "ubisoft",
+      "limited-run-games"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "beyond-good-and-evil"
+    ]
+  },
+  "catalog": {
+    "release": "2003 (original) · 2024 (20th Anniversary Edition; Limited Run Games #247)",
+    "developer": "Ubisoft Montpellier · 20th Anniversary Edition by Virtuos",
+    "publisher": "Ubisoft · physical edition by Limited Run Games",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Switch Limited Run #247 · HAC-P-BGGUA",
+    "mediumForm": "Nintendo Switch game card · Limited Run Games edition",
+    "subjects": [
+      "Action-Adventure",
+      "Photography",
+      "Science Fiction",
+      "Beyond Good & Evil",
+      "Limited Run Games",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case · Limited Run Games #247 edition",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Beyond Good & Evil, directed by Michel Ancel at Ubisoft Montpellier, follows the photojournalist Jade uncovering a conspiracy on the planet Hillys. It first released on PlayStation 2 in North America on November 11, 2003.\n\nThe 20th Anniversary Edition, developed by Virtuos under Ubisoft Montpellier’s supervision, released digitally on June 25, 2024, adding a speedrun mode, an anniversary gallery, and a new treasure hunt tied to Beyond Good & Evil 2. Limited Run Games produced the Switch physical edition as Switch Limited Run #247.\n\nThis filing opens the Beyond Good & Evil lineage on the shelf.",
+  "collectionNotes": "The retained object is Switch Limited Run #247, Limited Run Games’ physical edition of Beyond Good & Evil 20th Anniversary Edition, taken on pre-order from July to August 2024.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Original release on PlayStation 2 on November 11, 2003. The 20th Anniversary Edition released digitally on June 25, 2024. Limited Run Games issued the Switch physical edition (HAC-P-BGGUA) as Switch Limited Run #247 in standard and Collector’s editions.",
+    "availability": "Limited Run Games’s physical edition was a limited production and now circulates through the secondary market. The digital Switch edition was issued separately on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Beyond Good & Evil",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-beyond-good-and-evil-20th-anniversary-edition",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0160."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:30:00.000Z-beyond-good-and-evil-20th-anniversary-edition",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:30:00.000Z-beyond-good-and-evil-20th-anniversary-edition",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:30:00.000Z-beyond-good-and-evil-20th-anniversary-edition",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:30:00.000Z-beyond-good-and-evil-20th-anniversary-edition",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:30:00.000Z-beyond-good-and-evil-20th-anniversary-edition",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Beyond Good & Evil recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:30:00.000Z-beyond-good-and-evil-20th-anniversary-edition",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

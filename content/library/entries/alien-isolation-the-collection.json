@@ -1,0 +1,115 @@
+{
+  "slug": "alien-isolation-the-collection",
+  "title": "Alien: Isolation - The Collection",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2019,
+  "synopsis": "Creative Assembly’s survival horror with all seven DLC packs — retained as Limited Run Games’ #191 Nintendo Switch physical edition.",
+  "coverImage": "/images/library/alien-isolation-the-collection/cover-official.jpg",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z",
+  "shelfMark": "LIB-0146",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "creative-assembly",
+      "feral-interactive"
+    ],
+    "publishers": [
+      "sega",
+      "limited-run-games"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "alien"
+    ]
+  },
+  "catalog": {
+    "release": "2014 (original) · 2019 (Nintendo Switch) · 2023 (Limited Run Games #191)",
+    "developer": "Creative Assembly · Nintendo Switch port by Feral Interactive",
+    "publisher": "SEGA · physical edition by Limited Run Games",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Switch Limited Run #191 · HAC-P-AUSBA",
+    "mediumForm": "Nintendo Switch game card · Limited Run Games edition",
+    "subjects": [
+      "Survival Horror",
+      "Stealth",
+      "Science Fiction",
+      "Alien",
+      "Limited Run Games",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case · Limited Run Games #191 edition",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Alien: Isolation follows Amanda Ripley, fifteen years after the 1979 film, aboard the failing station Sevastopol with a single creature that cannot be killed. Creative Assembly developed it and SEGA published it on October 7, 2014. It won the 2015 BAFTA Games Award for Audio Achievement.\n\nFeral Interactive ported it to Nintendo Switch as a digital release on December 5, 2019. The Collection includes all seven downloadable packs: the story missions Crew Expendable and Last Survivor, and the Survivor Mode packs Safe Haven, Corporate Lockdown, Trauma, The Trigger, and Lost Contact.\n\nLimited Run Games gave the Switch version its physical release as Switch Limited Run #191, taking open pre-orders from May to July 2023.",
+  "collectionNotes": "The retained object is Switch Limited Run #191, Limited Run Games’ physical edition of Alien: Isolation – The Collection, with the full game and its seven downloadable packs on a single region-free game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Original release October 7, 2014. Feral Interactive’s Nintendo Switch port was released digitally on December 5, 2019. Limited Run Games issued the physical edition (HAC-P-AUSBA) as Switch Limited Run #191 in standard, Classic, and Collector’s editions after pre-orders closed on July 9, 2023.",
+    "availability": "Limited Run Games produced the physical edition to pre-order demand; it now circulates through the secondary market. The digital Switch edition was issued separately on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Alien",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-alien-isolation-the-collection",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0146."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:15:00.000Z-alien-isolation-the-collection",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:15:00.000Z-alien-isolation-the-collection",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:15:00.000Z-alien-isolation-the-collection",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:15:00.000Z-alien-isolation-the-collection",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:15:00.000Z-alien-isolation-the-collection",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Alien recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:15:00.000Z-alien-isolation-the-collection",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

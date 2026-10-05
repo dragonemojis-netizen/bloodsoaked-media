@@ -1,0 +1,35 @@
+{
+  "slug": "arc-system-works",
+  "authorityId": "AUTH-0275",
+  "type": "publisher",
+  "preferredName": "Arc System Works",
+  "alternativeNames": [
+    "Arc System Works Asia"
+  ],
+  "establishedDate": "1988",
+  "relatedAuthoritySlugs": [
+    "qureate"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-arc-system-works",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0275 — controlled identity for Arc System Works."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:45:00.000Z-arc-system-works",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Arc System Works — distributor of record for the Asian physical edition of Bunny Garden in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z"
+}

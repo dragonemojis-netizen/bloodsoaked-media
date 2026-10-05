@@ -1,0 +1,114 @@
+{
+  "slug": "crash-bandicoot-n-sane-trilogy",
+  "title": "Crash Bandicoot N. Sane Trilogy",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2018,
+  "synopsis": "Vicarious Visions’ remakes of Naughty Dog’s first three Crash games — retained as Activision’s Nintendo Switch game card, with all three games on the card.",
+  "coverImage": "/images/library/crash-bandicoot-n-sane-trilogy/cover-official.jpg",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z",
+  "shelfMark": "LIB-0186",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "vicarious-visions",
+      "iron-galaxy"
+    ],
+    "publishers": [
+      "activision"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "crash-bandicoot"
+    ]
+  },
+  "catalog": {
+    "release": "1996–1998 (originals) · 2017 (N. Sane Trilogy, PlayStation 4, June 30) · 2018 (Nintendo Switch, June 29)",
+    "developer": "Vicarious Visions · Nintendo Switch port by Iron Galaxy",
+    "publisher": "Activision",
+    "platform": "Nintendo Switch",
+    "region": "Region-free Nintendo Switch software",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Platformer",
+      "Remake",
+      "Crash Bandicoot",
+      "Collection",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Crash Bandicoot N. Sane Trilogy rebuilds Naughty Dog’s Crash Bandicoot (1996), Crash Bandicoot 2: Cortex Strikes Back (1997), and Crash Bandicoot: Warped (1998) from the ground up. Vicarious Visions developed the remakes, first released on PlayStation 4 on June 30, 2017.\n\nIron Galaxy ported the collection to Nintendo Switch, where Activision released it on June 29, 2018.\n\nThis filing opens the Crash Bandicoot lineage on the shelf.",
+  "collectionNotes": "The retained object is Activision’s retail edition of Crash Bandicoot N. Sane Trilogy on a Nintendo Switch game card. All three games are held on this card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. All three games are held on this copy’s card, so the trilogy is preserved by the card itself; only later patches depend on Nintendo’s servers.",
+    "knownRevisions": "Original games released 1996–1998 on PlayStation. The N. Sane Trilogy released on PlayStation 4 on June 30, 2017; Nintendo Switch, Xbox One, and PC versions followed on June 29, 2018.",
+    "availability": "Distributed at retail by Activision, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Crash Bandicoot",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-crash-bandicoot-n-sane-trilogy",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0186."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:45:00.000Z-crash-bandicoot-n-sane-trilogy",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:45:00.000Z-crash-bandicoot-n-sane-trilogy",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:45:00.000Z-crash-bandicoot-n-sane-trilogy",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:45:00.000Z-crash-bandicoot-n-sane-trilogy",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:45:00.000Z-crash-bandicoot-n-sane-trilogy",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Crash Bandicoot recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:45:00.000Z-crash-bandicoot-n-sane-trilogy",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

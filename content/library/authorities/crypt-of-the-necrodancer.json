@@ -1,0 +1,34 @@
+{
+  "slug": "crypt-of-the-necrodancer",
+  "authorityId": "AUTH-0282",
+  "type": "series",
+  "preferredName": "Crypt of the NecroDancer",
+  "alternativeNames": [
+    "NecroDancer"
+  ],
+  "relatedAuthoritySlugs": [
+    "brace-yourself-games"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-crypt-of-the-necrodancer",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0282 — controlled identity for Crypt of the NecroDancer."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:45:00.000Z-crypt-of-the-necrodancer",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Crypt of the NecroDancer — series identity for Brace Yourself Games’ rhythm roguelikes retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z"
+}

@@ -1,0 +1,141 @@
+{
+  "slug": "ar-tonelico-ii-melody-of-metafalica",
+  "title": "Ar tonelico II: Melody of Metafalica",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2009,
+  "synopsis": "The second Ar tonelico on PlayStation 2 — the NIS America Premium Box with art collection and soundtrack, retained near mint.",
+  "coverImage": "/images/library/ar-tonelico-ii-melody-of-metafalica/cover-official.jpg",
+  "filedAt": "2026-10-05T21:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:00:00.000Z",
+  "shelfMark": "LIB-0137",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "gust"
+    ],
+    "publishers": [
+      "nis-america"
+    ],
+    "platforms": [
+      "playstation-2"
+    ],
+    "series": [
+      "ar-tonelico"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "アルトネリコ2 世界に響く少女たちの創造詩",
+    "release": "2007 (Japan) · 2009 (North America)",
+    "developer": "Gust",
+    "publisher": "NIS America",
+    "platform": "PlayStation 2",
+    "region": "NTSC-U/C · North America · SLUS-21788 (Premium Box SLUS-21788P)",
+    "mediumForm": "Pressed optical disc · PlayStation 2 Premium Box edition",
+    "subjects": [
+      "JRPG",
+      "Gust",
+      "Ar tonelico",
+      "Song Magic",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Premium Box: outer box housing the keep case (pressed disc, manual, and original cover insert), the official art collection booklet, and the original soundtrack CD",
+    "condition": "Near mint. Received from a trusted collector with the premium box and its contents intact; only the faintest handling wear. Preserved as a playable reference copy.",
+    "acquired": "Private acquisition · from a collector friend",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Ar tonelico II moves the series to Metafalica, a new continent and a new pair of Reyvateils, while keeping the songs and the Dive system that defined the first game. It is larger and more confident, and it shows Gust leaning further into the strangeness that made the series distinct.\n\nThe Japanese Banpresto release arrived in October 2007. NIS America’s North American edition followed on January 20, 2009, again packaged as a Premium Box — this time with a 22-page art collection and the soundtrack — and NIS America said at launch that the box would not be reprinted.\n\nThe filing continues the Ar tonelico lineage begun by Melody of Elemia. Both copies came to the shelf together from the same collector, which is part of their record here.",
+  "collectionNotes": "Acquired from a collector friend together with the first Ar tonelico, while assembling the Gust PlayStation 2 shelf. The copy arrived near mint and complete in its Premium Box.\n\nThe retained object is the North American NIS America Premium Box (SLUS-21788P): the outer box, the standard keep case with pressed disc, manual, and cover insert, the official art collection, and the original soundtrack CD.\n\nThe reference photograph records the seven Gust PlayStation 2 holdings together, as filed in the Collection Hall under synthesis.",
+  "preservation": {
+    "playableOn": "Sony PlayStation 2; compatible North American PlayStation hardware",
+    "originalHardware": "Sony PlayStation 2 · NTSC-U/C",
+    "compatibility": "Pressed for North American PlayStation 2 consoles. The retained game disc remains the primary access copy; the soundtrack CD is retained as part of the edition.",
+    "concerns": "Optical-disc aging and surface damage remain the principal risks, alongside wear to the premium box itself. The game case is stored upright under stable, dry conditions; the box, printed extras, and any soundtrack disc remain housed together with the copy.",
+    "knownRevisions": "First issued in Japan by Banpresto on October 25, 2007 as アルトネリコ2 世界に響く少女たちの創造詩. The North American NIS America localization followed on January 20, 2009 (SLUS-21788) in a single, unreprinted Premium Box run. The European Koei release of June 2009 is a separate edition and is not this filing.",
+    "availability": "The original physical edition is out of print and circulates through the secondary market; complete Premium Boxes with the soundtrack are the scarcer form. No current digital edition replaces this North American reference copy."
+  },
+  "connections": {
+    "series": "Ar tonelico",
+    "collectionIds": [
+      "ig-18101864138381265"
+    ],
+    "instagramUrls": [
+      "https://www.instagram.com/reel/DeIE6xAs_3m/"
+    ],
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [
+    {
+      "id": "reference-01",
+      "src": "/images/library/ar-tonelico-melody-of-elemia/artifacts/01-reference-photograph.jpg",
+      "fullSrc": "/images/library/ar-tonelico-melody-of-elemia/artifacts/01-reference-photograph.jpg",
+      "view": "Collection Grouping",
+      "kind": "Reference Photograph",
+      "captured": "October 2026",
+      "resolution": "1024 × 622 pixels",
+      "edition": "North American retail copies · Gust PlayStation 2 holdings",
+      "region": "NTSC-U/C",
+      "note": "The seven Gust PlayStation 2 holdings together on the archive shelf — the Ar tonelico and Mana Khemia Premium Boxes beside the Atelier Iris trilogy — as filed in the Collection Hall under synthesis. Reference photograph, October 2026."
+    }
+  ],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:00:00.000Z-ar-tonelico-ii-melody-of-metafalica",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0137."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:00:00.000Z-ar-tonelico-ii-melody-of-metafalica",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official North American front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:00:00.000Z-ar-tonelico-ii-melody-of-metafalica",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:00:00.000Z-ar-tonelico-ii-melody-of-metafalica",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:00:00.000Z-ar-tonelico-ii-melody-of-metafalica",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:00:00.000Z-ar-tonelico-ii-melody-of-metafalica",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Ar tonelico recorded. Collection Hall filing synthesis (ig-18101864138381265) linked."
+    },
+    {
+      "id": "artifact-documentation-added-2026-10-05T21:00:00.000Z-ar-tonelico-ii-melody-of-metafalica",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "artifact-documentation-added",
+      "summary": "Collection photography added"
+    },
+    {
+      "id": "published-2026-10-05T21:00:00.000Z-ar-tonelico-ii-melody-of-metafalica",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

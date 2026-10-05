@@ -1,0 +1,114 @@
+{
+  "slug": "bayonetta",
+  "title": "Bayonetta",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2018,
+  "synopsis": "PlatinumGames’ original witch-time action game — retained as Nintendo’s standalone Nintendo Switch game card.",
+  "coverImage": "/images/library/bayonetta/cover-official.jpg",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z",
+  "shelfMark": "LIB-0157",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "platinumgames"
+    ],
+    "publishers": [
+      "nintendo"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "bayonetta"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "ベヨネッタ",
+    "release": "2009 (Japan, original) · 2018 (Nintendo Switch digital) · 2022 (Nintendo Switch standalone physical)",
+    "developer": "PlatinumGames",
+    "publisher": "Nintendo (Nintendo Switch) · originally SEGA",
+    "platform": "Nintendo Switch",
+    "region": "Region-free Nintendo Switch software",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Action",
+      "Character Action",
+      "PlatinumGames",
+      "Bayonetta",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Bayonetta is Hideki Kamiya’s character action game for PlatinumGames, first released by SEGA in Japan on PlayStation 3 and Xbox 360 on October 29, 2009. Its dodge-triggered Witch Time and combo system became the studio’s signature.\n\nNintendo brought it to Switch on February 16, 2018. In North America it was at first available only digitally or as a download code packaged with Bayonetta 2; a standalone physical game card followed on September 30, 2022, ahead of Bayonetta 3.\n\nThis filing opens the Bayonetta lineage on the shelf, beside its two sequels.",
+  "collectionNotes": "The retained object is Nintendo’s standalone physical edition of Bayonetta for Nintendo Switch.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Original release in Japan on October 29, 2009 (PlayStation 3, Xbox 360), published by SEGA. Nintendo Switch release February 16, 2018; the standalone North American physical edition (HAC-P-AE99A) followed on September 30, 2022.",
+    "availability": "Distributed at retail by Nintendo, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Bayonetta",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-bayonetta",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0157."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:30:00.000Z-bayonetta",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:30:00.000Z-bayonetta",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:30:00.000Z-bayonetta",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:30:00.000Z-bayonetta",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:30:00.000Z-bayonetta",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Bayonetta recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:30:00.000Z-bayonetta",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

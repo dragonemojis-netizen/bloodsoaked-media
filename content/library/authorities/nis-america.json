@@ -1,0 +1,38 @@
+{
+  "slug": "nis-america",
+  "authorityId": "AUTH-0214",
+  "type": "publisher",
+  "preferredName": "NIS America",
+  "alternativeNames": [
+    "NIS America, Inc.",
+    "Nippon Ichi Software America"
+  ],
+  "relatedAuthoritySlugs": [
+    "gust",
+    "playstation-2"
+  ],
+  "relatedHoldingIds": [
+    "ig-18101864138381265"
+  ],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:00:00.000Z-nis-america",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0214 — controlled identity for NIS America."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:00:00.000Z-nis-america",
+      "at": "2026-10-05T21:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "NIS America — North American publisher of record for the Gust PlayStation 2 holdings in the Bloodsoaked Library, including the Ar tonelico and Mana Khemia Premium Box editions and the Atelier Iris trilogy.",
+  "curatorialRevisionAt": "2026-10-05T21:00:00.000Z"
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "bayonetta-2",
+  "title": "Bayonetta 2",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2018,
+  "synopsis": "PlatinumGames’ Nintendo-published sequel, moved from Wii U to Switch — retained as the Nintendo Switch game card.",
+  "coverImage": "/images/library/bayonetta-2/cover-official.jpg",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z",
+  "shelfMark": "LIB-0158",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "platinumgames"
+    ],
+    "publishers": [
+      "nintendo"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "bayonetta"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "ベヨネッタ２",
+    "release": "2014 (Wii U) · 2018 (Nintendo Switch, February 16)",
+    "developer": "PlatinumGames",
+    "publisher": "Nintendo",
+    "platform": "Nintendo Switch",
+    "region": "Region-free Nintendo Switch software",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Action",
+      "Character Action",
+      "PlatinumGames",
+      "Bayonetta",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Bayonetta 2 was the sequel Nintendo stepped in to publish, released on Wii U in Japan on September 20, 2014. PlatinumGames kept the first game’s Witch Time combat and added cooperative Tag Climax play.\n\nThe Nintendo Switch version arrived on February 16, 2018, alongside the first Bayonetta.\n\nThe filing sits between its predecessor and Bayonetta 3 in the Bayonetta lineage.",
+  "collectionNotes": "The retained object is Nintendo’s retail edition of Bayonetta 2 for Nintendo Switch. As issued in North America, the package also carries a download code for the first Bayonetta, which is not on the game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Bayonetta 2 is on the card; the first Bayonetta included with this edition is a download code and depends on the Nintendo eShop.",
+    "knownRevisions": "Original Wii U release in Japan on September 20, 2014. Nintendo Switch release February 16, 2018 (February 17 in Japan). Europe received a Special Edition and Japan a Climax Edition bundling both games.",
+    "availability": "Distributed at retail by Nintendo, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Bayonetta",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-bayonetta-2",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0158."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:30:00.000Z-bayonetta-2",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:30:00.000Z-bayonetta-2",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:30:00.000Z-bayonetta-2",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:30:00.000Z-bayonetta-2",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:30:00.000Z-bayonetta-2",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Bayonetta recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:30:00.000Z-bayonetta-2",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

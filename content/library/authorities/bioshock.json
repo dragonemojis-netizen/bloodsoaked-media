@@ -1,0 +1,32 @@
+{
+  "slug": "bioshock",
+  "authorityId": "AUTH-0252",
+  "type": "series",
+  "preferredName": "BioShock",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "2k"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-bioshock",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0252 — controlled identity for BioShock."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:30:00.000Z-bioshock",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "BioShock — series identity for the BioShock games retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z"
+}

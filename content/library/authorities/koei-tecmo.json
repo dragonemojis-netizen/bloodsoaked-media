@@ -1,0 +1,39 @@
+{
+  "slug": "koei-tecmo",
+  "authorityId": "AUTH-0237",
+  "type": "publisher",
+  "preferredName": "Koei Tecmo",
+  "alternativeNames": [
+    "Koei Tecmo Games",
+    "Koei Tecmo America",
+    "KOEI TECMO"
+  ],
+  "relatedAuthoritySlugs": [
+    "omega-force",
+    "gust",
+    "attack-on-titan",
+    "atelier"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-koei-tecmo",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0237 — controlled identity for Koei Tecmo."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:15:00.000Z-koei-tecmo",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Koei Tecmo — publisher of record for Attack on Titan 2 and Atelier Lulua: The Scion of Arland in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z"
+}

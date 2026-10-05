@@ -1,0 +1,36 @@
+{
+  "slug": "limited-run-games",
+  "authorityId": "AUTH-0227",
+  "type": "publisher",
+  "preferredName": "Limited Run Games",
+  "alternativeNames": [
+    "LRG",
+    "Limited Run"
+  ],
+  "establishedDate": "2015",
+  "relatedAuthoritySlugs": [
+    "nintendo-switch"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-limited-run-games",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0227 — controlled identity for Limited Run Games."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:15:00.000Z-limited-run-games",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Limited Run Games — physical-edition publisher of record for numbered Nintendo Switch releases in the Bloodsoaked Library, including Alien: Isolation – The Collection (#191) and Animal Well (#234).",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z"
+}

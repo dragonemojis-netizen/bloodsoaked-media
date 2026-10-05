@@ -1,0 +1,35 @@
+{
+  "slug": "nintendo",
+  "authorityId": "AUTH-0232",
+  "type": "publisher",
+  "preferredName": "Nintendo",
+  "alternativeNames": [
+    "Nintendo Co., Ltd."
+  ],
+  "relatedAuthoritySlugs": [
+    "nintendo-switch",
+    "platinumgames"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:15:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:15:00.000Z-nintendo",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0232 — controlled identity for Nintendo."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:15:00.000Z-nintendo",
+      "at": "2026-10-05T21:15:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Nintendo — publisher of record for Astral Chain in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:15:00.000Z"
+}

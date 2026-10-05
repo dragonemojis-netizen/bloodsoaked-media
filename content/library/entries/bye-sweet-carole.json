@@ -1,0 +1,107 @@
+{
+  "slug": "bye-sweet-carole",
+  "title": "Bye Sweet Carole",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2025,
+  "synopsis": "Chris Darril’s hand-drawn horror fairy tale — retained as Maximum Entertainment’s Nintendo Switch game card.",
+  "coverImage": "/images/library/bye-sweet-carole/cover-official.jpg",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z",
+  "shelfMark": "LIB-0178",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "little-sewing-machine"
+    ],
+    "publishers": [
+      "maximum-entertainment"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ]
+  },
+  "catalog": {
+    "release": "2025 (October 9 · North American Nintendo Switch physical, October 21)",
+    "developer": "Little Sewing Machine",
+    "publisher": "Maximum Entertainment",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-BQ5ZA",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Horror",
+      "Puzzle-Platformer",
+      "Hand-Drawn",
+      "Indie",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Bye Sweet Carole is a hand-drawn horror puzzle-platformer from Little Sewing Machine, the Italian studio of Remothered creator Chris Darril, styled after classic animated film. In early-1900s England, Lana Benton searches the Bunny Hall orphanage and the kingdom of Corolla for her missing friend Carole Simmons, able to take the form of a rabbit to escape what hunts her.\n\nMaximum Entertainment released it on October 9, 2025, across platforms; the North American Switch physical edition followed on October 21, 2025.",
+  "collectionNotes": "The retained object is Maximum Entertainment’s retail edition of Bye Sweet Carole on a Nintendo Switch game card, with a reversible cover.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Released October 9, 2025 on Nintendo Switch, PlayStation 5, Xbox Series X|S, and PC. The North American Switch physical edition (HAC-P-BQ5ZA) released October 21, 2025, with a code sheet for the digital soundtrack and art book.",
+    "availability": "Distributed at retail by Maximum Entertainment, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-bye-sweet-carole",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0178."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:45:00.000Z-bye-sweet-carole",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:45:00.000Z-bye-sweet-carole",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:45:00.000Z-bye-sweet-carole",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:45:00.000Z-bye-sweet-carole",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:45:00.000Z-bye-sweet-carole",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "published-2026-10-05T21:45:00.000Z-bye-sweet-carole",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

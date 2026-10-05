@@ -1,0 +1,108 @@
+{
+  "slug": "atomik-rungunjumpgun",
+  "title": "Atomik: RunGunJumpGun",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2018,
+  "synopsis": "ThirtyThree’s two-button jetpack platformer — retained as Super Rare Games’ numbered #87 Nintendo Switch physical edition.",
+  "coverImage": "/images/library/atomik-rungunjumpgun/cover-official.jpg",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z",
+  "shelfMark": "LIB-0154",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "thirtythree"
+    ],
+    "publishers": [
+      "good-shepherd-entertainment",
+      "super-rare-games"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ]
+  },
+  "catalog": {
+    "release": "2016 (PC) · 2018 (Nintendo Switch) · 2023 (Super Rare Games #87)",
+    "developer": "ThirtyThree",
+    "publisher": "Good Shepherd Entertainment · physical edition by Super Rare Games",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Super Rare Games #87 · HAC-P-AHZMA",
+    "mediumForm": "Nintendo Switch game card · Super Rare Games numbered edition",
+    "subjects": [
+      "Platformer",
+      "Action",
+      "Indie",
+      "Super Rare Games",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case · Super Rare Games #87 edition",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Atomik: RunGunJumpGun is a two-button platformer from ThirtyThree, a three-person Canadian studio: one button fires downward to fly, the other fires forward to clear the way, across more than 120 levels in three worlds.\n\nIt released on PC on August 31, 2016, and on the Nintendo Switch eShop on February 8, 2018, published by Good Shepherd Entertainment. Super Rare Games gave it its first Switch physical release as SRG #87 on March 30, 2023, limited to 4,000 copies.",
+  "collectionNotes": "The retained object is Super Rare Games #87, the boutique physical Nintendo Switch edition, sold from March 30, 2023 with interior artwork, a full-colour manual, a sticker, and trading cards.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "PC release August 31, 2016; Nintendo Switch eShop release February 8, 2018. Super Rare Games #87 (HAC-P-AHZMA) is the Switch physical edition recorded here, printed in a run of 4,000.",
+    "availability": "Super Rare Games’s physical edition was a limited production and now circulates through the secondary market. The digital Switch edition was issued separately on the Nintendo eShop."
+  },
+  "connections": {
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-atomik-rungunjumpgun",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0154."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:30:00.000Z-atomik-rungunjumpgun",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:30:00.000Z-atomik-rungunjumpgun",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:30:00.000Z-atomik-rungunjumpgun",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:30:00.000Z-atomik-rungunjumpgun",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:30:00.000Z-atomik-rungunjumpgun",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "published-2026-10-05T21:30:00.000Z-atomik-rungunjumpgun",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

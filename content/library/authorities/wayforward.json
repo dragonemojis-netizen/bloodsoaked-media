@@ -1,0 +1,36 @@
+{
+  "slug": "wayforward",
+  "authorityId": "AUTH-0261",
+  "type": "developer",
+  "preferredName": "WayForward",
+  "alternativeNames": [
+    "WayForward Technologies"
+  ],
+  "establishedDate": "1990",
+  "relatedAuthoritySlugs": [
+    "ziggurat-interactive",
+    "bloodrayne"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-wayforward",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0261 — controlled identity for WayForward."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:30:00.000Z-wayforward",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "WayForward — developer of record for BloodRayne Betrayal: Fresh Bites in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z"
+}

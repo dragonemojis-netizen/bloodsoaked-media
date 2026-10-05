@@ -1,0 +1,32 @@
+{
+  "slug": "qureate",
+  "authorityId": "AUTH-0274",
+  "type": "developer",
+  "preferredName": "Qureate",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "arc-system-works"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:45:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:45:00.000Z-qureate",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0274 — controlled identity for Qureate."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:45:00.000Z-qureate",
+      "at": "2026-10-05T21:45:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Qureate — developer and publisher of record for Bunny Garden in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:45:00.000Z"
+}

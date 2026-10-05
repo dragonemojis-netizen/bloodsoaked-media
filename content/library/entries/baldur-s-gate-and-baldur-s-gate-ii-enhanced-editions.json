@@ -1,0 +1,114 @@
+{
+  "slug": "baldur-s-gate-and-baldur-s-gate-ii-enhanced-editions",
+  "title": "Baldur's Gate and Baldur's Gate II: Enhanced Editions",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2019,
+  "synopsis": "Beamdog’s Enhanced Editions of BioWare’s Infinity Engine RPGs, brought to console for the first time — retained as Skybound Games’ Nintendo Switch game card.",
+  "coverImage": "/images/library/baldur-s-gate-and-baldur-s-gate-ii-enhanced-editions/cover-official.jpg",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z",
+  "shelfMark": "LIB-0156",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "bioware",
+      "beamdog"
+    ],
+    "publishers": [
+      "skybound-games"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "baldurs-gate"
+    ]
+  },
+  "catalog": {
+    "release": "1998 (Baldur’s Gate) · 2000 (Baldur’s Gate II) · 2019 (Nintendo Switch, October 15)",
+    "developer": "BioWare · Enhanced Editions and Nintendo Switch version by Beamdog",
+    "publisher": "Skybound Games",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-ATNRA",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "CRPG",
+      "Dungeons & Dragons",
+      "Forgotten Realms",
+      "Baldur's Gate",
+      "Collection",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "BioWare’s Baldur’s Gate (1998) and Baldur’s Gate II: Shadows of Amn (2000) defined the Infinity Engine role-playing game on PC, set in the Forgotten Realms of Dungeons & Dragons. Beamdog revisited both as Enhanced Editions in 2012 and 2013.\n\nSkybound Games released the pair on Nintendo Switch on October 15, 2019, marking the series’ twentieth anniversary and its first appearance on consoles. The collection holds Baldur’s Gate with Tales of the Sword Coast and Siege of Dragonspear, and Baldur’s Gate II with Throne of Bhaal.\n\nThe filing joins the Baldur’s Gate lineage already on the shelf.",
+  "collectionNotes": "The retained object is Skybound Games’ retail edition of Baldur’s Gate and Baldur’s Gate II: Enhanced Editions on a single Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Baldur’s Gate released December 21, 1998; Baldur’s Gate II: Shadows of Amn in September 2000. Beamdog’s Enhanced Editions followed in November 2012 and November 2013. The Switch collection (HAC-P-ATNRA) released October 15, 2019; non-English languages are delivered as free downloadable content.",
+    "availability": "Distributed at retail by Skybound Games, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Baldur's Gate",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-baldur-s-gate-and-baldur-s-gate-ii-enhanced-editions",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0156."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:30:00.000Z-baldur-s-gate-and-baldur-s-gate-ii-enhanced-editions",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:30:00.000Z-baldur-s-gate-and-baldur-s-gate-ii-enhanced-editions",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:30:00.000Z-baldur-s-gate-and-baldur-s-gate-ii-enhanced-editions",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:30:00.000Z-baldur-s-gate-and-baldur-s-gate-ii-enhanced-editions",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:30:00.000Z-baldur-s-gate-and-baldur-s-gate-ii-enhanced-editions",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Baldur's Gate recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:30:00.000Z-baldur-s-gate-and-baldur-s-gate-ii-enhanced-editions",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

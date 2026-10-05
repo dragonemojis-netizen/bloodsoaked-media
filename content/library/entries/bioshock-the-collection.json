@@ -1,0 +1,113 @@
+{
+  "slug": "bioshock-the-collection",
+  "title": "BioShock: The Collection",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2020,
+  "synopsis": "BioShock, BioShock 2, and BioShock Infinite with their single-player add-ons — retained as 2K’s Nintendo Switch game card.",
+  "coverImage": "/images/library/bioshock-the-collection/cover-official.jpg",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z",
+  "shelfMark": "LIB-0161",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "blind-squirrel-games",
+      "virtuos"
+    ],
+    "publishers": [
+      "2k"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "bioshock"
+    ]
+  },
+  "catalog": {
+    "release": "2016 (The Collection) · 2020 (Nintendo Switch, May 29)",
+    "developer": "Blind Squirrel Games · Nintendo Switch port by Virtuos",
+    "publisher": "2K",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-AXX7A",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "First-Person Shooter",
+      "Immersive Sim",
+      "BioShock",
+      "Collection",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "BioShock: The Collection gathers BioShock Remastered, BioShock 2 Remastered, and BioShock Infinite: The Complete Edition, with their single-player downloadable content — among it Minerva’s Den and both episodes of Burial at Sea — and the director’s commentary Imagining BioShock.\n\nBlind Squirrel Games assembled the collection for 2K in 2016. Virtuos ported it to Nintendo Switch, where it released on May 29, 2020.\n\nThis filing opens the BioShock lineage on the shelf.",
+  "collectionNotes": "The retained object is 2K’s retail edition of BioShock: The Collection for Nintendo Switch.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. The 16 GB card holds only the opening portions of the three games; the remainder — roughly 25 to 31 GB depending on the source — must be downloaded from the Nintendo eShop to a microSD card, so most of the collection is not preserved by the card alone.",
+    "knownRevisions": "The Collection released on PlayStation 4 and Xbox One on September 13, 2016. Nintendo Switch release May 29, 2020 (HAC-P-AXX7A), single-player content only.",
+    "availability": "Distributed at retail by 2K, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "BioShock",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-bioshock-the-collection",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0161."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T21:30:00.000Z-bioshock-the-collection",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T21:30:00.000Z-bioshock-the-collection",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T21:30:00.000Z-bioshock-the-collection",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T21:30:00.000Z-bioshock-the-collection",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T21:30:00.000Z-bioshock-the-collection",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "BioShock recorded."
+    },
+    {
+      "id": "published-2026-10-05T21:30:00.000Z-bioshock-the-collection",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

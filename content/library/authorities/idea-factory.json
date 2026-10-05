@@ -1,0 +1,37 @@
+{
+  "slug": "idea-factory",
+  "authorityId": "AUTH-0239",
+  "type": "publisher",
+  "preferredName": "Idea Factory",
+  "alternativeNames": [
+    "Idea Factory International",
+    "IFI"
+  ],
+  "establishedDate": "1994",
+  "relatedAuthoritySlugs": [
+    "compile-heart",
+    "azur-lane"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T21:30:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T21:30:00.000Z-idea-factory",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0239 — controlled identity for Idea Factory."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T21:30:00.000Z-idea-factory",
+      "at": "2026-10-05T21:30:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Idea Factory — publisher and co-developer of record for Azur Lane: Crosswave in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T21:30:00.000Z"
+}
