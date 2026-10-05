@@ -1,0 +1,113 @@
+{
+  "slug": "disgaea-5-complete",
+  "title": "Disgaea 5 Complete",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2017,
+  "synopsis": "Killia’s alliance against the Void Dark, with all PlayStation 4 add-ons — retained as NIS America’s Nintendo Switch game card.",
+  "coverImage": "/images/library/disgaea-5-complete/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0207",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "nippon-ichi-software"
+    ],
+    "publishers": [
+      "nis-america"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "disgaea"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "魔界戦記ディスガイア5",
+    "release": "2015 (Disgaea 5, Japan) · 2017 (Complete; North America, May 23)",
+    "developer": "Nippon Ichi Software",
+    "publisher": "NIS America",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-AACAC",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Tactical RPG",
+      "Strategy",
+      "Disgaea",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Disgaea 5: Alliance of Vengeance sets Killia and a band of overlords against Void Dark and his Lost army. Disgaea 5 Complete brought it to Nintendo Switch on May 23, 2017 — one of NIS America’s early Switch releases — with every bonus scenario, character, and class that had been paid content on PlayStation 4.\n\nThe filing joins the Disgaea lineage on the shelf.",
+  "collectionNotes": "The retained object is NIS America’s retail edition of Disgaea 5 Complete on a Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Disgaea 5 released on PlayStation 4 in Japan in March 2015. Disgaea 5 Complete released in North America on May 23, 2017 (HAC-P-AACAC), and Europe on May 26, 2017.",
+    "availability": "Distributed at retail by NIS America, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Disgaea",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-disgaea-5-complete",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0207."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-disgaea-5-complete",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-disgaea-5-complete",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-disgaea-5-complete",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-disgaea-5-complete",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-disgaea-5-complete",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Disgaea recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-disgaea-5-complete",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

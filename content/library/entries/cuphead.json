@@ -1,0 +1,115 @@
+{
+  "slug": "cuphead",
+  "title": "Cuphead",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2022,
+  "synopsis": "Studio MDHR’s 1930s-cartoon run-and-gun, with The Delicious Last Course on the card — retained as the iam8bit physical edition.",
+  "coverImage": "/images/library/cuphead/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0191",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "studio-mdhr"
+    ],
+    "publishers": [
+      "studio-mdhr",
+      "iam8bit",
+      "skybound-games"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "cuphead"
+    ]
+  },
+  "catalog": {
+    "release": "2017 (Xbox One, PC) · 2019 (Nintendo Switch digital) · 2022 (physical edition, December 6)",
+    "developer": "Studio MDHR",
+    "publisher": "Studio MDHR · physical edition by iam8bit, distributed by Skybound Games",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-ASVUG",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Run and Gun",
+      "Boss Rush",
+      "Hand-Drawn",
+      "Indie",
+      "Cuphead",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Cuphead is Studio MDHR’s boss-driven run-and-gun, drawn and animated by hand in the manner of 1930s cartoons with watercolour backgrounds and a live jazz score. Cuphead and Mugman fight to repay a debt to the Devil.\n\nIt released on Xbox One and PC on September 29, 2017, and on Nintendo Switch digitally on April 18, 2019. iam8bit’s physical edition followed on December 6, 2022, with The Delicious Last Course expansion and its new playable character, Ms. Chalice, on the card.\n\nThis filing opens the Cuphead lineage on the shelf.",
+  "collectionNotes": "The retained object is iam8bit’s physical edition of Cuphead for Nintendo Switch, with The Delicious Last Course included, Cuphead Funnies cards, and a Cuphead Club membership card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Released September 29, 2017 on Xbox One and PC; Nintendo Switch eShop April 18, 2019. The physical edition (HAC-P-ASVUG) released December 6, 2022, with the expansion on the card.",
+    "availability": "Distributed at retail by iam8bit and Skybound Games, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Cuphead",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-cuphead",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0191."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-cuphead",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-cuphead",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-cuphead",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-cuphead",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-cuphead",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Cuphead recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-cuphead",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

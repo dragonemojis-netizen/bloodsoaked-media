@@ -1,0 +1,116 @@
+{
+  "slug": "divinity-original-sin-ii-definitive-edition",
+  "title": "Divinity: Original Sin II – Definitive Edition",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2020,
+  "synopsis": "Larian’s acclaimed party RPG of the Divine Order’s collapse — retained as Limited Run Games’ #55 Nintendo Switch physical edition.",
+  "coverImage": "/images/library/divinity-original-sin-ii-definitive-edition/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0209",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "larian-studios",
+      "blitworks"
+    ],
+    "publishers": [
+      "larian-studios",
+      "limited-run-games"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "divinity"
+    ]
+  },
+  "catalog": {
+    "release": "2017 (PC) · 2019 (Nintendo Switch digital, September 4) · 2020 (Limited Run Games #55)",
+    "developer": "Larian Studios · Nintendo Switch port with BlitWorks",
+    "publisher": "Larian Studios · physical edition by Limited Run Games",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Switch Limited Run #55 · HAC-P-ASNMA",
+    "mediumForm": "Nintendo Switch game card · Limited Run Games edition",
+    "subjects": [
+      "CRPG",
+      "Turn-Based",
+      "Fantasy",
+      "Co-op",
+      "Divinity",
+      "Limited Run Games",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case · Limited Run Games #55 edition",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Divinity: Original Sin II is Larian Studios’ turn-based party RPG set in Rivellon after the death of the Divine, where Sourcerers contend for godhood as the Void approaches. It released on PC on September 14, 2017, and its Definitive Edition followed in 2018.\n\nThe Nintendo Switch version, ported with BlitWorks, was released on the eShop on September 4, 2019. Limited Run Games produced the only physical Switch edition as Switch Limited Run #55, taking pre-orders from December 2019 to January 2020.\n\nThis filing opens the Divinity lineage on the shelf.",
+  "collectionNotes": "The retained object is Switch Limited Run #55, Limited Run Games’ physical edition of Divinity: Original Sin II – Definitive Edition, with a full-colour manual and reversible cover.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "PC release September 14, 2017; Definitive Edition in August 2018. Nintendo Switch eShop release September 4, 2019. Limited Run Games issued the physical edition (HAC-P-ASNMA) as Switch Limited Run #55 in 2020, with the free Gift Bag content then released on the card.",
+    "availability": "Limited Run Games’s physical edition was a limited production and now circulates through the secondary market. The digital Switch edition was issued separately on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Divinity",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-divinity-original-sin-ii-definitive-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0209."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-divinity-original-sin-ii-definitive-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-divinity-original-sin-ii-definitive-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-divinity-original-sin-ii-definitive-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-divinity-original-sin-ii-definitive-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-divinity-original-sin-ii-definitive-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Divinity recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-divinity-original-sin-ii-definitive-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

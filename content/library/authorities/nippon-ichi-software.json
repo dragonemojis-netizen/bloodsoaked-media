@@ -1,0 +1,36 @@
+{
+  "slug": "nippon-ichi-software",
+  "authorityId": "AUTH-0324",
+  "type": "developer",
+  "preferredName": "Nippon Ichi Software",
+  "alternativeNames": [
+    "NIS"
+  ],
+  "establishedDate": "1993",
+  "relatedAuthoritySlugs": [
+    "nis-america",
+    "disgaea"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-nippon-ichi-software",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0324 — controlled identity for Nippon Ichi Software."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-nippon-ichi-software",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Nippon Ichi Software — developer of record for the Disgaea games in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "kronos-digital-entertainment",
+  "authorityId": "AUTH-0354",
+  "type": "developer",
+  "preferredName": "Kronos Digital Entertainment",
+  "alternativeNames": [
+    "Kronos"
+  ],
+  "relatedAuthoritySlugs": [
+    "implicit-conversions",
+    "fear-effect"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-kronos-digital-entertainment",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0354 — controlled identity for Kronos Digital Entertainment."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-kronos-digital-entertainment",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Kronos Digital Entertainment — original developer of record for Fear Effect in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

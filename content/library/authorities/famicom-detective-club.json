@@ -1,0 +1,33 @@
+{
+  "slug": "famicom-detective-club",
+  "authorityId": "AUTH-0346",
+  "type": "series",
+  "preferredName": "Famicom Detective Club",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "nintendo",
+    "mages"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-famicom-detective-club",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0346 — controlled identity for Famicom Detective Club."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-famicom-detective-club",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Famicom Detective Club — series identity for Nintendo’s Famicom Detective Club mysteries retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

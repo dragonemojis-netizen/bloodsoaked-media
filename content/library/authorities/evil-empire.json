@@ -1,0 +1,33 @@
+{
+  "slug": "evil-empire",
+  "authorityId": "AUTH-0311",
+  "type": "developer",
+  "preferredName": "Evil Empire",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "motion-twin",
+    "dead-cells"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-evil-empire",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0311 — controlled identity for Evil Empire."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-evil-empire",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Evil Empire — co-developer of record for Dead Cells: Return to Castlevania Edition in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "rising-star-games",
+  "authorityId": "AUTH-0317",
+  "type": "publisher",
+  "preferredName": "Rising Star Games",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "toybox",
+    "deadly-premonition"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-rising-star-games",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0317 — controlled identity for Rising Star Games."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-rising-star-games",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Rising Star Games — publisher of record for Deadly Premonition 2 in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

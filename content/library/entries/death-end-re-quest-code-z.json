@@ -1,0 +1,115 @@
+{
+  "slug": "death-end-re-quest-code-z",
+  "title": "Death end re;Quest: Code Z",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2026,
+  "synopsis": "Compile Heart’s roguelike Death end re;Quest spin-off, cancelled for Switch in the West — retained as eastasiasoft’s Asian English edition.",
+  "coverImage": "/images/library/death-end-re-quest-code-z/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0201",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "compile-heart"
+    ],
+    "publishers": [
+      "eastasiasoft"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "death-end-re-quest"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "デス エンド リクエスト コード ゼット",
+    "release": "2024 (Japan, September 19) · 2026 (Asian English Nintendo Switch edition, July 24)",
+    "developer": "Compile Heart",
+    "publisher": "eastasiasoft (Asian English edition) · originally Compile Heart",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Asian English edition",
+    "mediumForm": "Nintendo Switch game card · Asian retail edition",
+    "subjects": [
+      "Roguelike",
+      "Dungeon Crawler",
+      "Horror",
+      "Death end re;Quest",
+      "Import",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Code Z is a roguelike spin-off set between the first two Death end re;Quest games. Sayaka Hiwatari explores shifting dungeons in the parallel world DE-1.5, and her more than one hundred possible deaths make her stronger with each run.\n\nCompile Heart released it in Japan on September 19, 2024. Idea Factory International cancelled the Western Switch version in December 2024, citing Nintendo’s content guidelines; eastasiasoft issued an Asian English edition for Switch on July 24, 2026.\n\nThe filing closes the Death end re;Quest lineage on the shelf as it stands.",
+  "collectionNotes": "The retained object is eastasiasoft’s Asian English edition of Death end re;Quest: Code Z on a Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Released in Japan on September 19, 2024 (PlayStation 5, PlayStation 4, Nintendo Switch). Western PlayStation versions followed on May 13, 2025; the Western Switch version was cancelled. eastasiasoft’s Asian English Switch edition released July 24, 2026, alongside a numbered Limited Edition.",
+    "availability": "Issued for Nintendo Switch in English only through eastasiasoft’s Asian edition."
+  },
+  "connections": {
+    "series": "Death end re;Quest",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-death-end-re-quest-code-z",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0201."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-death-end-re-quest-code-z",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-death-end-re-quest-code-z",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-death-end-re-quest-code-z",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-death-end-re-quest-code-z",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-death-end-re-quest-code-z",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Death end re;Quest recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-death-end-re-quest-code-z",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

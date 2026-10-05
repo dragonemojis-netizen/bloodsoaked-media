@@ -1,0 +1,36 @@
+{
+  "slug": "deadly-premonition",
+  "authorityId": "AUTH-0318",
+  "type": "series",
+  "preferredName": "Deadly Premonition",
+  "alternativeNames": [
+    "Red Seeds Profile"
+  ],
+  "relatedAuthoritySlugs": [
+    "access-games",
+    "toybox",
+    "white-owls"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-deadly-premonition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0318 — controlled identity for Deadly Premonition."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-deadly-premonition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Deadly Premonition — series identity for SWERY’s Deadly Premonition games retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

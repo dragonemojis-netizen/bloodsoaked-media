@@ -1,0 +1,109 @@
+{
+  "slug": "the-doinksoft-collection",
+  "title": "The Doinksoft Collection",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2024,
+  "synopsis": "Gunbrella, Gato Roboto, and the physical-only Demon Throttle on one card — retained as Devolver Digital’s Nintendo Switch edition.",
+  "coverImage": "/images/library/the-doinksoft-collection/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0210",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "doinksoft"
+    ],
+    "publishers": [
+      "devolver-digital"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ]
+  },
+  "catalog": {
+    "release": "2019 (Gato Roboto) · 2022 (Demon Throttle) · 2023 (Gunbrella) · 2024 (collection, August 30)",
+    "developer": "Doinksoft",
+    "publisher": "Devolver Digital",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-BHBNA",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Action",
+      "Metroidvania",
+      "Shoot 'em Up",
+      "Pixel Art",
+      "Indie",
+      "Collection",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "The Doinksoft Collection gathers three games from Devolver Digital’s Portland studio: Gato Roboto, a monochrome Metroidvania with a cat in a mech; Gunbrella, a noir-punk action game built around a shotgun umbrella; and Demon Throttle, a two-player vertical shooter.\n\nDemon Throttle was originally a physical-only release with no digital edition. Devolver Digital released the collection on August 30, 2024.",
+  "collectionNotes": "The retained object is Devolver Digital’s retail edition of The Doinksoft Collection on a single Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Gato Roboto released in 2019, Demon Throttle in 2022 as a physical-only Switch release, and Gunbrella in 2023. The collection (HAC-P-BHBNA) released August 30, 2024, Gunbrella’s first physical release.",
+    "availability": "Distributed at retail by Devolver Digital. Demon Throttle has no digital edition, so this card is one of its only sources."
+  },
+  "connections": {
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-the-doinksoft-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0210."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-the-doinksoft-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-the-doinksoft-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-the-doinksoft-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-the-doinksoft-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-the-doinksoft-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-the-doinksoft-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

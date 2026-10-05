@@ -1,0 +1,115 @@
+{
+  "slug": "doom-eternal",
+  "title": "DOOM Eternal",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2023,
+  "synopsis": "id Software’s sequel to DOOM (2016) — retained as Limited Run Games’ #154 Nintendo Switch physical edition.",
+  "coverImage": "/images/library/doom-eternal/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0212",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "id-software",
+      "panic-button"
+    ],
+    "publishers": [
+      "bethesda-softworks",
+      "limited-run-games"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "doom"
+    ]
+  },
+  "catalog": {
+    "release": "2020 (March 20) · 2020 (Nintendo Switch digital, December 8) · 2023 (Limited Run Games #154)",
+    "developer": "id Software · Nintendo Switch port by Panic Button",
+    "publisher": "Bethesda Softworks · physical edition by Limited Run Games",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Switch Limited Run #154 · HAC-P-A6SVA",
+    "mediumForm": "Nintendo Switch game card · Limited Run Games edition",
+    "subjects": [
+      "First-Person Shooter",
+      "Action",
+      "DOOM",
+      "Lineage",
+      "Limited Run Games",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case · Limited Run Games #154 edition",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "DOOM Eternal follows the Doom Slayer to an Earth overrun by Hell, adding a dash, a shoulder-mounted flamethrower, and a wrist blade to the 2016 game’s combat. It released on March 20, 2020.\n\nPanic Button’s Nintendo Switch version was digital-only at launch on December 8, 2020, adding gyro aiming. Limited Run Games produced its physical edition as Switch Limited Run #154, taking pre-orders in 2022.\n\nThe filing follows DOOM (2016) in the DOOM lineage.",
+  "collectionNotes": "The retained object is Switch Limited Run #154, Limited Run Games’ standard physical edition of DOOM Eternal, with a reversible cover.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. The base campaign is on the card; The Ancient Gods expansions are paid downloads, and later updates and online content depend on Nintendo’s servers.",
+    "knownRevisions": "Released March 20, 2020 on PC, PlayStation 4, and Xbox One; Nintendo Switch eShop December 8, 2020. Limited Run Games issued the physical edition (HAC-P-A6SVA) as Switch Limited Run #154 in standard, SteelBook, Special, and Ultimate editions.",
+    "availability": "Limited Run Games’s physical edition was a limited production and now circulates through the secondary market. The digital Switch edition was issued separately on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "DOOM",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-doom-eternal",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0212."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-doom-eternal",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-doom-eternal",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-doom-eternal",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-doom-eternal",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-doom-eternal",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "DOOM recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-doom-eternal",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

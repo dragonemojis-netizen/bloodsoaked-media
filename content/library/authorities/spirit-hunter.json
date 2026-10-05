@@ -1,0 +1,36 @@
+{
+  "slug": "spirit-hunter",
+  "authorityId": "AUTH-0321",
+  "type": "series",
+  "preferredName": "Spirit Hunter",
+  "alternativeNames": [
+    "Death Mark",
+    "Shiin"
+  ],
+  "relatedAuthoritySlugs": [
+    "experience-inc",
+    "aksys-games"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-spirit-hunter",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0321 — controlled identity for Spirit Hunter."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-spirit-hunter",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Spirit Hunter — series identity for Experience’s Spirit Hunter horror adventures retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

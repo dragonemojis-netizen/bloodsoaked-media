@@ -1,0 +1,109 @@
+{
+  "slug": "dead-or-school",
+  "title": "Dead or School",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2019,
+  "synopsis": "Studio Nanafushi’s zombie-Tokyo action RPG — retained as the Japanese Nintendo Switch edition with English text.",
+  "coverImage": "/images/library/dead-or-school/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0196",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "studio-nanafushi"
+    ],
+    "publishers": [
+      "studio-nanafushi"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "デッド オア スクール",
+    "release": "2018 (PC) · 2019 (Nintendo Switch, Japan, August 29)",
+    "developer": "Studio Nanafushi",
+    "publisher": "Studio Nanafushi",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Japanese edition with English text · HAC-P-ASWCA",
+    "mediumForm": "Nintendo Switch game card · Japanese retail edition",
+    "subjects": [
+      "Action RPG",
+      "Metroidvania",
+      "Zombies",
+      "Indie",
+      "Import",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Dead or School is a 2.5D side-scrolling action RPG set in a Tokyo overrun by zombies. Hisako, raised in the underground shelters, puts on her grandmother’s old school uniform and rides the subway to the surface — Shinjuku, Asakusa, Akihabara, Roppongi — to go to school.\n\nStudio Nanafushi released it on PC in July 2018 and on Nintendo Switch in Japan on August 29, 2019; the Japanese card includes English text.",
+  "collectionNotes": "The retained object is the Japanese retail edition of Dead or School on a Nintendo Switch game card, with English text.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "PC release July 11, 2018. Nintendo Switch release in Japan on August 29, 2019 (HAC-P-ASWCA); the Western release followed on March 13, 2020.",
+    "availability": "Physically distributed in Japan, with a separate European physical edition and a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-dead-or-school",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0196."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-dead-or-school",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-dead-or-school",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-dead-or-school",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-dead-or-school",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-dead-or-school",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-dead-or-school",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

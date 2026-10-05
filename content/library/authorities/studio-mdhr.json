@@ -1,0 +1,35 @@
+{
+  "slug": "studio-mdhr",
+  "authorityId": "AUTH-0303",
+  "type": "developer",
+  "preferredName": "Studio MDHR",
+  "alternativeNames": [
+    "StudioMDHR"
+  ],
+  "relatedAuthoritySlugs": [
+    "iam8bit",
+    "cuphead"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-studio-mdhr",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0303 — controlled identity for Studio MDHR."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-studio-mdhr",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Studio MDHR — developer and publisher of record for Cuphead in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

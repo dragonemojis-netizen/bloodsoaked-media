@@ -1,0 +1,32 @@
+{
+  "slug": "david-szymanski",
+  "authorityId": "AUTH-0337",
+  "type": "developer",
+  "preferredName": "David Szymanski",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "new-blood-interactive"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-david-szymanski",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0337 — controlled identity for David Szymanski."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-david-szymanski",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "David Szymanski — creator and developer of record for DUSK in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

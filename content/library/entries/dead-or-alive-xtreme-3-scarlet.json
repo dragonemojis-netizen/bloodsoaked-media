@@ -1,0 +1,115 @@
+{
+  "slug": "dead-or-alive-xtreme-3-scarlet",
+  "title": "Dead or Alive Xtreme 3: Scarlet",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2019,
+  "synopsis": "Koei Tecmo’s island-resort spin-off of Dead or Alive — retained as the Asian Nintendo Switch edition with English text, never released in the West.",
+  "coverImage": "/images/library/dead-or-alive-xtreme-3-scarlet/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0194",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "koei-tecmo",
+      "team-ninja"
+    ],
+    "publishers": [
+      "koei-tecmo"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "dead-or-alive"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "DEAD OR ALIVE Xtreme 3 Scarlet",
+    "release": "2016 (Xtreme 3, Japan) · 2019 (Scarlet; Japan and Asia, March 20)",
+    "developer": "Koei Tecmo (Team Ninja)",
+    "publisher": "Koei Tecmo",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Asian edition with English subtitles · SXA-HAC-ASABB",
+    "mediumForm": "Nintendo Switch game card · Asian retail edition",
+    "subjects": [
+      "Sports",
+      "Volleyball",
+      "Simulation",
+      "Dead or Alive",
+      "Import",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Dead or Alive Xtreme 3: Scarlet is the enhanced edition of Koei Tecmo’s resort spin-off: beach volleyball and other minigames, gift-giving, a casino, and photo modes on Venus Island. The cartridge holds all eleven playable characters, including newcomers Misaki and Leifang.\n\nIt released on PlayStation 4 and Nintendo Switch in Japan and Asia on March 20, 2019. Koei Tecmo did not release it in North America or Europe in any form; the Asian edition carries English subtitles.\n\nThis filing opens the Dead or Alive lineage on the shelf.",
+  "collectionNotes": "The retained object is the Asian retail edition of Dead or Alive Xtreme 3: Scarlet on a Nintendo Switch game card, with Japanese voices and English subtitles.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Dead or Alive Xtreme 3 released on PlayStation 4 and PlayStation Vita in Japan in 2016. Scarlet released in Japan and Asia on March 20, 2019. No Western release followed.",
+    "availability": "Physically distributed in Japan and Asia only; never released in North America or Europe."
+  },
+  "connections": {
+    "series": "Dead or Alive",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-dead-or-alive-xtreme-3-scarlet",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0194."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-dead-or-alive-xtreme-3-scarlet",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-dead-or-alive-xtreme-3-scarlet",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-dead-or-alive-xtreme-3-scarlet",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-dead-or-alive-xtreme-3-scarlet",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-dead-or-alive-xtreme-3-scarlet",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Dead or Alive recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-dead-or-alive-xtreme-3-scarlet",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

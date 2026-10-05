@@ -1,0 +1,114 @@
+{
+  "slug": "etrian-odyssey-origins-collection",
+  "title": "Etrian Odyssey Origins Collection",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2023,
+  "synopsis": "Atlus’ first three map-drawing dungeon crawlers, remastered — retained as the Asian Nintendo Switch edition with all three on the card.",
+  "coverImage": "/images/library/etrian-odyssey-origins-collection/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0228",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "atlus"
+    ],
+    "publishers": [
+      "sega"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "etrian-odyssey"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "世界樹の迷宮I・II・III HD REMASTER",
+    "release": "2007–2010 (Nintendo DS) · 2023 (Origins Collection, June 1)",
+    "developer": "Atlus",
+    "publisher": "Sega (Atlus)",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Asian edition with English text · HAC-P-A8ZEB",
+    "mediumForm": "Nintendo Switch game card · Asian retail edition",
+    "subjects": [
+      "Dungeon Crawler",
+      "JRPG",
+      "Etrian Odyssey",
+      "Collection",
+      "Import",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Etrian Odyssey is Atlus’ first-person dungeon crawler in which players chart each labyrinth by hand. The Origins Collection remasters the first three Nintendo DS games with new art, remastered music, difficulty settings, and on-screen mapping.\n\nIt released worldwide on June 1, 2023. In North America and Europe it was digital only; the physical card was issued in Asia and Japan, and the Asian edition carries English text with all three games on the card.\n\nThis filing opens the Etrian Odyssey lineage on the shelf.",
+  "collectionNotes": "The retained object is the Asian retail edition of Etrian Odyssey Origins Collection on a Nintendo Switch game card, holding all three games with English text.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Etrian Odyssey I, II, and III released on Nintendo DS between 2007 and 2010. The Origins Collection released worldwide on June 1, 2023; the Asian physical edition (HAC-P-A8ZEB) shipped with a DLC voucher that expired May 31, 2024.",
+    "availability": "Physically distributed in Asia; the game is otherwise issued digitally or in other regional editions."
+  },
+  "connections": {
+    "series": "Etrian Odyssey",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-etrian-odyssey-origins-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0228."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-etrian-odyssey-origins-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-etrian-odyssey-origins-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-etrian-odyssey-origins-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-etrian-odyssey-origins-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-etrian-odyssey-origins-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Etrian Odyssey recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-etrian-odyssey-origins-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

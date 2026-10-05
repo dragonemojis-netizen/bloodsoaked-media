@@ -1,0 +1,116 @@
+{
+  "slug": "final-fantasy-i-vi-collection",
+  "title": "Final Fantasy I–VI Collection",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2023,
+  "synopsis": "The six Pixel Remasters on one card — retained as Square Enix’s Asian Nintendo Switch edition with English text.",
+  "coverImage": "/images/library/final-fantasy-i-vi-collection/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0233",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "square",
+      "square-enix"
+    ],
+    "publishers": [
+      "square-enix"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "final-fantasy"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "ファイナルファンタジーI-VI コレクション",
+    "release": "1987–1994 (originals) · 2023 (Nintendo Switch; Asian physical, April 20)",
+    "developer": "Square (originals) · Pixel Remaster by Square Enix",
+    "publisher": "Square Enix",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Asian edition with English text · HAC-P-BAQ7A",
+    "mediumForm": "Nintendo Switch game card · Asian retail edition",
+    "subjects": [
+      "JRPG",
+      "Pixel Remaster",
+      "Final Fantasy",
+      "Collection",
+      "Import",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "The Final Fantasy Pixel Remasters rebuild the first six Final Fantasy games — from the 1987 Famicom original to the 1994 Super Famicom Final Fantasy VI — with redrawn sprites and a rearranged score. The console versions add the original-style soundtrack, font choices, and options to switch off random encounters.\n\nThe Nintendo Switch versions released on April 20, 2023. This collection holds all six on one card; the Asian edition, released the same day, carries English text and no ESRB rating.\n\nThe filing joins the Final Fantasy lineage on the shelf.",
+  "collectionNotes": "The retained object is Square Enix’s Asian Final Fantasy I–VI Collection on a Nintendo Switch game card, with all six Pixel Remasters and English text.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Final Fantasy I released on Famicom in 1987; Final Fantasy VI on Super Famicom in 1994. The Pixel Remasters reached PC and mobile in 2021–2022, and Nintendo Switch on April 20, 2023 (HAC-P-BAQ7A for this collection).",
+    "availability": "Physically distributed in Asia; the game is otherwise issued digitally or in other regional editions."
+  },
+  "connections": {
+    "series": "Final Fantasy",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-final-fantasy-i-vi-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0233."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-final-fantasy-i-vi-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-final-fantasy-i-vi-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-final-fantasy-i-vi-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-final-fantasy-i-vi-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-final-fantasy-i-vi-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Final Fantasy recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-final-fantasy-i-vi-collection",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

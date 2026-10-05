@@ -1,0 +1,113 @@
+{
+  "slug": "disgaea-6-defiance-of-destiny",
+  "title": "Disgaea 6: Defiance of Destiny",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2021,
+  "synopsis": "The first fully 3D mainline Disgaea — retained as NIS America’s Unrelenting Edition on a Nintendo Switch game card.",
+  "coverImage": "/images/library/disgaea-6-defiance-of-destiny/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0208",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "nippon-ichi-software"
+    ],
+    "publishers": [
+      "nis-america"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "disgaea"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "魔界戦記ディスガイア6",
+    "release": "2021 (Japan, January 28 · North America, June 29)",
+    "developer": "Nippon Ichi Software",
+    "publisher": "NIS America",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-AX7LB",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Tactical RPG",
+      "Strategy",
+      "Disgaea",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Disgaea 6 follows Zed, a lowly zombie whose power of Super Reincarnation lets him keep rising against a God of Destruction. It was the series’ first new mainline entry in six years, its first with 3D character models, and introduced automated battles, retries, and replays.\n\nIt released in Japan on January 28, 2021, and in North America on June 29, 2021.\n\nThe filing closes the Disgaea lineage on the shelf as it stands.",
+  "collectionNotes": "The retained object is NIS America’s Unrelenting Edition of Disgaea 6: Defiance of Destiny for Nintendo Switch, with a mini art book, a reversible cover, and a soundtrack download code.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. The game is on the card; the Unrelenting Edition’s soundtrack is a download code, and additional characters and the season pass are eShop purchases, all dependent on Nintendo’s servers.",
+    "knownRevisions": "Released in Japan on January 28, 2021, and North America on June 29, 2021 (HAC-P-AX7LB). A PC and PlayStation version, Disgaea 6 Complete, followed in 2022.",
+    "availability": "Distributed at retail by NIS America, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Disgaea",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-disgaea-6-defiance-of-destiny",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0208."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-disgaea-6-defiance-of-destiny",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-disgaea-6-defiance-of-destiny",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-disgaea-6-defiance-of-destiny",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-disgaea-6-defiance-of-destiny",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-disgaea-6-defiance-of-destiny",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Disgaea recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-disgaea-6-defiance-of-destiny",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "dynasty-warriors",
+  "authorityId": "AUTH-0339",
+  "type": "series",
+  "preferredName": "Dynasty Warriors",
+  "alternativeNames": [
+    "Shin Sangoku Musou"
+  ],
+  "relatedAuthoritySlugs": [
+    "omega-force",
+    "koei-tecmo"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-dynasty-warriors",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0339 — controlled identity for Dynasty Warriors."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-dynasty-warriors",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Dynasty Warriors — series identity for Omega Force’s Dynasty Warriors games retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

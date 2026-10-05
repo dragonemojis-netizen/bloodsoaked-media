@@ -1,0 +1,35 @@
+{
+  "slug": "devolver-digital",
+  "authorityId": "AUTH-0329",
+  "type": "publisher",
+  "preferredName": "Devolver Digital",
+  "alternativeNames": [
+    "Devolver"
+  ],
+  "establishedDate": "2009",
+  "relatedAuthoritySlugs": [
+    "doinksoft"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-devolver-digital",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0329 — controlled identity for Devolver Digital."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-devolver-digital",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Devolver Digital — publisher of record for The Doinksoft Collection in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "crim",
+  "authorityId": "AUTH-0343",
+  "type": "developer",
+  "preferredName": "crim",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "limited-run-games",
+    "el-shaddai"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-crim",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0343 — controlled identity for crim."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-crim",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "crim — Takeyasu Sawaki’s studio, developer and publisher of record for El Shaddai: Ascension of the Metatron HD Remaster in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

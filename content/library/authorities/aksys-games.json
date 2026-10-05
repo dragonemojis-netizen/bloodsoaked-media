@@ -1,0 +1,36 @@
+{
+  "slug": "aksys-games",
+  "authorityId": "AUTH-0316",
+  "type": "publisher",
+  "preferredName": "Aksys Games",
+  "alternativeNames": [
+    "Aksys"
+  ],
+  "relatedAuthoritySlugs": [
+    "experience-inc",
+    "deadly-premonition",
+    "spirit-hunter"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-aksys-games",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0316 — controlled identity for Aksys Games."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-aksys-games",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Aksys Games — North American publisher of record for Deadly Premonition Origins and the Spirit Hunter games in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

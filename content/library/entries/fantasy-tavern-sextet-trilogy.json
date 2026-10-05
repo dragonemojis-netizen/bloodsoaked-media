@@ -1,0 +1,116 @@
+{
+  "slug": "fantasy-tavern-sextet-trilogy",
+  "title": "Fantasy Tavern Sextet Trilogy",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2026,
+  "synopsis": "All three volumes of qureate’s isekai tavern romance on one card — retained as the Asian First Print Edition.",
+  "coverImage": "/images/library/fantasy-tavern-sextet-trilogy/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0229",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "qureate"
+    ],
+    "publishers": [
+      "qureate",
+      "arc-system-works"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "fantasy-tavern-sextet"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "異世界酒場のセクステット",
+    "release": "2020 (Vol. 1, digital) · 2026 (Trilogy; Asian physical, February 26)",
+    "developer": "qureate",
+    "publisher": "qureate · Asian physical edition by Arc System Works Asia",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Asian First Print Edition with English text",
+    "mediumForm": "Nintendo Switch game card · Asian retail edition",
+    "subjects": [
+      "Visual Novel",
+      "Romance",
+      "Comedy",
+      "Fantasy Tavern Sextet",
+      "Collection",
+      "Import",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case, with First Print Edition slipcover",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Fantasy Tavern Sextet follows a cook from an Akihabara maid café transported into a fantasy world, where he helps revive the Stray Sheep tavern alongside six heroines. Its three volumes — New World Days, Adventurer’s Days, and Postlude Days — were released digitally from November 2020.\n\nThe Trilogy collects all three on one card in their first physical release, issued in Asia on February 26, 2026, with English text. The First Print Edition adds an alternate-art slipcover, art cards, and Joy-Con stickers.",
+  "collectionNotes": "The retained object is the Asian First Print Edition of Fantasy Tavern Sextet Trilogy for Nintendo Switch, with an alternate-art slipcover, three art cards, and Joy-Con stickers.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Vol. 1: New World Days released on Nintendo Switch on November 5, 2020, followed by Vol. 2 and Vol. 3. The Trilogy released physically in Asia on February 26, 2026.",
+    "availability": "Physically distributed in Asia only; the volumes are otherwise issued digitally."
+  },
+  "connections": {
+    "series": "Fantasy Tavern Sextet",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-fantasy-tavern-sextet-trilogy",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0229."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-fantasy-tavern-sextet-trilogy",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-fantasy-tavern-sextet-trilogy",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-fantasy-tavern-sextet-trilogy",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-fantasy-tavern-sextet-trilogy",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-fantasy-tavern-sextet-trilogy",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Fantasy Tavern Sextet recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-fantasy-tavern-sextet-trilogy",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

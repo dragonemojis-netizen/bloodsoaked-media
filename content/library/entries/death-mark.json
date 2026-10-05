@@ -1,0 +1,114 @@
+{
+  "slug": "death-mark",
+  "title": "Death Mark",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2018,
+  "synopsis": "Experience’s first-person urban-legend horror adventure, first of the Spirit Hunter series — retained as Aksys Games’ Nintendo Switch game card.",
+  "coverImage": "/images/library/death-mark/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0202",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "experience-inc"
+    ],
+    "publishers": [
+      "aksys-games"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "spirit-hunter"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "死印",
+    "release": "2017 (PlayStation Vita, Japan) · 2018 (Nintendo Switch; North America, October 31)",
+    "developer": "Experience",
+    "publisher": "Aksys Games",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-AQTAA",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Horror",
+      "Adventure",
+      "Visual Novel",
+      "Spirit Hunter",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Death Mark is set in the fictional H City, where people branded with a mysterious mark die horrifically. An amnesiac protagonist gathers other mark-bearers to confront spirits drawn from Japanese urban legends. It was Experience’s turn from dungeon RPGs to first-person horror adventure.\n\nIt released on PlayStation Vita in Japan in June 2017. Aksys Games brought it to Nintendo Switch in North America on October 31, 2018, with the extra episode added in the PlayStation 4 version.\n\nThis filing opens the Spirit Hunter lineage on the shelf.",
+  "collectionNotes": "The retained object is Aksys Games’ retail edition of Death Mark on a Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "PlayStation Vita release in Japan on June 1, 2017; PlayStation 4 in January 2018, adding an extra episode. Nintendo Switch release in Japan on June 28, 2018, and North America on October 31, 2018 (HAC-P-AQTAA).",
+    "availability": "Distributed at retail by Aksys Games, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Spirit Hunter",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-death-mark",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0202."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-death-mark",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-death-mark",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-death-mark",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-death-mark",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-death-mark",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Spirit Hunter recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-death-mark",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

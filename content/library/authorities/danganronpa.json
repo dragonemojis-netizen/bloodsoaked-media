@@ -1,0 +1,32 @@
+{
+  "slug": "danganronpa",
+  "authorityId": "AUTH-0307",
+  "type": "series",
+  "preferredName": "Danganronpa",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "spike-chunsoft"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-danganronpa",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0307 — controlled identity for Danganronpa."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-danganronpa",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Danganronpa — series identity for Spike Chunsoft’s Danganronpa games retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

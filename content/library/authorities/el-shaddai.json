@@ -1,0 +1,32 @@
+{
+  "slug": "el-shaddai",
+  "authorityId": "AUTH-0344",
+  "type": "series",
+  "preferredName": "El Shaddai",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "crim"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-el-shaddai",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0344 — controlled identity for El Shaddai."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-el-shaddai",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "El Shaddai — series identity for the El Shaddai games retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "blitworks",
+  "authorityId": "AUTH-0326",
+  "type": "developer",
+  "preferredName": "BlitWorks",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "larian-studios",
+    "divinity"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-blitworks",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0326 — controlled identity for BlitWorks."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-blitworks",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "BlitWorks — Nintendo Switch port co-developer of record for Divinity: Original Sin II in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

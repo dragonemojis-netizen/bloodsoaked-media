@@ -1,0 +1,114 @@
+{
+  "slug": "dungeon-defenders-awakened",
+  "title": "Dungeon Defenders: Awakened",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2023,
+  "synopsis": "Chromatic Games’ co-op tower-defence revival — retained as Super Rare Games’ numbered #90 Nintendo Switch physical edition.",
+  "coverImage": "/images/library/dungeon-defenders-awakened/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0220",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "chromatic-games"
+    ],
+    "publishers": [
+      "chromatic-games",
+      "super-rare-games"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "dungeon-defenders"
+    ]
+  },
+  "catalog": {
+    "release": "2020 (PC) · 2021 (Nintendo Switch digital, August 4) · 2023 (Super Rare Games #90)",
+    "developer": "Chromatic Games",
+    "publisher": "Chromatic Games · physical edition by Super Rare Games",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Super Rare Games #90 · HAC-P-AU9AA",
+    "mediumForm": "Nintendo Switch game card · Super Rare Games numbered edition",
+    "subjects": [
+      "Tower Defense",
+      "Action RPG",
+      "Co-op",
+      "Dungeon Defenders",
+      "Super Rare Games",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case · Super Rare Games #90 edition",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Dungeon Defenders: Awakened is Chromatic Games’ crowdfunded revival of Trendy Entertainment’s 2011 co-op tower-defence RPG: the Squire, Huntress, Apprentice, and Monk build defences and fight to protect the Eternia Crystals.\n\nIt released on PC in 2020 and on the Nintendo Switch eShop on August 4, 2021. Super Rare Games issued the Switch physical edition as SRG #90 in May 2023, limited to 4,000 copies.\n\nThis filing opens the Dungeon Defenders lineage on the shelf.",
+  "collectionNotes": "The retained object is Super Rare Games #90, the boutique physical Nintendo Switch edition, sold from May 2023 with interior artwork, a full-colour manual, a sticker, and trading cards.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "PC early access February 21, 2020; full release May 28, 2020. Nintendo Switch eShop release August 4, 2021. Super Rare Games #90 (HAC-P-AU9AA) is the Switch physical edition recorded here, printed in a run of 4,000.",
+    "availability": "Super Rare Games’s physical edition was a limited production and now circulates through the secondary market. The digital Switch edition was issued separately on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Dungeon Defenders",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-dungeon-defenders-awakened",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0220."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-dungeon-defenders-awakened",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-dungeon-defenders-awakened",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-dungeon-defenders-awakened",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-dungeon-defenders-awakened",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-dungeon-defenders-awakened",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Dungeon Defenders recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-dungeon-defenders-awakened",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

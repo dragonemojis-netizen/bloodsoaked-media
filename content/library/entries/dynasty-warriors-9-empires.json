@@ -1,0 +1,113 @@
+{
+  "slug": "dynasty-warriors-9-empires",
+  "title": "Dynasty Warriors 9 Empires",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2022,
+  "synopsis": "Omega Force’s conquest-and-strategy spin-off of Dynasty Warriors 9 — retained as Koei Tecmo’s Nintendo Switch game card.",
+  "coverImage": "/images/library/dynasty-warriors-9-empires/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0222",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "omega-force"
+    ],
+    "publishers": [
+      "koei-tecmo"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "dynasty-warriors"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "真・三國無双8 Empires",
+    "release": "2021 (Japan, December 23) · 2022 (North America, February 15)",
+    "developer": "Omega Force",
+    "publisher": "Koei Tecmo",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-AZN3B",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Hack and Slash",
+      "Strategy",
+      "Three Kingdoms",
+      "Dynasty Warriors",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Dynasty Warriors 9 Empires pairs the series’ one-against-a-thousand combat with nation-building in Three Kingdoms China, replacing Dynasty Warriors 9’s open world with large castle sieges.\n\nOmega Force released it in Japan on December 23, 2021, and Koei Tecmo issued it in North America on February 15, 2022.\n\nThis filing opens the Dynasty Warriors lineage on the shelf.",
+  "collectionNotes": "The retained object is Koei Tecmo’s North American retail edition of Dynasty Warriors 9 Empires on a Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Released in Japan on December 23, 2021, and North America on February 15, 2022 (HAC-P-AZN3B). Paid downloadable content followed.",
+    "availability": "Distributed at retail by Koei Tecmo, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Dynasty Warriors",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-dynasty-warriors-9-empires",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0222."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-dynasty-warriors-9-empires",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-dynasty-warriors-9-empires",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-dynasty-warriors-9-empires",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-dynasty-warriors-9-empires",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-dynasty-warriors-9-empires",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Dynasty Warriors recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-dynasty-warriors-9-empires",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

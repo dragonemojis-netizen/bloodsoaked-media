@@ -12,7 +12,9 @@
     "access-games",
     "acquire",
     "activision",
+    "adglobe",
     "akibas-trip",
+    "aksys-games",
     "alice-gear-aegis",
     "alien",
     "alkimia-interactive",
@@ -21,6 +23,7 @@
     "arc-system-works",
     "arma",
     "arrowhead-game-studios",
+    "artdink",
     "assassins-creed",
     "atari",
     "atelier",
@@ -43,10 +46,12 @@
     "beyond-good-and-evil",
     "big-boat-interactive",
     "bigmode",
+    "binary-haze-interactive",
     "bioshock",
     "bioware",
     "blasphemous",
     "blind-squirrel-games",
+    "blitworks",
     "blizzard-entertainment",
     "bloober-team",
     "blood",
@@ -61,6 +66,7 @@
     "bun-muen",
     "bungie",
     "burnout",
+    "calappa-games",
     "call-of-duty",
     "camelot-software-planning",
     "capcom",
@@ -69,7 +75,9 @@
     "catherine",
     "cavia",
     "cd-projekt-red",
+    "chromatic-games",
     "chrono",
+    "chunsoft",
     "claytechworks",
     "climax-studios",
     "clock-tower",
@@ -81,35 +89,61 @@
     "crash-bandicoot",
     "creative-assembly",
     "crema",
+    "crim",
     "criterion-games",
     "critical-reflex",
     "cruisn",
     "crypt-of-the-necrodancer",
+    "cuphead",
     "cyberconnect2",
     "cyberpunk",
     "cygames",
+    "danganronpa",
     "dark-souls",
+    "david-szymanski",
     "daybreak-game-company",
     "dead-by-daylight",
+    "dead-cells",
+    "dead-or-alive",
+    "deadly-premonition",
+    "death-end-re-quest",
     "deep-silver",
     "destiny",
+    "devolver-digital",
     "diablo",
     "dice",
+    "digimon",
     "digital-sun",
+    "disgaea",
+    "divinity",
+    "doinksoft",
     "doom",
+    "dragon-quest",
     "dragons-dogma",
     "drakengard-nier-lineage",
     "dreadxp",
     "duke-nukem",
+    "dungeon-defenders",
+    "dynasty-warriors",
     "eastasiasoft",
     "edmund-mcmillen",
+    "eiyuden-chronicle",
+    "el-shaddai",
     "elden-ring",
     "electronic-arts",
     "embark-studios",
+    "ender",
+    "etrian-odyssey",
+    "evil-empire",
+    "experience-inc",
     "expression-games",
     "f-e-a-r",
     "fallout",
+    "famicom-detective-club",
+    "fantasy-tavern-sextet",
     "far-cry",
+    "fatal-frame",
+    "fear-effect",
     "felistella",
     "feral-interactive",
     "fictions",
@@ -117,11 +151,13 @@
     "focus-entertainment",
     "fromsoftware",
     "fruitbat-factory",
+    "furyu",
     "game-freak",
     "game-science",
     "game-studio-inc",
     "gearbox-software",
     "gears-of-war",
+    "gemdrops",
     "giant-squid",
     "good-shepherd-entertainment",
     "gothic",
@@ -131,6 +167,7 @@
     "gt-interactive",
     "gungho-online-entertainment-america",
     "gust",
+    "h-a-n-d",
     "hack",
     "halo",
     "halo-studios",
@@ -145,6 +182,7 @@
     "iam8bit",
     "id-software",
     "idea-factory",
+    "implicit-conversions",
     "infinity-ward",
     "ink-stains-games",
     "interplay",
@@ -154,6 +192,7 @@
     "iron-gate-ab",
     "j-r-hudepohl",
     "joeveno",
+    "kai-graphics",
     "killer-bean-studios-llc",
     "kingdom-come-deliverance",
     "kira-llc",
@@ -161,35 +200,43 @@
     "konami",
     "krafton",
     "krisalis-software",
+    "kronos-digital-entertainment",
     "kuro-games",
     "kwalee",
     "larian-studios",
     "lemorion-1224",
     "limited-run-games",
     "little-sewing-machine",
+    "live-wire",
     "localthunk",
     "lovely-hellplace",
     "m2",
     "machinegames",
     "mages",
     "mangagamer",
+    "mastiff",
     "maximum-entertainment",
     "media-vision",
     "mehuman-games",
     "metaphor-refantazio",
     "monolith-productions",
     "morefun-studios",
+    "motion-twin",
     "mundfish",
     "n-space",
     "nacon",
+    "natsume-atari",
     "neem-interactive",
+    "new-blood-interactive",
     "new-generation-games",
     "nicalis",
     "nightdive-studios",
     "nihon-falcom",
     "nino-games",
     "nintendo",
+    "nintendo-epd",
     "nintendo-switch",
+    "nippon-ichi-software",
     "nis-america",
     "noquarter",
     "npc-studio",
@@ -197,6 +244,7 @@
     "omega-force",
     "orange-juice",
     "orange-juice-franchise",
+    "panic-button",
     "paper-cult",
     "parasite-eve",
     "pc",
@@ -214,17 +262,20 @@
     "pyramid",
     "quake",
     "qureate",
+    "rabbit-and-bear-studios",
     "radical-entertainment",
     "raw-thrills",
     "red-dead",
     "redruins-softworks",
     "render-cube",
     "resident-evil",
+    "rising-star-games",
     "rising-storm",
     "rockstar-games",
     "rockstar-north",
     "rockstar-toronto",
     "s-t-a-l-k-e-r",
+    "sassy-chap-games",
     "sega",
     "sgtokidoki",
     "shared-memory",
@@ -236,6 +287,8 @@
     "soleil-ltd",
     "sony-computer-entertainment-america",
     "space-hulk",
+    "spike-chunsoft",
+    "spirit-hunter",
     "square",
     "square-electronic-arts",
     "square-enix",
@@ -243,10 +296,13 @@
     "steam",
     "stellar-entertainment",
     "sting",
+    "studio-mdhr",
+    "studio-nanafushi",
     "sunflower-ocean",
     "super-rare-games",
     "sword-art-online",
     "team-grisgris",
+    "team-ninja",
     "team-psykskallar",
     "team-reptile",
     "team-silent",
@@ -268,6 +324,7 @@
     "top-hat-studios",
     "toplitz-productions",
     "tose",
+    "toybox",
     "trails-in-the-sky",
     "treyarch",
     "tripwire-interactive",
@@ -293,6 +350,7 @@
     "warhorse-studios",
     "warner-bros-games",
     "wayforward",
+    "white-owls",
     "wild-arms",
     "wishlist-games",
     "xbox-game-studios",
@@ -313,7 +371,9 @@
     "access-games",
     "acquire",
     "activision",
+    "adglobe",
     "akibas-trip",
+    "aksys-games",
     "alice-gear-aegis",
     "alien",
     "alkimia-interactive",
@@ -322,6 +382,7 @@
     "arc-system-works",
     "arma",
     "arrowhead-game-studios",
+    "artdink",
     "assassins-creed",
     "atari",
     "atelier",
@@ -344,10 +405,12 @@
     "beyond-good-and-evil",
     "big-boat-interactive",
     "bigmode",
+    "binary-haze-interactive",
     "bioshock",
     "bioware",
     "blasphemous",
     "blind-squirrel-games",
+    "blitworks",
     "blizzard-entertainment",
     "bloober-team",
     "blood",
@@ -362,6 +425,7 @@
     "bun-muen",
     "bungie",
     "burnout",
+    "calappa-games",
     "call-of-duty",
     "camelot-software-planning",
     "capcom",
@@ -370,7 +434,9 @@
     "catherine",
     "cavia",
     "cd-projekt-red",
+    "chromatic-games",
     "chrono",
+    "chunsoft",
     "claytechworks",
     "climax-studios",
     "clock-tower",
@@ -382,35 +448,61 @@
     "crash-bandicoot",
     "creative-assembly",
     "crema",
+    "crim",
     "criterion-games",
     "critical-reflex",
     "cruisn",
     "crypt-of-the-necrodancer",
+    "cuphead",
     "cyberconnect2",
     "cyberpunk",
     "cygames",
+    "danganronpa",
     "dark-souls",
+    "david-szymanski",
     "daybreak-game-company",
     "dead-by-daylight",
+    "dead-cells",
+    "dead-or-alive",
+    "deadly-premonition",
+    "death-end-re-quest",
     "deep-silver",
     "destiny",
+    "devolver-digital",
     "diablo",
     "dice",
+    "digimon",
     "digital-sun",
+    "disgaea",
+    "divinity",
+    "doinksoft",
     "doom",
+    "dragon-quest",
     "dragons-dogma",
     "drakengard-nier-lineage",
     "dreadxp",
     "duke-nukem",
+    "dungeon-defenders",
+    "dynasty-warriors",
     "eastasiasoft",
     "edmund-mcmillen",
+    "eiyuden-chronicle",
+    "el-shaddai",
     "elden-ring",
     "electronic-arts",
     "embark-studios",
+    "ender",
+    "etrian-odyssey",
+    "evil-empire",
+    "experience-inc",
     "expression-games",
     "f-e-a-r",
     "fallout",
+    "famicom-detective-club",
+    "fantasy-tavern-sextet",
     "far-cry",
+    "fatal-frame",
+    "fear-effect",
     "felistella",
     "feral-interactive",
     "fictions",
@@ -418,11 +510,13 @@
     "focus-entertainment",
     "fromsoftware",
     "fruitbat-factory",
+    "furyu",
     "game-freak",
     "game-science",
     "game-studio-inc",
     "gearbox-software",
     "gears-of-war",
+    "gemdrops",
     "giant-squid",
     "good-shepherd-entertainment",
     "gothic",
@@ -432,6 +526,7 @@
     "gt-interactive",
     "gungho-online-entertainment-america",
     "gust",
+    "h-a-n-d",
     "hack",
     "halo",
     "halo-studios",
@@ -446,6 +541,7 @@
     "iam8bit",
     "id-software",
     "idea-factory",
+    "implicit-conversions",
     "infinity-ward",
     "ink-stains-games",
     "interplay",
@@ -455,6 +551,7 @@
     "iron-gate-ab",
     "j-r-hudepohl",
     "joeveno",
+    "kai-graphics",
     "killer-bean-studios-llc",
     "kingdom-come-deliverance",
     "kira-llc",
@@ -462,35 +559,43 @@
     "konami",
     "krafton",
     "krisalis-software",
+    "kronos-digital-entertainment",
     "kuro-games",
     "kwalee",
     "larian-studios",
     "lemorion-1224",
     "limited-run-games",
     "little-sewing-machine",
+    "live-wire",
     "localthunk",
     "lovely-hellplace",
     "m2",
     "machinegames",
     "mages",
     "mangagamer",
+    "mastiff",
     "maximum-entertainment",
     "media-vision",
     "mehuman-games",
     "metaphor-refantazio",
     "monolith-productions",
     "morefun-studios",
+    "motion-twin",
     "mundfish",
     "n-space",
     "nacon",
+    "natsume-atari",
     "neem-interactive",
+    "new-blood-interactive",
     "new-generation-games",
     "nicalis",
     "nightdive-studios",
     "nihon-falcom",
     "nino-games",
     "nintendo",
+    "nintendo-epd",
     "nintendo-switch",
+    "nippon-ichi-software",
     "nis-america",
     "noquarter",
     "npc-studio",
@@ -498,6 +603,7 @@
     "omega-force",
     "orange-juice",
     "orange-juice-franchise",
+    "panic-button",
     "paper-cult",
     "parasite-eve",
     "pc",
@@ -515,17 +621,20 @@
     "pyramid",
     "quake",
     "qureate",
+    "rabbit-and-bear-studios",
     "radical-entertainment",
     "raw-thrills",
     "red-dead",
     "redruins-softworks",
     "render-cube",
     "resident-evil",
+    "rising-star-games",
     "rising-storm",
     "rockstar-games",
     "rockstar-north",
     "rockstar-toronto",
     "s-t-a-l-k-e-r",
+    "sassy-chap-games",
     "sega",
     "sgtokidoki",
     "shared-memory",
@@ -537,6 +646,8 @@
     "soleil-ltd",
     "sony-computer-entertainment-america",
     "space-hulk",
+    "spike-chunsoft",
+    "spirit-hunter",
     "square",
     "square-electronic-arts",
     "square-enix",
@@ -544,10 +655,13 @@
     "steam",
     "stellar-entertainment",
     "sting",
+    "studio-mdhr",
+    "studio-nanafushi",
     "sunflower-ocean",
     "super-rare-games",
     "sword-art-online",
     "team-grisgris",
+    "team-ninja",
     "team-psykskallar",
     "team-reptile",
     "team-silent",
@@ -569,6 +683,7 @@
     "top-hat-studios",
     "toplitz-productions",
     "tose",
+    "toybox",
     "trails-in-the-sky",
     "treyarch",
     "tripwire-interactive",
@@ -594,6 +709,7 @@
     "warhorse-studios",
     "warner-bros-games",
     "wayforward",
+    "white-owls",
     "wild-arms",
     "wishlist-games",
     "xbox-game-studios",
@@ -705,6 +821,14 @@
         "Activision Publishing"
       ]
     },
+    "adglobe": {
+      "slug": "adglobe",
+      "authorityId": "AUTH-0348",
+      "type": "developer",
+      "preferredName": "Adglobe",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "akibas-trip": {
       "slug": "akibas-trip",
       "authorityId": "AUTH-0221",
@@ -714,6 +838,16 @@
       "alternativeNames": [
         "Akiba’s Trip",
         "AKIBA'S TRIP"
+      ]
+    },
+    "aksys-games": {
+      "slug": "aksys-games",
+      "authorityId": "AUTH-0316",
+      "type": "publisher",
+      "preferredName": "Aksys Games",
+      "visibility": "published",
+      "alternativeNames": [
+        "Aksys"
       ]
     },
     "alice-gear-aegis": {
@@ -793,6 +927,14 @@
       "alternativeNames": [
         "Arrowhead"
       ]
+    },
+    "artdink": {
+      "slug": "artdink",
+      "authorityId": "AUTH-0333",
+      "type": "developer",
+      "preferredName": "Artdink",
+      "visibility": "published",
+      "alternativeNames": []
     },
     "assassins-creed": {
       "slug": "assassins-creed",
@@ -1003,6 +1145,14 @@
       "visibility": "published",
       "alternativeNames": []
     },
+    "binary-haze-interactive": {
+      "slug": "binary-haze-interactive",
+      "authorityId": "AUTH-0347",
+      "type": "publisher",
+      "preferredName": "Binary Haze Interactive",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "bioshock": {
       "slug": "bioshock",
       "authorityId": "AUTH-0252",
@@ -1032,6 +1182,14 @@
       "authorityId": "AUTH-0251",
       "type": "developer",
       "preferredName": "Blind Squirrel Games",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "blitworks": {
+      "slug": "blitworks",
+      "authorityId": "AUTH-0326",
+      "type": "developer",
+      "preferredName": "BlitWorks",
       "visibility": "published",
       "alternativeNames": []
     },
@@ -1164,6 +1322,16 @@
       "visibility": "published",
       "alternativeNames": []
     },
+    "calappa-games": {
+      "slug": "calappa-games",
+      "authorityId": "AUTH-0357",
+      "type": "developer",
+      "preferredName": "Calappa Games",
+      "visibility": "published",
+      "alternativeNames": [
+        "Nussoft"
+      ]
+    },
     "call-of-duty": {
       "slug": "call-of-duty",
       "authorityId": "AUTH-0102",
@@ -1246,6 +1414,14 @@
         "CDPR"
       ]
     },
+    "chromatic-games": {
+      "slug": "chromatic-games",
+      "authorityId": "AUTH-0335",
+      "type": "developer",
+      "preferredName": "Chromatic Games",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "chrono": {
       "slug": "chrono",
       "authorityId": "AUTH-0290",
@@ -1256,6 +1432,14 @@
         "Chrono Trigger",
         "Chrono Cross"
       ]
+    },
+    "chunsoft": {
+      "slug": "chunsoft",
+      "authorityId": "AUTH-0331",
+      "type": "developer",
+      "preferredName": "Chunsoft",
+      "visibility": "published",
+      "alternativeNames": []
     },
     "claytechworks": {
       "slug": "claytechworks",
@@ -1360,6 +1544,14 @@
       "visibility": "published",
       "alternativeNames": []
     },
+    "crim": {
+      "slug": "crim",
+      "authorityId": "AUTH-0343",
+      "type": "developer",
+      "preferredName": "crim",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "criterion-games": {
       "slug": "criterion-games",
       "authorityId": "AUTH-0276",
@@ -1400,6 +1592,14 @@
         "NecroDancer"
       ]
     },
+    "cuphead": {
+      "slug": "cuphead",
+      "authorityId": "AUTH-0304",
+      "type": "series",
+      "preferredName": "Cuphead",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "cyberconnect2": {
       "slug": "cyberconnect2",
       "authorityId": "AUTH-0080",
@@ -1431,11 +1631,27 @@
         "Cygames, Inc."
       ]
     },
+    "danganronpa": {
+      "slug": "danganronpa",
+      "authorityId": "AUTH-0307",
+      "type": "series",
+      "preferredName": "Danganronpa",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "dark-souls": {
       "slug": "dark-souls",
       "authorityId": "AUTH-0208",
       "type": "series",
       "preferredName": "Dark Souls",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "david-szymanski": {
+      "slug": "david-szymanski",
+      "authorityId": "AUTH-0337",
+      "type": "developer",
+      "preferredName": "David Szymanski",
       "visibility": "published",
       "alternativeNames": []
     },
@@ -1460,6 +1676,40 @@
         "DbD"
       ]
     },
+    "dead-cells": {
+      "slug": "dead-cells",
+      "authorityId": "AUTH-0312",
+      "type": "series",
+      "preferredName": "Dead Cells",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "dead-or-alive": {
+      "slug": "dead-or-alive",
+      "authorityId": "AUTH-0309",
+      "type": "series",
+      "preferredName": "Dead or Alive",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "deadly-premonition": {
+      "slug": "deadly-premonition",
+      "authorityId": "AUTH-0318",
+      "type": "series",
+      "preferredName": "Deadly Premonition",
+      "visibility": "published",
+      "alternativeNames": [
+        "Red Seeds Profile"
+      ]
+    },
+    "death-end-re-quest": {
+      "slug": "death-end-re-quest",
+      "authorityId": "AUTH-0319",
+      "type": "series",
+      "preferredName": "Death end re;Quest",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "deep-silver": {
       "slug": "deep-silver",
       "authorityId": "AUTH-0030",
@@ -1476,6 +1726,16 @@
       "visibility": "published",
       "alternativeNames": [
         "Destiny 2"
+      ]
+    },
+    "devolver-digital": {
+      "slug": "devolver-digital",
+      "authorityId": "AUTH-0329",
+      "type": "publisher",
+      "preferredName": "Devolver Digital",
+      "visibility": "published",
+      "alternativeNames": [
+        "Devolver"
       ]
     },
     "diablo": {
@@ -1499,11 +1759,47 @@
         "Digital Illusions CE"
       ]
     },
+    "digimon": {
+      "slug": "digimon",
+      "authorityId": "AUTH-0323",
+      "type": "series",
+      "preferredName": "Digimon",
+      "visibility": "published",
+      "alternativeNames": [
+        "Digimon Story"
+      ]
+    },
     "digital-sun": {
       "slug": "digital-sun",
       "authorityId": "AUTH-0135",
       "type": "developer",
       "preferredName": "Digital Sun",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "disgaea": {
+      "slug": "disgaea",
+      "authorityId": "AUTH-0325",
+      "type": "series",
+      "preferredName": "Disgaea",
+      "visibility": "published",
+      "alternativeNames": [
+        "Makai Senki Disgaea"
+      ]
+    },
+    "divinity": {
+      "slug": "divinity",
+      "authorityId": "AUTH-0327",
+      "type": "series",
+      "preferredName": "Divinity",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "doinksoft": {
+      "slug": "doinksoft",
+      "authorityId": "AUTH-0328",
+      "type": "developer",
+      "preferredName": "Doinksoft",
       "visibility": "published",
       "alternativeNames": []
     },
@@ -1516,6 +1812,16 @@
       "alternativeNames": [
         "Doom",
         "DOOM: The Dark Ages"
+      ]
+    },
+    "dragon-quest": {
+      "slug": "dragon-quest",
+      "authorityId": "AUTH-0332",
+      "type": "series",
+      "preferredName": "Dragon Quest",
+      "visibility": "published",
+      "alternativeNames": [
+        "Dragon Warrior"
       ]
     },
     "dragons-dogma": {
@@ -1557,6 +1863,24 @@
       "visibility": "published",
       "alternativeNames": []
     },
+    "dungeon-defenders": {
+      "slug": "dungeon-defenders",
+      "authorityId": "AUTH-0336",
+      "type": "series",
+      "preferredName": "Dungeon Defenders",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "dynasty-warriors": {
+      "slug": "dynasty-warriors",
+      "authorityId": "AUTH-0339",
+      "type": "series",
+      "preferredName": "Dynasty Warriors",
+      "visibility": "published",
+      "alternativeNames": [
+        "Shin Sangoku Musou"
+      ]
+    },
     "eastasiasoft": {
       "slug": "eastasiasoft",
       "authorityId": "AUTH-0272",
@@ -1572,6 +1896,24 @@
       "authorityId": "AUTH-0254",
       "type": "developer",
       "preferredName": "Edmund McMillen",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "eiyuden-chronicle": {
+      "slug": "eiyuden-chronicle",
+      "authorityId": "AUTH-0342",
+      "type": "series",
+      "preferredName": "Eiyuden Chronicle",
+      "visibility": "published",
+      "alternativeNames": [
+        "百英雄伝"
+      ]
+    },
+    "el-shaddai": {
+      "slug": "el-shaddai",
+      "authorityId": "AUTH-0344",
+      "type": "series",
+      "preferredName": "El Shaddai",
       "visibility": "published",
       "alternativeNames": []
     },
@@ -1603,6 +1945,44 @@
       "visibility": "published",
       "alternativeNames": []
     },
+    "ender": {
+      "slug": "ender",
+      "authorityId": "AUTH-0350",
+      "type": "series",
+      "preferredName": "Ender",
+      "visibility": "published",
+      "alternativeNames": [
+        "Ender Lilies"
+      ]
+    },
+    "etrian-odyssey": {
+      "slug": "etrian-odyssey",
+      "authorityId": "AUTH-0351",
+      "type": "series",
+      "preferredName": "Etrian Odyssey",
+      "visibility": "published",
+      "alternativeNames": [
+        "Sekaiju no Meikyuu"
+      ]
+    },
+    "evil-empire": {
+      "slug": "evil-empire",
+      "authorityId": "AUTH-0311",
+      "type": "developer",
+      "preferredName": "Evil Empire",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "experience-inc": {
+      "slug": "experience-inc",
+      "authorityId": "AUTH-0320",
+      "type": "developer",
+      "preferredName": "Experience",
+      "visibility": "published",
+      "alternativeNames": [
+        "Experience Inc."
+      ]
+    },
     "expression-games": {
       "slug": "expression-games",
       "authorityId": "AUTH-0088",
@@ -1632,11 +2012,48 @@
         "Fallout series"
       ]
     },
+    "famicom-detective-club": {
+      "slug": "famicom-detective-club",
+      "authorityId": "AUTH-0346",
+      "type": "series",
+      "preferredName": "Famicom Detective Club",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "fantasy-tavern-sextet": {
+      "slug": "fantasy-tavern-sextet",
+      "authorityId": "AUTH-0352",
+      "type": "series",
+      "preferredName": "Fantasy Tavern Sextet",
+      "visibility": "published",
+      "alternativeNames": [
+        "異世界酒場のセクステット"
+      ]
+    },
     "far-cry": {
       "slug": "far-cry",
       "authorityId": "AUTH-0121",
       "type": "series",
       "preferredName": "Far Cry",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "fatal-frame": {
+      "slug": "fatal-frame",
+      "authorityId": "AUTH-0353",
+      "type": "series",
+      "preferredName": "Fatal Frame",
+      "visibility": "published",
+      "alternativeNames": [
+        "Project Zero",
+        "Zero"
+      ]
+    },
+    "fear-effect": {
+      "slug": "fear-effect",
+      "authorityId": "AUTH-0356",
+      "type": "series",
+      "preferredName": "Fear Effect",
       "visibility": "published",
       "alternativeNames": []
     },
@@ -1708,6 +2125,16 @@
       "visibility": "published",
       "alternativeNames": []
     },
+    "furyu": {
+      "slug": "furyu",
+      "authorityId": "AUTH-0302",
+      "type": "publisher",
+      "preferredName": "FuRyu",
+      "visibility": "published",
+      "alternativeNames": [
+        "FuRyu Corporation"
+      ]
+    },
     "game-freak": {
       "slug": "game-freak",
       "authorityId": "AUTH-0024",
@@ -1756,6 +2183,14 @@
       "alternativeNames": [
         "Gears"
       ]
+    },
+    "gemdrops": {
+      "slug": "gemdrops",
+      "authorityId": "AUTH-0301",
+      "type": "developer",
+      "preferredName": "Gemdrops",
+      "visibility": "published",
+      "alternativeNames": []
     },
     "giant-squid": {
       "slug": "giant-squid",
@@ -1843,6 +2278,16 @@
       "alternativeNames": [
         "Gust Co., Ltd.",
         "Gust Co. Ltd."
+      ]
+    },
+    "h-a-n-d": {
+      "slug": "h-a-n-d",
+      "authorityId": "AUTH-0322",
+      "type": "developer",
+      "preferredName": "h.a.n.d.",
+      "visibility": "published",
+      "alternativeNames": [
+        "h.a.n.d. Inc."
       ]
     },
     "hack": {
@@ -1979,6 +2424,14 @@
         "IFI"
       ]
     },
+    "implicit-conversions": {
+      "slug": "implicit-conversions",
+      "authorityId": "AUTH-0355",
+      "type": "developer",
+      "preferredName": "Implicit Conversions",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "infinity-ward": {
       "slug": "infinity-ward",
       "authorityId": "AUTH-0160",
@@ -2061,6 +2514,14 @@
       "visibility": "published",
       "alternativeNames": []
     },
+    "kai-graphics": {
+      "slug": "kai-graphics",
+      "authorityId": "AUTH-0334",
+      "type": "developer",
+      "preferredName": "KAI GRAPHICS",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "killer-bean-studios-llc": {
       "slug": "killer-bean-studios-llc",
       "authorityId": "AUTH-0201",
@@ -2137,6 +2598,16 @@
         "Key Game"
       ]
     },
+    "kronos-digital-entertainment": {
+      "slug": "kronos-digital-entertainment",
+      "authorityId": "AUTH-0354",
+      "type": "developer",
+      "preferredName": "Kronos Digital Entertainment",
+      "visibility": "published",
+      "alternativeNames": [
+        "Kronos"
+      ]
+    },
     "kuro-games": {
       "slug": "kuro-games",
       "authorityId": "AUTH-0119",
@@ -2193,6 +2664,14 @@
       "visibility": "published",
       "alternativeNames": []
     },
+    "live-wire": {
+      "slug": "live-wire",
+      "authorityId": "AUTH-0349",
+      "type": "developer",
+      "preferredName": "Live Wire",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "localthunk": {
       "slug": "localthunk",
       "authorityId": "AUTH-0022",
@@ -2243,6 +2722,14 @@
       "authorityId": "AUTH-0187",
       "type": "publisher",
       "preferredName": "MangaGamer",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "mastiff": {
+      "slug": "mastiff",
+      "authorityId": "AUTH-0358",
+      "type": "publisher",
+      "preferredName": "Mastiff",
       "visibility": "published",
       "alternativeNames": []
     },
@@ -2303,6 +2790,14 @@
       "visibility": "published",
       "alternativeNames": []
     },
+    "motion-twin": {
+      "slug": "motion-twin",
+      "authorityId": "AUTH-0310",
+      "type": "developer",
+      "preferredName": "Motion Twin",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "mundfish": {
       "slug": "mundfish",
       "authorityId": "AUTH-0178",
@@ -2330,6 +2825,14 @@
       "visibility": "published",
       "alternativeNames": []
     },
+    "natsume-atari": {
+      "slug": "natsume-atari",
+      "authorityId": "AUTH-0341",
+      "type": "developer",
+      "preferredName": "Natsume Atari",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "neem-interactive": {
       "slug": "neem-interactive",
       "authorityId": "AUTH-0087",
@@ -2337,6 +2840,16 @@
       "preferredName": "Neem Interactive",
       "visibility": "published",
       "alternativeNames": []
+    },
+    "new-blood-interactive": {
+      "slug": "new-blood-interactive",
+      "authorityId": "AUTH-0338",
+      "type": "publisher",
+      "preferredName": "New Blood Interactive",
+      "visibility": "published",
+      "alternativeNames": [
+        "New Blood"
+      ]
     },
     "new-generation-games": {
       "slug": "new-generation-games",
@@ -2394,6 +2907,16 @@
         "Nintendo Co., Ltd."
       ]
     },
+    "nintendo-epd": {
+      "slug": "nintendo-epd",
+      "authorityId": "AUTH-0345",
+      "type": "developer",
+      "preferredName": "Nintendo EPD",
+      "visibility": "published",
+      "alternativeNames": [
+        "Nintendo Entertainment Planning & Development"
+      ]
+    },
     "nintendo-switch": {
       "slug": "nintendo-switch",
       "authorityId": "AUTH-0217",
@@ -2403,6 +2926,16 @@
       "alternativeNames": [
         "Switch",
         "NX"
+      ]
+    },
+    "nippon-ichi-software": {
+      "slug": "nippon-ichi-software",
+      "authorityId": "AUTH-0324",
+      "type": "developer",
+      "preferredName": "Nippon Ichi Software",
+      "visibility": "published",
+      "alternativeNames": [
+        "NIS"
       ]
     },
     "nis-america": {
@@ -2469,6 +3002,14 @@
       "alternativeNames": [
         "100% Orange Juice"
       ]
+    },
+    "panic-button": {
+      "slug": "panic-button",
+      "authorityId": "AUTH-0330",
+      "type": "developer",
+      "preferredName": "Panic Button",
+      "visibility": "published",
+      "alternativeNames": []
     },
     "paper-cult": {
       "slug": "paper-cult",
@@ -2634,6 +3175,14 @@
       "visibility": "published",
       "alternativeNames": []
     },
+    "rabbit-and-bear-studios": {
+      "slug": "rabbit-and-bear-studios",
+      "authorityId": "AUTH-0340",
+      "type": "developer",
+      "preferredName": "Rabbit & Bear Studios",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "radical-entertainment": {
       "slug": "radical-entertainment",
       "authorityId": "AUTH-0074",
@@ -2689,6 +3238,14 @@
         "Biohazard"
       ]
     },
+    "rising-star-games": {
+      "slug": "rising-star-games",
+      "authorityId": "AUTH-0317",
+      "type": "publisher",
+      "preferredName": "Rising Star Games",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "rising-storm": {
       "slug": "rising-storm",
       "authorityId": "AUTH-0159",
@@ -2736,6 +3293,14 @@
         "STALKER",
         "S.T.A.L.K.E.R"
       ]
+    },
+    "sassy-chap-games": {
+      "slug": "sassy-chap-games",
+      "authorityId": "AUTH-0305",
+      "type": "developer",
+      "preferredName": "Sassy Chap Games",
+      "visibility": "published",
+      "alternativeNames": []
     },
     "sega": {
       "slug": "sega",
@@ -2843,6 +3408,25 @@
         "Warhammer 40,000: Space Hulk"
       ]
     },
+    "spike-chunsoft": {
+      "slug": "spike-chunsoft",
+      "authorityId": "AUTH-0306",
+      "type": "developer",
+      "preferredName": "Spike Chunsoft",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "spirit-hunter": {
+      "slug": "spirit-hunter",
+      "authorityId": "AUTH-0321",
+      "type": "series",
+      "preferredName": "Spirit Hunter",
+      "visibility": "published",
+      "alternativeNames": [
+        "Death Mark",
+        "Shiin"
+      ]
+    },
     "square": {
       "slug": "square",
       "authorityId": "AUTH-0064",
@@ -2915,6 +3499,24 @@
         "Sting, Inc."
       ]
     },
+    "studio-mdhr": {
+      "slug": "studio-mdhr",
+      "authorityId": "AUTH-0303",
+      "type": "developer",
+      "preferredName": "Studio MDHR",
+      "visibility": "published",
+      "alternativeNames": [
+        "StudioMDHR"
+      ]
+    },
+    "studio-nanafushi": {
+      "slug": "studio-nanafushi",
+      "authorityId": "AUTH-0313",
+      "type": "developer",
+      "preferredName": "Studio Nanafushi",
+      "visibility": "published",
+      "alternativeNames": []
+    },
     "sunflower-ocean": {
       "slug": "sunflower-ocean",
       "authorityId": "AUTH-0188",
@@ -2948,6 +3550,14 @@
       "authorityId": "AUTH-0291",
       "type": "developer",
       "preferredName": "Team GrisGris",
+      "visibility": "published",
+      "alternativeNames": []
+    },
+    "team-ninja": {
+      "slug": "team-ninja",
+      "authorityId": "AUTH-0308",
+      "type": "developer",
+      "preferredName": "Team Ninja",
       "visibility": "published",
       "alternativeNames": []
     },
@@ -3145,6 +3755,16 @@
       "visibility": "published",
       "alternativeNames": [
         "TOSE Co., Ltd."
+      ]
+    },
+    "toybox": {
+      "slug": "toybox",
+      "authorityId": "AUTH-0314",
+      "type": "developer",
+      "preferredName": "Toybox",
+      "visibility": "published",
+      "alternativeNames": [
+        "TOYBOX Inc."
       ]
     },
     "trails-in-the-sky": {
@@ -3376,6 +3996,16 @@
         "WayForward Technologies"
       ]
     },
+    "white-owls": {
+      "slug": "white-owls",
+      "authorityId": "AUTH-0315",
+      "type": "developer",
+      "preferredName": "White Owls",
+      "visibility": "published",
+      "alternativeNames": [
+        "White Owls Inc."
+      ]
+    },
     "wild-arms": {
       "slug": "wild-arms",
       "authorityId": "AUTH-0068",
@@ -3448,5 +4078,5 @@
       ]
     }
   },
-  "updatedAt": "2026-10-05T21:36:14.421Z"
+  "updatedAt": "2026-10-05T22:05:36.586Z"
 }

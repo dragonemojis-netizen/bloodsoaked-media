@@ -1,0 +1,37 @@
+{
+  "slug": "nintendo-epd",
+  "authorityId": "AUTH-0345",
+  "type": "developer",
+  "preferredName": "Nintendo EPD",
+  "alternativeNames": [
+    "Nintendo Entertainment Planning & Development"
+  ],
+  "establishedDate": "2015",
+  "relatedAuthoritySlugs": [
+    "nintendo",
+    "mages",
+    "famicom-detective-club"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-nintendo-epd",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0345 — controlled identity for Nintendo EPD."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-nintendo-epd",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Nintendo EPD — co-developer of record for Emio – The Smiling Man in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

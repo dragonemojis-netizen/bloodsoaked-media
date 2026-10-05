@@ -1,0 +1,108 @@
+{
+  "slug": "crystar",
+  "title": "Crystar",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2022,
+  "synopsis": "FuRyu and Gemdrops’ weep-to-fight action RPG — retained as NIS America’s Nintendo Switch game card.",
+  "coverImage": "/images/library/crystar/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0190",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "gemdrops",
+      "furyu"
+    ],
+    "publishers": [
+      "nis-america"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "CRYSTAR -クライスタ-",
+    "release": "2018 (PlayStation 4, Japan) · 2022 (Nintendo Switch; North America, March 29)",
+    "developer": "Gemdrops · produced by FuRyu",
+    "publisher": "NIS America",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-A5AWB",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Action RPG",
+      "JRPG",
+      "Dark Fantasy",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Crystar is an action RPG built around grief: Rei Hatada is pulled into Purgatory with her sister Mirai, and fights by weeping, crystallising her tears into power to bring Mirai back. Naoki Hisaya wrote the scenario and Sakuzyo composed the music.\n\nFuRyu released it on PlayStation 4 in Japan in October 2018. The Nintendo Switch version, with the earlier add-on content included, followed in Japan on February 24, 2022, and from NIS America in North America on March 29, 2022.",
+  "collectionNotes": "The retained object is NIS America’s retail edition of Crystar on a Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "PlayStation 4 release in Japan on October 18, 2018; English release on PlayStation 4 and PC on August 27, 2019. Nintendo Switch release in Japan February 24, 2022; North America March 29, 2022 (HAC-P-A5AWB).",
+    "availability": "Distributed at retail by NIS America, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-crystar",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0190."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-crystar",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-crystar",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-crystar",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-crystar",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-crystar",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established"
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-crystar",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

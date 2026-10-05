@@ -1,0 +1,114 @@
+{
+  "slug": "disgaea-1-complete",
+  "title": "Disgaea 1 Complete",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2018,
+  "synopsis": "Nippon Ichi’s remake of the first Disgaea — retained as a German Nintendo Switch copy with English text.",
+  "coverImage": "/images/library/disgaea-1-complete/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0205",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "nippon-ichi-software"
+    ],
+    "publishers": [
+      "nis-america"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "disgaea"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "魔界戦記ディスガイア Refine",
+    "release": "2003 (Disgaea: Hour of Darkness, Japan) · 2018 (Disgaea 1 Complete; Germany, October 12)",
+    "developer": "Nippon Ichi Software",
+    "publisher": "NIS America",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · German retail edition (USK 6) with English text",
+    "mediumForm": "Nintendo Switch game card · German retail edition",
+    "subjects": [
+      "Tactical RPG",
+      "Strategy",
+      "Disgaea",
+      "Remake",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Disgaea: Hour of Darkness (2003) introduced the Netherworld prince Laharl, his vassal Etna, and the angel trainee Flonne in Nippon Ichi’s strategy RPG of towering numbers. Disgaea 1 Complete remakes it with HD art in the style of Disgaea 5, folding in Etna Mode and the extra characters of the PSP version.\n\nIt released on Nintendo Switch in Japan as Disgaea Refine in July 2018, and in Europe on October 12, 2018. This copy is the German retail issue, with English text and voices on the card.\n\nThis filing opens the Disgaea lineage on the shelf.",
+  "collectionNotes": "The retained object is the German retail edition of Disgaea 1 Complete on a Nintendo Switch game card, rated USK 6, with English text.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Disgaea: Hour of Darkness released on PlayStation 2 in Japan on January 30, 2003. Disgaea Refine released on Nintendo Switch in Japan on July 26, 2018; Disgaea 1 Complete followed in North America on October 9 and Europe on October 12, 2018.",
+    "availability": "Distributed at retail in Europe by NIS America, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Disgaea",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-disgaea-1-complete",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0205."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-disgaea-1-complete",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-disgaea-1-complete",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-disgaea-1-complete",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-disgaea-1-complete",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-disgaea-1-complete",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Disgaea recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-disgaea-1-complete",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

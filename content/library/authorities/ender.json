@@ -1,0 +1,36 @@
+{
+  "slug": "ender",
+  "authorityId": "AUTH-0350",
+  "type": "series",
+  "preferredName": "Ender",
+  "alternativeNames": [
+    "Ender Lilies"
+  ],
+  "relatedAuthoritySlugs": [
+    "binary-haze-interactive",
+    "adglobe",
+    "live-wire"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-ender",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0350 — controlled identity for Ender."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-ender",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Ender — series identity for the Ender games retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

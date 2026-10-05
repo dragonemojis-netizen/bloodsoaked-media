@@ -1,0 +1,115 @@
+{
+  "slug": "eiyuden-chronicle-rising",
+  "title": "Eiyuden Chronicle: Rising",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2023,
+  "synopsis": "The side-scrolling prequel to Hundred Heroes — retained as 505 Games’ Nintendo Switch physical edition, kept with its slipcover.",
+  "coverImage": "/images/library/eiyuden-chronicle-rising/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0224",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "natsume-atari",
+      "rabbit-and-bear-studios"
+    ],
+    "publishers": [
+      "505-games"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "eiyuden-chronicle"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "百英雄伝 Rising",
+    "release": "2022 (digital, May 10) · 2023 (Nintendo Switch physical)",
+    "developer": "Natsume Atari · Rabbit & Bear Studios",
+    "publisher": "505 Games",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-A5RCA",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Action RPG",
+      "Side-Scroller",
+      "Town Building",
+      "Eiyuden Chronicle",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case, with slipcover",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Eiyuden Chronicle: Rising began as a Kickstarter stretch goal for Hundred Heroes: a 2.5D side-scrolling action RPG in which CJ, Isha, and Garoo help rebuild the town of New Nevaeh. Its characters carry into the main game.\n\nNatsume Atari developed it with Rabbit & Bear Studios, and 505 Games released it digitally on May 10, 2022. The Switch physical edition followed in 2023 with three trading cards.\n\nThis filing opens the Eiyuden Chronicle lineage on the shelf.",
+  "collectionNotes": "The retained object is 505 Games’ physical edition of Eiyuden Chronicle: Rising for Nintendo Switch, retained with its slipcover.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Released digitally on May 10, 2022 across platforms. The Nintendo Switch physical edition (HAC-P-A5RCA) followed in 2023, produced with Red Art Games.",
+    "availability": "Distributed at retail by 505 Games, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Eiyuden Chronicle",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-eiyuden-chronicle-rising",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0224."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-eiyuden-chronicle-rising",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-eiyuden-chronicle-rising",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-eiyuden-chronicle-rising",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-eiyuden-chronicle-rising",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-eiyuden-chronicle-rising",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Eiyuden Chronicle recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-eiyuden-chronicle-rising",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

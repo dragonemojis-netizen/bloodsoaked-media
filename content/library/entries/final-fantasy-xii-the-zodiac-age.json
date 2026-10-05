@@ -1,0 +1,115 @@
+{
+  "slug": "final-fantasy-xii-the-zodiac-age",
+  "title": "Final Fantasy XII: The Zodiac Age",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2019,
+  "synopsis": "The Zodiac Age remaster of Ivalice’s war — retained as Square Enix’s Nintendo Switch game card.",
+  "coverImage": "/images/library/final-fantasy-xii-the-zodiac-age/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0236",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "square-enix",
+      "virtuos"
+    ],
+    "publishers": [
+      "square-enix"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "final-fantasy"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "ファイナルファンタジーXII ザ ゾディアック エイジ",
+    "release": "2006 (Final Fantasy XII) · 2017 (The Zodiac Age) · 2019 (Nintendo Switch, April 30)",
+    "developer": "Square Enix · Nintendo Switch version with Virtuos",
+    "publisher": "Square Enix",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-APSWA",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "JRPG",
+      "Ivalice",
+      "Final Fantasy",
+      "Remaster",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Final Fantasy XII follows Vaan, a street thief in occupied Rabanastre, into Princess Ashe’s resistance against the Archadian Empire in the world of Ivalice. The Zodiac Age remaster adds the twelve-class Zodiac Job System, a high-speed mode, auto-saves, and a re-recorded soundtrack.\n\nIt released on Nintendo Switch on April 30, 2019.\n\nThe filing joins the Final Fantasy lineage on the shelf.",
+  "collectionNotes": "The retained object is Square Enix’s retail edition of Final Fantasy XII: The Zodiac Age on a Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Final Fantasy XII released on PlayStation 2 in Japan on March 16, 2006. The Zodiac Age released on PlayStation 4 in July 2017, and on Nintendo Switch on April 30, 2019 (HAC-P-APSWA).",
+    "availability": "Distributed at retail by Square Enix, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Final Fantasy",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-final-fantasy-xii-the-zodiac-age",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0236."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-final-fantasy-xii-the-zodiac-age",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-final-fantasy-xii-the-zodiac-age",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-final-fantasy-xii-the-zodiac-age",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-final-fantasy-xii-the-zodiac-age",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-final-fantasy-xii-the-zodiac-age",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Final Fantasy recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-final-fantasy-xii-the-zodiac-age",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

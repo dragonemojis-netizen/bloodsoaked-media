@@ -1,0 +1,113 @@
+{
+  "slug": "eiyuden-chronicle-hundred-heroes",
+  "title": "Eiyuden Chronicle: Hundred Heroes",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2024,
+  "synopsis": "Yoshitaka Murayama’s spiritual successor to Suikoden — retained as 505 Games’ Nintendo Switch game card.",
+  "coverImage": "/images/library/eiyuden-chronicle-hundred-heroes/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0223",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "rabbit-and-bear-studios"
+    ],
+    "publishers": [
+      "505-games"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "eiyuden-chronicle"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "百英雄伝",
+    "release": "2024 (worldwide, April 23)",
+    "developer": "Rabbit & Bear Studios",
+    "publisher": "505 Games",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-A9RLA",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "JRPG",
+      "Turn-Based",
+      "Eiyuden Chronicle",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Eiyuden Chronicle: Hundred Heroes is the JRPG Suikoden creator Yoshitaka Murayama made with series veterans at Rabbit & Bear Studios: more than a hundred recruitable characters, a headquarters that grows into a town, and six-member turn-based battles. Its 2020 Kickstarter was the year’s most funded video game campaign.\n\n505 Games released it worldwide on April 23, 2024. Murayama died that February, before its release.\n\nThe filing joins Eiyuden Chronicle: Rising in the Eiyuden Chronicle lineage.",
+  "collectionNotes": "The retained object is 505 Games’ retail edition of Eiyuden Chronicle: Hundred Heroes on a Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. A day-one update is needed for the intended release state, and the season pass story expansions are eShop downloads; neither is preserved by the card alone.",
+    "knownRevisions": "Released worldwide on April 23, 2024 (HAC-P-A9RLA). A day-one patch and a three-part paid story expansion followed.",
+    "availability": "Distributed at retail by 505 Games, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Eiyuden Chronicle",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-eiyuden-chronicle-hundred-heroes",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0223."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-eiyuden-chronicle-hundred-heroes",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-eiyuden-chronicle-hundred-heroes",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-eiyuden-chronicle-hundred-heroes",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-eiyuden-chronicle-hundred-heroes",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-eiyuden-chronicle-hundred-heroes",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Eiyuden Chronicle recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-eiyuden-chronicle-hundred-heroes",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

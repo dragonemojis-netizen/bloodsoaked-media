@@ -1,0 +1,35 @@
+{
+  "slug": "furyu",
+  "authorityId": "AUTH-0302",
+  "type": "publisher",
+  "preferredName": "FuRyu",
+  "alternativeNames": [
+    "FuRyu Corporation"
+  ],
+  "relatedAuthoritySlugs": [
+    "gemdrops",
+    "nis-america"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-furyu",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0302 — controlled identity for FuRyu."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-furyu",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "FuRyu — producer and Japanese publisher of record for Crystar in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

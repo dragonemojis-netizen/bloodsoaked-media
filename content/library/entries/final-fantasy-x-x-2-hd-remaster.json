@@ -1,0 +1,116 @@
+{
+  "slug": "final-fantasy-x-x-2-hd-remaster",
+  "title": "Final Fantasy X | X-2 HD Remaster",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2019,
+  "synopsis": "Spira’s two stories in HD — retained as the Asian Nintendo Switch edition with both games on the card.",
+  "coverImage": "/images/library/final-fantasy-x-x-2-hd-remaster/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0235",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "square-enix",
+      "virtuos"
+    ],
+    "publishers": [
+      "square-enix"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "final-fantasy"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "ファイナルファンタジーX/X-2 HD Remaster",
+    "release": "2001 (Final Fantasy X) · 2003 (Final Fantasy X-2) · 2019 (Nintendo Switch; Asia, April 11)",
+    "developer": "Square Enix · Nintendo Switch version with Virtuos",
+    "publisher": "Square Enix",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Asian edition with English text · HAC-P-AP2RD",
+    "mediumForm": "Nintendo Switch game card · Asian retail edition",
+    "subjects": [
+      "JRPG",
+      "Final Fantasy",
+      "Remaster",
+      "Collection",
+      "Import",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Final Fantasy X follows Tidus and the summoner Yuna on a pilgrimage against Sin across Spira; Final Fantasy X-2 returns to Yuna two years later as a sphere hunter. The HD Remaster is based on the International versions and includes Eternal Calm and Last Mission.\n\nThe Nintendo Switch version released in Asia on April 11, 2019. Western copies hold only Final Fantasy X on the card, with X-2 as a download code; this Asian copy holds both games on the card, with English text.\n\nThe filing joins the Final Fantasy lineage on the shelf.",
+  "collectionNotes": "The retained object is the Asian retail edition of Final Fantasy X | X-2 HD Remaster on a Nintendo Switch game card, with English text and both games on the card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Both Final Fantasy X and Final Fantasy X-2 are held on this Asian card — unlike Western copies, which carry X-2 as a download code — so the pair is preserved by the card itself.",
+    "knownRevisions": "Final Fantasy X released on PlayStation 2 in Japan on July 19, 2001; X-2 on March 13, 2003. The HD Remaster first released in 2013. Nintendo Switch release in Asia and Japan on April 11, 2019 (HAC-P-AP2RD for the Asian edition); North America and Europe April 16, 2019.",
+    "availability": "Physically distributed in Asia; the game is otherwise issued digitally or in other regional editions."
+  },
+  "connections": {
+    "series": "Final Fantasy",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-final-fantasy-x-x-2-hd-remaster",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0235."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-final-fantasy-x-x-2-hd-remaster",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-final-fantasy-x-x-2-hd-remaster",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-final-fantasy-x-x-2-hd-remaster",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-final-fantasy-x-x-2-hd-remaster",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-final-fantasy-x-x-2-hd-remaster",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Final Fantasy recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-final-fantasy-x-x-2-hd-remaster",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

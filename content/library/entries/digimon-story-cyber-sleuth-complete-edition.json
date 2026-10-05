@@ -1,0 +1,115 @@
+{
+  "slug": "digimon-story-cyber-sleuth-complete-edition",
+  "title": "Digimon Story: Cyber Sleuth Complete Edition",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2019,
+  "synopsis": "Cyber Sleuth and Hacker’s Memory on one card — retained as Bandai Namco’s Nintendo Switch edition.",
+  "coverImage": "/images/library/digimon-story-cyber-sleuth-complete-edition/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0204",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "media-vision",
+      "h-a-n-d"
+    ],
+    "publishers": [
+      "bandai-namco-entertainment"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "digimon"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "デジモンストーリー サイバースルゥース",
+    "release": "2015 (Cyber Sleuth, Japan) · 2017 (Hacker’s Memory, Japan) · 2019 (Complete Edition, October 18)",
+    "developer": "Media.Vision · Nintendo Switch version by h.a.n.d.",
+    "publisher": "Bandai Namco Entertainment",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-ATPMB",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "JRPG",
+      "Monster Collecting",
+      "Turn-Based",
+      "Digimon",
+      "Collection",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Digimon Story: Cyber Sleuth and its companion Hacker’s Memory are turn-based monster-raising RPGs set between real-world Tokyo and the digital network EDEN, followed through the eyes of a cyber detective and a hacker. Together they hold more than three hundred Digimon to raise and Digivolve.\n\nMedia.Vision’s originals released in Japan in 2015 and 2017. The Complete Edition, ported by h.a.n.d., put both on one Nintendo Switch card on October 18, 2019.\n\nThis filing opens the Digimon lineage on the shelf.",
+  "collectionNotes": "The retained object is Bandai Namco Entertainment’s retail edition of Digimon Story: Cyber Sleuth Complete Edition on a Nintendo Switch game card, holding both games.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Cyber Sleuth released on PlayStation Vita in Japan on March 12, 2015; Hacker’s Memory in December 2017. The Complete Edition released on Nintendo Switch on October 18, 2019 (HAC-P-ATPMB).",
+    "availability": "Distributed at retail by Bandai Namco Entertainment, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Digimon",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-digimon-story-cyber-sleuth-complete-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0204."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-digimon-story-cyber-sleuth-complete-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-digimon-story-cyber-sleuth-complete-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-digimon-story-cyber-sleuth-complete-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-digimon-story-cyber-sleuth-complete-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-digimon-story-cyber-sleuth-complete-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Digimon recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-digimon-story-cyber-sleuth-complete-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

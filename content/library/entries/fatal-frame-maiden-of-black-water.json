@@ -1,0 +1,114 @@
+{
+  "slug": "fatal-frame-maiden-of-black-water",
+  "title": "Fatal Frame: Maiden of Black Water",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2021,
+  "synopsis": "Koei Tecmo’s camera-obscura horror on Mt. Hikami, remastered — retained as the Asian Nintendo Switch edition with English cover.",
+  "coverImage": "/images/library/fatal-frame-maiden-of-black-water/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0230",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "koei-tecmo"
+    ],
+    "publishers": [
+      "koei-tecmo"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "fatal-frame"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "零 ～濡鴉ノ巫女～",
+    "release": "2014 (Wii U, Japan) · 2021 (remaster, October 28 · Asian physical, November)",
+    "developer": "Koei Tecmo",
+    "publisher": "Koei Tecmo",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Asian edition, English via update · HAC-P-A437A",
+    "mediumForm": "Nintendo Switch game card · Asian retail edition",
+    "subjects": [
+      "Survival Horror",
+      "Ghosts",
+      "Fatal Frame",
+      "Import",
+      "Remaster",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Fatal Frame: Maiden of Black Water is set on Mt. Hikami, a mountain of water rites and suicides, where three protagonists — Yuri Kozukata, Ren Hojo, and Miu Hinasaki — confront its ghosts with the Camera Obscura. It first released on Wii U in Japan in September 2014.\n\nThe remaster released digitally worldwide on October 28, 2021. Physical copies were issued only in Japan and Asia; this copy is the Asian edition with an English cover.\n\nThis filing opens the Fatal Frame lineage on the shelf.",
+  "collectionNotes": "The retained object is the Asian retail edition of Fatal Frame: Maiden of Black Water on a Nintendo Switch game card, with an English cover.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. English voices and subtitles were added by an update released November 30, 2021; the card as issued is not playable in English without that update, which depends on Nintendo’s servers.",
+    "knownRevisions": "Wii U release in Japan on September 27, 2014; the West in October 2015. The remaster released digitally worldwide on October 28, 2021; the Asian physical edition followed in November 2021, with English delivered by update.",
+    "availability": "Physically distributed in Japan and Asia only; elsewhere the remaster was issued digitally."
+  },
+  "connections": {
+    "series": "Fatal Frame",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-fatal-frame-maiden-of-black-water",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0230."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-fatal-frame-maiden-of-black-water",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-fatal-frame-maiden-of-black-water",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-fatal-frame-maiden-of-black-water",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-fatal-frame-maiden-of-black-water",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-fatal-frame-maiden-of-black-water",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Fatal Frame recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-fatal-frame-maiden-of-black-water",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

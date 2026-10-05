@@ -1,0 +1,115 @@
+{
+  "slug": "dead-cells-return-to-castlevania-edition",
+  "title": "Dead Cells: Return to Castlevania Edition",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2023,
+  "synopsis": "Motion Twin’s roguelite with five expansions including its Castlevania crossover — retained as the Nintendo Switch physical edition.",
+  "coverImage": "/images/library/dead-cells-return-to-castlevania-edition/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0195",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "motion-twin",
+      "evil-empire"
+    ],
+    "publishers": [
+      "maximum-entertainment"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "dead-cells",
+      "castlevania"
+    ]
+  },
+  "catalog": {
+    "release": "2018 (Dead Cells) · 2023 (Return to Castlevania; physical edition, August 11)",
+    "developer": "Motion Twin · Evil Empire",
+    "publisher": "Maximum Entertainment (Merge Games)",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-ANXTX",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Roguelite",
+      "Metroidvania",
+      "Action",
+      "Dead Cells",
+      "Castlevania",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Dead Cells is Motion Twin’s roguelite action-platformer, in which the Beheaded fights through a shifting island with no checkpoints. Return to Castlevania, released March 6, 2023, brought Richter Belmont and Alucard into it, with Dracula’s castle, Castlevania weapons, and dozens of series tracks.\n\nThe Return to Castlevania Edition gathers the base game with all five expansions — Rise of the Giant, The Bad Seed, Fatal Falls, The Queen and the Sea, and Return to Castlevania — and released physically on August 11, 2023, with a reversible NES-style cover.\n\nThis filing opens the Dead Cells lineage and joins the Castlevania holdings.",
+  "collectionNotes": "The retained object is the physical Return to Castlevania Edition of Dead Cells for Nintendo Switch, with a reversible cover.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Dead Cells released August 7, 2018, after early access. Return to Castlevania released March 6, 2023; the physical edition (HAC-P-ANXTX) followed on August 11, 2023, holding version 3.3 with all five expansions.",
+    "availability": "Distributed at retail by Maximum Entertainment, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Dead Cells",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-dead-cells-return-to-castlevania-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0195."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-dead-cells-return-to-castlevania-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-dead-cells-return-to-castlevania-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-dead-cells-return-to-castlevania-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-dead-cells-return-to-castlevania-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-dead-cells-return-to-castlevania-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Dead Cells recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-dead-cells-return-to-castlevania-edition",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

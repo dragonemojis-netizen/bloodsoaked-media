@@ -1,0 +1,33 @@
+{
+  "slug": "sassy-chap-games",
+  "authorityId": "AUTH-0305",
+  "type": "developer",
+  "preferredName": "Sassy Chap Games",
+  "alternativeNames": [],
+  "establishedDate": "2018",
+  "relatedAuthoritySlugs": [
+    "team17"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-sassy-chap-games",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0305 — controlled identity for Sassy Chap Games."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-sassy-chap-games",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Sassy Chap Games — developer of record for Date Everything! in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

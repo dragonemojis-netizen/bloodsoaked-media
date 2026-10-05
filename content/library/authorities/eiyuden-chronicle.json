@@ -1,0 +1,35 @@
+{
+  "slug": "eiyuden-chronicle",
+  "authorityId": "AUTH-0342",
+  "type": "series",
+  "preferredName": "Eiyuden Chronicle",
+  "alternativeNames": [
+    "百英雄伝"
+  ],
+  "relatedAuthoritySlugs": [
+    "rabbit-and-bear-studios",
+    "505-games"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-eiyuden-chronicle",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0342 — controlled identity for Eiyuden Chronicle."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-eiyuden-chronicle",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Eiyuden Chronicle — series identity for Rabbit & Bear Studios’ Eiyuden Chronicle games retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

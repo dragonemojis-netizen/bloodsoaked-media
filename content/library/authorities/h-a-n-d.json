@@ -1,0 +1,35 @@
+{
+  "slug": "h-a-n-d",
+  "authorityId": "AUTH-0322",
+  "type": "developer",
+  "preferredName": "h.a.n.d.",
+  "alternativeNames": [
+    "h.a.n.d. Inc."
+  ],
+  "relatedAuthoritySlugs": [
+    "media-vision",
+    "digimon"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-h-a-n-d",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0322 — controlled identity for h.a.n.d.."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-h-a-n-d",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "h.a.n.d. — Nintendo Switch port developer of record for Digimon Story: Cyber Sleuth Complete Edition in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

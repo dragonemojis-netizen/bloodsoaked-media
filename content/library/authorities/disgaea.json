@@ -1,0 +1,35 @@
+{
+  "slug": "disgaea",
+  "authorityId": "AUTH-0325",
+  "type": "series",
+  "preferredName": "Disgaea",
+  "alternativeNames": [
+    "Makai Senki Disgaea"
+  ],
+  "relatedAuthoritySlugs": [
+    "nippon-ichi-software",
+    "nis-america"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-disgaea",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0325 — controlled identity for Disgaea."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-disgaea",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Disgaea — series identity for Nippon Ichi Software’s Disgaea games retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "infinity-strash-dragon-quest-the-adventure-of-dai",
+  "title": "Infinity Strash: Dragon Quest The Adventure of Dai",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2023,
+  "synopsis": "The action RPG retelling of The Adventure of Dai — retained as the Asian Nintendo Switch edition with English text.",
+  "coverImage": "/images/library/infinity-strash-dragon-quest-the-adventure-of-dai/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0217",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "game-studio-inc",
+      "kai-graphics"
+    ],
+    "publishers": [
+      "square-enix"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "dragon-quest"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "インフィニティ ストラッシュ ドラゴンクエスト ダイの大冒険",
+    "release": "2023 (worldwide, September 28)",
+    "developer": "Game Studio · KAI GRAPHICS",
+    "publisher": "Square Enix",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · Asian edition with English text · HAC-P-A9K8A",
+    "mediumForm": "Nintendo Switch game card · Asian retail edition",
+    "subjects": [
+      "Action RPG",
+      "Anime",
+      "Dragon Quest",
+      "Import",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Infinity Strash retells the 2020 anime of Dragon Quest: The Adventure of Dai as an action RPG, through the Sovereign Rock Castle arc, and adds the Temple of Recollection, an original roguelite dungeon.\n\nSquare Enix released it worldwide on September 28, 2023. In the West the Switch version was digital; the physical card was issued in Asia, with English text and voices.\n\nThe filing joins the Dragon Quest lineage on the shelf.",
+  "collectionNotes": "The retained object is the Asian retail edition of Infinity Strash: Dragon Quest The Adventure of Dai on a Nintendo Switch game card, with English text.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "Released worldwide on September 28, 2023 on Nintendo Switch, PlayStation 5, PlayStation 4, Xbox Series X|S, and PC. The Asian physical Switch edition (HAC-P-A9K8A) released the same day.",
+    "availability": "Physically distributed in Asia; the game is otherwise issued digitally or in other regional editions."
+  },
+  "connections": {
+    "series": "Dragon Quest",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-infinity-strash-dragon-quest-the-adventure-of-dai",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0217."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-infinity-strash-dragon-quest-the-adventure-of-dai",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-infinity-strash-dragon-quest-the-adventure-of-dai",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-infinity-strash-dragon-quest-the-adventure-of-dai",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-infinity-strash-dragon-quest-the-adventure-of-dai",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-infinity-strash-dragon-quest-the-adventure-of-dai",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Dragon Quest recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-infinity-strash-dragon-quest-the-adventure-of-dai",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

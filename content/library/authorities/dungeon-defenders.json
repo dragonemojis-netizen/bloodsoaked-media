@@ -1,0 +1,32 @@
+{
+  "slug": "dungeon-defenders",
+  "authorityId": "AUTH-0336",
+  "type": "series",
+  "preferredName": "Dungeon Defenders",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "chromatic-games"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-dungeon-defenders",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0336 — controlled identity for Dungeon Defenders."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-dungeon-defenders",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Dungeon Defenders — series identity for the Dungeon Defenders games retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "danganronpa-decadence",
+  "title": "Danganronpa Decadence",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2021,
+  "synopsis": "The three mainline Danganronpa games and Ultimate Summer Camp on one card — retained as Spike Chunsoft’s Nintendo Switch edition.",
+  "coverImage": "/images/library/danganronpa-decadence/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0193",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "spike-chunsoft"
+    ],
+    "publishers": [
+      "spike-chunsoft"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "danganronpa"
+    ]
+  },
+  "catalog": {
+    "release": "2010 (Danganronpa, Japan) · 2021 (Decadence; North America, December 3)",
+    "developer": "Spike Chunsoft",
+    "publisher": "Spike Chunsoft",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-A3TUA",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "Visual Novel",
+      "Mystery",
+      "Adventure",
+      "Danganronpa",
+      "Collection",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Danganronpa traps students of an elite academy in a killing game where each murder must be exposed in a Class Trial. Decadence gathers Trigger Happy Havoc, Goodbye Despair, and Killing Harmony in their Anniversary Editions, with the new board-game spin-off Danganronpa S: Ultimate Summer Camp.\n\nSpike Chunsoft released it in Japan on November 4, 2021, and in North America on December 3, 2021 — the series’ first appearance on Nintendo Switch, with all four games on a single card.\n\nThis filing opens the Danganronpa lineage on the shelf.",
+  "collectionNotes": "The retained object is Spike Chunsoft’s retail edition of Danganronpa Decadence on a Nintendo Switch game card, holding all four games.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "The first Danganronpa released on PSP in Japan in 2010. Decadence released in Japan on November 4, 2021, and North America on December 3, 2021 (HAC-P-A3TUA); a Collector’s Edition was issued alongside.",
+    "availability": "Distributed at retail by Spike Chunsoft, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Danganronpa",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-danganronpa-decadence",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0193."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-danganronpa-decadence",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-danganronpa-decadence",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-danganronpa-decadence",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-danganronpa-decadence",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-danganronpa-decadence",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Danganronpa recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-danganronpa-decadence",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}

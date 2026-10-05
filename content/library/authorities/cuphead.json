@@ -1,0 +1,32 @@
+{
+  "slug": "cuphead",
+  "authorityId": "AUTH-0304",
+  "type": "series",
+  "preferredName": "Cuphead",
+  "alternativeNames": [],
+  "relatedAuthoritySlugs": [
+    "studio-mdhr"
+  ],
+  "relatedHoldingIds": [],
+  "externalReferences": [],
+  "visibility": "published",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-cuphead",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Established as AUTH-0304 — controlled identity for Cuphead."
+    },
+    {
+      "id": "editorial-revision-2026-10-05T22:00:00.000Z-cuphead",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "editorial-revision",
+      "summary": "Editorial revision",
+      "note": "Archival description entered."
+    }
+  ],
+  "description": "Cuphead — series identity for Studio MDHR’s Cuphead retained in the Bloodsoaked Library.",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z"
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "death-end-re-quest-2",
+  "title": "Death end re;Quest 2",
+  "mediaType": "game",
+  "status": "catalogued",
+  "visibility": "published",
+  "year": 2022,
+  "synopsis": "Compile Heart’s horror RPG sequel set in the town of Le Choara — retained as Idea Factory International’s Nintendo Switch game card.",
+  "coverImage": "/images/library/death-end-re-quest-2/cover-official.jpg",
+  "filedAt": "2026-10-05T22:00:00.000Z",
+  "curatorialRevisionAt": "2026-10-05T22:00:00.000Z",
+  "shelfMark": "LIB-0200",
+  "accession": {
+    "source": "private-acquisition"
+  },
+  "authorities": {
+    "developers": [
+      "compile-heart"
+    ],
+    "publishers": [
+      "idea-factory"
+    ],
+    "platforms": [
+      "nintendo-switch"
+    ],
+    "series": [
+      "death-end-re-quest"
+    ]
+  },
+  "catalog": {
+    "originalTitle": "Death end re;Quest2",
+    "release": "2020 (PlayStation 4, Japan) · 2022 (Nintendo Switch; North America, February 8)",
+    "developer": "Compile Heart",
+    "publisher": "Idea Factory International",
+    "platform": "Nintendo Switch",
+    "region": "Region-free · HAC-P-A4TRB",
+    "mediumForm": "Nintendo Switch game card · retail edition",
+    "subjects": [
+      "JRPG",
+      "Horror",
+      "Death end re;Quest",
+      "Lineage",
+      "Preservation"
+    ]
+  },
+  "custody": {
+    "owned": "Permanent archive holding",
+    "physical": "Nintendo Switch game card in retail case",
+    "filed": "October 5, 2026"
+  },
+  "curatorNotes": "Death end re;Quest 2 follows Mai Toyama, who flees her past to the mountain town of Le Choara to search for her missing sister, investigating by day and fighting creatures of the Darkness by night.\n\nIt released on PlayStation 4 in Japan in February 2020. The Nintendo Switch version was download-only in Japan; Idea Factory International issued it physically in North America on February 8, 2022.\n\nThe filing follows the first game in the Death end re;Quest lineage.",
+  "collectionNotes": "The retained object is Idea Factory International’s retail edition of Death end re;Quest 2 on a Nintendo Switch game card.\n\nDedicated artifact views of the individual copy have not yet been filed; the gallery below is held open for that documentation.",
+  "preservation": {
+    "playableOn": "Nintendo Switch; compatible Nintendo Switch family hardware",
+    "originalHardware": "Nintendo Switch",
+    "compatibility": "Nintendo Switch software is region-free. The retained game card is the primary access copy and runs on any Nintendo Switch console.",
+    "concerns": "Game cards are flash media; long-term charge retention, contact wear, and loss of the small card from its case are the principal risks. Any content delivered as an eShop download or update depends on Nintendo’s servers and is not preserved by the card alone.",
+    "knownRevisions": "PlayStation 4 release in Japan on February 13, 2020; North America August 25, 2020. Nintendo Switch release in North America on February 8, 2022 (HAC-P-A4TRB); Europe February 11, 2022.",
+    "availability": "Distributed at retail by Idea Factory International, with a digital edition on the Nintendo eShop."
+  },
+  "connections": {
+    "series": "Death end re;Quest",
+    "futureReview": "Reserved for future critical writing in Bloodsoaked Media."
+  },
+  "artifacts": [],
+  "stewardshipHistory": [
+    {
+      "id": "filed-2026-10-05T22:00:00.000Z-death-end-re-quest-2",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "filed",
+      "summary": "Filed into the Library",
+      "note": "Accessioned as LIB-0200."
+    },
+    {
+      "id": "cover-artwork-entered-2026-10-05T22:00:00.000Z-death-end-re-quest-2",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "cover-artwork-entered",
+      "summary": "Official artwork entered",
+      "note": "Official Nintendo Switch front cover filed under the Library accession path."
+    },
+    {
+      "id": "curator-notes-entered-2026-10-05T22:00:00.000Z-death-end-re-quest-2",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "curator-notes-entered",
+      "summary": "Curator Notes entered"
+    },
+    {
+      "id": "collection-documentation-entered-2026-10-05T22:00:00.000Z-death-end-re-quest-2",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "collection-documentation-entered",
+      "summary": "Collection Documentation entered"
+    },
+    {
+      "id": "preservation-notes-entered-2026-10-05T22:00:00.000Z-death-end-re-quest-2",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "preservation-notes-entered",
+      "summary": "Preservation Notes entered"
+    },
+    {
+      "id": "connections-established-2026-10-05T22:00:00.000Z-death-end-re-quest-2",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "connections-established",
+      "summary": "Connections established",
+      "note": "Death end re;Quest recorded."
+    },
+    {
+      "id": "published-2026-10-05T22:00:00.000Z-death-end-re-quest-2",
+      "at": "2026-10-05T22:00:00.000Z",
+      "kind": "published",
+      "summary": "Published to the public shelf"
+    }
+  ]
+}
